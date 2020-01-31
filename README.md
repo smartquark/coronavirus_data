@@ -3,8 +3,7 @@
 
 ## data sources:
 
-Daily summary generated from https://github.com/globalcitizen/2019-wuhan-coronavirus-data
-- BNO
-- DXY
+Daily summary generated from https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
+
 
 
