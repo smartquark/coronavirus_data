@@ -1,6 +1,6 @@
 location_id	date	description
 1	2019-12-30	Urgent notice on the treatment of pneumonia of unknown cause - Wuhan
-1	2019-12-31	27 people with pneumonia of unknown cause reported to the WHO.
+1	2019-12-31	Â 27 people with pneumonia of unknown cause reported to the WHO.
 1	2020-01-09	WHO confirmed that a novel coronavirus had been isolated from one person who was hospitalised. 41 cases confirmed.
 1	2020-01-19	198 cases, 3 deaths
 1	2020-01-20	1 more death confirmed.
@@ -14,1314 +14,1515 @@ location_id	date	description
 1	2020-01-28	892 new cases and 22 new deaths.
 1	2020-01-29	315 new cases. 19 new deaths.
 1	2020-01-30	356 new cases and 25 deaths.
+1	2020-01-31	378 new cases. 30 new deaths.
 2	2020-01-13	First confirmed case of Wuhan resident visiting Bangkok since Jan. 8th.
-2	2020-01-17	Second confirmed case at airport, person arrived from Wuhan. Transferred to Nonthaburi.
-2	2020-01-19	Third confirmed case at airport. (Imported - transferred to Nonthaburi)
+2	2020-01-17	Second confirmed case at airport, person arrived from Wuhan. Transferred toÂ Nonthaburi.
+2	2020-01-19	Third confirmed case at airport. (Imported - transferred toÂ Nonthaburi)
 2	2020-01-24	One more case, wife of 4th case. Might have been locally transmitted, waiting for more info.
 2	2020-01-26	One more case.
-3	2020-01-16	(Exact place not released) Chinese national that stayed at hospital between Jan. 10th - 15th tests positive, had contact with infected person from Wuhan.
-4	2020-01-19	First confirmed case in Guangdong of man that visited relatives in Wuhan.
-4	2020-01-20	Eight more cases confirmed.
-4	2020-01-21	One more case.
-4	2020-01-22	4 more cases.
-4	2020-01-23	1 more case.
-4	2020-01-25	5 more cases. Total 20 cases (red).
-4	2020-01-26	6 more cases. * 4 more cases. One case added from previous update.
-4	2020-01-27	5 more cases.
-4	2020-01-28	13 new cases. * 8 new cases.
-4	2020-01-29	6 new cases. * 17 new cases.
-4	2020-01-30	23 new cases. 4th city with 100+ cases outside Hubei.
-5	2020-01-19	First two confirmed cases of people that visited Wuhan.
-5	2020-01-20	Three more imported cases.
-5	2020-01-21	Five new imported cases.
-5	2020-01-22	Four new cases, imported.
-5	2020-01-23	Eight confirmed cases. 2 locally transmitted. * 4 more cases.
-5	2020-01-24	3 more cases. * 5 more cases. * 2 more cases.
-5	2020-01-25	5 more cases. * 10 more cases.
-5	2020-01-26	3 more cases, locally transmitted. * 9 more cases, 3 locally transmitted. * 5 more cases.
-5	2020-01-27	4 more cases. * First death and 8 more cases.
-5	2020-01-28	11 new cases.
-5	2020-01-29	11 new cases. 2nd city with over a 100 cases outside Hubei. * 9 new cases.
-5	2020-01-30	3 new cases.
-6	2020-01-20	Three cases confirmed. Transmission among family members. First human-to-human transmission reported outside Wuhan.
-6	2020-01-21	One more case.
-6	2020-01-24	Four more cases.
-6	2020-01-25	Two more cases.
+3	2020-01-19	First confirmed case in Guangdong of man that visited relatives in Wuhan.
+3	2020-01-20	Eight more cases confirmed.
+3	2020-01-21	One more case.
+3	2020-01-22	4 more cases.
+3	2020-01-23	1 more case.
+3	2020-01-25	5 more cases. Total 20 cases (red).
+3	2020-01-26	6 more cases. * 4 more cases. One case added from previous update.
+3	2020-01-27	5 more cases.
+3	2020-01-28	13 new cases. * 8 new cases.
+3	2020-01-29	6 new cases.Â 
+3	2020-01-30	23 new cases. 4th city with 100+ cases outside Hubei.Â 
+3	2020-01-31	24 new cases.Â 
+4	2020-01-19	First two confirmed cases of people that visited Wuhan.
+4	2020-01-20	Three more imported cases.
+4	2020-01-21	Five new imported cases.
+4	2020-01-22	Four new cases, imported.
+4	2020-01-23	Eight confirmed cases. 2 locally transmitted. * 4 more cases.
+4	2020-01-24	3 more cases. * 5 more cases.Â * 2 more cases.
+4	2020-01-25	5 more cases. * 10 more cases.
+4	2020-01-26	3 more cases, locally transmitted. * 9 more cases, 3 locally transmitted. * 5 more cases.
+4	2020-01-27	4 more cases. * First death and 8 more cases.
+4	2020-01-28	11 new cases.
+4	2020-01-29	11 new cases. 2nd city with over a 100 cases outside Hubei. * 9 new cases.
+4	2020-01-30	3 new cases. * 7 new cases.
+5	2020-01-20	Three cases confirmed. Transmission among family members. First human-to-human transmission reported outside Wuhan.
+5	2020-01-21	One more case.
+5	2020-01-24	Four more cases.
+5	2020-01-25	Two more cases.
+5	2020-01-26	Two more cases.
+5	2020-01-29	2 new cases.Â 
+5	2020-01-30	4 new cases. 22 total (red).Â 
+5	2020-01-31	8 new cases.Â 
+6	2020-01-20	First confirmed case.
+6	2020-01-21	Second confirmed case.
 6	2020-01-26	Two more cases.
-6	2020-01-29	2 new cases. * 4 new cases.
-6	2020-01-30	4 new cases. 22 total (red).
+6	2020-01-27	One more case.
+6	2020-01-28	2 new cases.
+6	2020-01-29	2 new cases.
+6	2020-01-30	2 new cases.Â 
+6	2020-01-31	2 new cases. 2 cases have been removed to match with the official numbers.
 7	2020-01-20	First confirmed case.
-7	2020-01-21	Second confirmed case.
-7	2020-01-26	Two more cases.
-7	2020-01-27	One more case.
-7	2020-01-28	2 new cases.
-7	2020-01-29	2 new cases.
-7	2020-01-30	2 new cases.
-8	2020-01-20	First confirmed case.
-8	2020-01-24	Four more cases.
-8	2020-01-25	Two more cases.
-8	2020-01-26	One more case.
-8	2020-01-28	3 new cases.
-8	2020-01-29	1 new case.
-8	2020-01-30	5 new cases.
-9	2020-01-20	First confirmed case (imported).
-9	2020-01-21	Second confirmed case, 4 suspected.
-9	2020-01-21	4 more cases, 3 imported and one transmitted. 
-9	2020-01-22	3 more cases.
-9	2020-01-23	7 more cases.
-9	2020-01-23	* 4 more cases.
-9	2020-01-25	13 new cases.
-9	2020-01-25	* First death reported, 7 new cases.
-9	2020-01-27	13 new cases, 12 of the 53 cases were locally transmitted and 20 cases were foreigners. 
-9	2020-01-28	13 new cases.
-9	2020-01-29	14 new cases. * 16 new cases.
-9	2020-01-30	5 new cases. 3rd city outside Hubei reaching 100+ cases.
-10	2020-01-20	First confirmed case, detected at Incheon International Airport (imported).
-10	2020-01-24	Second confirmed case, detected at Incheon Int. Airport. (Transferred to Seoul).
-10	2020-01-26	Third confirmed case, according to officials the man engaged in normal activities after flying into Incheon International Airport. (Transferred to Goyang).
-11	2020-01-21	First confirmed case.
-12	2020-01-21	First 12 confirmed cases, including 1 doctor and 4 nurses (human-to-human transmission).
-12	2020-01-22	Hubei starting to report province-wide cases. (See Hubei Province). 
-12	2020-01-23	City in lockdown.
-12	2020-01-24	52 new cases reported, largest single day entry besides Wuhan.
-12	2020-01-25	58 new cases added, first time with more newly added cases than Wuhan (46). * First 2 deaths.
-12	2020-01-26	32 more cases and 2 deaths.
-12	2020-01-28	59 new cases.
-12	2020-01-29	111 new cases. 1 new death.
-12	2020-01-30	172 new cases and 7 deaths.
-13	2020-01-21	First confirmed (imported) case. Another one confirmed later.
-13	2020-01-22	Two more cases.
-13	2020-01-23	2 more cases.
-13	2020-01-25	4 more cases.
-13	2020-01-26	8 more cases.
-13	2020-01-27	14 more cases. 32 total (red).
-13	2020-01-28	28 new cases.
-13	2020-01-29	54 new cases. (doubled). First city with 100+ cases outside Hubei.
-13	2020-01-30	58 new cases.
-14	2020-01-21	First confirmed (imported) case.
-14	2020-01-23	5 more cases.
-14	2020-01-23	* First case in Xi'an, Shaanxi infected in Hangzhou by infected patient. Locally transmitted. 
-14	2020-01-25	6 more cases.
-14	2020-01-26	15 more cases. Cases doubled. One case from Xi'an, Shaanxi infected here.
-14	2020-01-28	5 new cases.
-14	2020-01-29	19 new cases.
-14	2020-01-30	18 new cases.
-15	2020-01-21	First confirmed (imported) case. 
-15	2020-01-22	Confirmed case in Rushan City, Shandong had contact with case in Zhoushan. Locally transmitted.
-15	2020-01-25	Second confirmed case.
-15	2020-01-27	2 more cases.
-15	2020-01-29	2 new cases.
-16	2020-01-21	First confirmed (imported) case.
-16	2020-01-23	5 more cases.
-16	2020-01-25	2 more cases. Added 12 cases from previous update. Total of 20 cases (red).
-16	2020-01-26	One more case.
-16	2020-01-27	One more case.
-16	2020-01-29	18 new cases.
-16	2020-01-30	24 new cases.
-17	2020-01-21	First two confirmed cases.
+7	2020-01-24	Four more cases.
+7	2020-01-25	Two more cases.
+7	2020-01-26	One more case.
+7	2020-01-28	3 new cases.
+7	2020-01-29	1 new case.
+7	2020-01-30	5 new cases.
+8	2020-01-20	First confirmed case (imported).
+8	2020-01-21	Second confirmed case, 4 suspected.
+8	2020-01-21	4 more cases, 3 imported and one transmitted.Â 
+8	2020-01-22	3 more cases.
+8	2020-01-23	7 more cases.
+8	2020-01-23	* 4 more cases.
+8	2020-01-25	13 new cases.
+8	2020-01-25	* First death reported, 7 new cases.
+8	2020-01-27	13 new cases, 12 of the 53 cases were locally transmitted and 20 cases were foreigners.Â 
+8	2020-01-28	13 new cases.
+8	2020-01-29	14 new cases. * 16 new cases.
+8	2020-01-30	5 new cases. 3rd city outside Hubei reaching 100+ cases. * 11 new cases.
+8	2020-01-31	16 new cases.
+9	2020-01-20	First confirmed case, detected at Incheon International Airport (imported).
+9	2020-01-24	Second confirmed case, detected at Incheon Int. Airport. (Transferred to Seoul).
+9	2020-01-26	Third confirmed case, according to officials the man engaged in normal activities after flying into Incheon International Airport. (Transferred to Goyang).
+9	2020-01-31	One new case identified at Incheon Airport.
+10	2020-01-21	First confirmed case.
+11	2020-01-21	First 12 confirmed cases, including 1 doctor and 4 nurses (human-to-human transmission).
+11	2020-01-22	Hubei starting to report province-wide cases. (See Hubei Province).Â 
+11	2020-01-23	City in lockdown.
+11	2020-01-24	52 new cases reported, largest single day entry besides Wuhan.
+11	2020-01-25	58 new cases added, first time with more newly added cases than Wuhan (46). * First 2 deaths.
+11	2020-01-26	32 more cases and 2 deaths.
+11	2020-01-28	59 new cases.
+11	2020-01-29	111 new cases. 1 new death.
+11	2020-01-30	172 new cases and 7 deaths.
+11	2020-01-31	77 new cases. 573
+12	2020-01-21	First confirmed (imported) case. Another one confirmed later.
+12	2020-01-22	Two more cases.
+12	2020-01-23	2 more cases.
+12	2020-01-25	4 more cases.
+12	2020-01-26	8 more cases.
+12	2020-01-27	14 more cases. 32 total (red).
+12	2020-01-28	28 new cases.
+12	2020-01-29	54 new cases. (doubled). First city with 100+ cases outside Hubei.
+12	2020-01-30	58 new cases.
+12	2020-01-31	55 new cases.
+13	2020-01-21	First confirmed (imported) case.
+13	2020-01-23	5 more cases.
+13	2020-01-23	* First case in Xi'an, Shaanxi infected in Hangzhou by infected patient. Locally transmitted.Â 
+13	2020-01-25	6 more cases.
+13	2020-01-26	15 more cases. Cases doubled. One case from Xi'an, Shaanxi infected here.
+13	2020-01-28	5 new cases.
+13	2020-01-29	19 new cases.
+13	2020-01-30	18 new cases.
+13	2020-01-31	16 new cases.
+14	2020-01-21	First confirmed (imported) case.Â 
+14	2020-01-22	Confirmed case inÂ Rushan City, Shandong had contact with case in Zhoushan. Locally transmitted.
+14	2020-01-25	Second confirmed case.
+14	2020-01-27	2 more cases.
+14	2020-01-29	2 new cases.
+14	2020-01-31	1 new case.
+15	2020-01-21	First confirmed (imported) case.
+15	2020-01-23	5 more cases.
+15	2020-01-25	2 more cases. Added 12 cases from previous update. Total of 20 cases (red).
+15	2020-01-26	One more case.
+15	2020-01-27	One more case.
+15	2020-01-29	18 new cases.
+15	2020-01-30	24 new cases.
+15	2020-01-31	17 new cases.
+16	2020-01-21	First two confirmed cases.
+16	2020-01-24	One more case.
+16	2020-01-27	Two more cases.
+16	2020-01-30	1 new case.
+17	2020-01-21	First 2 confirmed cases.
 17	2020-01-24	One more case.
-17	2020-01-27	Two more cases.
-18	2020-01-21	First 2 confirmed cases.
-18	2020-01-24	One more case.
-18	2020-01-25	7 more cases.
-18	2020-01-26	3 more cases.
+17	2020-01-25	7 more cases.
+17	2020-01-26	3 more cases.
+17	2020-01-27	One more case.
+17	2020-01-28	One new case.
+17	2020-01-29	2 new cases.Â * 7 new cases. 24 total (red).
+17	2020-01-30	4 new cases.
+18	2020-01-21	First confirmed case.
+18	2020-01-24	Two more cases.
+18	2020-01-25	Two more cases.
 18	2020-01-27	One more case.
 18	2020-01-28	One new case.
-18	2020-01-29	2 new cases. * 7 new cases. 24 total (red).
-19	2020-01-21	First confirmed case.
-19	2020-01-24	Two more cases.
-19	2020-01-25	Two more cases.
-19	2020-01-27	One more case.
-19	2020-01-28	One new case.
-20	2020-01-21	First 2 confirmed cases (imported).
-20	2020-01-22	Two more cases
-20	2020-01-24	Two more cases, railway workers colleagues of 2nd case. * One more case. * One more case.
-20	2020-01-25	One more case, locally transmitted by 3rd case.
-20	2020-01-26	3 more cases.
-20	2020-01-27	5 more cases. * 5 more cases/ 23 total (red).
-20	2020-01-28	1 new case.
-20	2020-01-29	1 new case. * 2 new cases.
+18	2020-01-30	1 new case.
+19	2020-01-21	First 2 confirmed cases (imported).
+19	2020-01-22	Two more cases
+19	2020-01-24	Two more cases, railway workers colleagues of 2nd case. * One more case. * One more case.
+19	2020-01-25	One more case, locally transmitted by 3rd case.
+19	2020-01-26	3 more cases.
+19	2020-01-27	5 more cases. * 5 more cases/ 23 total (red).
+19	2020-01-28	1 new case.
+19	2020-01-29	1 new case. * 2 new cases.
+19	2020-01-30	4 new cases.
+19	2020-01-31	1 new case.
+20	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
+20	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
+20	2020-01-25	One more case.
+20	2020-01-25	* One more case.
+20	2020-01-26	One more case.
+20	2020-01-27	One more case.
+20	2020-01-28	One new case in Donggang District.
+20	2020-01-29	1 new case. * 1 new case.
 20	2020-01-30	1 new case.
-21	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
-21	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
-21	2020-01-25	One more case.
-21	2020-01-25	* One more case.
-21	2020-01-26	One more case.
-21	2020-01-27	One more case.
-21	2020-01-28	One new case in Donggang District.
-21	2020-01-29	1 new case. * 1 new case.
-22	2020-01-21	First US case and first case outside Asia on a Snohomish County man who returned from Wuhan, treated at Everett hospital.
-23	2020-01-21	First confirmed case (imported - transferred to Zhengzhou)
-23	2020-01-25	3 more cases.
-23	2020-01-26	One more case.
-23	2020-01-27	6 more cases.
-23	2020-01-28	4 new cases.
-23	2020-01-29	4 new cases.
-23	2020-01-30	6 new cases. 25 total (red).
+21	2020-01-21	First US case and first case outside Asia on a Snohomish County man who returned from Wuhan, treated at Everett hospital.
+22	2020-01-21	First confirmed case (imported - transferred to Zhengzhou)
+22	2020-01-25	3 more cases.
+22	2020-01-26	One more case.
+22	2020-01-27	6 more cases.
+22	2020-01-28	4 new cases.
+22	2020-01-29	4 new cases.
+22	2020-01-30	6 new cases. 25 total (red).
+22	2020-01-31	11 new cases.
+23	2020-01-21	First confirmed case (imported).
+23	2020-01-23	Two more cases, imported.
+23	2020-01-23	* Tongren, Guizhou first case infected in Changsha at a restaurant. Locally transmitted.
+23	2020-01-23	* Liuyang case counted in Changsha.
+23	2020-01-24	Four more cases.
+23	2020-01-26	10 more cases.
+23	2020-01-27	4 more cases.
+23	2020-01-28	2 new cases.
+23	2020-01-29	22 new cases (almost doubled).
+23	2020-01-30	11 new cases.
+23	2020-01-31	11 new cases.
 24	2020-01-21	First confirmed case (imported).
-24	2020-01-23	Two more cases, imported.
-24	2020-01-23	* Tongren, Guizhou first case infected in Changsha at a restaurant. Locally transmitted.
-24	2020-01-23	* Liuyang case counted in Changsha.
-24	2020-01-24	Four more cases.
-24	2020-01-26	10 more cases.
-24	2020-01-27	4 more cases.
-24	2020-01-28	2 new cases.
-24	2020-01-29	22 new cases (almost doubled).
-24	2020-01-30	11 new cases.
-25	2020-01-21	First confirmed case (imported).
-25	2020-01-22	Second confirmed case.
-25	2020-01-23	Two more confirmed cases.
-25	2020-01-24	3 more cases.
-25	2020-01-25	9 more cases.
-25	2020-01-26	6 more cases. 22 total (red).
-25	2020-01-27	11 more cases.
-25	2020-01-28	4 more cases.
-25	2020-01-29	9 new cases.
-25	2020-01-30	13 new cases.
-26	2020-01-22	First confirmed case in Yunnan province (imported).
-26	2020-01-23	Second confirmed case, imported.
-26	2020-01-24	Third case.
-26	2020-01-25	One more case.
-26	2020-01-27	3 more cases.
-26	2020-01-28	5 new cases.
-26	2020-01-29	3 new cases.
-26	2020-01-30	6 new cases. 21 total (red).
+24	2020-01-22	Second confirmed case.
+24	2020-01-23	Two more confirmed cases.
+24	2020-01-24	3 more cases.
+24	2020-01-25	9 more cases.
+24	2020-01-26	6 more cases. 22 total (red).
+24	2020-01-27	11 more cases.
+24	2020-01-28	4 more cases.
+24	2020-01-29	9 new cases.
+24	2020-01-30	13 new cases.
+24	2020-01-31	10 new cases.
+25	2020-01-22	First confirmed case in Yunnan province (imported).
+25	2020-01-23	Second confirmed case, imported.
+25	2020-01-24	Third case.
+25	2020-01-25	One more case.
+25	2020-01-27	3 more cases.
+25	2020-01-28	5 new cases.
+25	2020-01-29	3 new cases.
+25	2020-01-30	6 new cases. 21 total (red). * 2 new cases.
+26	2020-01-22	First confirmed case (imported).
+26	2020-01-24	Second confirmed case.
+26	2020-01-27	4 more cases.
+26	2020-01-28	1 new case.
+26	2020-01-30	2 new cases.
+26	2020-01-31	4 new cases.
 27	2020-01-22	First confirmed case (imported).
-27	2020-01-24	Second confirmed case.
-27	2020-01-27	4 more cases.
-27	2020-01-28	1 new case.
-27	2020-01-30	2 new cases.
-28	2020-01-22	First confirmed case (imported).
-28	2020-01-23	Second confirmed case, imported.
+27	2020-01-23	Second confirmed case, imported.
+27	2020-01-26	3 more cases.
+27	2020-01-27	One new case. Adding one more from previous update.
+28	2020-01-22	First 2 confirmed cases.
+28	2020-01-23	Three more cases.
+28	2020-01-24	2 more cases.
+28	2020-01-25	7 more cases.
 28	2020-01-26	3 more cases.
-28	2020-01-27	One new case. Adding one more from previous update.
-29	2020-01-22	First 2 confirmed cases.
-29	2020-01-23	Three more cases.
-29	2020-01-24	2 more cases.
-29	2020-01-25	7 more cases.
-29	2020-01-26	3 more cases.
-29	2020-01-27	12 more cases. 29 total (red).
-29	2020-01-28	22 new cases.
-29	2020-01-29	12 new cases.
-29	2020-01-30	16 new cases.
-30	2020-01-22	First confirmed case.
-30	2020-01-24	5 more cases.
-30	2020-01-25	3 more cases.
-30	2020-01-26	2 more cases. * One case removed to reflect newest update.
-30	2020-01-27	4 more cases.
-30	2020-01-28	3 new cases.
-30	2020-01-29	3 new cases. 21 total (red).
-30	2020-01-30	7 new cases.
-31	2020-01-22	First 2 confirmed cases.
-31	2020-01-24	One more case.
-31	2020-01-26	One more case.
-32	2020-01-22	First 3 confirmed cases.
-32	2020-01-23	2 more cases.
-32	2020-01-25	1 more case.
-32	2020-01-26	7 more cases.
-32	2020-01-28	4 new cases.
-32	2020-01-29	3 new cases. 20 total (red).
-32	2020-01-30	21 new cases, doubled.
-33	2020-01-22	First confirmed case of a Thai national that traveled to Wuhan. Third one in the country.
-34	2020-01-22	First confirmed case (Imported) and first case in Liaoning province.
-34	2020-01-24	One more case.
-34	2020-01-25	One more case.
-34	2020-01-25	* One more case.
-34	2020-01-27	One more case, locally transmitted.
-35	2020-01-22	First confirmed case and first confirmed case in Anhui province. (Imported)
-35	2020-01-23	Four new cases.
-35	2020-01-24	1 more case.
-35	2020-01-25	4 more cases.
-35	2020-01-26	3 more cases.
-35	2020-01-28	3 new cases.
-35	2020-01-29	13 new cases. 29 total (red).
-35	2020-01-30	10 new cases.
-36	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
-36	2020-01-23	Second confirmed case.
-36	2020-01-25	Three more cases.
-36	2020-01-26	One more case. * 2 more cases, a previous case was transmitted by family member, unclear where.
-36	2020-01-30	2 new cases.
-37	2020-01-22	First 2 confirmed cases in Hainan province (imported).
-37	2020-01-24	One more case.
-37	2020-01-27	3 more cases.
-37	2020-01-28	1 new case.
-37	2020-01-29	2 new cases.
+28	2020-01-27	12 more cases. 29 total (red).
+28	2020-01-28	22 new cases.
+28	2020-01-29	12 new cases.
+28	2020-01-30	16 new cases.Â 
+28	2020-01-31	27 new cases. 5th city with 100+ cases outside Hubei.
+29	2020-01-22	First confirmed case.
+29	2020-01-24	5 more cases.
+29	2020-01-25	3 more cases.
+29	2020-01-26	2 more cases. * One case removed to reflect newest update.
+29	2020-01-27	4 more cases.
+29	2020-01-28	3 new cases.
+29	2020-01-29	3 new cases. 21 total (red).
+29	2020-01-30	7 new cases.
+29	2020-01-31	7 new cases. Removed 3 cases to match with the official numbers.
+30	2020-01-22	First 2 confirmed cases.
+30	2020-01-24	One more case.
+30	2020-01-26	One more case.
+31	2020-01-22	First 3 confirmed cases.
+31	2020-01-23	2 more cases.
+31	2020-01-25	1 more case.
+31	2020-01-26	7 more cases.
+31	2020-01-28	4 new cases.
+31	2020-01-29	3 new cases. 20 total (red).
+31	2020-01-30	21 new cases, doubled.
+31	2020-01-31	5 new cases.
+32	2020-01-22	First confirmed case of a Thai national that traveled to Wuhan. Third one in the country.
+33	2020-01-22	First confirmed case (Imported) and first case in Liaoning province.
+33	2020-01-24	One more case.
+33	2020-01-25	One more case.
+33	2020-01-25	* One more case.
+33	2020-01-27	One more case, locally transmitted.
+33	2020-01-31	2 new cases.
+34	2020-01-22	First confirmed case and first confirmed case in Anhui province. (Imported)
+34	2020-01-23	Four new cases.
+34	2020-01-24	1 more case.
+34	2020-01-25	4 more cases.
+34	2020-01-26	3 more cases.
+34	2020-01-28	3 new cases.
+34	2020-01-29	13 new cases. 29 total (red).
+34	2020-01-30	10 new cases.
+34	2020-01-31	11 new cases.
+35	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
+35	2020-01-23	Second confirmed case.
+35	2020-01-25	Three more cases.
+35	2020-01-26	One more case. * 2 more cases, a previous case was transmitted by family member, unclear where.
+35	2020-01-30	2 new cases. * 2 new cases.
+36	2020-01-22	First 2 confirmed cases in Hainan province (imported).
+36	2020-01-24	One more case.
+36	2020-01-27	3 more cases.
+36	2020-01-28	1 new case.
+36	2020-01-29	2 new cases.
+37	2020-01-22	First confirmed case (imported).
+37	2020-01-23	One more case.
+37	2020-01-25	3 more cases.
+37	2020-01-25	* 1 more case.
+37	2020-01-26	2 more cases.
+37	2020-01-27	2 more cases. * 1 more case.
+37	2020-01-28	3 new cases.
 38	2020-01-22	First confirmed case (imported).
-38	2020-01-23	One more case.
-38	2020-01-25	3 more cases.
-38	2020-01-25	* 1 more case.
-38	2020-01-26	2 more cases.
-38	2020-01-27	2 more cases. * 1 more case.
-38	2020-01-28	3 new cases.
-39	2020-01-22	First confirmed case (imported).
-40	2020-01-22	First 3 confirmed cases, 2 imported ones and one transmitted.
-40	2020-01-25	Two more cases.
-40	2020-01-26	3 more cases.
-40	2020-01-27	3 more cases.
-40	2020-01-28	5 new cases.
-40	2020-01-29	2 new cases.
-40	2020-01-30	5 new cases. 23 total (red).
-41	2020-01-22	First confirmed case (imported).
-41	2020-01-24	Second confirmed case.
+39	2020-01-22	First 3 confirmed cases, 2 imported ones and one transmitted.
+39	2020-01-25	Two more cases.
+39	2020-01-26	3 more cases.
+39	2020-01-27	3 more cases.
+39	2020-01-28	5 new cases.
+39	2020-01-29	2 new cases.
+39	2020-01-30	5 new cases. 23 total (red).
+39	2020-01-31	3 new cases.
+40	2020-01-22	First confirmed case (imported).
+40	2020-01-24	Second confirmed case.
+40	2020-01-27	2 more cases.
+40	2020-01-28	1 more case.
+40	2020-01-30	3 new cases.
+41	2020-01-22	First 2 confirmed cases (imported). Arrived from Chengdu.Â 
+41	2020-01-26	3 more cases.
 41	2020-01-27	2 more cases.
-41	2020-01-28	1 more case.
-42	2020-01-22	First 2 confirmed cases (imported). Arrived from Chengdu. 
-42	2020-01-26	3 more cases.
-42	2020-01-27	2 more cases.
-42	2020-01-28	1 new case.
+41	2020-01-28	1 new case.
+41	2020-01-30	1 new case.
+41	2020-01-31	2 new cases.
+42	2020-01-22	First confirmed case and first case in Shanxi (imported). Transferred toÂ Shijiazhuang (Hubei) and later transferred back to Taiyuan.Â 
+42	2020-01-24	One more case.
+42	2020-01-27	One more case.
 42	2020-01-30	1 new case.
-43	2020-01-22	First confirmed case and first case in Shanxi (imported). Transferred to Shijiazhuang (Hubei) and later transferred back to Taiyuan. 
-43	2020-01-24	One more case.
-43	2020-01-27	One more case.
-44	2020-01-22	First case in Ningxia Hui Autonomous Region (imported).
-44	2020-01-26	Second confirmed case.
-44	2020-01-27	3 more cases.
+43	2020-01-22	First case inÂ Ningxia Hui Autonomous Region (imported).
+43	2020-01-26	Second confirmed case.
+43	2020-01-27	3 more cases.
+43	2020-01-28	2 new cases.
+43	2020-01-30	2 new cases.
+43	2020-01-31	2 new cases.
+44	2020-01-22	First confirmed case inÂ Guangxi Zhuang Autonomous Region (imported).
+44	2020-01-22	* Two more confirmed cases confirmed, imported.
+44	2020-01-23	Three more confirmed cases.
+44	2020-01-25	One more case.
+44	2020-01-26	Two more cases.
 44	2020-01-28	2 new cases.
-45	2020-01-22	First confirmed case in Guangxi Zhuang Autonomous Region (imported).
-45	2020-01-22	* Two more confirmed cases confirmed, imported.
-45	2020-01-23	Three more confirmed cases.
-45	2020-01-25	One more case.
-45	2020-01-26	Two more cases.
-45	2020-01-28	2 new cases.
-45	2020-01-29	2 new cases.
-45	2020-01-30	2 new cases.
-46	2020-01-22	First confirmed case (imported).
-46	2020-01-27	Second confirmed case.
-47	2020-01-22	Case from Mianchi County counted in Sanmenxia.
-47	2020-01-26	First confirmed case.
-47	2020-01-27	One more case.
-47	2020-01-29	1 new case.
-47	2020-01-30	1 new case.
-48	2020-01-22	First confirmed case, imported.
-48	2020-01-24	Second confirmed case.
-49	2020-01-22	First confirmed case in Hebei province, imported.
-49	2020-01-25	Three more cases.
-49	2020-01-26	One more case.
-49	2020-01-27	2 more cases.
-49	2020-01-28	2 new cases.
-49	2020-01-29	1 new case.
-49	2020-01-30	1 new case.
-50	2020-01-22	First confirmed case in Jiangsu province, imported.
-50	2020-01-24	Second confirmed case.
-50	2020-01-25	One more case.
-50	2020-01-26	4 more cases.
-50	2020-01-27	One more case.
-50	2020-01-28	4 new cases.
-50	2020-01-29	8 new cases. 20 total (red).
-50	2020-01-30	4 new cases.
-51	2020-01-22	First confirmed case in Heilongjiang province, imported.
-52	2020-01-22	First confirmed case, imported.
-52	2020-01-23	Second confirmed case.
-52	2020-01-24	One more case.
+44	2020-01-29	2 new cases.
+44	2020-01-30	2 new cases.
+44	2020-01-31	2 new cases.
+45	2020-01-22	First confirmed case (imported).
+45	2020-01-27	Second confirmed case.
+45	2020-01-31	1 new case.
+46	2020-01-22	Case from Mianchi County counted in Sanmenxia.
+46	2020-01-26	First confirmed case.
+46	2020-01-27	One more case.
+46	2020-01-29	1 new case.
+46	2020-01-30	1 new case.
+46	2020-01-31	1 new case.
+47	2020-01-22	First confirmed case, imported.
+47	2020-01-24	Second confirmed case.
+48	2020-01-22	First confirmed case in Hebei province, imported.
+48	2020-01-25	Three more cases.
+48	2020-01-26	One more case.
+48	2020-01-27	2 more cases.
+48	2020-01-28	2 new cases.
+48	2020-01-29	1 new case.
+48	2020-01-30	1 new case.
+49	2020-01-22	First confirmed case in Jiangsu province, imported.
+49	2020-01-24	Second confirmed case.
+49	2020-01-25	One more case.
+49	2020-01-26	4 more cases.
+49	2020-01-27	One more case.
+49	2020-01-28	4 new cases.
+49	2020-01-29	8 new cases. 20 total (red).
+49	2020-01-30	4 new cases.
+49	2020-01-31	8 new cases.
+50	2020-01-22	First confirmed case inÂ Heilongjiang province, imported.
+50	2020-01-31	1 new case.
+51	2020-01-22	First confirmed case, imported.
+51	2020-01-23	Second confirmed case.
+51	2020-01-24	One more case.
+51	2020-01-25	One more case.
+51	2020-01-26	One more case.
+51	2020-01-27	One more case.
+51	2020-01-30	4 new cases.
+51	2020-01-31	1 new case.
+52	2020-01-23	First 2 confirmed cases.
 52	2020-01-25	One more case.
-52	2020-01-26	One more case.
-52	2020-01-27	One more case.
-52	2020-01-30	4 new cases.
-53	2020-01-23	First 2 confirmed cases.
-53	2020-01-25	One more case.
-53	2020-01-26	4 new cases.
-53	2020-01-28	1 new case in Hedong District.
-53	2020-01-29	7 new cases. * 1 new case.
-54	2020-01-23	First 2 confirmed cases in the city.
-54	2020-01-24	Moving first Rizhao case due to officially being counted in Qingdao (transferred).
-54	2020-01-24	* 1 new case.
-54	2020-01-25	Two more cases.
-54	2020-01-26	Two more cases.
-54	2020-01-27	Two more cases. * 3 more cases.
-54	2020-01-28	2 new cases.
-54	2020-01-29	2 new cases.
-54	2020-01-30	1 new case.
-55	2020-01-23	First confirmed case, imported.
+52	2020-01-26	4 new cases.
+52	2020-01-28	1 new case in Hedong District.
+52	2020-01-29	7 new cases. * 1 new case.
+52	2020-01-31	4 new cases. 20 total (red).
+53	2020-01-23	First 2 confirmed cases in the city.
+53	2020-01-24	Moving first Rizhao case due to officially being counted in Qingdao (transferred).
+53	2020-01-24	* 1 new case.
+53	2020-01-25	Two more cases.
+53	2020-01-26	Two more cases.
+53	2020-01-27	Two more cases. * 3 more cases.
+53	2020-01-28	2 new cases.
+53	2020-01-29	2 new cases.
+53	2020-01-30	1 new case. * 3 new cases. 21 total (red).
+54	2020-01-23	First confirmed case, imported.
+54	2020-01-27	2 more cases.
+54	2020-01-29	1 new case.
+54	2020-01-30	2 new cases.
+54	2020-01-31	2 new cases.
+55	2020-01-23	First confirmed case.
+55	2020-01-24	Second confirmed case.
 55	2020-01-27	2 more cases.
-55	2020-01-29	1 new case.
-55	2020-01-30	2 new cases.
+55	2020-01-28	2 new cases.
+55	2020-01-29	6 new cases (doubled).
+55	2020-01-30	4 new cases.Â 
+55	2020-01-31	2 new cases.Â 
 56	2020-01-23	First confirmed case.
-56	2020-01-24	Second confirmed case.
-56	2020-01-27	2 more cases.
-56	2020-01-28	2 new cases.
-56	2020-01-29	6 new cases (doubled). * 1 new case.
-56	2020-01-30	4 new cases.
-57	2020-01-23	First confirmed case.
-57	2020-01-25	Second confirmed case.
-57	2020-01-26	2 more cases.
-57	2020-01-29	1 new case.
-58	2020-01-23	First confirmed case in Jilin province.
-58	2020-01-30	2 new cases.
+56	2020-01-25	Second confirmed case.
+56	2020-01-26	2 more cases.
+56	2020-01-29	1 new case.
+56	2020-01-31	1 new case.
+57	2020-01-23	First confirmed case in Jilin province.
+57	2020-01-30	2 new cases.
+58	2020-01-23	First confirmed case, imported.
+58	2020-01-24	2 more cases.
+58	2020-01-26	1 more case.
+58	2020-01-28	1 new case.
+58	2020-01-29	1 new case.
+58	2020-01-30	1 new case.
 59	2020-01-23	First confirmed case, imported.
-59	2020-01-24	2 more cases.
-59	2020-01-26	1 more case.
-59	2020-01-28	1 new case.
-59	2020-01-29	1 new case.
-59	2020-01-30	1 new case.
+59	2020-01-25	Two more cases, 1 from Luoyang and 1 from Anxi.
+59	2020-01-26	One more case.
+59	2020-01-26	* One more case.
+59	2020-01-27	5 more cases.
+59	2020-01-28	3 new cases.
+59	2020-01-30	5 new cases.
 60	2020-01-23	First confirmed case, imported.
-60	2020-01-25	Two more cases, 1 from Luoyang and 1 from Anxi.
+60	2020-01-25	One more case.
 60	2020-01-26	One more case.
-60	2020-01-26	* One more case.
-60	2020-01-27	5 more cases.
-60	2020-01-28	3 new cases.
-60	2020-01-30	5 new cases.
-61	2020-01-23	First confirmed case, imported.
-61	2020-01-25	One more case.
-61	2020-01-26	One more case.
-61	2020-01-27	3 more cases.
+60	2020-01-27	3 more cases.
+60	2020-01-29	1 new case.
+60	2020-01-30	1 new case.
+61	2020-01-23	First case confirmed in high-speed rail worker of Wuhan-Shenyang.
+61	2020-01-23	* 1 case from Fushun transferred. Counted here.
+61	2020-01-24	One more case.Â 
+61	2020-01-25	Added 2 cases.
+61	2020-01-26	One locally transmitted case.
+61	2020-01-27	One more case.
+61	2020-01-28	1 new case.
 61	2020-01-29	1 new case.
-61	2020-01-30	1 new case.
-62	2020-01-23	First case confirmed in high-speed rail worker of Wuhan-Shenyang.
-62	2020-01-23	* 1 case from Fushun transferred. Counted here.
-62	2020-01-24	One more case. 
-62	2020-01-25	Added 2 cases.
-62	2020-01-26	One locally transmitted case.
-62	2020-01-27	One more case.
-62	2020-01-28	1 new case.
-62	2020-01-29	1 new case.
-63	2020-01-23	First confirmed case, imported.
-63	2020-01-23	3 more cases.
-63	2020-01-28	3 new cases.
-63	2020-01-29	4 new cases.
+61	2020-01-31	1 new case.
+62	2020-01-23	First confirmed case, imported.
+62	2020-01-23	3 more cases.
+62	2020-01-28	3 new cases.
+62	2020-01-29	4 new cases.
+62	2020-01-30	3 new cases.
+62	2020-01-31	2 new cases.
+63	2020-01-23	Case counted from Yizhang county.
+63	2020-01-26	Two more cases.
+63	2020-01-27	3 more cases.
+63	2020-01-28	1 new case.
 63	2020-01-30	3 new cases.
-64	2020-01-23	Case counted from Yizhang county.
-64	2020-01-26	Two more cases.
-64	2020-01-27	3 more cases.
-64	2020-01-28	1 new case.
-64	2020-01-30	3 new cases.
+63	2020-01-31	2 new cases.
+64	2020-01-23	First confirmed case.
 65	2020-01-23	First confirmed case.
-66	2020-01-23	First confirmed case.
-66	2020-01-23	* One new case.
-66	2020-01-24	One new case.
-66	2020-01-25	One more case.
-66	2020-01-26	4 more cases.
-66	2020-01-27	9 more cases.
-66	2020-01-28	8 new cases. 25 total (red).
-66	2020-01-29	21 new cases. Almost doubled.
-67	2020-01-23	First confirmed case. Patient infected in Changsha, Hunan from a student at a restaurant.
-67	2020-01-25	Second confirmed case.
+65	2020-01-23	* One new case.
+65	2020-01-24	One new case.
+65	2020-01-25	One more case.
+65	2020-01-26	4 more cases.
+65	2020-01-27	9 more cases.
+65	2020-01-28	8 new cases. 25 total (red).
+65	2020-01-29	21 new cases. Almost doubled.
+65	2020-01-31	21 new cases.
+66	2020-01-23	First confirmed case. Patient infected in Changsha, Hunan from a student at a restaurant.
+66	2020-01-25	Second confirmed case.
+67	2020-01-23	First confirmed case.
 68	2020-01-23	First confirmed case.
+68	2020-01-24	Second confirmed case.
+68	2020-01-26	Third confirmed case.
+68	2020-01-28	One new case.
+68	2020-01-29	2 new cases.
+68	2020-01-30	2 new cases.
+68	2020-01-31	1 new case.
 69	2020-01-23	First confirmed case.
 69	2020-01-24	Second confirmed case.
-69	2020-01-26	Third confirmed case.
-69	2020-01-28	One new case.
+69	2020-01-25	Five more cases.
+69	2020-01-26	3 more cases.
+69	2020-01-28	11 new cases. 21 total (red).
 69	2020-01-29	2 new cases.
-69	2020-01-30	2 new cases.
+69	2020-01-30	5 new cases.
+69	2020-01-31	10 new cases.
 70	2020-01-23	First confirmed case.
-70	2020-01-24	Second confirmed case.
-70	2020-01-25	Five more cases.
-70	2020-01-26	3 more cases.
-70	2020-01-28	11 new cases. 21 total (red).
-70	2020-01-29	2 new cases.
-70	2020-01-30	5 new cases.
+70	2020-01-25	Second confirmed case.
+70	2020-01-28	2 more cases.
 71	2020-01-23	First confirmed case.
-71	2020-01-25	Second confirmed case.
+71	2020-01-25	3 more cases.
+71	2020-01-26	2 more cases.
 71	2020-01-28	2 more cases.
-72	2020-01-23	First confirmed case.
-72	2020-01-25	3 more cases.
+71	2020-01-29	7 new cases.
+71	2020-01-30	5 new cases. 20 total (red).
+72	2020-01-23	First confirmed case, imported.
+72	2020-01-25	Five more cases.
 72	2020-01-26	2 more cases.
-72	2020-01-28	2 more cases.
-72	2020-01-29	7 new cases.
-72	2020-01-30	5 new cases. 20 total (red).
-73	2020-01-23	First confirmed case, imported.
-73	2020-01-25	Five more cases.
-73	2020-01-26	2 more cases.
-73	2020-01-28	2 new cases.
-73	2020-01-29	1 new case.
-73	2020-01-30	2 new cases.
+72	2020-01-28	2 new cases.
+72	2020-01-29	1 new case.
+72	2020-01-30	2 new cases.
+72	2020-01-31	5 new cases.
+73	2020-01-23	First confirmed case.
+73	2020-01-25	3 more cases.
+73	2020-01-26	1 more case.
+73	2020-01-27	1 more case.
+73	2020-01-28	1 new case.
+73	2020-01-29	12 new cases.
+73	2020-01-31	4 new cases. 23 total (red).
 74	2020-01-23	First confirmed case.
-74	2020-01-25	3 more cases.
-74	2020-01-26	1 more case.
-74	2020-01-27	1 more case.
-74	2020-01-28	1 new case.
-74	2020-01-29	12 new cases.
+74	2020-01-25	Second confirmed case.
+74	2020-01-26	One more case.
+74	2020-01-27	2 more cases.
+74	2020-01-28	2 new cases.
+74	2020-01-29	6 new cases.
+74	2020-01-30	7 new cases. 20 total (red).
+74	2020-01-31	7 new cases.
 75	2020-01-23	First confirmed case.
-75	2020-01-25	Second confirmed case.
+75	2020-01-25	One case added.
 75	2020-01-26	One more case.
 75	2020-01-27	2 more cases.
-75	2020-01-28	2 new cases.
-75	2020-01-29	6 new cases.
-75	2020-01-30	7 new cases. 20 total (red).
-76	2020-01-23	First confirmed case.
-76	2020-01-25	One case added.
-76	2020-01-26	One more case.
-76	2020-01-27	2 more cases.
-76	2020-01-29	3 new cases.
-76	2020-01-30	2 new cases.
-77	2020-01-23	First case confirmed.
-77	2020-01-24	7 more cases. City on lockdown. * 13 more cases.
-77	2020-01-25	First death, 17 new cases.
-77	2020-01-26	52 new cases and 2 deaths.
+75	2020-01-29	3 new cases.
+75	2020-01-30	2 new cases.
+75	2020-01-31	2 new cases.
+76	2020-01-23	First case confirmed.
+76	2020-01-24	7 more cases. City on lockdown. * 13 more cases.
+76	2020-01-25	First death, 17 new cases.
+76	2020-01-26	52 new cases and 2 deaths.
+76	2020-01-28	24 new cases.
+76	2020-01-29	29 new cases. 1 new death.
+76	2020-01-30	49 new cases.
+76	2020-01-31	36 new cases. 1 new death.
+77	2020-01-23	First 6 confirmed cases.
+77	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
+77	2020-01-25	First 2 deaths, 23 more cases.
+77	2020-01-26	14 more cases.
 77	2020-01-28	24 new cases.
-77	2020-01-29	29 new cases. 1 new death.
-77	2020-01-30	49 new cases.
-78	2020-01-23	First 6 confirmed cases.
-78	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
-78	2020-01-25	First 2 deaths, 23 more cases.
-78	2020-01-26	14 more cases.
-78	2020-01-28	24 new cases.
-78	2020-01-29	30 new cases.
-78	2020-01-30	50 new cases and 1 death.
-79	2020-01-23	First confirmed case, imported. 1 case transferred from Lianjiang.
-79	2020-01-24	Two more confirmed cases.
-79	2020-01-24	* One confirmed case.
-79	2020-01-25	1 more case from Changle district.
-79	2020-01-26	4 more cases.
-79	2020-01-26	* 3 more cases.
-79	2020-01-27	4 more cases.
-79	2020-01-28	1 more case. * 6 new cases. 24 total (red).
-79	2020-01-30	6 new cases.
-80	2020-01-23	First 2 confirmed cases, imported.
-80	2020-01-25	One more case.
+77	2020-01-29	30 new cases.
+77	2020-01-30	50 new cases and 1 death.
+77	2020-01-31	70 new cases.
+78	2020-01-23	First confirmed case, imported. 1 case transferred from Lianjiang.
+78	2020-01-24	Two more confirmed cases.
+78	2020-01-24	* One confirmed case.
+78	2020-01-25	1 more case from Changle district.
+78	2020-01-26	4 more cases.
+78	2020-01-26	* 3 more cases.
+78	2020-01-27	4 more cases.
+78	2020-01-28	1 more case. * 6 new cases. 24 total (red).
+78	2020-01-30	6 new cases.
+79	2020-01-23	First 2 confirmed cases, imported.
+79	2020-01-25	One more case.
+79	2020-01-27	One more case.
+79	2020-01-28	One new case.
+79	2020-01-29	1 new case.
+79	2020-01-30	1 new case.
+79	2020-01-31	1 new case.
+80	2020-01-23	First confirmed case in Shaanxi province, imported. From Xi'an.
+80	2020-01-25	One more case in Wugong County. Another case fromÂ Qianxian County.
 80	2020-01-27	One more case.
-80	2020-01-28	One new case.
 80	2020-01-29	1 new case.
-80	2020-01-30	1 new case.
-81	2020-01-23	First confirmed case in Shaanxi province, imported. From Xi'an.
-81	2020-01-25	One more case in Wugong County. Another case from Qianxian County.
-81	2020-01-27	One more case.
-81	2020-01-29	1 new case.
-82	2020-01-23	First confirmed case, infected by a Wuhan patient in Hangzhou, Zhejiang.
-82	2020-01-23	* Second confirmed case, imported.
-82	2020-01-25	Two more cases.
-82	2020-01-26	Four more cases, two locally transmitted, one infected in Hangzhou.
-82	2020-01-27	Four more cases.
-82	2020-01-28	3 new cases.
+81	2020-01-23	First confirmed case, infected by a Wuhan patient inÂ Hangzhou, Zhejiang.
+81	2020-01-23	* Second confirmed case, imported.
+81	2020-01-25	Two more cases.
+81	2020-01-26	Four more cases, two locally transmitted, one infected inÂ Hangzhou.
+81	2020-01-27	Four more cases.
+81	2020-01-28	3 new cases.
+81	2020-01-29	3 new cases.
+81	2020-01-30	4 new cases. 22 total (red).
+82	2020-01-23	First confirmed case in Singapore, imported.
+82	2020-01-24	2 more confirmed cases.
+82	2020-01-25	1 more case.
+82	2020-01-26	1 more case.
+82	2020-01-28	2 new cases.
 82	2020-01-29	3 new cases.
-82	2020-01-30	4 new cases. 22 total (red).
-83	2020-01-23	First confirmed case in Singapore, imported.
-83	2020-01-24	2 more confirmed cases.
-83	2020-01-25	1 more case.
-83	2020-01-26	1 more case.
-83	2020-01-28	2 new cases.
-83	2020-01-29	3 new cases.
-84	2020-01-23	First 2 confirmed cases in Vietnam.
-85	2020-01-23	First two confirmed cases, imported.
-85	2020-01-24	One more case.
-85	2020-01-25	One more case.
-85	2020-01-26	3 more cases.
-85	2020-01-28	3 more cases.
-85	2020-01-29	4 new cases.
-85	2020-01-30	5 new cases.
+82	2020-01-30	3 new cases.
+82	2020-01-31	3 new cases.
+83	2020-01-23	First 2 confirmed cases in Vietnam.
+84	2020-01-23	First two confirmed cases, imported.
+84	2020-01-24	One more case.
+84	2020-01-25	One more case.
+84	2020-01-26	3 more cases.
+84	2020-01-28	3 more cases.
+84	2020-01-29	4 new cases.
+84	2020-01-30	5 new cases.
+84	2020-01-31	6 new cases. 25 total (red).
+85	2020-01-23	First confirmed case, imported.
+85	2020-01-26	Two more cases.
+85	2020-01-30	3 new cases.
+85	2020-01-31	3 new cases.
 86	2020-01-23	First confirmed case, imported.
-86	2020-01-26	Two more cases.
-86	2020-01-30	3 new cases.
-87	2020-01-23	First confirmed case, imported.
-87	2020-01-27	3 more cases.
-87	2020-01-28	1 new case.
+86	2020-01-27	3 more cases.
+86	2020-01-28	1 new case.
+86	2020-01-29	3 new cases.
+87	2020-01-23	First confirmed case in Gansu province. Patient had a history of travel toÂ Hunan and Jiangxi provinces.
+87	2020-01-26	Two more cases.
+87	2020-01-27	4 more cases.
+87	2020-01-28	3 new cases.
 87	2020-01-29	3 new cases.
-88	2020-01-23	First confirmed case in Gansu province. Patient had a history of travel to Hunan and Jiangxi provinces.
-88	2020-01-26	Two more cases.
-88	2020-01-27	4 more cases.
-88	2020-01-28	3 new cases.
-88	2020-01-29	3 new cases.
-89	2020-01-23	First confirmed case, imported.
-90	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
-90	2020-01-25	Second confirmed case.
-90	2020-01-28	3 new cases.
-90	2020-01-29	3 new cases.
-90	2020-01-30	4 new cases.
-91	2020-01-23	Partial lockdown, closure of railway system. 
-91	2020-01-24	First confirmed case.
-91	2020-01-26	In full lockdown.
-91	2020-01-26	* 19 new cases. Total of 20 (red).
-91	2020-01-28	37 new cases. (doubled)
-91	2020-01-29	27 new cases and first death.
-91	2020-01-30	39 new cases and 1 death.
+87	2020-01-30	2 new cases.
+88	2020-01-23	First confirmed case, imported.
+89	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
+89	2020-01-25	Second confirmed case.
+89	2020-01-28	3 new cases.
+89	2020-01-29	3 new cases.
+89	2020-01-30	4 new cases.
+89	2020-01-31	6 new cases.
+90	2020-01-23	Partial lockdown, closure of railway system.Â 
+90	2020-01-24	First confirmed case.
+90	2020-01-26	In full lockdown.
+90	2020-01-26	* 19 new cases. Total of 20 (red).
+90	2020-01-28	37 new cases. (doubled)
+90	2020-01-29	27 new cases and first death.
+90	2020-01-30	39 new cases and 1 death.
+90	2020-01-31	66 new cases. 4 new deaths.
+91	2020-01-23	City in lockdown.
+91	2020-01-24	First 2 confirmed cases.
+91	2020-01-24	* 8 more cases.
+91	2020-01-25	1 more case.
+91	2020-01-26	1 more case.
+91	2020-01-28	15 new cases. 27 Total (red).
+91	2020-01-29	5 new cases.
+91	2020-01-30	23 new cases.
+91	2020-01-31	35 new cases. First death.
 92	2020-01-23	City in lockdown.
-92	2020-01-24	First 2 confirmed cases.
-92	2020-01-24	* 8 more cases.
-92	2020-01-25	1 more case.
-92	2020-01-26	1 more case.
-92	2020-01-28	15 new cases. 27 Total (red).
-92	2020-01-29	5 new cases.
-92	2020-01-30	23 new cases.
-93	2020-01-23	City in lockdown.
-93	2020-01-26	First 5 confirmed cases and one death.
-93	2020-01-28	2 more cases.
-93	2020-01-29	1 new case. 
-93	2020-01-30	2 new cases.
+92	2020-01-26	First 5 confirmed cases and one death.
+92	2020-01-28	2 more cases.
+92	2020-01-29	1 new case.Â 
+92	2020-01-30	2 new cases.
+92	2020-01-31	2 new cases.
+93	2020-01-23	First confirmed case.
+93	2020-01-26	Two more cases.
+93	2020-01-28	8 new cases.
+93	2020-01-31	17 new cases (more than doubled). 29 total (red).
 94	2020-01-23	First confirmed case.
-94	2020-01-26	Two more cases.
-94	2020-01-28	8 new cases.
+94	2020-01-25	Second confirmed case.
+94	2020-01-26	Third confirmed case.
+94	2020-01-28	1 new case.
+94	2020-01-29	1 new case.
+94	2020-01-31	3 new cases.
 95	2020-01-23	First confirmed case.
-95	2020-01-25	Second confirmed case.
-95	2020-01-26	Third confirmed case.
-95	2020-01-28	1 new case.
-95	2020-01-29	1 new case.
-96	2020-01-23	First confirmed case.
-96	2020-01-24	Second confirmed case.
-96	2020-01-26	2 more cases.
-96	2020-01-27	5 more cases.
-96	2020-01-28	7 new cases.
-96	2020-01-29	15 new cases. 31 total (red - doubled).
-97	2020-01-23	First 2 confirmed cases.
-97	2020-01-24	Four more cases.
-97	2020-01-25	Five more cases.
-97	2020-01-27	3 more cases.
-97	2020-01-28	One new case.
-97	2020-01-29	1 new case.
-97	2020-01-30	2 new cases.
-98	2020-01-22	First case confirmed (imported).
+95	2020-01-24	Second confirmed case.
+95	2020-01-26	2 more cases.
+95	2020-01-27	5 more cases.
+95	2020-01-28	7 new cases.
+95	2020-01-29	15 new cases. 31 total (red - doubled).
+95	2020-01-31	11 new cases.
+96	2020-01-23	First 2 confirmed cases.
+96	2020-01-24	Four more cases.
+96	2020-01-25	Five more cases.
+96	2020-01-27	3 more cases.
+96	2020-01-28	One new case.
+96	2020-01-29	1 new case.
+96	2020-01-30	2 new cases.
+97	2020-01-22	First case confirmed (imported).
+97	2020-01-25	Second confirmed case.
+97	2020-01-28	2 new cases.
+98	2020-01-23	First confirmed case.
 98	2020-01-25	Second confirmed case.
-98	2020-01-28	2 new cases.
 99	2020-01-23	First confirmed case.
-99	2020-01-25	Second confirmed case.
-100	2020-01-23	First confirmed case.
-100	2020-01-24	Two more cases.
-100	2020-01-30	2 new cases.
-101	2020-01-23	Japan confirms a 2nd case on a Wuhan male visiting Tokyo.
-101	2020-01-25	Second confirmed case in Tokyo.
-101	2020-01-30	3 new cases from chartered flight that arrived from Wuhan. 2 of them asymptomatic. 
-102	2020-01-24	Confirmed case detected at Incheon Int. Airport being treated in Euljiro (transferred).
+99	2020-01-24	Two more cases.
+99	2020-01-30	2 new cases.
+99	2020-01-31	1 new case.
+100	2020-01-23	Japan confirms a 2nd case on a Wuhan male visiting Tokyo.
+100	2020-01-25	Second confirmed case in Tokyo.
+100	2020-01-30	3 new cases from chartered flight that arrived from Wuhan. 2 of them asymptomatic.Â * 1 new case.
+101	2020-01-24	Confirmed case detected at Incheon Int. Airport being treated inÂ Euljiro (transferred).
+101	2020-01-30	2 new cases, one possible infected by h2h transmission.Â 
+102	2020-01-24	City in lockdown.
+102	2020-01-25	First case inÂ Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
+102	2020-01-25	* First death reported, 31 new cases.
+102	2020-01-26	5 more cases.
+102	2020-01-28	17 new cases.
+102	2020-01-29	33 new cases.
+102	2020-01-30	27 new cases.
+102	2020-01-31	55 new cases.
 103	2020-01-24	City in lockdown.
-103	2020-01-25	First case in Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
-103	2020-01-25	* First death reported, 31 new cases.
-103	2020-01-26	5 more cases.
-103	2020-01-28	17 new cases.
-103	2020-01-29	33 new cases.
-103	2020-01-30	27 new cases.
-104	2020-01-24	City in lockdown.
-104	2020-01-24	* First 11 cases confirmed.
-104	2020-01-25	6 more cases.
-104	2020-01-26	8 more cases. 25 total (red).
-104	2020-01-28	13 new cases.
-104	2020-01-29	13 new cases.
-104	2020-01-30	15 new cases.
-105	2020-01-24	First confirmed case. (Plus confirmed case from Rushan transferred here).
-105	2020-01-25	One more case.
-105	2020-01-26	One more case.
-105	2020-01-27	3 more cases. * 2 more cases.
-105	2020-01-28	1 new case in Huancui District.
-105	2020-01-29	1 new case. * 1 new case.
+103	2020-01-24	* First 11 cases confirmed.
+103	2020-01-25	6 more cases.
+103	2020-01-26	8 more cases. 25 total (red).
+103	2020-01-28	13 new cases.
+103	2020-01-29	13 new cases.
+103	2020-01-30	15 new cases.
+103	2020-01-31	9 new cases.
+104	2020-01-24	First confirmed case. (Plus confirmed case from Rushan transferred here).
+104	2020-01-25	One more case.
+104	2020-01-26	One more case.
+104	2020-01-27	3 more cases. * 2 more cases.
+104	2020-01-28	1 new case in Huancui District.
+104	2020-01-29	1 new case. * 1 new case.
+104	2020-01-30	2 new cases.
+104	2020-01-31	5 new cases.
+105	2020-01-24	First confirmed case.
+105	2020-01-26	One new case.
+105	2020-01-27	One new case.
+105	2020-01-29	2 new cases.
 105	2020-01-30	2 new cases.
-106	2020-01-24	First confirmed case.
-106	2020-01-26	One new case.
-106	2020-01-27	One new case.
-106	2020-01-29	2 new cases.
-106	2020-01-30	2 new cases.
-107	2020-01-24	First two confirmed cases. 1 other case transferred from Yuanyang County.
-107	2020-01-25	3 more cases.
-107	2020-01-26	12 more cases.
-107	2020-01-27	9 new cases. 27 total (red).
-107	2020-01-28	8 new cases.
+105	2020-01-31	1 new case.
+106	2020-01-24	First two confirmed cases. 1 other case transferred fromÂ Yuanyang County.
+106	2020-01-25	3 more cases.
+106	2020-01-26	12 more cases.
+106	2020-01-27	9 new cases. 27 total (red).
+106	2020-01-28	8 new cases.
+106	2020-01-29	3 new cases.
+106	2020-01-30	6 new cases.
+106	2020-01-31	4 new cases.
+107	2020-01-24	First confirmed case.
+107	2020-01-25	4 more cases.
+107	2020-01-26	16 new cases. 20+ cases (red).
+107	2020-01-27	One more case.
+107	2020-01-28	6 new cases.
 107	2020-01-29	3 new cases.
-107	2020-01-30	6 new cases.
+107	2020-01-30	10 new cases.
+107	2020-01-31	7 new cases.
 108	2020-01-24	First confirmed case.
-108	2020-01-25	4 more cases.
-108	2020-01-26	16 new cases. 20+ cases (red).
-108	2020-01-27	One more case.
-108	2020-01-28	6 new cases.
-108	2020-01-29	3 new cases.
-108	2020-01-30	10 new cases.
-109	2020-01-24	First confirmed case.
-109	2020-01-25	Second confirmed case.
-109	2020-01-26	One more case.
-109	2020-01-28	2 new cases. * 1 new case.
-110	2020-01-23	First 3 confirmed cases.
-110	2020-01-25	Two more cases.
-110	2020-01-26	One more case. * 2 more cases.
+108	2020-01-25	Second confirmed case.
+108	2020-01-26	One more case.
+108	2020-01-28	2 new cases. * 1 new case.
+109	2020-01-23	First 3 confirmed cases.
+109	2020-01-25	Two more cases.
+109	2020-01-26	One more case. * 2 more cases.
+109	2020-01-28	1 new case.
+109	2020-01-29	1 new case.
+110	2020-01-24	First confirmed case.
+110	2020-01-25	Second confirmed case.
 110	2020-01-28	1 new case.
-110	2020-01-29	1 new case.
 111	2020-01-24	First confirmed case.
-111	2020-01-25	Second confirmed case.
-111	2020-01-28	1 new case.
+111	2020-01-27	One more case.
 112	2020-01-24	First confirmed case.
-112	2020-01-27	One more case.
+112	2020-01-25	3 more cases.
+112	2020-01-26	One more case.
+112	2020-01-27	3 more cases.
+112	2020-01-29	6 new cases.
+112	2020-01-30	4 new cases.
 113	2020-01-24	First confirmed case.
-113	2020-01-25	3 more cases.
-113	2020-01-26	One more case.
-113	2020-01-27	3 more cases.
-113	2020-01-29	6 new cases.
-113	2020-01-30	4 new cases.
+113	2020-01-30	1 new case.
+113	2020-01-31	2 new cases.
 114	2020-01-24	First confirmed case.
-114	2020-01-30	1 new case.
-115	2020-01-24	First confirmed case.
-115	2020-01-27	Two more cases.
-115	2020-01-30	5 new cases.
-116	2020-01-24	First confirmed case that resulted in death.
-116	2020-01-24	* City in lockdown.
-116	2020-01-25	19 more cases.
-116	2020-01-26	11 new cases.
-116	2020-01-28	20 new cases.
-116	2020-01-29	12 new cases.
-116	2020-01-30	54 new cases (almost doubled).
-117	2020-01-24	First 22 confirmed cases, making it the city with highest number of cases reported in a single day outside Wuhan.
+114	2020-01-27	Two more cases.
+114	2020-01-30	5 new cases.
+114	2020-01-31	7 new cases (doubled).
+115	2020-01-24	First confirmed case that resulted in death.
+115	2020-01-24	* City in lockdown.
+115	2020-01-25	19 more cases.
+115	2020-01-26	11 new cases.
+115	2020-01-28	20 new cases.
+115	2020-01-29	12 new cases.
+115	2020-01-30	54 new cases (almost doubled).
+115	2020-01-31	50 new cases.
+116	2020-01-24	First 22 confirmed cases, making it the city with highest number of cases reported in a single day outside Wuhan.
+116	2020-01-24	* 4 more cases.
+116	2020-01-25	29 new cases added.
+116	2020-01-26	45 new cases and 1 death. Updating city to lockdown.
+116	2020-01-28	73 new cases.
+116	2020-01-29	101 new cases. 2 new deaths.
+116	2020-01-30	125 new cases and 3 deaths.
+116	2020-01-31	142 new cases. 3 new deaths.
+117	2020-01-24	First confirmed case.
 117	2020-01-24	* 4 more cases.
-117	2020-01-25	29 new cases added.
-117	2020-01-26	45 new cases and 1 death. Updating city to lockdown.
-117	2020-01-28	73 new cases.
-117	2020-01-29	101 new cases. 2 new deaths.
-117	2020-01-30	125 new cases and 3 deaths.
+117	2020-01-25	15 more cases, total of 20 (red).
+117	2020-01-26	20 more cases, doubled.
+117	2020-01-28	25 new cases.
+117	2020-01-29	23 new cases.
+117	2020-01-30	31 new cases.
+117	2020-01-31	31 new cases.
 118	2020-01-24	First confirmed case.
-118	2020-01-24	* 4 more cases.
-118	2020-01-25	15 more cases, total of 20 (red).
-118	2020-01-26	20 more cases, doubled.
-118	2020-01-28	25 new cases.
-118	2020-01-29	23 new cases.
-118	2020-01-30	31 new cases.
+118	2020-01-28	1 new case.
+118	2020-01-31	1 new case.
 119	2020-01-24	First confirmed case.
+119	2020-01-25	Second confirmed case.
 119	2020-01-28	1 new case.
+119	2020-01-30	1 new case.
+119	2020-01-31	1 new case.
 120	2020-01-24	First confirmed case.
-120	2020-01-25	Second confirmed case.
-120	2020-01-28	1 new case.
+120	2020-01-29	1 new case.
 120	2020-01-30	1 new case.
+120	2020-01-31	4 new cases.
 121	2020-01-24	First confirmed case.
-121	2020-01-29	1 new case.
-121	2020-01-30	1 new case.
+121	2020-01-26	One more case.
+121	2020-01-27	2 more cases.
+121	2020-01-28	2 more cases.
+121	2020-01-30	3 new cases.
+121	2020-01-31	1 new case.
 122	2020-01-24	First confirmed case.
 122	2020-01-26	One more case.
 122	2020-01-27	2 more cases.
 122	2020-01-28	2 more cases.
-122	2020-01-30	3 new cases.
+122	2020-01-29	3 new cases.
+122	2020-01-30	1 new case.
+122	2020-01-31	2 new cases.
 123	2020-01-24	First confirmed case.
-123	2020-01-26	One more case.
-123	2020-01-27	2 more cases.
-123	2020-01-28	2 more cases.
-123	2020-01-29	3 new cases.
+123	2020-01-25	2 more cases.
+123	2020-01-27	4 more cases.
+123	2020-01-28	1 new case.
 123	2020-01-30	1 new case.
 124	2020-01-24	First confirmed case.
-124	2020-01-25	2 more cases.
-124	2020-01-27	4 more cases.
-124	2020-01-28	1 new case.
 125	2020-01-24	First confirmed case.
+125	2020-01-25	Second confirmed case.
+125	2020-01-26	One more case.
+125	2020-01-27	2 more cases.
+125	2020-01-30	2 new cases.
+125	2020-01-30	2 new cases.
 126	2020-01-24	First confirmed case.
-126	2020-01-25	Second confirmed case.
-126	2020-01-26	One more case.
-126	2020-01-27	2 more cases.
+126	2020-01-26	2 more cases.
+126	2020-01-29	1 new case.
+126	2020-01-30	1 new case.
 127	2020-01-24	First confirmed case.
+127	2020-01-25	Second confirmed case.
 127	2020-01-26	2 more cases.
-127	2020-01-29	1 new case.
-128	2020-01-24	First confirmed case.
-128	2020-01-25	Second confirmed case.
-128	2020-01-26	2 more cases.
-128	2020-01-27	4 more cases.
+127	2020-01-27	4 more cases.
+127	2020-01-28	2 new cases.
+127	2020-01-29	1 new case. * 1 new case.
+127	2020-01-30	1 new case. * 2 new cases.
+128	2020-01-24	First 2 confirmed cases.
+128	2020-01-25	2 more cases.
+128	2020-01-27	3 more cases.
 128	2020-01-28	2 new cases.
-128	2020-01-29	1 new case. * 1 new case.
+128	2020-01-29	2 new cases. * 2 new cases.
+128	2020-01-30	1 new case. * 2 new cases.
 129	2020-01-24	First 2 confirmed cases.
-129	2020-01-25	2 more cases.
-129	2020-01-27	3 more cases.
-129	2020-01-28	2 new cases.
-129	2020-01-29	2 new cases. * 2 new cases.
+129	2020-01-25	One more case.
+129	2020-01-27	One more case.
+129	2020-01-28	One new case.
+129	2020-01-30	3 new cases.
 130	2020-01-24	First 2 confirmed cases.
-130	2020-01-25	One more case.
+130	2020-01-26	2 more cases.
 130	2020-01-27	One more case.
 130	2020-01-28	One new case.
-131	2020-01-24	First 2 confirmed cases.
+130	2020-01-29	1 new case.
+130	2020-01-30	1 new case. * 2 new cases.
+131	2020-01-24	First confirmed case.
+131	2020-01-25	Second confirmed case.
 131	2020-01-26	2 more cases.
-131	2020-01-27	One more case.
-131	2020-01-28	One new case.
-131	2020-01-29	1 new case.
-132	2020-01-24	First confirmed case.
-132	2020-01-25	Second confirmed case.
-132	2020-01-26	2 more cases.
-133	2020-01-24	First 2 confirmed cases. Waiting for more information as to where they are being treated.
-134	2020-01-24	First confirmed case.
-134	2020-01-25	2 more cases.
-134	2020-01-26	2 more cases.
-134	2020-01-27	One more case.
-134	2020-01-28	3 new cases.
-134	2020-01-29	2 new cases.
-135	2020-01-24	First two confirmed cases.
-135	2020-01-25	3 more cases.
-135	2020-01-27	2 more cases.
-135	2020-01-29	1 new case.
-136	2020-01-24	First three confirmed cases.
-136	2020-01-25	Two more cases.
-136	2020-01-26	One more case.
-136	2020-01-27	One more case.
-136	2020-01-28	10 new cases.
-136	2020-01-29	9 new cases. 26 total (red).
+132	2020-01-24	First 2 confirmed cases. Waiting for more information as to where they are being treated.
+133	2020-01-24	First confirmed case.
+133	2020-01-25	2 more cases.
+133	2020-01-26	2 more cases.
+133	2020-01-27	One more case.
+133	2020-01-28	3 new cases.
+133	2020-01-29	2 new cases.
+133	2020-01-30	1 new case.
+134	2020-01-24	First two confirmed cases.
+134	2020-01-25	3 more cases.
+134	2020-01-27	2 more cases.
+134	2020-01-29	1 new case.
+135	2020-01-24	First three confirmed cases.
+135	2020-01-25	Two more cases.
+135	2020-01-26	One more case.
+135	2020-01-27	One more case.
+135	2020-01-28	10 new cases.
+135	2020-01-29	9 new cases. 26 total (red).
+135	2020-01-30	3 new cases.
+135	2020-01-31	8 new cases.
+136	2020-01-24	First 3 confirmed cases.
+136	2020-01-25	2 more cases.
+136	2020-01-27	2 more cases.
+136	2020-01-28	2 new cases.
+136	2020-01-29	4 new cases.
 136	2020-01-30	3 new cases.
-137	2020-01-24	First 3 confirmed cases.
-137	2020-01-25	2 more cases.
-137	2020-01-27	2 more cases.
+136	2020-01-31	4 new cases. 20 total (red).
+137	2020-01-24	First confirmed case.
+137	2020-01-25	One more case.
+137	2020-01-25	One more case.
+137	2020-01-27	One more case.
 137	2020-01-28	2 new cases.
-137	2020-01-29	4 new cases.
-137	2020-01-30	3 new cases.
+137	2020-01-29	2 new cases.
+137	2020-01-30	1 new case.
+137	2020-01-31	1 new case.
 138	2020-01-24	First confirmed case.
-138	2020-01-25	One more case.
-138	2020-01-25	One more case.
-138	2020-01-27	One more case.
+138	2020-01-26	Two more cases.
+138	2020-01-27	Two more cases.
 138	2020-01-28	2 new cases.
-138	2020-01-29	2 new cases.
-138	2020-01-30	1 new case.
-139	2020-01-24	First confirmed case.
-139	2020-01-26	Two more cases.
-139	2020-01-27	Two more cases.
-139	2020-01-28	2 new cases.
-139	2020-01-29	6 new cases.
-139	2020-01-30	5 new cases.
-140	2020-01-24	First confirmed case resulting in death.
-140	2020-01-26	Second confirmed case.
-140	2020-01-27	One more case.
-140	2020-01-28	5 new cases.
-140	2020-01-30	2 new cases.
-141	2020-01-24	First confirmed case. 
-141	2020-01-26	Two more cases.
-141	2020-01-27	2 more cases.
-142	2020-01-24	First confirmed case in the province, imported.
-143	2020-01-24	First confirmed case.
-143	2020-01-25	Second confirmed case.
-143	2020-01-26	Two new cases. * One new case.
-143	2020-01-30	3 new cases.
+138	2020-01-29	6 new cases.
+138	2020-01-30	5 new cases.
+138	2020-01-31	1 new case.
+139	2020-01-24	First confirmed case resulting in death.
+139	2020-01-26	Second confirmed case.
+139	2020-01-27	One more case.
+139	2020-01-28	5 new cases.
+139	2020-01-30	2 new cases. *1 new death.
+139	2020-01-31	2 new cases.
+140	2020-01-24	First confirmed case.Â 
+140	2020-01-26	Two more cases.
+140	2020-01-27	2 more cases.
+140	2020-01-31	2 new cases.
+141	2020-01-24	First confirmed case in the province, imported.
+142	2020-01-24	First confirmed case.
+142	2020-01-25	Second confirmed case.
+142	2020-01-26	Two new cases. * One new case.
+142	2020-01-30	3 new cases.
+143	2020-01-24	First two confirmed cases.
+143	2020-01-27	4 more cases. * 2 more cases.
+143	2020-01-28	2 new cases.
+143	2020-01-29	2 new cases.
+143	2020-01-30	1 new case.
+143	2020-01-31	5 new cases.
 144	2020-01-24	First two confirmed cases.
-144	2020-01-27	4 more cases. * 2 more cases.
-144	2020-01-28	2 new cases.
-144	2020-01-29	2 new cases.
-144	2020-01-30	1 new case.
-145	2020-01-24	First two confirmed cases.
-145	2020-01-25	One more case.
-145	2020-01-26	Two more cases.
-145	2020-01-27	2 more cases.
-145	2020-01-28	3 new cases in Shizhong District.
-145	2020-01-29	1 new case.
-145	2020-01-30	3 new cases.
-146	2020-01-24	First confirmed case.
-147	2020-01-24	City in lockdown.
-147	2020-01-24	* First 3 confirmed cases.
-147	2020-01-25	2 more cases.
-147	2020-01-26	8 more cases.
-147	2020-01-28	10 new cases. 23 total and 2 first deaths.
-147	2020-01-29	11 new cases. 1 new death.
-147	2020-01-30	10 new cases.
+144	2020-01-25	One more case.
+144	2020-01-26	Two more cases.
+144	2020-01-27	2 more cases.
+144	2020-01-28	3 new cases inÂ Shizhong District.
+144	2020-01-29	1 new case.
+144	2020-01-30	3 new cases.
+144	2020-01-31	2 new cases.
+145	2020-01-24	First confirmed case.
+145	2020-01-31	1 new case.
+146	2020-01-24	City in lockdown.
+146	2020-01-24	* First 3 confirmed cases.
+146	2020-01-25	2 more cases.
+146	2020-01-26	8 more cases.
+146	2020-01-28	10 new cases. 23 total and 2 first deaths.
+146	2020-01-29	11 new cases. 1 new death.
+146	2020-01-30	10 new cases.
+146	2020-01-31	23 new cases. 3 new deaths.
+147	2020-01-24	First confirmed case.
+147	2020-01-25	Two more cases from Baihe county.
+147	2020-01-27	Four more cases. 2 in Xunyang county, 1 in Baihe county and 1 in Ziyang county.
+147	2020-01-28	1 new case.
+147	2020-01-29	2 new cases.
 148	2020-01-24	First confirmed case.
-148	2020-01-25	Two more cases from Baihe county.
-148	2020-01-27	Four more cases. 2 in Xunyang county, 1 in Baihe county and 1 in Ziyang county.
-148	2020-01-28	1 new case.
-148	2020-01-29	2 new cases.
-149	2020-01-24	First confirmed case.
-149	2020-01-27	One more case.
-149	2020-01-29	1 new case.
-150	2020-01-24	First confirmed case in a male discharged from a Teku hospital, officials trying to locate the person.
-151	2020-01-24	First confirmed case and second case in the U.S.
-152	2020-01-24	First confirmed case from a man of Jinghong.
-152	2020-01-28	5 new cases.
-152	2020-01-29	4 new cases.
-153	2020-01-24	First confirmed case, transferred to Ninglang county.
-153	2020-01-25	One more case.
-153	2020-01-27	3 more cases.
-153	2020-01-28	1 new case.
-154	2020-01-24	First confirmed case.
-154	2020-01-27	Second confirmed case.
-155	2020-01-24	First two confirmed cases.
-155	2020-01-27	One more case.
-155	2020-01-29	2 new cases.
-156	2020-01-24	First confirmed case in France and Europe.
-157	2020-01-24	First confirmed case in Paris, second confirmed case in France. * Second confirmed case, both cases are family members that came back from China.
-157	2020-01-28	1 new case, in serious condition.
-157	2020-01-29	1 new case, in serious condition.
-158	2020-01-24	First 3 confirmed cases.
-158	2020-01-24	* Case from Dongxian officially counted here.
-158	2020-01-25	Two more cases.
-158	2020-01-26	One more case.
+148	2020-01-27	One more case.
+148	2020-01-29	1 new case.
+149	2020-01-24	First confirmed case in a male discharged from a Teku hospital, officials trying to locate the person.
+150	2020-01-24	First confirmed case and second case in the U.S.
+150	2020-01-30	1 new case. First H2H in the U.S. and North America.
+151	2020-01-24	First confirmed case from a man ofÂ Jinghong.
+151	2020-01-28	5 new cases.
+151	2020-01-29	4 new cases.
+151	2020-01-30	2 new cases.
+152	2020-01-24	First confirmed case, transferred to Ninglang county.
+152	2020-01-25	One more case.
+152	2020-01-27	3 more cases.
+152	2020-01-28	1 new case.
+153	2020-01-24	First confirmed case.
+153	2020-01-27	Second confirmed case.
+153	2020-01-31	2 new cases.
+154	2020-01-24	First two confirmed cases.
+154	2020-01-27	One more case.
+154	2020-01-29	2 new cases.
+154	2020-01-31	2 new cases.
+155	2020-01-24	First confirmed case in France and Europe.
+156	2020-01-24	First confirmed case in Paris, second confirmed case in France. * Second confirmed case, both cases are family members that came back from China.
+156	2020-01-28	1 new case, in serious condition.
+156	2020-01-29	1 new case, in serious condition.
+156	2020-01-30	1 new case. H2H in doctor treating previous cases.
+157	2020-01-24	First 3 confirmed cases.
+157	2020-01-24	* Case from Dongxian officially counted here.
+157	2020-01-25	Two more cases.
+157	2020-01-26	One more case.
+157	2020-01-27	One more case.
+157	2020-01-28	1 new case.
+157	2020-01-29	4 new cases.
+157	2020-01-31	2 new cases.
+158	2020-01-24	First two confirmed cases.
+158	2020-01-25	4 more cases.
 158	2020-01-27	One more case.
-158	2020-01-28	1 new case.
-158	2020-01-29	4 new cases.
+158	2020-01-28	2 new cases.
+158	2020-01-29	2 new cases.
+158	2020-01-31	1 new case.
 159	2020-01-24	First two confirmed cases.
-159	2020-01-25	4 more cases.
-159	2020-01-27	One more case.
-159	2020-01-28	2 new cases.
-159	2020-01-29	2 new cases.
-160	2020-01-24	First two confirmed cases.
-160	2020-01-25	5 more cases.
-160	2020-01-27	3 more cases.
-160	2020-01-28	6 new cases.
-160	2020-01-29	5 new cases. 21 total (red).
+159	2020-01-25	5 more cases.
+159	2020-01-27	3 more cases.
+159	2020-01-28	6 new cases.
+159	2020-01-29	5 new cases. 21 total (red).
+159	2020-01-31	6 new cases.
+160	2020-01-24	First confirmed case.
+160	2020-01-25	4 more cases.
+160	2020-01-26	One more case.
+160	2020-01-27	4 more cases.
+160	2020-01-28	4 new cases.
+160	2020-01-31	12 new cases (doubled). 26 total (red).
 161	2020-01-24	First confirmed case.
-161	2020-01-25	4 more cases.
-161	2020-01-26	One more case.
-161	2020-01-27	4 more cases.
-161	2020-01-28	4 new cases.
-162	2020-01-24	First confirmed case.
-162	2020-01-26	Second confirmed case.
-163	2020-01-24	First 5 confirmed cases.
-163	2020-01-25	31 new cases (red).
-163	2020-01-26	16 more cases.
-163	2020-01-28	18 new cases.
-163	2020-01-29	46 new cases.
-163	2020-01-30	27 new cases.
+161	2020-01-26	Second confirmed case.
+161	2020-01-31	1 new case.
+162	2020-01-24	First 5 confirmed cases.
+162	2020-01-25	31 new cases (red).
+162	2020-01-26	16 more cases.
+162	2020-01-28	18 new cases.
+162	2020-01-29	46 new cases.
+162	2020-01-30	27 new cases.
+162	2020-01-31	85 new cases.
+163	2020-01-24	First confirmed case.
+163	2020-01-28	2 new cases.
+163	2020-01-29	1 new case.
+163	2020-01-30	1 new case.
 164	2020-01-24	First confirmed case.
-164	2020-01-28	2 new cases.
-164	2020-01-29	1 new case.
-165	2020-01-24	First confirmed case.
-165	2020-01-29	2 new cases.
+164	2020-01-29	2 new cases.
+165	2020-01-24	First two confirmed cases.
+165	2020-01-27	One more case.
+165	2020-01-28	1 new case.
+165	2020-01-29	3 new cases.
+165	2020-01-30	1 new case.
 166	2020-01-24	First two confirmed cases.
-166	2020-01-27	One more case.
-166	2020-01-28	1 new case.
-166	2020-01-29	; 3 new cases.
+166	2020-01-29	1 new case. * 1 new case.
 167	2020-01-24	First two confirmed cases.
-167	2020-01-29	1 new case. * 1 new case.
-168	2020-01-24	First two confirmed cases.
-169	2020-01-24	First confirmed case.
-169	2020-01-26	Second confirmed case.
+168	2020-01-24	First confirmed case.
+168	2020-01-26	Second confirmed case.
+168	2020-01-30	1 new case.
+169	2020-01-25	First confirmed case.
+169	2020-01-26	Two new cases.
+169	2020-01-27	3 more cases.
+169	2020-01-28	2 more cases, 1 inÂ Ningjin County and one in Leling County.
+169	2020-01-29	3 new cases.
+169	2020-01-30	4 new cases.
+169	2020-01-31	1 new case.
 170	2020-01-25	First confirmed case.
-170	2020-01-26	Two new cases.
-170	2020-01-27	3 more cases.
-170	2020-01-28	2 more cases, 1 in Ningjin County and one in Leling County.
-170	2020-01-29	3 new cases.
-171	2020-01-25	First confirmed case.
-171	2020-01-28	2 more cases, one in Dongchangfu District and one in Shenxian County.
-171	2020-01-29	1 new case.
-171	2020-01-30	1 new case.
-172	2020-01-25	First 5 confirmed cases.
-172	2020-01-27	One more case.
+170	2020-01-28	2 more cases, one inÂ Dongchangfu District and one inÂ Shenxian County.
+170	2020-01-29	1 new case.
+170	2020-01-30	1 new case.
+170	2020-01-31	2 new cases.
+171	2020-01-25	First 5 confirmed cases.
+171	2020-01-27	One more case.
+171	2020-01-28	2 more cases.
+171	2020-01-30	2 new cases.
+171	2020-01-31	3 new cases.
+172	2020-01-25	First confirmed case.
 172	2020-01-28	2 more cases.
-172	2020-01-30	2 new cases.
+172	2020-01-29	1 new case.
+172	2020-01-31	3 new cases.
 173	2020-01-25	First confirmed case.
-173	2020-01-28	2 more cases.
-173	2020-01-29	1 new case.
+173	2020-01-29	5 new cases.
+173	2020-01-31	2 new cases.
 174	2020-01-25	First confirmed case.
-174	2020-01-29	5 new cases.
+174	2020-01-30	1 new case.
 175	2020-01-25	First confirmed case.
+175	2020-01-26	2 more cases.
+175	2020-01-29	3 new cases.
 175	2020-01-30	1 new case.
-176	2020-01-25	First confirmed case.
-176	2020-01-26	2 more cases.
-176	2020-01-29	3 new cases.
-176	2020-01-30	1 new case.
-177	2020-01-25	First 4 confirmed cases.
-177	2020-01-27	3 more cases.
-177	2020-01-28	3 new cases.
-177	2020-01-29	4 new cases.
-177	2020-01-30	3 new cases.
+175	2020-01-31	4 new cases.
+176	2020-01-25	First 4 confirmed cases.
+176	2020-01-27	3 more cases.
+176	2020-01-28	3 new cases.
+176	2020-01-29	4 new cases.
+176	2020-01-30	3 new cases.
+176	2020-01-31	3 new cases. 20 total (red).
+177	2020-01-25	First 3 confirmed cases.
+177	2020-01-26	4 more cases.
+177	2020-01-27	5 more cases.
+177	2020-01-28	7 new cases.
+177	2020-01-29	7 new cases. 26 total (red).
+177	2020-01-30	4 new cases.
+177	2020-01-31	7 new cases.
 178	2020-01-25	First 3 confirmed cases.
-178	2020-01-26	4 more cases.
-178	2020-01-27	5 more cases.
-178	2020-01-28	7 new cases.
-178	2020-01-29	7 new cases. 26 total (red).
-178	2020-01-30	4 new cases.
-179	2020-01-25	First 3 confirmed cases.
-179	2020-01-27	One more case.
+178	2020-01-27	One more case.
+178	2020-01-28	3 new cases.
+178	2020-01-29	10 new cases.
+178	2020-01-30	3 new cases. 20 total (red).
+178	2020-01-31	5 new cases.
+179	2020-01-25	First two confirmed cases.
+179	2020-01-27	6 more cases.
 179	2020-01-28	3 new cases.
-179	2020-01-29	10 new cases.
-179	2020-01-30	3 new cases. 20 total (red).
-180	2020-01-25	First two confirmed cases.
-180	2020-01-27	6 more cases.
-180	2020-01-28	3 new cases.
-180	2020-01-29	8 new cases.
-180	2020-01-30	10 new cases. 29 total (red).
+179	2020-01-29	8 new cases.
+179	2020-01-30	10 new cases. 29 total (red).
+179	2020-01-31	7 new cases.
+180	2020-01-25	First confirmed case.
+180	2020-01-26	Second confirmed case.
+180	2020-01-28	5 new cases.
+180	2020-01-30	4 new cases.
+180	2020-01-31	9 new cases. Removed 3 cases to match with the official number.
 181	2020-01-25	First confirmed case.
-181	2020-01-26	Second confirmed case.
-181	2020-01-28	5 new cases.
-182	2020-01-25	First confirmed case.
-182	2020-01-26	Second confirmed case. In partial lockdown.
-182	2020-01-28	3 new cases.
-182	2020-01-29	1 new case. * 2 new cases.
-182	2020-01-30	6 new cases.
-183	2020-01-25	First 8 confirmed cases.
-183	2020-01-26	First confirmed death. 7 more cases.
-183	2020-01-27	4 new cases.
-183	2020-01-28	7 new cases. Total of 26.
-183	2020-01-29	5 new cases.
-183	2020-01-30	20 new cases.
-184	2020-01-25	First 2 confirmed cases.
-184	2020-01-26	5 more cases.
-184	2020-01-27	2 more cases.
-184	2020-01-28	One more case.
-184	2020-01-29	6 new cases.
-184	2020-01-30	9 new cases. 25 total (red).
+181	2020-01-26	Second confirmed case. In partial lockdown.
+181	2020-01-28	3 new cases.
+181	2020-01-29	1 new case. * 2 new cases.
+181	2020-01-30	6 new cases.
+182	2020-01-25	First 8 confirmed cases.
+182	2020-01-26	First confirmed death. 7 more cases.
+182	2020-01-27	4 new cases.
+182	2020-01-28	7 new cases. Total of 26.
+182	2020-01-29	5 new cases.
+182	2020-01-30	20 new cases.
+182	2020-01-31	10 new cases.
+183	2020-01-25	First 2 confirmed cases.
+183	2020-01-26	5 more cases.
+183	2020-01-27	2 more cases.
+183	2020-01-28	One more case.
+183	2020-01-29	6 new cases.
+183	2020-01-30	9 new cases. 25 total (red).
+183	2020-01-31	5 new cases.
+184	2020-01-25	First confirmed case.
 185	2020-01-25	First confirmed case.
+185	2020-01-26	Two more cases.
+185	2020-01-27	One more case.
+185	2020-01-28	2 more cases.
+185	2020-01-29	1 new case.
+185	2020-01-30	4 new cases.
+185	2020-01-31	4 new cases.
 186	2020-01-25	First confirmed case.
-186	2020-01-26	Two more cases.
-186	2020-01-27	One more case.
-186	2020-01-28	2 more cases.
-186	2020-01-29	1 new case.
-186	2020-01-30	4 new cases.
-187	2020-01-25	First confirmed case.
-187	2020-01-26	Second confirmed case.
-187	2020-01-27	3 more cases.
+186	2020-01-26	Second confirmed case.
+186	2020-01-27	3 more cases.
+186	2020-01-30	3 new cases.
+186	2020-01-31	2 new cases.
+187	2020-01-25	First 4 confirmed cases.
+187	2020-01-26	3 more cases.
+187	2020-01-28	3 more cases.
+187	2020-01-29	1 new case.
 187	2020-01-30	3 new cases.
-188	2020-01-25	First 4 confirmed cases.
-188	2020-01-26	3 more cases.
-188	2020-01-28	3 more cases.
-188	2020-01-29	1 new case.
-188	2020-01-30	3 new cases.
-189	2020-01-25	First 3 confirmed cases.
-189	2020-01-28	6 new cases.
-189	2020-01-30	1 new case.
-190	2020-01-25	First confirmed case.
-190	2020-01-26	2 more cases.
-190	2020-01-27	3 more cases.
-190	2020-01-28	3 new cases.
-190	2020-01-29	2 new cases.
-190	2020-01-30	3 new cases.
-191	2020-01-25	First 3 confirmed cases.
-191	2020-01-28	2 new cases.
-191	2020-01-29	1 new case.
+188	2020-01-25	First 3 confirmed cases.
+188	2020-01-28	6 new cases.
+188	2020-01-30	1 new case.
+188	2020-01-31	4 new cases.
+189	2020-01-25	First confirmed case.
+189	2020-01-26	2 more cases.
+189	2020-01-27	3 more cases.
+189	2020-01-28	3 new cases.
+189	2020-01-29	2 new cases.
+189	2020-01-30	3 new cases.
+190	2020-01-25	First 3 confirmed cases.
+190	2020-01-28	2 new cases.
+190	2020-01-29	1 new case.
+191	2020-01-25	First 2 confirmed cases.
+191	2020-01-27	One more case.
+191	2020-01-28	One new case.
+191	2020-01-29	1 new case. * 1 new case.
 192	2020-01-25	First 2 confirmed cases.
 192	2020-01-27	One more case.
-192	2020-01-28	One new case.
-192	2020-01-29	1 new case. * 1 new case.
-193	2020-01-25	First 2 confirmed cases.
-193	2020-01-27	One more case.
-193	2020-01-29	1 new case.
+192	2020-01-29	1 new case.
+192	2020-01-30	2 new cases.
+193	2020-01-25	First confirmed case.
+193	2020-01-30	1 new case.
 194	2020-01-25	First confirmed case.
 195	2020-01-25	First confirmed case.
-196	2020-01-25	First confirmed case.
-196	2020-01-27	2 more cases.
-197	2020-01-25	First confirmed case in Australia.
-197	2020-01-29	1 new case, 6th case in Australia.
-198	2020-01-25	First confirmed case. Added 3 more from previous update.
-198	2020-01-26	4 more cases.
-198	2020-01-28	3 new cases.
-198	2020-01-29	3 new cases.
-198	2020-01-30	2 new cases.
-199	2020-01-25	First 3 confirmed cases.
-199	2020-01-27	1 more case. * One more case.
+195	2020-01-27	2 more cases.
+196	2020-01-25	First confirmed case in Australia.
+196	2020-01-29	1 new case, 6th case in Australia.
+196	2020-01-30	1 new case.
+197	2020-01-25	First confirmed case. Added 3 more from previous update.
+197	2020-01-26	4 more cases.
+197	2020-01-28	3 new cases.
+197	2020-01-29	3 new cases.
+197	2020-01-30	2 new cases.
+198	2020-01-25	First 3 confirmed cases.
+198	2020-01-27	1 more case. * One more case.
+199	2020-01-25	First confirmed case.
+199	2020-01-28	2 new cases.
+199	2020-01-29	1 new case.
+199	2020-01-31	2 new cases.
 200	2020-01-25	First confirmed case.
-200	2020-01-28	2 new cases.
+200	2020-01-26	Second confirmed case.
+200	2020-01-27	One more case.
+200	2020-01-28	One new case.
 200	2020-01-29	1 new case.
 201	2020-01-25	First confirmed case.
-201	2020-01-26	Second confirmed case.
 201	2020-01-27	One more case.
-201	2020-01-28	One new case.
-201	2020-01-29	1 new case.
-202	2020-01-25	First confirmed case.
-202	2020-01-27	One more case.
-202	2020-01-28	5 new cases.
-203	2020-01-25	First 3 confirmed cases in Malaysia.
-203	2020-01-25	* One more case in a Chinese national that travelled by bus from Singapore with 17 other people, including wife and child. All of them treated at Selangor hospital.
+201	2020-01-28	5 new cases.
+201	2020-01-31	2 new cases.
+202	2020-01-25	First 3 confirmed cases in Malaysia.
+202	2020-01-25	* One more case in a Chinese national that travelled by bus from Singapore with 17 other people, including wife and child. All of them treated at Selangor hospital.
+202	2020-01-28	1 new case.
+202	2020-01-30	1 new case. Wife of previous case.
+203	2020-01-24	Lingyuan cases counted in Chaoyang.
 203	2020-01-28	1 new case.
-204	2020-01-24	Lingyuan cases counted in Chaoyang.
+203	2020-01-29	1 new case.
+203	2020-01-31	1 new case.
+204	2020-01-25	First confirmed case.
+204	2020-01-27	2 more cases. * 1 more case.
 204	2020-01-28	1 new case.
-204	2020-01-29	1 new case.
+204	2020-01-29	2 new cases.
 205	2020-01-25	First confirmed case.
-205	2020-01-27	2 more cases. * 1 more case.
-205	2020-01-28	1 new case.
-205	2020-01-29	2 new cases.
-206	2020-01-25	First confirmed case.
-206	2020-01-26	Two more cases.
-206	2020-01-28	One more case in Huimin County.
-206	2020-01-29	2 new cases. * 1 new case.
-207	2020-01-25	First 3 confirmed cases from Longwen, Xiangcheng and Zhao'an.
-207	2020-01-26	One more case.
-207	2020-01-27	One more case.
-207	2020-01-28	1 new case.
-208	2020-01-25	First confirmed case from Sanyuan district.
-208	2020-01-26	3 more cases.
-208	2020-01-28	4 new cases.
-208	2020-01-30	1 new case.
-209	2020-01-25	First three confirmed cases (locally transmitted between 3 family members) from Wangyi District.
-209	2020-01-26	One more case in family member of previous update, and one more case of close contact.
-210	2020-01-25	First confirmed case in Luonan County, infected in Huangshi, Hubei.
-210	2020-01-28	1 new case.
-211	2020-01-25	First confirmed case.
-212	2020-01-25	3 confirmed cases in Chinese nationals that arrived to Sydney and came forward.
-212	2020-01-27	One more case.
-213	2020-01-25	First confirmed case.
-214	2020-01-25	First confirmed case in Anlong County.
-215	2020-01-25	First confirmed case in Qinghai province, one of the last 2 provinces that hadn't confirmed cases (last one is Tibet).
-215	2020-01-26	3 more cases in a family that lived in Wuhan.
-215	2020-01-27	2 more cases, related to previous cases. Locally transmitted.
-216	2020-01-25	First confirmed case.
+205	2020-01-26	Two more cases.
+205	2020-01-28	One more case in Huimin County.
+205	2020-01-29	2 new cases. * 1 new case.
+205	2020-01-30	2 new cases.
+206	2020-01-25	First 3 confirmed cases fromÂ Longwen,Â Xiangcheng andÂ Zhao'an.
+206	2020-01-26	One more case.
+206	2020-01-27	One more case.
+206	2020-01-28	1 new case.
+207	2020-01-25	First confirmed case from Sanyuan district.
+207	2020-01-26	3 more cases.
+207	2020-01-28	4 new cases.
+207	2020-01-30	1 new case.
+208	2020-01-25	First three confirmed cases (locally transmitted between 3 family members) fromÂ Wangyi District.
+208	2020-01-26	One more case in family member of previous update, and one more case of close contact.
+209	2020-01-25	First confirmed case inÂ Luonan County, infected inÂ Huangshi, Hubei.
+209	2020-01-28	1 new case.
+210	2020-01-25	First confirmed case.
+210	2020-01-31	1 new case.
+211	2020-01-25	3 confirmed cases in Chinese nationals that arrived to Sydney and came forward.
+211	2020-01-27	One more case.
+212	2020-01-25	First confirmed case.
+213	2020-01-25	First confirmed case inÂ Anlong County.
+214	2020-01-25	First confirmed case in Qinghai province, one of the last 2 provinces that hadn't confirmed cases (last one is Tibet).
+214	2020-01-26	3 more cases in a family that lived in Wuhan.
+214	2020-01-27	2 more cases, related to previous cases. Locally transmitted.
+215	2020-01-25	First confirmed case.
+215	2020-01-27	One more case.
+215	2020-01-28	1 new case.
+215	2020-01-30	1 new case.
+216	2020-01-25	First confirmed case in Mengzi.
 216	2020-01-27	One more case.
-216	2020-01-28	1 new case.
-216	2020-01-30	1 new case.
-217	2020-01-25	First confirmed case in Mengzi.
-217	2020-01-27	One more case.
-217	2020-01-30	2 new cases.
-218	2020-01-25	First confirmed case in Yimen.
-218	2020-01-28	4 new cases.
-218	2020-01-30	1 new case.
-219	2020-01-25	First confirmed case in Luoping.
-219	2020-01-27	One more case.
-219	2020-01-29	3 new cases.
+216	2020-01-30	2 new cases.
+217	2020-01-25	First confirmed case in Yimen.
+217	2020-01-28	4 new cases.
+217	2020-01-30	1 new case.
+218	2020-01-25	First confirmed case inÂ Luoping.
+218	2020-01-27	One more case.
+218	2020-01-29	3 new cases.
+219	2020-01-25	First confirmed case.
+219	2020-01-30	1 new case.
 220	2020-01-25	First confirmed case.
-220	2020-01-30	1 new case.
-221	2020-01-25	First confirmed case.
-221	2020-01-27	4 more cases.
-221	2020-01-29	2 new cases.
-221	2020-01-30	8 new cases. Doubled.
-222	2020-01-25	First confirmed case. Case from Xiandong officially counted here.
-222	2020-01-29	3 new cases.
-223	2020-01-25	First confirmed case.
-224	2020-01-25	First two confirmed cases.
-224	2020-01-27	3 more cases.
-224	2020-01-28	4 new cases.
-225	2020-01-25	First 2 confirmed cases.
-225	2020-01-26	34 new cases (red).
-225	2020-01-28	34 new cases.
-225	2020-01-29	61 new cases.
-225	2020-01-30	32 new cases.
-226	2020-01-25	First confirmed case in Canada, 3rd confirmed case in North America. 
-226	2020-01-27	Second confirmed case.
-227	2020-01-26	Confirmed case detected at Incheon Int. Airport being treated in Goyang (transferred).
+220	2020-01-27	4 more cases.
+220	2020-01-29	2 new cases.
+220	2020-01-30	8 new cases. Doubled.
+220	2020-01-31	1 new case.
+221	2020-01-25	First confirmed case. Case from Xiandong officially counted here.
+221	2020-01-29	3 new cases.
+221	2020-01-31	3 new cases.
+222	2020-01-25	First confirmed case.
+223	2020-01-25	First two confirmed cases.
+223	2020-01-27	3 more cases.
+223	2020-01-28	4 new cases.
+224	2020-01-25	First 2 confirmed cases.
+224	2020-01-26	34 new cases (red).
+224	2020-01-28	34 new cases.
+224	2020-01-29	61 new cases.
+224	2020-01-30	32 new cases.
+224	2020-01-31	123 new cases.
+225	2020-01-25	First confirmed case in Canada, 3rd confirmed case in North America.Â 
+225	2020-01-27	Second confirmed case.
+226	2020-01-26	Confirmed case detected at Incheon Int. Airport being treated in Goyang (transferred).
+227	2020-01-26	First 3 confirmed cases.
+227	2020-01-27	4 more cases.
+227	2020-01-28	4 more cases.
+227	2020-01-29	3 new cases.
+227	2020-01-30	2 new cases.
+227	2020-01-31	4 new cases. 20 total (red).
 228	2020-01-26	First 3 confirmed cases.
-228	2020-01-27	4 more cases.
-228	2020-01-28	4 more cases.
-228	2020-01-29	3 new cases.
+228	2020-01-27	3 more cases.
+228	2020-01-28	3 new cases.
 228	2020-01-30	2 new cases.
-229	2020-01-26	First 3 confirmed cases.
-229	2020-01-27	3 more cases.
-229	2020-01-28	3 new cases.
-229	2020-01-30	2 new cases.
-230	2020-01-26	First confirmed case.
-230	2020-01-27	1 more case.
-230	2020-01-29	2 new cases.
-230	2020-01-30	2 new cases.
-231	2020-01-26	First 3 confirmed cases.
+228	2020-01-31	2 new cases.
+229	2020-01-26	First confirmed case.
+229	2020-01-27	1 more case.
+229	2020-01-29	2 new cases.
+229	2020-01-30	2 new cases. * 2 new cases.
+230	2020-01-26	First 3 confirmed cases.
+230	2020-01-30	1 new case.
+230	2020-01-31	1 new case.
+231	2020-01-26	First 2 confirmed cases.
+231	2020-01-27	One more case.
+231	2020-01-29	6 new cases. * 1 new case.
 231	2020-01-30	1 new case.
-232	2020-01-26	First 2 confirmed cases.
-232	2020-01-27	One more case.
-232	2020-01-29	6 new cases. * 1 new case.
-232	2020-01-30	1 new case.
+232	2020-01-26	First confirmed case.
+232	2020-01-28	3 new cases.
+232	2020-01-29	3 new cases.
+232	2020-01-31	2 new cases.
 233	2020-01-26	First confirmed case.
-233	2020-01-28	3 new cases.
-233	2020-01-29	3 new cases.
-234	2020-01-26	First confirmed case.
-234	2020-01-27	One more case.
-234	2020-01-30	4 new cases.
-235	2020-01-26	First confirmed case. Partial lockdown.
+233	2020-01-27	One more case.
+233	2020-01-30	4 new cases.
+234	2020-01-26	First confirmed case. Partial lockdown.
+234	2020-01-28	One more case.
+235	2020-01-26	First confirmed case.
 235	2020-01-28	One more case.
+235	2020-01-30	2 new cases.
 236	2020-01-26	First confirmed case.
-236	2020-01-28	One more case.
-236	2020-01-30	2 new cases.
+236	2020-01-27	One more case.
+236	2020-01-28	2 more cases.
+236	2020-01-29	4 new cases (doubled).
+236	2020-01-30	1 new case.
+236	2020-01-31	3 new cases.
 237	2020-01-26	First confirmed case.
 237	2020-01-27	One more case.
-237	2020-01-28	2 more cases.
-237	2020-01-29	4 new cases (doubled).
-237	2020-01-30	1 new case.
-238	2020-01-26	First confirmed case.
-238	2020-01-27	One more case.
-238	2020-01-29	1 new case.
-238	2020-01-30	4 new cases.
-239	2020-01-26	First 3 confirmed cases.
+237	2020-01-29	1 new case.
+237	2020-01-30	4 new cases.
+237	2020-01-31	3 new cases.
+238	2020-01-26	First 3 confirmed cases.
+238	2020-01-28	1 new case.
+238	2020-01-29	2 new cases.
+239	2020-01-26	First confirmed case.
 239	2020-01-28	1 new case.
-239	2020-01-29	2 new cases.
-240	2020-01-26	First confirmed case.
-240	2020-01-28	1 new case.
+239	2020-01-29	1 new case.
+240	2020-01-26	First 3 confirmed cases.
+240	2020-01-28	2 new cases.
 240	2020-01-29	1 new case.
-241	2020-01-26	First 3 confirmed cases.
-241	2020-01-28	2 new cases.
-241	2020-01-29	1 new case.
-242	2020-01-26	First confirmed case.
-242	2020-01-27	2 more cases.
-242	2020-01-29	2 new cases.
-243	2020-01-26	First 2 confirmed cases.
-243	2020-01-28	2 new cases.
-243	2020-01-30	2 new cases.
+240	2020-01-31	1 new case.
+241	2020-01-26	First confirmed case.
+241	2020-01-27	2 more cases.
+241	2020-01-29	2 new cases.
+241	2020-01-31	1 new case.
+242	2020-01-26	First 2 confirmed cases.
+242	2020-01-28	2 new cases.
+242	2020-01-30	2 new cases.
+242	2020-01-31	1 new case.
+243	2020-01-26	First confirmed case.
 244	2020-01-26	First confirmed case.
 245	2020-01-26	First confirmed case.
 246	2020-01-26	First confirmed case.
 247	2020-01-26	First confirmed case.
-248	2020-01-26	First confirmed case.
-248	2020-01-30	1 new case.
-249	2020-01-26	First 2 confirmed cases.
-249	2020-01-27	One more case.
+247	2020-01-30	1 new case.
+248	2020-01-26	First 2 confirmed cases.
+248	2020-01-27	One more case.
+248	2020-01-28	One new case.
+248	2020-01-29	1 new case. * 1 new case.
+248	2020-01-30	2 new cases.
+249	2020-01-26	First confirmed case.
 249	2020-01-28	One new case.
-249	2020-01-29	1 new case. * 1 new case.
 250	2020-01-26	First confirmed case.
-250	2020-01-28	One new case.
-251	2020-01-26	First confirmed case.
-251	2020-01-29	1 new case.
+250	2020-01-29	1 new case.
+250	2020-01-30	2 new cases.
+251	2020-01-26	First 2 confirmed cases.
+251	2020-01-28	1 new case.
+251	2020-01-30	2 new cases.
 252	2020-01-26	First 2 confirmed cases.
-252	2020-01-28	1 new case.
-252	2020-01-30	2 new cases.
-253	2020-01-26	First 2 confirmed cases.
-253	2020-01-28	2 new cases.
-253	2020-01-29	1 new case.
-253	2020-01-30	4 new cases.
+252	2020-01-28	2 new cases.
+252	2020-01-29	1 new case.
+252	2020-01-30	4 new cases.
+252	2020-01-31	2 new cases.
+253	2020-01-26	First confirmed case.
+253	2020-01-30	1 new case.
 254	2020-01-26	First confirmed case.
-254	2020-01-30	1 new case.
+254	2020-01-28	One new case.
 255	2020-01-26	First confirmed case.
-255	2020-01-28	One new case.
+255	2020-01-27	First death and second confirmed case.
 256	2020-01-26	First confirmed case.
-256	2020-01-27	First death and second confirmed case.
 257	2020-01-26	First confirmed case.
-258	2020-01-26	First confirmed case.
-258	2020-01-28	1 new case.
-259	2020-01-26	First confirmed case. * One more case.
-260	2020-01-26	First confirmed case in Xixiang County.
-260	2020-01-27	Two more cases in a couple of Xixiang County. 
-260	2020-01-28	2 new cases.
+257	2020-01-28	1 new case.
+258	2020-01-26	First confirmed case. * One more case.
+258	2020-01-30	1 new case.
+259	2020-01-26	First confirmed case inÂ Xixiang County.
+259	2020-01-27	Two more cases in a couple of Xixiang County.Â 
+259	2020-01-28	2 new cases.
+259	2020-01-29	2 new cases.
+260	2020-01-26	First confirmed case.
+260	2020-01-28	1 new case.
 260	2020-01-29	2 new cases.
-261	2020-01-26	First confirmed case.
-261	2020-01-28	1 new case.
-261	2020-01-29	2 new cases.
-262	2020-01-26	First confirmed case and 3rd confirmed case in the US. Will use specific city if info provided.
+260	2020-01-31	1 new case.
+261	2020-01-26	First confirmed case and 3rd confirmed case in the US. Will use specific city if info provided.
+262	2020-01-26	First confirmed case.
+262	2020-01-28	2 new cases. * 1 new case.
+262	2020-01-30	1 new case.
 263	2020-01-26	First confirmed case.
-263	2020-01-28	2 new cases. * 1 new case.
-263	2020-01-30	1 new case.
-264	2020-01-26	4th confirmed case in Japan, likely in Nagoya but no info about exact place provided.
-264	2020-01-28	1 new case.
-265	2020-01-26	First confirmed case.
-265	2020-01-27	One more case.
-265	2020-01-28	1 new case.
-266	2020-01-26	First confirmed case.
-266	2020-01-27	8 more cases. * 1 more case.
-266	2020-01-28	4 new cases.
-266	2020-01-30	3 new cases.
-267	2020-01-26	First 2 confirmed cases.
-268	2020-01-26	First 2 confirmed cases.
-268	2020-01-27	One more case.
-268	2020-01-28	1 new case.
-268	2020-01-30	1 new case.
-269	2020-01-26	First confirmed case.
-269	2020-01-28	1 new case.
-269	2020-01-30	2 new cases.
-270	2020-01-26	First confirmed case.
-270	2020-01-29	4 new cases.
-271	2020-01-26	First confirmed case. Another one was transferred here from Bangkok.
-271	2020-01-28	6 new cases of Chinese nationals, being treated in Nonthaburi. 
-272	2020-01-26	First confirmed case, and first confirmed case out of metro Bangkok.
+263	2020-01-27	One more case.
+263	2020-01-28	1 new case.
+264	2020-01-26	First confirmed case.
+264	2020-01-27	8 more cases. * 1 more case.
+264	2020-01-28	4 new cases.
+264	2020-01-30	3 new cases.
+265	2020-01-26	First 2 confirmed cases.
+265	2020-01-30	1 new case.
+266	2020-01-26	First 2 confirmed cases.
+266	2020-01-27	One more case.
+266	2020-01-28	1 new case.
+266	2020-01-30	1 new case. * 1 new case.
+267	2020-01-26	First confirmed case.
+267	2020-01-28	1 new case.
+267	2020-01-30	2 new cases.
+268	2020-01-26	First confirmed case.
+268	2020-01-29	4 new cases.
+268	2020-01-31	3 new cases.
+269	2020-01-26	First confirmed case. Another one was transferred here from Bangkok.
+269	2020-01-28	6 new cases of Chinese nationals, being treated in Nonthaburi.Â 
+270	2020-01-26	First confirmed case, and first confirmed case out of metro Bangkok.
+271	2020-01-26	First 2 confirmed cases.
+272	2020-01-26	First confirmed case, 4th confirmed case in the U.S.
 273	2020-01-26	First 2 confirmed cases.
-274	2020-01-26	First confirmed case, 4th confirmed case in the U.S.
-275	2020-01-26	First 2 confirmed cases.
-275	2020-01-29	1 new case.
-276	2020-01-26	First confirmed case.
-276	2020-01-27	2 more cases.
-276	2020-01-29	1 new case.
-277	2020-01-26	First confirmed case.
-278	2020-01-26	First confirmed case, first confirmed case in Maricopa County and 5th confirmed case in the US.
-279	2020-01-27	First 2 confirmed cases.
-279	2020-01-28	1 new case.
-280	2020-01-27	First confirmed case.
-281	2020-01-27	First confirmed case.
-282	2020-01-27	First 6 confirmed cases.
+273	2020-01-29	1 new case.
+274	2020-01-26	First confirmed case.
+274	2020-01-27	2 more cases.
+274	2020-01-29	1 new case.
+274	2020-01-30	1 new case.
+275	2020-01-26	First confirmed case.
+276	2020-01-26	First confirmed case, first confirmed case in Maricopa County and 5th confirmed case in the US.
+277	2020-01-27	First 2 confirmed cases.
+277	2020-01-28	1 new case.
+278	2020-01-27	First confirmed case.
+279	2020-01-27	First confirmed case.
+280	2020-01-27	First 6 confirmed cases.
+280	2020-01-28	One new case.
+280	2020-01-29	7 new cases, doubled.
+280	2020-01-30	4 new cases.
+280	2020-01-31	9 new cases. 27 total (red).
+281	2020-01-27	First 2 confirmed cases.
+281	2020-01-29	3 new cases.
+281	2020-01-30	1 new case.
+282	2020-01-27	First confirmed case.
 282	2020-01-28	One new case.
-282	2020-01-29	7 new cases, doubled.
-282	2020-01-30	4 new cases.
-283	2020-01-27	First 2 confirmed cases.
-283	2020-01-29	3 new cases.
+282	2020-01-30	1 new case.
+282	2020-01-31	5 new cases.
+283	2020-01-27	First confirmed case.
+283	2020-01-28	One new case.
+283	2020-01-29	1 new case.
 283	2020-01-30	1 new case.
-284	2020-01-27	First confirmed case.
-284	2020-01-28	One new case.
-284	2020-01-30	1 new case.
+283	2020-01-31	2 new cases.
+284	2020-01-27	First 3 confirmed cases.
+284	2020-01-28	5 more cases.
+284	2020-01-30	7 new cases.
+284	2020-01-31	5 new cases. 20 total (red).
 285	2020-01-27	First confirmed case.
-285	2020-01-28	One new case.
-285	2020-01-29	1 new case.
-285	2020-01-30	1 new case.
-286	2020-01-27	First 3 confirmed cases.
-286	2020-01-28	5 more cases.
-286	2020-01-30	7 new cases.
-287	2020-01-27	First confirmed case.
+285	2020-01-31	2 new cases.
+286	2020-01-27	First 2 confirmed cases.
+287	2020-01-27	First 2 confirmed cases.
+287	2020-01-29	1 new case.
 288	2020-01-27	First 2 confirmed cases.
-289	2020-01-27	First 2 confirmed cases.
-289	2020-01-29	1 new case.
-290	2020-01-27	First 2 confirmed cases.
+289	2020-01-27	First confirmed case.
+289	2020-01-28	One new case.
+289	2020-01-29	2 new cases.Â 
+290	2020-01-27	First confirmed case.
 291	2020-01-27	First confirmed case.
-291	2020-01-28	One new case.
-291	2020-01-29	2 new cases. 
+291	2020-01-28	1 new case.
+291	2020-01-31	1 new case.
 292	2020-01-27	First confirmed case.
 293	2020-01-27	First confirmed case.
-293	2020-01-28	1 new case.
+293	2020-01-28	One new case.
+293	2020-01-31	2 new cases.
 294	2020-01-27	First confirmed case.
+294	2020-01-28	1 new case.
+294	2020-01-31	2 new cases.
 295	2020-01-27	First confirmed case.
-295	2020-01-28	One new case.
 296	2020-01-27	First confirmed case.
-296	2020-01-28	1 new case.
+296	2020-01-29	1 new case.
 297	2020-01-27	First confirmed case.
-298	2020-01-27	First confirmed case.
-298	2020-01-29	1 new case.
+297	2020-01-30	2 new cases.
+298	2020-01-27	First 2 confirmed cases.
+298	2020-01-28	4 new cases.
+298	2020-01-29	3 new cases.
 299	2020-01-27	First confirmed case.
+299	2020-01-28	1 new case.
+299	2020-01-29	1 new case.
+299	2020-01-30	2 new cases.
+299	2020-01-31	2 new cases.
 300	2020-01-27	First 2 confirmed cases.
-300	2020-01-28	4 new cases.
-300	2020-01-29	3 new cases.
 301	2020-01-27	First confirmed case.
 301	2020-01-28	1 new case.
-301	2020-01-29	1 new case.
-301	2020-01-30	2 new cases.
-302	2020-01-27	First 2 confirmed cases.
-303	2020-01-27	First confirmed case.
-303	2020-01-28	1 new case.
+301	2020-01-31	1 new case.
+302	2020-01-27	First confirmed case.
+302	2020-01-29	1 new case.
+302	2020-01-30	3 new cases.
+302	2020-01-31	2 new cases.
+303	2020-01-27	First confirmed case and 4th case in SK.
 304	2020-01-27	First confirmed case.
-304	2020-01-29	1 new case.
-304	2020-01-30	3 new cases.
-305	2020-01-27	First confirmed case and 4th case in SK.
-306	2020-01-27	First confirmed case.
-306	2020-01-28	2 new cases.
-306	2020-01-30	1 new case.
-307	2020-01-27	First 2 confirmed cases.
-307	2020-01-28	3 new cases.
-307	2020-01-29	3 new cases.
-308	2020-01-27	First confirmed case in Cambodia.
-309	2020-01-27	First confirmed case in Sri Lanka. Admitted to Infectious Diseases Hospital in Angoda (metro Colombo).
-310	2020-01-27	First confirmed case, transmitted from an asymptomatic person in Shanghai.
-310	2020-01-28	3 new cases in the same company as the previous case.
-311	2020-01-27	First confirmed case.
+304	2020-01-28	2 new cases.
+304	2020-01-30	1 new case.
+305	2020-01-27	First 2 confirmed cases.
+305	2020-01-28	3 new cases.
+305	2020-01-29	3 new cases.
+305	2020-01-30	1 new case.
+306	2020-01-27	First confirmed case in Cambodia.
+307	2020-01-27	First confirmed case in Sri Lanka. Admitted to Infectious Diseases Hospital in Angoda (metro Colombo).
+308	2020-01-27	First confirmed case, transmitted from an asymptomatic person in Shanghai.
+308	2020-01-28	3 new cases in the same company as the previous case.
+309	2020-01-27	First confirmed case.
+309	2020-01-29	2 new cases.
+309	2020-01-31	1 new case.
+310	2020-01-28	First 2 confirmed cases.
+311	2020-01-28	First confirmed case in Dongpin County.
 311	2020-01-29	2 new cases.
-312	2020-01-28	First 2 confirmed cases.
-313	2020-01-28	First confirmed case in Dongpin County.
-313	2020-01-29	2 new cases.
+312	2020-01-28	First confirmed case.
+312	2020-01-29	2 new cases.
+312	2020-01-30	2 new cases.
+312	2020-01-31	2 new cases.
+313	2020-01-28	First confirmed case.
+313	2020-01-29	1 new case.
+313	2020-01-30	1 new case.
 314	2020-01-28	First confirmed case.
-314	2020-01-29	2 new cases.
-314	2020-01-30	2 new cases.
+314	2020-01-30	1 new case.
 315	2020-01-28	First confirmed case.
-315	2020-01-29	1 new case.
-316	2020-01-28	First confirmed case.
+316	2020-01-28	First confirmed case.Â 
 317	2020-01-28	First confirmed case.
-318	2020-01-28	First confirmed case. 
+318	2020-01-28	First confirmed case.
 319	2020-01-28	First confirmed case.
-320	2020-01-28	First confirmed case.
+319	2020-01-30	1 new case.
+320	2020-01-28	First 2 confirmed cases.
+320	2020-01-29	1 new case.
+320	2020-01-30	1 new case.
 321	2020-01-28	First confirmed case.
-321	2020-01-30	1 new case.
+321	2020-01-29	2 new cases.
+321	2020-01-31	4 new cases.
 322	2020-01-28	First 2 confirmed cases.
-322	2020-01-29	1 new case.
-322	2020-01-30	1 new case.
+322	2020-01-30	3 new cases.
 323	2020-01-28	First confirmed case.
-323	2020-01-29	2 new cases.
-324	2020-01-28	First 2 confirmed cases.
+324	2020-01-28	First confirmed case.
 325	2020-01-28	First confirmed case.
 326	2020-01-28	First confirmed case.
+326	2020-01-30	2 new cases.
+326	2020-01-31	1 new case.
 327	2020-01-28	First confirmed case.
 328	2020-01-28	First confirmed case.
-328	2020-01-30	2 new cases.
-329	2020-01-28	First confirmed case.
-330	2020-01-28	First confirmed case.
-331	2020-01-28	2 cases, unknown location.
-332	2020-01-28	First 3 confirmed cases.
-332	2020-01-29	1 new case.
-333	2020-01-28	First 2 cases.
-334	2020-01-28	First confirmed case, and 6th case in Japan. Locally transmitted to a bus driver. No specific place released.
-334	2020-01-29	One case in Osaka was locally transmitted by Nara Prefecture first locally transmitted case.
-335	2020-01-28	First confirmed case.
-336	2020-01-28	First 4 confirmed cases.
-337	2020-01-28	First confirmed case.
-338	2020-01-28	First 2 confirmed cases in a couple, locally transmitted from the wife to the husband. In Hemei Township.
-339	2020-01-26	Two cases.
-340	2020-01-28	First 2 confirmed cases.
-341	2020-01-28	First confirmed case in British Columbia and third case in Canada.
+329	2020-01-28	First 3 confirmed cases.
+329	2020-01-29	1 new case.
+330	2020-01-28	First 2 cases.
+331	2020-01-28	First confirmed case.
+332	2020-01-28	First 4 confirmed cases.
+333	2020-01-28	First confirmed case.
+334	2020-01-28	First 2 confirmed cases in a couple, locally transmitted from the wife to the husband. In Hemei Township.
+335	2020-01-26	Two cases.
+336	2020-01-28	First 2 confirmed cases.
+337	2020-01-28	First confirmed case in British Columbia and third case in Canada.
+338	2020-01-29	First confirmed case.
+338	2020-01-31	2 new cases.
+339	2020-01-29	First 4 confirmed cases.
+339	2020-01-30	2 new cases.
+340	2020-01-29	First 2 confirmed cases.
+340	2020-01-30	2 new cases.
+340	2020-01-31	1 new case.
+341	2020-01-29	1 new case.
+341	2020-01-30	2 new cases.
+341	2020-01-31	1 case removed due to beingÂ asymptomatic and not being counted by the province.
 342	2020-01-29	First confirmed case.
-343	2020-01-29	First 4 confirmed cases.
-343	2020-01-30	2 new cases.
-344	2020-01-29	First 2 confirmed cases.
-344	2020-01-30	2 new cases.
-345	2020-01-29	1 new case.
-345	2020-01-30	2 new cases.
-346	2020-01-29	First confirmed case.
-346	2020-01-30	5 new cases.
-347	2020-01-29	First confirmed case.
+342	2020-01-30	5 new cases.
+343	2020-01-29	First confirmed case.
+344	2020-01-29	First confirmed case.
+344	2020-01-31	1 new case.
+345	2020-01-29	First confirmed case.
+346	2020-01-29	First 2 confirmed cases. * 1 new case.
+346	2020-01-30	1 new case.
+347	2020-01-29	1 new case. * 1 new case.
+347	2020-01-30	3 new cases.
 348	2020-01-29	First confirmed case.
-349	2020-01-29	First confirmed case.
-350	2020-01-29	First 2 confirmed cases. * 1 new case.
-350	2020-01-30	1 new case.
-351	2020-01-29	1 new case. * 1 new case.
-352	2020-01-29	First confirmed case.
-352	2020-01-30	1 new case.
-353	2020-01-29	Added 1 case from previous update.
-354	2020-01-29	Added 1 case from previous update.
-355	2020-01-29	First confirmed case.
-355	2020-01-30	2 new cases.
-356	2020-01-29	First 4 confirmed cases in the UAE and the Middle East. Cases are all from a Chinese family. Location not 100% certain, waiting for further details from the UAE government.
-357	2020-01-29	First confirmed case.
-357	2020-01-30	1 new case.
-358	2020-01-29	First confirmed case in the state and 7th in Australia.
-359	2020-01-29	First confirmed case in Finland.
-360	2020-01-29	First confirmed case. Guide in the same bus as the case in Nara Prefecture. Locally transmitted.
-361	2020-01-23	First two confirmed cases.
-361	2020-01-25	One more case.
-362	2020-01-29	First confirmed case.
+348	2020-01-30	1 new case.
+349	2020-01-29	Added 1 case from previous update.
+350	2020-01-29	Added 1 case from previous update.
+351	2020-01-29	First confirmed case.
+351	2020-01-30	2 new cases.
+352	2020-01-29	First 4 confirmed cases in the UAE and the Middle East. Cases are all from a Chinese family. Location not 100% certain, waiting for further details from the UAE government.
+353	2020-01-29	First confirmed case.
+353	2020-01-30	1 new case.
+354	2020-01-29	First confirmed case in the state and 7th in Australia.
+354	2020-01-30	1 new case, part of a Chinese group travelling with the previous case.
+355	2020-01-29	First confirmed case in Finland.
+356	2020-01-29	First confirmed case. Guide in the same bus as the case in Nara Prefecture. Locally transmitted.
+357	2020-01-23	First two confirmed cases.
+357	2020-01-25	One more case.
+358	2020-01-29	First confirmed case.
+359	2020-01-30	First confirmed case.
+360	2020-01-30	First confirmed case.
+361	2020-01-30	First confirmed case.
+361	2020-01-31	1 new case.
+362	2020-01-30	First confirmed case.
 363	2020-01-30	First confirmed case.
 364	2020-01-30	First confirmed case.
 365	2020-01-30	First confirmed case.
-366	2020-01-30	First confirmed case.
-367	2020-01-30	First confirmed case.
-368	2020-01-30	First confirmed case.
+366	2020-01-30	First 2 confirmed cases.
+367	2020-01-27	First confirmed case.
+368	2020-01-30	FIrst 2 confirmed cases.
 369	2020-01-30	First confirmed case.
-370	2020-01-30	First 2 confirmed cases.
-371	2020-01-27	First confirmed case.
-372	2020-01-30	FIrst 2 confirmed cases.
+370	2020-01-30	First confirmed case.
+370	2020-01-31	Added 1 case.
+371	2020-01-30	First confirmed case.
+372	2020-01-30	First confirmed case.
 373	2020-01-30	First confirmed case.
 374	2020-01-30	First confirmed case.
-375	2020-01-30	First confirmed case.
+375	2020-01-30	First confirmed case in Tibet. All regions in China are now reporting cases.
 376	2020-01-30	First confirmed case.
-377	2020-01-30	First confirmed case.
-378	2020-01-30	First confirmed case.
-379	2020-01-30	First confirmed case in Tibet. All regions in China are now reporting cases.
-380	2020-01-30	First confirmed case in India. Student from Wuhan University. Exact location will be added when more info is available.
-381	2020-01-30	First confirmed case in India. Student from Wuhan University. Exact location will be added when more info is available.
+377	2020-01-30	First confirmed case in the Philippines, treated atÂ San Lazaro Hospital according to Sen. Christopher Go
+378	2020-01-30	First confirmed case in India, was already in isolation atÂ Thrissur General Hospital.
+379	2020-01-30	First confirmed case, 3rd case in Vietnam.
+380	2020-01-30	First 2 confirmed cases in the capital of Vietnam.
+381	2020-01-30	First confirmed case in Kyoto (city and prefecture).
+382	2020-01-30	First 2 confirmed cases in Italy.
+383	2020-01-30	First confirmed case, 5th case in Germany. Related to the 4 cases in StarnbergÂ (H2H).
+384	2020-01-31	25 confirmed cases. Plus 130 from previous updates.
+385	2020-01-30	First confirmed case.
+386	2020-01-31	First confirmed case.
+387	2020-01-31	First confirmed case.
+388	2020-01-31	First 4 confirmed cases.
+389	2020-01-31	First confirmed case.
+390	2020-01-31	First confirmed case.
+391	2020-01-31	First confirmed case.
+392	2020-01-31	First 2 confirmed cases in the UK and England.
