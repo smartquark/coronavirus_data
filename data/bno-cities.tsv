@@ -98,7 +98,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 97	23.476962	111.279115	4				Guangxi	CHN
 98	23.902479	106.618283	2				Guangxi	CHN
 99	24.692931	108.085261	6				Guangxi	CHN
-100	35.6803997	139.7690174	6				Kantō (capital)s+	JPN
+100	35.6803997	139.7690174	8				Kantō (capital)s+	JPN
 101	37.566535	126.9779692	4				SCA (capital)	KOR
 102	30.20003	115.038835	168	1	LOCKDOWN		Hubei	CHN
 103	30.272156	109.488172	75				Hubei	CHN
@@ -396,3 +396,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 395	35.6074041	140.1065366	1				Chiba Prefecture	JPN
 396	48.1739373	11.2430079000001	1				Bavaria	DEU
 397	57.7826137	14.1617876	1				 Småland	SWE
+398	42.9849233	-81.2452768	1				Ontario	CAN

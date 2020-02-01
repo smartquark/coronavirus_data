@@ -649,6 +649,7 @@ location_id	date	description
 100	2020-01-23	Japan confirms a 2nd case on a Wuhan male visiting Tokyo.
 100	2020-01-25	Second confirmed case in Tokyo.
 100	2020-01-30	3 new cases from chartered flight that arrived from Wuhan. 2 of them asymptomatic.Â * 1 new case.
+100	2020-01-31	2 new asymptomatic cases.
 101	2020-01-24	Confirmed case detected at Incheon Int. Airport being treated inÂ Euljiro (transferred).
 101	2020-01-30	2 new cases, one possible infected by h2h transmission.Â 
 101	2020-01-31	1 new case of H2H transmission, 3rd generation.
@@ -1568,3 +1569,4 @@ location_id	date	description
 395	2020-01-31	First confirmed case in Chiba.
 396	2020-01-31	First confirmed case, related to the cases in Starnberg.
 397	2020-01-31	First confirmed case in Sweden.
+398	2020-01-31	First confirmed case and 4th case in Canada.
