@@ -15,6 +15,7 @@ location_id	date	description
 1	2020-01-29	315 new cases. 19 new deaths.
 1	2020-01-30	356 new cases and 25 deaths.
 1	2020-01-31	378 new cases. 30 new deaths.
+1	2020-02-01	576 new cases.
 2	2020-01-13	First confirmed case of Wuhan resident visiting Bangkok since Jan. 8th.
 2	2020-01-17	Second confirmed case at airport, person arrived from Wuhan. Transferred toÂ Nonthaburi.
 2	2020-01-19	Third confirmed case at airport. (Imported - transferred toÂ Nonthaburi)
@@ -100,6 +101,7 @@ location_id	date	description
 11	2020-01-29	111 new cases. 1 new death.
 11	2020-01-30	172 new cases and 7 deaths.
 11	2020-01-31	77 new cases. 573
+11	2020-02-01	153 new cases. 2 new deaths.
 12	2020-01-21	First confirmed (imported) case. Another one confirmed later.
 12	2020-01-22	Two more cases.
 12	2020-01-23	2 more cases.
@@ -523,6 +525,7 @@ location_id	date	description
 77	2020-01-29	30 new cases.
 77	2020-01-30	50 new cases and 1 death.
 77	2020-01-31	70 new cases.
+77	2020-02-01	66 new cases. 1 new death.
 78	2020-01-23	First confirmed case, imported. 1 case transferred from Lianjiang.
 78	2020-01-24	Two more confirmed cases.
 78	2020-01-24	* One confirmed case.
@@ -601,6 +604,7 @@ location_id	date	description
 90	2020-01-29	27 new cases and first death.
 90	2020-01-30	39 new cases and 1 death.
 90	2020-01-31	66 new cases. 4 new deaths.
+90	2020-02-01	38 new cases. 3 new deaths.
 91	2020-01-23	City in lockdown.
 91	2020-01-24	First 2 confirmed cases.
 91	2020-01-24	* 8 more cases.
@@ -666,6 +670,7 @@ location_id	date	description
 102	2020-01-29	33 new cases.
 102	2020-01-30	27 new cases.
 102	2020-01-31	55 new cases.
+102	2020-02-01	41 new cases. 1 new death.
 103	2020-01-24	City in lockdown.
 103	2020-01-24	* First 11 cases confirmed.
 103	2020-01-25	6 more cases.
@@ -740,6 +745,7 @@ location_id	date	description
 115	2020-01-29	12 new cases.
 115	2020-01-30	54 new cases (almost doubled).
 115	2020-01-31	50 new cases.
+115	2020-02-01	109 cases.
 116	2020-01-24	First 22 confirmed cases, making it the city with highest number of cases reported in a single day outside Wuhan.
 116	2020-01-24	* 4 more cases.
 116	2020-01-25	29 new cases added.
@@ -748,6 +754,7 @@ location_id	date	description
 116	2020-01-29	101 new cases. 2 new deaths.
 116	2020-01-30	125 new cases and 3 deaths.
 116	2020-01-31	142 new cases. 3 new deaths.
+116	2020-02-01	87 new cases. 3 new deaths.
 117	2020-01-24	First confirmed case.
 117	2020-01-24	* 4 more cases.
 117	2020-01-25	15 more cases, total of 20 (red).
@@ -756,6 +763,7 @@ location_id	date	description
 117	2020-01-29	23 new cases.
 117	2020-01-30	31 new cases.
 117	2020-01-31	31 new cases.
+117	2020-02-01	27 new cases.
 118	2020-01-24	First confirmed case.
 118	2020-01-28	1 new case.
 118	2020-01-31	1 new case.
@@ -906,7 +914,7 @@ location_id	date	description
 146	2020-01-29	11 new cases. 1 new death.
 146	2020-01-30	10 new cases.
 146	2020-01-31	23 new cases. 3 new deaths.
-146	2020-02-01	15 new cases.
+146	2020-02-01	15 new cases. 1 new death.
 147	2020-01-24	First confirmed case.
 147	2020-01-25	Two more cases from Baihe county.
 147	2020-01-27	Four more cases. 2 in Xunyang county, 1 in Baihe county and 1 in Ziyang county.
@@ -977,6 +985,7 @@ location_id	date	description
 162	2020-01-29	46 new cases.
 162	2020-01-30	27 new cases.
 162	2020-01-31	85 new cases.
+162	2020-02-01	76 new cases. First death.
 163	2020-01-24	First confirmed case.
 163	2020-01-28	2 new cases.
 163	2020-01-29	1 new case.
@@ -1219,6 +1228,7 @@ location_id	date	description
 224	2020-01-29	61 new cases.
 224	2020-01-30	32 new cases.
 224	2020-01-31	123 new cases.
+224	2020-02-01	61 new cases.
 225	2020-01-25	First confirmed case in Canada, 3rd confirmed case in North America.Â 
 225	2020-01-27	Second confirmed case.
 226	2020-01-26	Confirmed case detected at Incheon Int. Airport being treated in Goyang (transferred).
@@ -1563,6 +1573,7 @@ location_id	date	description
 381	2020-01-30	First confirmed case, 5th case in Germany. Related to the 4 cases in StarnbergÂ (H2H).
 381	2020-01-31	Child infected, son of previous case.
 382	2020-01-31	25 confirmed cases. Plus 130 from previous updates.
+382	2020-02-01	40 new cases.
 383	2020-01-30	First confirmed case.
 384	2020-01-31	First confirmed case.
 385	2020-01-31	First confirmed case.

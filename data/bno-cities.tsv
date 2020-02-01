@@ -1,5 +1,5 @@
 location_id	latitude	longitude	confirmed	deaths	status	location	region	country_code
-1	30.592849	114.305539	2639				Hubei	CHN
+1	30.592849	114.305539	3215				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
 3	22.543096	114.057865	134				Guangdong	CHN
 4	39.9041999	116.4073963	139				Beijing municipality (capital)	CHN
@@ -9,7 +9,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 8	31.230416	121.473701	135				Shanghai municipality	CHN
 9	37.4562557	126.7052062	2				SCA	KOR
 10	26.647661	106.630153	4				Guizhou	CHN
-11	30.453667	114.872199	573				Hubei	CHN
+11	30.453667	114.872199	726				Hubei	CHN
 12	27.993828	120.699361	217				Zhejiang	CHN
 13	30.274084	120.15507	85				Zhejiang	CHN
 14	29.985295	122.207215	7				Zhejiang	CHN
@@ -75,7 +75,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 74	29.079175	119.64742	27				Zhejiang	CHN
 75	28.970079	118.859457	12				Zhejiang	CHN
 76	31.035395	112.199427	251	5	LOCKDOWN		Hubei	CHN
-77	30.335237	112.239631	221	3	LOCKDOWN		Hubei	CHN
+77	30.335237	112.239631	287	4	LOCKDOWN		Hubei	CHN
 78	26.074478	119.296482	32				Fujian	CHN
 79	43.825592	87.616848	8				Xinjiang	CHN
 80	34.329605	108.708991	6				Shaanxi	CHN
@@ -88,7 +88,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 87	36.061089	103.834303	20				Gansu	CHN
 88	36.545015	104.138586	1				Gansu	CHN
 89	38.304477	116.838834	18				Hebei	CHN
-90	30.39194	114.894843	189				Hubei	CHN
+90	30.39194	114.894843	227				Hubei	CHN
 91	30.360882	113.423482	97	1	LOCKDOWN		Hubei	CHN
 92	30.402167	112.899762	27	1	LOCKDOWN		Hubei	CHN
 93	27.817808	114.917346	29				Jiangxi	CHN
@@ -100,7 +100,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 99	24.692931	108.085261	6				Guangxi	CHN
 100	35.6803997	139.7690174	8				Kant≈ç (capital)s+	JPN
 101	37.566535	126.9779692	5				SCA (capital)	KOR
-102	30.20003	115.038835	168	1	LOCKDOWN		Hubei	CHN
+102	30.20003	115.038835	209	2	LOCKDOWN		Hubei	CHN
 103	30.272156	109.488172	87				Hubei	CHN
 104	37.513068	122.120419	19				Shandong	CHN
 105	36.706962	119.161748	8				Shandong	CHN
@@ -113,9 +113,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 112	30.531919	117.115101	18				Anhui	CHN
 113	30.656037	117.489156	4				Anhui	CHN
 114	32.916287	117.389719	15				Anhui	CHN
-115	30.691966	111.286471	167	1	LOCKDOWN		Hubei	CHN
-116	30.917766	113.957037	541				Hubei	CHN
-117	32.629398	110.798266	150				Hubei	CHN
+115	30.691966	111.286471	276	1	LOCKDOWN		Hubei	CHN
+116	30.917766	113.957037	628				Hubei	CHN
+117	32.629398	110.798266	177				Hubei	CHN
 118	29.980537	103.013261	3				Sichuan	CHN
 119	30.532847	105.592898	5				Sichuan	CHN
 120	31.126855	104.397894	7				Sichuan	CHN
@@ -144,7 +144,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 143	37.464539	121.447852	18				Shandong	CHN
 144	36.6512	117.120095	16				Shandong	CHN
 145	37.499972	105.196902	2				Ningxia	CHN
-146	30.653061	113.165862	82	6	LOCKDOWN		Hubei	CHN
+146	30.653061	113.165862	82				Hubei	CHN
 147	32.684714	109.029022	13				Shaanxi	CHN
 148	36.585445	109.489757	7				Shaanxi	CHN
 149	27.7172453	85.3239605	1				Bagmati Pradesh (capital)s+	NPL
@@ -160,7 +160,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 159	25.830694	114.933546	27				Jiangxi	CHN
 160	27.815743	114.416785	26				Jiangxi	CHN
 161	29.268783	117.178443	3				Jiangxi	CHN
-162	31.690215	113.382458	228				Hubei	CHN
+162	31.690215	113.382458	304				Hubei	CHN
 163	40.076762	113.300129	5				Shanxi	CHN
 164	36.195409	113.116404	3				Shanxi	CHN
 165	35.026516	111.00746	8				Shanxi	CHN
@@ -222,7 +222,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 221	27.622768	113.854556	8				Jiangxi	CHN
 222	37.856971	113.580519	1				Shanxi	CHN
 223	37.687357	112.752652	9				Shanxi	CHN
-224	32.009016	112.122426	286				Hubei¬	CHN
+224	32.009016	112.122426	347				Hubei¬	CHN
 225	43.653226	-79.3831843	2				Ontario	CAN
 226	37.6583599	126.8320201	1				¬†Gyeonggi	KOR
 227	36.097577	114.392392	20				Henan	CHN
@@ -380,7 +380,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 379	35.011564	135.7681489	1				Kyoto Prefecture	JPN
 380	41.9027835	12.4963655	2				¬†Lazio	ITA
 381	47.8677574	12.6384037	2				Bavaria	DEU
-382	29.841438	114.322439	166				Hubei	CHN
+382	29.841438	114.322439	206				Hubei	CHN
 383	29.405002	105.594623	1				Chongqing	CHN
 384	26.582347	101.718637	1				Sichuan	CHN
 385	31.899413	102.224653	1				Sichuan	CHN
