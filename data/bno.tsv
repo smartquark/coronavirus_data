@@ -19,7 +19,7 @@ date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-02-01	Shaanxi province	101	0				2020-02-01 17:55:00
 2020-02-01	Hainan province	62	1	9			2020-02-01 17:55:00
 2020-02-01	Heilongjiang province	80	2	12			2020-02-01 17:55:00
-2020-02-01	Liaoning province	60	0	6			2020-02-01 17:55:00
+2020-02-01	Liaoning province	63	0	6			2020-02-01 17:55:00
 2020-02-01	Shanxi province	47	0	2			2020-02-01 17:55:00
 2020-02-01	Tianjin	37	0	15			2020-02-01 17:55:00
 2020-02-01	Gansu province	35	0	5			2020-02-01 17:55:00
@@ -30,7 +30,7 @@ date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-02-01	Guizhou province	29	0	5			2020-02-01 17:55:00
 2020-02-01	Qinghai province	9	0	1			2020-02-01 17:55:00
 2020-02-01	Tibet	1	0				2020-02-01 17:55:00
-2020-02-01	MAINLAND CHINA TOTAL	11857	259	795	988	243	2020-02-01 17:55:00
+2020-02-01	MAINLAND CHINA TOTAL	11860	259	795	988	243	2020-02-01 17:55:00
 2020-02-01	Hong Kong	13	0				2020-02-01 17:55:00
 2020-02-01	Taiwan	10	0				2020-02-01 17:55:00
 2020-02-01	Macau	7	0				2020-02-01 17:55:00
