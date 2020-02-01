@@ -99,7 +99,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 98	23.902479	106.618283	2				Guangxi	CHN
 99	24.692931	108.085261	6				Guangxi	CHN
 100	35.6803997	139.7690174	8				Kantō (capital)s+	JPN
-101	37.566535	126.9779692	4				SCA (capital)	KOR
+101	37.566535	126.9779692	5				SCA (capital)	KOR
 102	30.20003	115.038835	168	1	LOCKDOWN		Hubei	CHN
 103	30.272156	109.488172	75				Hubei	CHN
 104	37.513068	122.120419	19				Shandong	CHN
@@ -194,7 +194,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 193	30.674362	107.803911	2				Chongqing	CHN
 194	31.947633	108.664214	1				Chongqing	CHN
 195	29.8635	107.730894	3				Chongqing	CHN
-196	-37.8136276	144.9630576	3				Victoria	AUS
+196	-37.8136276	144.9630576	4				Victoria	AUS
 197	30.753924	120.758543	16				Zhejiang	CHN
 198	19.521134	109.580811	5				Hainan	CHN
 199	29.580228	105.058433	6				Sichuan	CHN
@@ -399,3 +399,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 398	42.9849233	-81.2452768	1				Ontario	CAN
 399	42.021602	121.670273	1				Liaoning	CHN
 400	41.108647	122.994329	1				Liaoning	CHN
+401	37.3336581	-121.8907041	1				California	USA
+402	28.1033035	-17.2193578	1				Canarias	ESP
