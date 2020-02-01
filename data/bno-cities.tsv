@@ -74,7 +74,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 73	29.995762	120.586109	23				Zhejiang	CHN
 74	29.079175	119.64742	27				Zhejiang	CHN
 75	28.970079	118.859457	12				Zhejiang	CHN
-76	31.035395	112.199427	227	5	LOCKDOWN		Hubei	CHN
+76	31.035395	112.199427	251	5	LOCKDOWN		Hubei	CHN
 77	30.335237	112.239631	221	3	LOCKDOWN		Hubei	CHN
 78	26.074478	119.296482	32				Fujian	CHN
 79	43.825592	87.616848	8				Xinjiang	CHN
@@ -89,8 +89,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 88	36.545015	104.138586	1				Gansu	CHN
 89	38.304477	116.838834	18				Hebei	CHN
 90	30.39194	114.894843	189				Hubei	CHN
-91	30.360882	113.423482	90	1	LOCKDOWN		Hubei	CHN
-92	30.402167	112.899762	12	1	LOCKDOWN		Hubei	CHN
+91	30.360882	113.423482	97	1	LOCKDOWN		Hubei	CHN
+92	30.402167	112.899762	27	1	LOCKDOWN		Hubei	CHN
 93	27.817808	114.917346	29				Jiangxi	CHN
 94	27.087637	114.964696	8				Jiangxi	CHN
 95	29.705077	116.00193	42				Jiangxi	CHN
@@ -101,7 +101,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 100	35.6803997	139.7690174	8				Kantō (capital)s+	JPN
 101	37.566535	126.9779692	5				SCA (capital)	KOR
 102	30.20003	115.038835	168	1	LOCKDOWN		Hubei	CHN
-103	30.272156	109.488172	75				Hubei	CHN
+103	30.272156	109.488172	87				Hubei	CHN
 104	37.513068	122.120419	19				Shandong	CHN
 105	36.706962	119.161748	8				Shandong	CHN
 106	34.746611	113.625328	48				Henan	CHN
@@ -144,7 +144,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 143	37.464539	121.447852	18				Shandong	CHN
 144	36.6512	117.120095	16				Shandong	CHN
 145	37.499972	105.196902	2				Ningxia	CHN
-146	30.653061	113.165862	67	6	LOCKDOWN		Hubei	CHN
+146	30.653061	113.165862	82	6	LOCKDOWN		Hubei	CHN
 147	32.684714	109.029022	13				Shaanxi	CHN
 148	36.585445	109.489757	7				Shaanxi	CHN
 149	27.7172453	85.3239605	1				Bagmati Pradesh (capital)s+	NPL
