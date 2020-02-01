@@ -7,9 +7,9 @@
 
 - Daily summary generated from https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 
-- bno-cities.tsv List of cities (with coordinates)
+- [/blob/master/data/bno-cities.tsv|bno-cities.tsv] List of cities (with coordinates)
 
-- bno-events.tsv events by location (need to join with bno-cities.tsv by location_id (location_id is not fixed, will change during next update)
+- bno-events.tsv events by location (need to join with bno-cities.tsv by location_id (location_id is not fixed, might change during next updates)
 
 - bno.tsv (List by countries)
 
