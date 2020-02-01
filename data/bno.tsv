@@ -1,7 +1,7 @@
 date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-02-01	Hubei province  (including Wuhan)	7153	249	956			2020-02-01 17:55:00
 2020-02-01	Zhejiang province	599	0	41			2020-02-01 17:55:00
-2020-02-01	Guangdong province	520	0	41			2020-02-01 17:55:00
+2020-02-01	Guangdong province	535	0	50			2020-02-01 17:55:00
 2020-02-01	Henan province	422	2	36			2020-02-01 17:55:00
 2020-02-01	Hunan province	389	0	54			2020-02-01 17:55:00
 2020-02-01	Anhui province	297	0				2020-02-01 17:55:00
@@ -30,7 +30,7 @@ date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-02-01	Guizhou province	29	0	5			2020-02-01 17:55:00
 2020-02-01	Qinghai province	9	0	1			2020-02-01 17:55:00
 2020-02-01	Tibet	1	0				2020-02-01 17:55:00
-2020-02-01	MAINLAND CHINA TOTAL	11825	259	795	988	243	2020-02-01 17:55:00
+2020-02-01	MAINLAND CHINA TOTAL	11840	259	795	988	243	2020-02-01 17:55:00
 2020-02-01	Hong Kong	13	0				2020-02-01 17:55:00
 2020-02-01	Taiwan	10	0				2020-02-01 17:55:00
 2020-02-01	Macau	7	0				2020-02-01 17:55:00
