@@ -5,7 +5,7 @@ date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-02-01	Henan province	422	2	36			2020-02-01 17:55:00
 2020-02-01	Hunan province	389	0	54			2020-02-01 17:55:00
 2020-02-01	Anhui province	297	0				2020-02-01 17:55:00
-2020-02-01	Chongqing	238	1	20			2020-02-01 17:55:00
+2020-02-01	Chongqing	247	1	20			2020-02-01 17:55:00
 2020-02-01	Jiangxi province	286	0	33			2020-02-01 17:55:00
 2020-02-01	Shandong province	206	0	12			2020-02-01 17:55:00
 2020-02-01	Sichuan province	208	1				2020-02-01 17:55:00
@@ -30,7 +30,7 @@ date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-02-01	Guizhou province	29	0	5			2020-02-01 17:55:00
 2020-02-01	Qinghai province	9	0	1			2020-02-01 17:55:00
 2020-02-01	Tibet	1	0				2020-02-01 17:55:00
-2020-02-01	MAINLAND CHINA TOTAL	11816	259	795	988	243	2020-02-01 17:55:00
+2020-02-01	MAINLAND CHINA TOTAL	11825	259	795	988	243	2020-02-01 17:55:00
 2020-02-01	Hong Kong	13	0				2020-02-01 17:55:00
 2020-02-01	Taiwan	10	0				2020-02-01 17:55:00
 2020-02-01	Macau	7	0				2020-02-01 17:55:00
