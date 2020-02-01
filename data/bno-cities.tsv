@@ -379,7 +379,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 378	21.0277644	105.8341598	2				Red River Delta (capital)s+	VNM
 379	35.011564	135.7681489	1				Kyoto Prefecture	JPN
 380	41.9027835	12.4963655	2				 Lazio	ITA
-381	47.8677574	12.6384037	1				Bavaria	DEU
+381	47.8677574	12.6384037	2				Bavaria	DEU
 382	29.841438	114.322439	166				Hubei	CHN
 383	29.405002	105.594623	1				Chongqing	CHN
 384	26.582347	101.718637	1				Sichuan	CHN
@@ -393,3 +393,6 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 392	35.9582341	126.9507864	1				 Honam	KOR
 393	22.579117	113.081508	2				Guangdong	CHN
 394	53.013208	-2.22730019999995	2				North East Englands+	GBR
+395	35.6074041	140.1065366	1				Chiba Prefecture	JPN
+396	48.1739373	11.2430079000001	1				Bavaria	DEU
+397	57.7826137	14.1617876	1				 Småland	SWE

@@ -1550,6 +1550,7 @@ location_id	date	description
 379	2020-01-30	First confirmed case in Kyoto (city and prefecture).
 380	2020-01-30	First 2 confirmed cases in Italy.
 381	2020-01-30	First confirmed case, 5th case in Germany. Related to the 4 cases in StarnbergÂ (H2H).
+381	2020-01-31	Child infected, son of previous case.
 382	2020-01-31	25 confirmed cases. Plus 130 from previous updates.
 383	2020-01-30	First confirmed case.
 384	2020-01-31	First confirmed case.
@@ -1564,3 +1565,6 @@ location_id	date	description
 393	2020-01-29	First confirmed case.
 393	2020-01-31	1 new case.
 394	2020-01-31	First 2 confirmed cases in the UK and England.
+395	2020-01-31	First confirmed case in Chiba.
+396	2020-01-31	First confirmed case, related to the cases in Starnberg.
+397	2020-01-31	First confirmed case in Sweden.
