@@ -6,7 +6,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 5	22.270978	113.576677	38				Guangdong	CHN
 6	21.270702	110.359368	13				Guangdong	CHN
 7	23.112257	114.415801	20				Guangdong	CHN
-8	31.230416	121.473701	169				Shanghai municipality	CHN
+8	31.230416	121.473701	177				Shanghai municipality	CHN
 9	37.4562557	126.7052062	2				SCA	KOR
 10	26.647661	106.630153	4				Guizhou	CHN
 11	30.453667	114.872199	1002				Hubei	CHN
@@ -85,7 +85,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 84	32.060255	118.796877	28				Jiangsu	CHN
 85	34.596653	119.221611	13				Jiangsu	CHN
 86	32.394209	119.412939	13				Jiangsu	CHN
-87	36.061089	103.834303	20				Gansu	CHN
+87	36.061089	103.834303	23				Gansu	CHN
 88	36.545015	104.138586	1				Gansu	CHN
 89	38.304477	116.838834	19				Hebei	CHN
 90	30.39194	114.894843	278				Hubei	CHN
@@ -121,14 +121,14 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 120	31.126855	104.397894	7				Sichuan	CHN
 121	31.980171	120.894291	12				Jiangsu	CHN
 122	31.491169	120.31191	13				Jiangsu	CHN
-123	29.6426	106.567	10				 Chongqing	CHN
+123	29.6426	106.567	12				 Chongqing	CHN
 124	28.447997	109.007094	1				 Chongqing	CHN
 125	31.398604	109.570062	11				 Chongqing	CHN
-126	31.018498	109.463987	5				Chongqing	CHN
+126	31.018498	109.463987	8				Chongqing	CHN
 127	30.930612	108.697324	18				Chongqing	CHN
 128	31.2699214	108.3816532	16				 Chongqing	CHN
-129	29.502272	106.510676	9				Chongqing	CHN
-130	29.718142	106.631187	11				 Chongqing	CHN
+129	29.502272	106.510676	11				Chongqing	CHN
+130	29.718142	106.631187	12				 Chongqing	CHN
 131	29.484527	106.482346	4				 Chongqing	CHN
 132	22.6272784	120.3014353	2				Kaohsiung City Municipality	TWN
 133	30.299559	108.039002	12				Chongqing	CHN
@@ -245,9 +245,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 244	38.182362	107.477514	1				Inner Mongolia	CHN
 245	39.822507	109.963338	1				Inner Mongolia	CHN
 246	43.653169	111.977943	1				Inner Mongolia	CHN
-247	35.580662	104.626282	2				Gansu	CHN
-248	29.606703	106.574271	12				Chongqing	CHN
-249	29.844811	106.056404	2				Chongqing	CHN
+247	35.580662	104.626282	3				Gansu	CHN
+248	29.606703	106.574271	13				Chongqing	CHN
+249	29.844811	106.056404	4				Chongqing	CHN
 250	29.707032	105.721733	4				Chongqing	CHN
 251	30.04952	101.96231	5				Sichuan	CHN
 252	30.837793	106.110698	16				Sichuan	CHN
@@ -255,7 +255,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 254	29.552115	103.765678	2				Sichuan	CHN
 255	19.738521	110.006755	2				Hainan	CHN
 256	40.667433	122.235084	1				Liaoning	CHN
-257	40.000787	124.35445	2				Liaoning	CHN
+257	40.000787	124.35445	3				Liaoning	CHN
 258	41.119997	122.070714	7				Liaoning	CHN
 259	33.06748	107.023323	14				Shaanxi	CHN
 260	43.916823	81.324136	5				Xinjiang	CHN
@@ -344,7 +344,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 343	45.295075	130.969333	4				Heilongjiang	CHN
 344	35.543061	106.665131	1				Gansu	CHN
 345	21.662991	110.925439	4				Guangdong	CHN
-346	29.552736	106.568896	7				Chongqing	CHN
+346	29.552736	106.568896	9				Chongqing	CHN
 347	41.088421	108.267562	2				Inner Mongolias+	CHN
 348	43.61812	118.05545	1				Inner Mongolia	CHN
 349	42.25785	118.886931	1				Inner Mongolia	CHN
@@ -413,3 +413,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 412	-34.9284989	138.6007456	2				South Australia	AUS
 413	42.3600825	-71.0588801	1				Massachusetts�	USA
 414	48.1351253	11.5819805	1				Bavaria	DEU
+415	34.983385	102.911027	1				Gansu	CHN

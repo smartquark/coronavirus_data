@@ -90,7 +90,7 @@ location_id	date	description
 8	2020-01-29	14 new cases. * 16 new cases.
 8	2020-01-30	5 new cases. 3rd city outside Hubei reaching 100+ cases. * 11 new cases.
 8	2020-01-31	16 new cases. * 7 new cases.
-8	2020-02-01	18 new cases. * +16
+8	2020-02-01	18 new cases. * +16 *+8
 9	2020-01-20	First confirmed case, detected at Incheon International Airport (imported).
 9	2020-01-24	Second confirmed case, detected at Incheon Int. Airport. (Transferred to Seoul).
 9	2020-01-26	Third confirmed case, according to officials the man engaged in normal activities after flying into Incheon International Airport. (Transferred to Goyang).
@@ -655,6 +655,7 @@ location_id	date	description
 87	2020-01-29	3 new cases.
 87	2020-01-30	2 new cases.
 87	2020-01-31	5 new cases. 20 total (red).
+87	2020-02-01	+3
 88	2020-01-23	First confirmed case, imported.
 89	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
 89	2020-01-25	Second confirmed case.
@@ -886,6 +887,7 @@ location_id	date	description
 123	2020-01-28	1 new case.
 123	2020-01-30	1 new case.
 123	2020-01-31	1 new case.
+123	2020-02-01	+2
 124	2020-01-24	First confirmed case.
 125	2020-01-24	First confirmed case.
 125	2020-01-25	Second confirmed case.
@@ -899,6 +901,7 @@ location_id	date	description
 126	2020-01-26	2 more cases.
 126	2020-01-29	1 new case.
 126	2020-01-30	1 new case.
+126	2020-02-01	+3
 127	2020-01-24	First confirmed case.
 127	2020-01-25	Second confirmed case.
 127	2020-01-26	2 more cases.
@@ -920,6 +923,7 @@ location_id	date	description
 129	2020-01-28	One new case.
 129	2020-01-30	3 new cases.
 129	2020-01-31	1 new case.
+129	2020-02-01	+2
 130	2020-01-24	First 2 confirmed cases.
 130	2020-01-26	2 more cases.
 130	2020-01-27	One more case.
@@ -927,6 +931,7 @@ location_id	date	description
 130	2020-01-29	1 new case.
 130	2020-01-30	1 new case. * 2 new cases.
 130	2020-01-31	1 new case.
+130	2020-02-01	+1
 131	2020-01-24	First confirmed case.
 131	2020-01-25	Second confirmed case.
 131	2020-01-26	2 more cases.
@@ -1462,14 +1467,17 @@ location_id	date	description
 246	2020-01-26	First confirmed case.
 247	2020-01-26	First confirmed case.
 247	2020-01-30	1 new case.
+247	2020-02-01	+1
 248	2020-01-26	First 2 confirmed cases.
 248	2020-01-27	One more case.
 248	2020-01-28	One new case.
 248	2020-01-29	1 new case. * 1 new case.
 248	2020-01-30	2 new cases.
 248	2020-01-31	4 new cases.
+248	2020-02-01	+1
 249	2020-01-26	First confirmed case.
 249	2020-01-28	One new case.
+249	2020-02-01	+2
 250	2020-01-26	First confirmed case.
 250	2020-01-29	1 new case.
 250	2020-01-30	2 new cases.
@@ -1491,6 +1499,7 @@ location_id	date	description
 256	2020-01-26	First confirmed case.
 257	2020-01-26	First confirmed case.
 257	2020-01-28	1 new case.
+257	2020-02-01	+1
 258	2020-01-26	First confirmed case. * One more case.
 258	2020-01-30	1 new case.
 258	2020-01-31	1 new case. * 3 new cases.
@@ -1715,6 +1724,7 @@ location_id	date	description
 346	2020-01-29	1 new case. * 1 new case.
 346	2020-01-30	3 new cases.
 346	2020-01-31	1 new case. * 1 new case.
+346	2020-02-01	+2
 347	2020-01-29	First confirmed case.
 347	2020-01-30	1 new case.
 348	2020-01-29	Added 1 case from previous update.
@@ -1810,3 +1820,4 @@ location_id	date	description
 412	2020-02-01	First 2 cases in South Australia.
 413	2020-02-01	First confirmed case in Massachusetts, 8th in the U.S.
 414	2020-02-01	First confirmed case in Munich, related to the cases in Starnberg.
+415	2020-02-01	First confirmed case.
