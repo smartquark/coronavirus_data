@@ -2,7 +2,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 1	30.592849	114.305539	3215				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
 3	22.543096	114.057865	134				Guangdong	CHN
-4	39.9041999	116.4073963	156				Beijing municipality (capital)	CHN
+4	39.9041999	116.4073963	168				Beijing municipality (capital)	CHN
 5	22.270978	113.576677	38				Guangdong	CHN
 6	21.270702	110.359368	13				Guangdong	CHN
 7	23.112257	114.415801	20				Guangdong	CHN
@@ -31,12 +31,12 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 30	24.810879	113.59762	4				Guangdong	CHN
 31	29.868336	121.54399	55				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
-33	38.914003	121.614682	8				Liaoning	CHN
+33	38.914003	121.614682	10				Liaoning	CHN
 34	31.820591	117.227219	59				Anhui	CHN
-35	22.3193039	114.1693611	13				Hong Kong	HKG
+35	22.3193039	114.1693611	14				Hong Kong	HKG
 36	20.044412	110.198286	11				Hainan	CHN
-37	18.252847	109.511909	15				Hainan	CHN
-38	19.912025	109.690508	3				Hainan	CHN
+37	18.252847	109.511909	17				Hainan	CHN
+38	19.912025	109.690508	4				Hainan	CHN
 39	27.569517	110.001922	28				Hunan	CHN
 40	30.327716	107.33339	11				Chongqing	CHN
 41	31.46746	104.679004	12				Sichuan	CHN
@@ -80,7 +80,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 79	43.825592	87.616848	8				Xinjiang	CHN
 80	34.329605	108.708991	8				Shaanxi	CHN
 81	34.341574	108.93977	40				Shaanxi	CHN
-82	1.352083	103.819836	16				Singapore	SGP
+82	1.352083	103.819836	18				Singapore	SGP
 83	10.8230989	106.6296638	2				 Southeast Region	VNM
 84	32.060255	118.796877	28				Jiangsu	CHN
 85	34.596653	119.221611	13				Jiangsu	CHN
@@ -98,7 +98,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 97	23.476962	111.279115	5				Guangxi	CHN
 98	23.902479	106.618283	2				Guangxi	CHN
 99	24.692931	108.085261	6				Guangxi	CHN
-100	35.6803997	139.7690174	8				Kantō (capital)s+	JPN
+100	35.6803997	139.7690174	11				Kantō (capital)s+	JPN
 101	37.566535	126.9779692	5				SCA (capital)	KOR
 102	30.20003	115.038835	209				Hubei	CHN
 103	30.272156	109.488172	87				Hubei	CHN
@@ -217,7 +217,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 216	23.36225	103.374576	4				Yunnan	CHN
 217	24.347324	102.527197	7				Yunnan	CHN
 218	25.489999	103.796167	5				Yunnan	CHN
-219	18.506048	110.037503	3				Hainan	CHN
+219	18.506048	110.037503	5				Hainan	CHN
 220	22.817002	108.366543	16				Guangxi	CHN
 221	27.622768	113.854556	9				Jiangxi	CHN
 222	37.856971	113.580519	1				Shanxi	CHN
@@ -323,7 +323,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 322	43.504687	124.82283	1				Jilin	CHN
 323	19.033369	109.838389	1				Hainan	CHN
 324	19.09535	108.651815	1				Hainan	CHN
-325	19.258341	110.474648	4				Hainan	CHN
+325	19.258341	110.474648	6				Hainan	CHN
 326	41.267244	123.236944	1				Liaoning	CHN
 327	25.075123	117.017536	1				Fujian	CHN
 328	34.363184	107.237743	6				Shaanxi	CHN
@@ -396,7 +396,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 395	48.1739373	11.2430079000001	1				Bavaria	DEU
 396	57.7826137	14.1617876	1				 Småland	SWE
 397	42.9849233	-81.2452768	1				Ontario	CAN
-398	42.021602	121.670273	1				Liaoning	CHN
+398	42.021602	121.670273	2				Liaoning	CHN
 399	41.108647	122.994329	9				Liaoning	CHN
 400	37.3336581	-121.8907041	1				California	USA
 401	29.541144	106.456877	2				Chongqing	CHN
@@ -411,3 +411,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 410	12.7243439	109.2626992	1				Khan Hoa	VNM
 411	23.884154	100.088824	1				Yunnan	CHN
 412	-34.9284989	138.6007456	2				South Australia	AUS
+413	42.3600825	-71.0588801	1				Massachusetts�	USA
+414	48.1351253	11.5819805	1				Bavaria	DEU

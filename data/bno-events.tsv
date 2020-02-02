@@ -49,7 +49,7 @@ location_id	date	description
 4	2020-01-29	11 new cases. 2nd city with over a 100 cases outside Hubei. * 9 new cases.
 4	2020-01-30	3 new cases. * 7 new cases.
 4	2020-01-31	11 new cases. * 7 new cases.
-4	2020-02-01	+17
+4	2020-02-01	+17, +12
 5	2020-01-20	Three cases confirmed. Transmission among family members. First human-to-human transmission reported outside Wuhan.
 5	2020-01-21	One more case.
 5	2020-01-24	Four more cases.
@@ -280,6 +280,7 @@ location_id	date	description
 33	2020-01-25	* One more case.
 33	2020-01-27	One more case, locally transmitted.
 33	2020-01-31	2 new cases. * 1 new case.
+33	2020-02-01	+2
 34	2020-01-22	First confirmed case and first confirmed case in Anhui province. (Imported)
 34	2020-01-23	Four new cases.
 34	2020-01-24	1 more case.
@@ -296,6 +297,7 @@ location_id	date	description
 35	2020-01-26	One more case. * 2 more cases, a previous case was transmitted by family member, unclear where.
 35	2020-01-30	2 new cases. * 2 new cases.
 35	2020-01-31	1 new case.
+35	2020-02-01	+1
 36	2020-01-22	First 2 confirmed cases in Hainan province (imported).
 36	2020-01-24	One more case.
 36	2020-01-27	3 more cases.
@@ -309,9 +311,9 @@ location_id	date	description
 37	2020-01-26	2 more cases.
 37	2020-01-27	2 more cases. * 1 more case.
 37	2020-01-28	3 new cases.
-37	2020-02-01	+1
+37	2020-02-01	-02: +3
 38	2020-01-22	First confirmed case (imported).
-38	2020-02-01	+2
+38	2020-02-01	-02: +3
 39	2020-01-22	First 3 confirmed cases, 2 imported ones and one transmitted.
 39	2020-01-25	Two more cases.
 39	2020-01-26	3 more cases.
@@ -620,6 +622,7 @@ location_id	date	description
 82	2020-01-29	3 new cases.
 82	2020-01-30	3 new cases.
 82	2020-01-31	3 new cases.
+82	2020-02-01	+2
 83	2020-01-23	First 2 confirmed cases in Vietnam.
 84	2020-01-23	First two confirmed cases, imported.
 84	2020-01-24	One more case.
@@ -723,6 +726,7 @@ location_id	date	description
 100	2020-01-25	Second confirmed case in Tokyo.
 100	2020-01-30	3 new cases from chartered flight that arrived from Wuhan. 2 of them asymptomatic.Â * 1 new case.
 100	2020-01-31	2 new asymptomatic cases.
+100	2020-02-01	3 new cases from evacuated citizens of Wuhan, one of them asymptomatic.Â 
 101	2020-01-24	Confirmed case detected at Incheon Int. Airport being treated inÂ Euljiro (transferred).
 101	2020-01-30	2 new cases, one possible infected by h2h transmission.Â 
 101	2020-01-31	1 new case of H2H transmission, 3rd generation.Â 
@@ -1334,7 +1338,7 @@ location_id	date	description
 218	2020-01-29	3 new cases.
 219	2020-01-25	First confirmed case.
 219	2020-01-30	1 new case.
-219	2020-02-01	+1
+219	2020-02-01	-02: +3
 220	2020-01-25	First confirmed case.
 220	2020-01-27	4 more cases.
 220	2020-01-29	2 new cases.
@@ -1652,6 +1656,7 @@ location_id	date	description
 325	2020-01-28	First confirmed case.
 325	2020-01-30	2 new cases.
 325	2020-01-31	1 new case.
+325	2020-02-01	-02: +2
 326	2020-01-28	First confirmed case.
 327	2020-01-28	First confirmed case.
 328	2020-01-28	First 3 confirmed cases.
@@ -1763,6 +1768,7 @@ location_id	date	description
 396	2020-01-31	First confirmed case in Sweden.
 397	2020-01-31	First confirmed case and 4th case in Canada.
 398	2020-01-31	First confirmed case.
+398	2020-02-01	+1
 399	2020-01-31	First confirmed case.
 399	2020-02-01	+8
 400	2020-01-31	First confirmed case in the Bay area.
@@ -1778,3 +1784,5 @@ location_id	date	description
 410	2020-02-01	First confirmed case and 6th case in Vietnam.
 411	2020-02-01	First confirmed case.
 412	2020-02-01	First 2 cases in South Australia.
+413	2020-02-01	First confirmed case in Massachusetts, 8th in the U.S.
+414	2020-02-01	First confirmed case in Munich, related to the cases in Starnberg.
