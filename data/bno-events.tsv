@@ -175,6 +175,7 @@ location_id	date	description
 20	2020-01-28	One new case in Donggang District.
 20	2020-01-29	1 new case. * 1 new case.
 20	2020-01-30	1 new case.
+20	2020-02-01	2 new cases.
 21	2020-01-21	First US case and first case outside Asia on a Snohomish County man who returned from Wuhan, treated at Everett hospital.
 22	2020-01-21	First confirmed case (imported - transferred to Zhengzhou)
 22	2020-01-25	3 more cases.
@@ -375,6 +376,7 @@ location_id	date	description
 52	2020-01-28	1 new case in Hedong District.
 52	2020-01-29	7 new cases. * 1 new case.
 52	2020-01-31	4 new cases. 20 total (red). * 3 new cases.
+52	2020-02-01	1 new case.
 53	2020-01-23	First 2 confirmed cases in the city.
 53	2020-01-24	Moving first Rizhao case due to officially being counted in Qingdao (transferred).
 53	2020-01-24	* 1 new case.
@@ -384,6 +386,7 @@ location_id	date	description
 53	2020-01-28	2 new cases.
 53	2020-01-29	2 new cases.
 53	2020-01-30	1 new case. * 3 new cases. 21 total (red).
+53	2020-02-01	1 new case.
 54	2020-01-23	First confirmed case, imported.
 54	2020-01-27	2 more cases.
 54	2020-01-29	1 new case.
@@ -702,6 +705,7 @@ location_id	date	description
 105	2020-01-29	2 new cases.
 105	2020-01-30	2 new cases.
 105	2020-01-31	1 new case.
+105	2020-02-01	2 new cases.
 106	2020-01-24	First two confirmed cases. 1 other case transferred fromÂ Yuanyang County.
 106	2020-01-25	3 more cases.
 106	2020-01-26	12 more cases.
@@ -902,12 +906,14 @@ location_id	date	description
 142	2020-01-25	Second confirmed case.
 142	2020-01-26	Two new cases. * One new case.
 142	2020-01-30	3 new cases.
+142	2020-02-01	6 new cases.
 143	2020-01-24	First two confirmed cases.
 143	2020-01-27	4 more cases. * 2 more cases.
 143	2020-01-28	2 new cases.
 143	2020-01-29	2 new cases.
 143	2020-01-30	1 new case.
 143	2020-01-31	5 new cases.
+143	2020-02-01	2 new cases. 20 total (red).
 144	2020-01-24	First two confirmed cases.
 144	2020-01-25	One more case.
 144	2020-01-26	Two more cases.
@@ -916,6 +922,7 @@ location_id	date	description
 144	2020-01-29	1 new case.
 144	2020-01-30	3 new cases.
 144	2020-01-31	2 new cases.
+144	2020-02-01	3 new cases.
 145	2020-01-24	First confirmed case.
 145	2020-01-31	1 new case.
 146	2020-01-24	City in lockdown.
@@ -1028,11 +1035,13 @@ location_id	date	description
 169	2020-01-29	3 new cases.
 169	2020-01-30	4 new cases.
 169	2020-01-31	1 new case.
+169	2020-02-01	3 new cases.
 170	2020-01-25	First confirmed case.
 170	2020-01-28	2 more cases, one inÂ Dongchangfu District and one inÂ Shenxian County.
 170	2020-01-29	1 new case.
 170	2020-01-30	1 new case.
 170	2020-01-31	2 new cases.
+170	2020-02-01	2 new cases.
 171	2020-01-25	First 5 confirmed cases.
 171	2020-01-27	One more case.
 171	2020-01-28	2 more cases.
@@ -1191,6 +1200,7 @@ location_id	date	description
 205	2020-01-28	One more case in Huimin County.
 205	2020-01-29	2 new cases. * 1 new case.
 205	2020-01-30	2 new cases.
+205	2020-02-01	1 new case.
 206	2020-01-25	First 3 confirmed cases fromÂ Longwen,Â Xiangcheng andÂ Zhao'an.
 206	2020-01-26	One more case.
 206	2020-01-27	One more case.
@@ -1268,6 +1278,7 @@ location_id	date	description
 229	2020-01-29	2 new cases.
 229	2020-01-30	2 new cases. * 2 new cases.
 229	2020-01-31	1 new case.
+229	2020-02-01	3 new cases.
 230	2020-01-26	First 3 confirmed cases.
 230	2020-01-30	1 new case.
 230	2020-01-31	1 new case.
@@ -1475,6 +1486,7 @@ location_id	date	description
 304	2020-01-28	3 new cases.
 304	2020-01-29	3 new cases.
 304	2020-01-30	1 new case.
+304	2020-02-01	5 new cases.
 305	2020-01-27	First confirmed case in Cambodia.
 306	2020-01-27	First confirmed case in Sri Lanka. Admitted to Infectious Diseases Hospital in Angoda (metro Colombo).
 307	2020-01-27	First confirmed case, transmitted from an asymptomatic person in Shanghai.
@@ -1486,6 +1498,7 @@ location_id	date	description
 310	2020-01-28	First confirmed case in Dongpin County.
 310	2020-01-29	2 new cases.
 310	2020-01-31	1 new case.
+310	2020-02-01	5 new cases.
 311	2020-01-28	First confirmed case.
 311	2020-01-29	2 new cases.
 311	2020-01-30	2 new cases.

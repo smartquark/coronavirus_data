@@ -18,7 +18,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 17	30.807667	108.408661	33				 Chongqing	CHN
 18	29.857996	107.081282	10				Chongqing	CHN
 19	39.3433574	117.3616476	32				Tianjin municipality	CHN
-20	35.416734	119.526925	9				Shandong	CHN
+20	35.416734	119.526925	11				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	36				Henan	CHN
 23	28.228209	112.938814	68				Hunan	CHN
@@ -50,8 +50,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 49	31.298974	120.585289	32				Jiangsu	CHN
 50	44.551653	129.633168	2				Heilongjiang	CHN
 51	24.326292	109.428608	12				Guangxi	CHN
-52	35.104673	118.356414	23				Shandong	CHN
-53	36.067108	120.382609	21				Shandong	CHN
+52	35.104673	118.356414	24				Shandong	CHN
+53	36.067108	120.382609	22				Shandong	CHN
 54	31.209571	107.468023	8				Sichuan	CHN
 55	22.517585	113.39277	18				Guangdong	CHN
 56	23.047191	112.465091	6				Guangdong	CHN
@@ -103,7 +103,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 102	30.20003	115.038835	209	2	LOCKDOWN		Hubei	CHN
 103	30.272156	109.488172	87				Hubei	CHN
 104	37.513068	122.120419	19				Shandong	CHN
-105	36.706962	119.161748	8				Shandong	CHN
+105	36.706962	119.161748	10				Shandong	CHN
 106	34.746611	113.625328	48				Henan	CHN
 107	32.147679	114.091192	48				Henan	CHN
 108	23.681774	113.056042	6				Guangdong	CHN
@@ -140,9 +140,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 139	46.653845	126.968887	12				Heilongjiang	CHN
 140	46.589309	125.103784	7				Heilongjiang	CHN
 141	49.597841	117.378529	1				Inner Mongolia	CHN
-142	35.414982	116.587282	8				Shandong	CHN
-143	37.464539	121.447852	18				Shandong	CHN
-144	36.6512	117.120095	16				Shandong	CHN
+142	35.414982	116.587282	14				Shandong	CHN
+143	37.464539	121.447852	20				Shandong	CHN
+144	36.6512	117.120095	19				Shandong	CHN
 145	37.499972	105.196902	2				Ningxia	CHN
 146	30.653061	113.165862	82				Hubei	CHN
 147	32.684714	109.029022	13				Shaanxi	CHN
@@ -167,8 +167,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 166	40.71104	120.83694	5				Liaoning	CHN
 167	42.223828	123.726035	3				Liaoning	CHN
 168	41.486981	123.685142	3				Liaoning	CHN
-169	37.434092	116.357464	16				Shandong	CHN
-170	36.45703	115.98546	7				Shandong	CHN
+169	37.434092	116.357464	19				Shandong	CHN
+170	36.45703	115.98546	9				Shandong	CHN
 171	31.811226	119.974061	13				Jiangsu	CHN
 172	33.963232	118.275198	7				Jiangsu	CHN
 173	33.347316	120.16366	8				Jiangsu	CHN
@@ -203,7 +203,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 202	1.492659	103.7413591	6				Johor	MYS
 203	41.57365	120.4493879	6				Liaoning	CHN
 204	35.23375	115.480656	8				Shandong	CHN
-205	37.38198	117.970699	9				Shandong	CHN
+205	37.38198	117.970699	10				Shandong	CHN
 206	24.513025	117.647093	7				Fujian	CHN
 207	26.263406	117.638678	9				Fujian	CHN
 208	34.897887	108.945019	5				Shaanxi	CHN
@@ -227,7 +227,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 226	37.6583599	126.8320201	1				 Gyeonggi	KOR
 227	36.097577	114.392392	20				Henan	CHN
 228	33.580873	114.016536	13				Henan	CHN
-229	36.813546	118.055019	9				Shandong	CHN
+229	36.813546	118.055019	12				Shandong	CHN
 230	28.312001	109.738781	5				Hunan	CHN
 231	33.646357	116.964358	11				Anhui	CHN
 232	29.714699	118.337521	9				Anhui	CHN
@@ -302,13 +302,13 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 301	28.751836	104.643159	7				Sichuan�	CHN
 302	37.4449168	127.1388684	1				Gyeonggi	KOR
 303	34.49938	109.502882	5				Shaanxi	CHN
-304	34.810487	117.323725	9				Shandong	CHN
+304	34.810487	117.323725	14				Shandong	CHN
 305	10.6267867	103.5115545	1				Preah Sihanouk Province	KHM
 306	6.9270786	79.8612430000001	1				 Western Province	LKA
 307	47.9999615	11.339009	4				Bavaria	DEU
 308	28.260189	117.069202	4				Jiangxi	CHN
 309	35.215892	113.241823	2				Henan	CHN
-310	36.200252	117.087614	4				Shandong	CHN
+310	36.200252	117.087614	9				Shandong	CHN
 311	31.743483	110.680447	7				Hubei	CHN
 312	29.500296	106.644428	3				Chongqing	CHN
 313	29.533609	108.770677	2				Chongqing	CHN
