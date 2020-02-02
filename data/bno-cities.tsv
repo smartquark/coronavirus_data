@@ -10,14 +10,14 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 9	37.4562557	126.7052062	2				SCA	KOR
 10	26.647661	106.630153	4				Guizhou	CHN
 11	30.453667	114.872199	726				Hubei	CHN
-12	27.993828	120.699361	217				Zhejiang	CHN
+12	27.993828	120.699361	231				Zhejiang	CHN
 13	30.274084	120.15507	98				Zhejiang	CHN
 14	29.985295	122.207215	7				Zhejiang	CHN
 15	28.65638	121.42076	95				Zhejiang	CHN
 16	31.074834	109.879153	6				Chongqing	CHN
 17	30.807667	108.408661	33				 Chongqing	CHN
 18	29.857996	107.081282	10				Chongqing	CHN
-19	39.3433574	117.3616476	32				Tianjin municipality	CHN
+19	39.3433574	117.3616476	34				Tianjin municipality	CHN
 20	35.416734	119.526925	11				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	38				Henan	CHN
@@ -48,7 +48,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 47	34.747834	113.022496	2				Henan	CHN
 48	38.042805	114.514893	12				Hebei	CHN
 49	31.298974	120.585289	34				Jiangsu	CHN
-50	44.551653	129.633168	2				Heilongjiang	CHN
+50	44.551653	129.633168	6				Heilongjiang	CHN
 51	24.326292	109.428608	12				Guangxi	CHN
 52	35.104673	118.356414	24				Shandong	CHN
 53	36.067108	120.382609	22				Shandong	CHN
@@ -70,7 +70,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 69	32.890479	115.814504	47				Anhui	CHN
 70	32.253425	118.328321	6				Anhui	CHN
 71	33.844582	115.778676	25				Anhui	CHN
-72	45.803775	126.534967	18				 Heilongjiang	CHN
+72	45.803775	126.534967	25				 Heilongjiang	CHN
 73	29.995762	120.586109	24				Zhejiang	CHN
 74	29.079175	119.64742	34				Zhejiang	CHN
 75	28.970079	118.859457	13				Zhejiang	CHN
@@ -137,8 +137,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 136	27.700062	111.993497	20				Hunan	CHN
 137	27.829795	112.944026	10				Hunan	CHN
 138	27.827986	113.133853	19				Hunan	CHN
-139	46.653845	126.968887	12				Heilongjiang	CHN
-140	46.589309	125.103784	7				Heilongjiang	CHN
+139	46.653845	126.968887	13				Heilongjiang	CHN
+140	46.589309	125.103784	8				Heilongjiang	CHN
 141	49.597841	117.378529	1				Inner Mongolia	CHN
 142	35.414982	116.587282	14				Shandong	CHN
 143	37.464539	121.447852	20				Shandong	CHN
@@ -212,7 +212,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 211	-33.8688197	151.2092955	4				NSW	AUS
 212	43.933454	116.0482221	1				Inner Mongolia	CHN
 213	25.087856	104.906397	1				Guizhou	CHN
-214	36.617134	101.778223	6				Qinghai	CHN
+214	36.617134	101.778223	7				Qinghai	CHN
 215	25.606486	100.267638	6				Yunnan	CHN
 216	23.36225	103.374576	4				Yunnan	CHN
 217	24.347324	102.527197	6				Yunnan	CHN
@@ -266,7 +266,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 265	24.433353	98.584895	3				Yunnan	CHN
 266	25.112046	99.1617610000001	6				Yunnan	CHN
 267	27.338257	103.717465	4				Yunnan	CHN
-268	46.799777	130.3188779	8				 Heilongjiang	CHN
+268	46.799777	130.3188779	11				 Heilongjiang	CHN
 269	12.568452	99.9577223	1				 Prachuap Khiri Khan	THA
 270	32.187849	119.425836	2				Jiangsu	CHN
 271	34.0522342	-118.2436849	1				California	USA
@@ -288,8 +288,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 287	29.484527	106.482346	2				 Chongqing	CHN
 288	29.028066	106.651361	4				 Chongqing	CHN
 289	29.402408	106.540256	1				 Chongqing	CHN
-290	45.771726	131.0031381	3				 Heilongjiang	CHN
-291	46.646508	131.159133	1				Heilongjian	CHN
+290	45.771726	131.0031381	5				 Heilongjiang	CHN
+291	46.646508	131.159133	2				Heilongjiang	CHN
 292	26.592666	104.830359	8				Guizhou	CHN
 293	26.254092	107.522097	4				Guizhou	CHN
 294	35.601182	103.210538	1				Gansu	CHN
@@ -341,7 +341,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 340	32.435435	105.843357	2				Sichuan	CHN
 341	40.767544	114.886335	8				Hebei	CHN
 342	41.728401	125.939697	1				Jilin	CHN
-343	45.295075	130.969333	2				Heilongjiang	CHN
+343	45.295075	130.969333	4				Heilongjiang	CHN
 344	35.543061	106.665131	1				Gansu	CHN
 345	21.662991	110.925439	4				Guangdong	CHN
 346	29.552736	106.568896	7				Chongqing	CHN
@@ -405,3 +405,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 404	35.490701	112.851831	2				Shanxi	CHN
 405	39.935361	119.600523	1				Hebei	CHN
 406	-34.9284989	138.6007456	2				South Australia	AUS
+407	23.656703	116.622756	3				Guangdong	CHN
