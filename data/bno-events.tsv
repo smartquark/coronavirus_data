@@ -275,6 +275,7 @@ location_id	date	description
 34	2020-01-29	13 new cases. 29 total (red).
 34	2020-01-30	10 new cases.
 34	2020-01-31	11 new cases.
+34	2020-02-01	+9
 35	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
 35	2020-01-23	Second confirmed case.
 35	2020-01-25	Three more cases.
@@ -479,6 +480,7 @@ location_id	date	description
 68	2020-01-29	2 new cases.
 68	2020-01-30	2 new cases.
 68	2020-01-31	1 new case.
+68	2020-02-01	+4
 69	2020-01-23	First confirmed case.
 69	2020-01-24	Second confirmed case.
 69	2020-01-25	Five more cases.
@@ -487,15 +489,18 @@ location_id	date	description
 69	2020-01-29	2 new cases.
 69	2020-01-30	5 new cases.
 69	2020-01-31	10 new cases.
+69	2020-02-01	+9
 70	2020-01-23	First confirmed case.
 70	2020-01-25	Second confirmed case.
 70	2020-01-28	2 more cases.
+70	2020-02-01	+2
 71	2020-01-23	First confirmed case.
 71	2020-01-25	3 more cases.
 71	2020-01-26	2 more cases.
 71	2020-01-28	2 more cases.
 71	2020-01-29	7 new cases.
 71	2020-01-30	5 new cases. 20 total (red).
+71	2020-02-01	+5
 72	2020-01-23	First confirmed case, imported.
 72	2020-01-25	Five more cases.
 72	2020-01-26	2 more cases.
@@ -591,14 +596,17 @@ location_id	date	description
 84	2020-01-29	4 new cases.
 84	2020-01-30	5 new cases.
 84	2020-01-31	6 new cases. 25 total (red).
+84	2020-02-01	+3
 85	2020-01-23	First confirmed case, imported.
 85	2020-01-26	Two more cases.
 85	2020-01-30	3 new cases.
 85	2020-01-31	3 new cases.
+85	2020-02-01	+4
 86	2020-01-23	First confirmed case, imported.
 86	2020-01-27	3 more cases.
 86	2020-01-28	1 new case.
 86	2020-01-29	3 new cases.
+86	2020-02-01	+5
 87	2020-01-23	First confirmed case in Gansu province. Patient had a history of travel toÂ Hunan and Jiangxi provinces.
 87	2020-01-26	Two more cases.
 87	2020-01-27	4 more cases.
@@ -684,7 +692,8 @@ location_id	date	description
 100	2020-01-31	2 new asymptomatic cases.
 101	2020-01-24	Confirmed case detected at Incheon Int. Airport being treated inÂ Euljiro (transferred).
 101	2020-01-30	2 new cases, one possible infected by h2h transmission.Â 
-101	2020-01-31	1 new case of H2H transmission, 3rd generation. * 1 new case transmitted from Japanese national.
+101	2020-01-31	1 new case of H2H transmission, 3rd generation.Â 
+101	2020-02-01	1 new case transmitted from Japanese national.
 102	2020-01-24	City in lockdown.
 102	2020-01-25	First case inÂ Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
 102	2020-01-25	* First death reported, 31 new cases.
@@ -764,6 +773,7 @@ location_id	date	description
 114	2020-01-27	Two more cases.
 114	2020-01-30	5 new cases.
 114	2020-01-31	7 new cases (doubled).
+114	2020-02-01	+1
 115	2020-01-24	First confirmed case that resulted in death.
 115	2020-01-24	* City in lockdown.
 115	2020-01-25	19 more cases.
@@ -1078,6 +1088,7 @@ location_id	date	description
 173	2020-01-25	First confirmed case.
 173	2020-01-29	5 new cases.
 173	2020-01-31	2 new cases.
+173	2020-02-01	+5
 174	2020-01-25	First confirmed case.
 174	2020-01-30	1 new case.
 175	2020-01-25	First confirmed case.
@@ -1160,12 +1171,14 @@ location_id	date	description
 188	2020-01-28	6 new cases.
 188	2020-01-30	1 new case.
 188	2020-01-31	4 new cases.
+188	2020-02-01	+2
 189	2020-01-25	First confirmed case.
 189	2020-01-26	2 more cases.
 189	2020-01-27	3 more cases.
 189	2020-01-28	3 new cases.
 189	2020-01-29	2 new cases.
 189	2020-01-30	3 new cases.
+189	2020-02-01	+1
 190	2020-01-25	First 3 confirmed cases.
 190	2020-01-28	2 new cases.
 190	2020-01-29	1 new case.
@@ -1189,7 +1202,7 @@ location_id	date	description
 196	2020-01-25	First confirmed case in Australia.
 196	2020-01-29	1 new case, 6th case in Australia.
 196	2020-01-30	1 new case.
-196	2020-01-31	1 new case.
+196	2020-02-01	1 new case.
 197	2020-01-25	First confirmed case. Added 3 more from previous update.
 197	2020-01-26	4 more cases.
 197	2020-01-28	3 new cases.
@@ -1318,6 +1331,7 @@ location_id	date	description
 231	2020-01-27	One more case.
 231	2020-01-29	6 new cases. * 1 new case.
 231	2020-01-30	1 new case.
+231	2020-02-01	+2
 232	2020-01-26	First confirmed case.
 232	2020-01-28	3 new cases.
 232	2020-01-29	3 new cases.
@@ -1327,6 +1341,7 @@ location_id	date	description
 233	2020-01-30	4 new cases.
 234	2020-01-26	First confirmed case. Partial lockdown.
 234	2020-01-28	One more case.
+234	2020-02-01	+4
 235	2020-01-26	First confirmed case.
 235	2020-01-28	One more case.
 235	2020-01-30	2 new cases.
@@ -1336,6 +1351,7 @@ location_id	date	description
 236	2020-01-29	4 new cases (doubled).
 236	2020-01-30	1 new case.
 236	2020-01-31	3 new cases.
+236	2020-02-01	+5
 237	2020-01-26	First confirmed case.
 237	2020-01-27	One more case.
 237	2020-01-29	1 new case.
@@ -1676,6 +1692,7 @@ location_id	date	description
 398	2020-01-31	First confirmed case and 4th case in Canada.
 399	2020-01-31	First confirmed case.
 400	2020-01-31	First confirmed case.
+400	2020-02-01	+8
 401	2020-01-31	First confirmed case in the Bay area.
 402	2020-01-31	First 2 confirmed cases.
 403	2020-01-31	First confirmed case in Spain, tourist from Germany that was a close contact of the cases in Bavaria.

@@ -32,7 +32,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 31	29.868336	121.54399	46				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
 33	38.914003	121.614682	8				Liaoning	CHN
-34	31.820591	117.227219	50				Anhui	CHN
+34	31.820591	117.227219	59				Anhui	CHN
 35	22.3193039	114.1693611	13				Hong Kong	HKG
 36	20.044412	110.198286	9				Hainan	CHN
 37	18.252847	109.511909	14				Hainan	CHN
@@ -66,10 +66,10 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 65	28.682892	115.858197	83				Jiangxi	CHN
 66	27.731514	109.189598	3				Guizhou	CHN
 67	26.584666	107.234703	1				Guizhou	CHN
-68	31.734476	116.521442	9				Anhui	CHN
-69	32.890479	115.814504	38				Anhui	CHN
-70	32.253425	118.328321	4				Anhui	CHN
-71	33.844582	115.778676	20				Anhui	CHN
+68	31.734476	116.521442	13				Anhui	CHN
+69	32.890479	115.814504	47				Anhui	CHN
+70	32.253425	118.328321	6				Anhui	CHN
+71	33.844582	115.778676	25				Anhui	CHN
 72	45.803775	126.534967	18				 Heilongjiang	CHN
 73	29.995762	120.586109	23				Zhejiang	CHN
 74	29.079175	119.64742	27				Zhejiang	CHN
@@ -82,9 +82,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 81	34.341574	108.93977	32				Shaanxi	CHN
 82	1.352083	103.819836	16				Singapore	SGP
 83	10.8230989	106.6296638	2				 Southeast Region	VNM
-84	32.060255	118.796877	25				Jiangsu	CHN
-85	34.596653	119.221611	9				Jiangsu	CHN
-86	32.394209	119.412939	8				Jiangsu	CHN
+84	32.060255	118.796877	28				Jiangsu	CHN
+85	34.596653	119.221611	13				Jiangsu	CHN
+86	32.394209	119.412939	13				Jiangsu	CHN
 87	36.061089	103.834303	20				Gansu	CHN
 88	36.545015	104.138586	1				Gansu	CHN
 89	38.304477	116.838834	19				Hebei	CHN
@@ -112,7 +112,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 111	45.141789	124.825117	2				Jilin	CHN
 112	30.531919	117.115101	18				Anhui	CHN
 113	30.656037	117.489156	4				Anhui	CHN
-114	32.916287	117.389719	15				Anhui	CHN
+114	32.916287	117.389719	16				Anhui	CHN
 115	30.691966	111.286471	276	1	LOCKDOWN		Hubei	CHN
 116	30.917766	113.957037	628				Hubei	CHN
 117	32.629398	110.798266	177				Hubei	CHN
@@ -171,7 +171,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 170	36.45703	115.98546	9				Shandong	CHN
 171	31.811226	119.974061	14				Jiangsu	CHN
 172	33.963232	118.275198	8				Jiangsu	CHN
-173	33.347316	120.16366	8				Jiangsu	CHN
+173	33.347316	120.16366	13				Jiangsu	CHN
 174	40.952942	117.96275	2				Hebei	CHN
 175	38.874434	115.464589	11				Hebei	CHN
 176	28.55386	112.35518	20				Hunan	CHN
@@ -186,8 +186,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 185	35.303704	113.926763	21				Henan	CHN
 186	33.766169	113.192661	11				Henan	CHN
 187	31.67044	118.507011	14				Anhui	CHN
-188	30.945515	117.81154	14				Anhui	CHN
-189	31.352859	118.432941	14				Anhui	CHN
+188	30.945515	117.81154	16				Anhui	CHN
+189	31.352859	118.432941	15				Anhui	CHN
 190	29.999285	108.114069	10				Chongqing	CHN
 191	29.972084	106.27613	8				Chongqing	CHN
 192	29.592024	106.227305	8				Chongqing	CHN
@@ -229,12 +229,12 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 228	33.580873	114.016536	14				Henan	CHN
 229	36.813546	118.055019	12				Shandong	CHN
 230	28.312001	109.738781	5				Hunan	CHN
-231	33.646357	116.964358	11				Anhui	CHN
+231	33.646357	116.964358	13				Anhui	CHN
 232	29.714699	118.337521	9				Anhui	CHN
 233	32.625478	116.999932	6				Anhui	CHN
-234	33.955844	116.798265	2				Anhui	CHN
+234	33.955844	116.798265	6				Anhui	CHN
 235	30.940195	118.75868	4				Anhui	CHN
-236	32.455536	119.922933	12				Jiangsu	CHN
+236	32.455536	119.922933	17				Jiangsu	CHN
 237	33.551052	119.113185	12				Jiangsu	CHN
 238	23.549701	116.372708	6				Guangdong	CHN
 239	47.354348	123.918186	3				 Heilongjiang	CHN
@@ -398,7 +398,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 397	57.7826137	14.1617876	1				 Småland	SWE
 398	42.9849233	-81.2452768	1				Ontario	CAN
 399	42.021602	121.670273	1				Liaoning	CHN
-400	41.108647	122.994329	1				Liaoning	CHN
+400	41.108647	122.994329	9				Liaoning	CHN
 401	37.3336581	-121.8907041	1				California	USA
 402	29.541144	106.456877	2				Chongqing	CHN
 403	28.1033035	-17.2193578	1				Canarias	ESP
