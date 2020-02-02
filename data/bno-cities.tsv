@@ -102,7 +102,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 101	37.566535	126.9779692	5				SCA (capital)	KOR
 102	30.20003	115.038835	209	2	LOCKDOWN		Hubei	CHN
 103	30.272156	109.488172	87				Hubei	CHN
-104	37.513068	122.120419	19				Shandong	CHN
+104	37.513068	122.120419	24				Shandong	CHN
 105	36.706962	119.161748	10				Shandong	CHN
 106	34.746611	113.625328	48				Henan	CHN
 107	32.147679	114.091192	48				Henan	CHN
