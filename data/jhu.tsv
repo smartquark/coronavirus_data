@@ -1,55 +1,55 @@
-country	region	recovered	suspected	deaths	updated	confirmed
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
+region	country	suspected	confirmed	deaths	recovered	updated
+Hubei	Mainland China		9074	294	215	2020-02-01 23:33:00
+Zhejiang	Mainland China		661		23	2020-02-02 02:13:00
+Guangdong	Mainland China		604		14	2020-02-02 01:23:00
+Henan	Mainland China		493	2	4	2020-02-02 00:53:00
+Hunan	Mainland China		463		8	2020-02-02 01:53:00
+Anhui	Mainland China		340		5	2020-02-02 01:33:00
+Jiangxi	Mainland China		333		10	2020-02-02 01:23:00
+Chongqing	Mainland China		262	1	3	2020-02-01 23:43:00
+Jiangsu	Mainland China		236		6	2020-02-02 01:13:00
+Sichuan	Mainland China		231	1	3	2020-02-02 01:03:00
+Shandong	Mainland China		225		5	2020-02-02 01:03:00
+Beijing	Mainland China		183	1	9	2020-02-02 03:05:00
+Shanghai	Mainland China		177	1	10	2020-02-02 00:23:00
+Fujian	Mainland China		159			2020-02-02 03:43:00
+Shaanxi	Mainland China		116			2020-02-02 03:23:00
+Guangxi	Mainland China		111		2	2020-02-02 00:23:00
+Hebei	Mainland China		104	1	3	2020-02-02 02:53:00
+Heilongjiang	Mainland China		95	2	2	2020-02-02 03:23:00
+Yunnan	Mainland China		93		2	2020-02-01 15:53:00
+Liaoning	Mainland China		64		1	2020-02-01 15:23:00
+Hainan	Mainland China		63	1	1	2020-02-02 01:03:00
+Shanxi	Mainland China		56		1	2020-02-01 23:33:00
+Tianjin	Mainland China		45			2020-02-02 02:03:00
+Gansu	Mainland China		40			2020-02-01 15:43:00
+Guizhou	Mainland China		38		2	2020-02-02 01:03:00
+Ningxia	Mainland China		28			2020-02-02 01:43:00
+Inner Mongolia	Mainland China		27		1	2020-02-02 03:43:00
+Jilin	Mainland China		23		1	2020-02-02 02:33:00
+Xinjiang	Mainland China		21			2020-02-02 00:43:00
+Hong Kong	Hong Kong		14			2020-02-02 01:03:00
+Taiwan	Taiwan		10			2020-02-01 10:00:00
+Qinghai	Mainland China		9			2020-02-01 10:00:00
+Bavaria	Germany		7			2020-02-01 10:00:00
+Macau	Macau		7			2020-02-01 10:00:00
+Victoria	Australia		4			2020-02-01 18:12:00
+New South Wales	Australia		4		2	2020-02-01 18:12:00
+Queensland	Australia		3			2020-02-01 18:12:00
+California	US		3			2020-02-01 10:00:00
+Ontario	Canada		3			2020-02-01 18:12:00
+Illinois	US		2			2020-02-01 10:00:00
+Chicago, IL	US		2			2020-02-01 19:43:00
+Chicago	US		1			2020-01-24 12:00:00
+Tempe, AZ	US		1			2020-02-01 19:43:00
+Seattle, WA	US		1			2020-02-01 19:43:00
+Santa Clara, CA	US		1			2020-02-01 19:53:00
+Orange, CA	US		1			2020-02-01 19:53:00
+Los Angeles, CA	US		1			2020-02-01 19:53:00
+Boston, MA	US		1			2020-02-01 19:43:00
+British Columbia	Canada		1			2020-02-01 18:12:00
+South Australia	Australia		1			2020-02-01 18:12:00
+Tibet	Mainland China		1			2020-02-01 10:00:00
+Washington	US		1			2020-02-01 10:00:00
+Arizona	US		1			2020-02-01 10:00:00
+Washington	United States		1			2020-01-21 00:00:00
