@@ -25,7 +25,9 @@ Source: https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 
 ### Coronavirus - case tracking worksheets
 
-Source: https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview?utm_source=share&utm_medium=ios_app&utm_name=iossmf#
+Source:
+- https://www.reddit.com/r/China_Flu/comments/exelra/new_suspected_cases_february_2nd_edition_all_new/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+- https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview?utm_source=share&utm_medium=ios_app&utm_name=iossmf#
 
 * [casetracking.tsv](data/casetracking.tsv)
 
