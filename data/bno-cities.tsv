@@ -1,5 +1,5 @@
 location_id	latitude	longitude	confirmed	deaths	status	location	region	country_code
-1	30.592849	114.305539	3215				Hubei	CHN
+1	30.592849	114.305539	4109				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
 3	22.543096	114.057865	134				Guangdong	CHN
 4	39.9041999	116.4073963	168				Beijing municipality (capital)	CHN
@@ -9,7 +9,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 8	31.230416	121.473701	169				Shanghai municipality	CHN
 9	37.4562557	126.7052062	2				SCA	KOR
 10	26.647661	106.630153	4				Guizhou	CHN
-11	30.453667	114.872199	726				Hubei	CHN
+11	30.453667	114.872199	1002				Hubei	CHN
 12	27.993828	120.699361	231				Zhejiang	CHN
 13	30.274084	120.15507	98				Zhejiang	CHN
 14	29.985295	122.207215	7				Zhejiang	CHN
@@ -74,8 +74,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 73	29.995762	120.586109	24				Zhejiang	CHN
 74	29.079175	119.64742	34				Zhejiang	CHN
 75	28.970079	118.859457	13				Zhejiang	CHN
-76	31.035395	112.199427	251				Hubei	CHN
-77	30.335237	112.239631	287				Hubei	CHN
+76	31.035395	112.199427	329				Hubei	CHN
+77	30.335237	112.239631	333				Hubei	CHN
 78	26.074478	119.296482	39				Fujian	CHN
 79	43.825592	87.616848	8				Xinjiang	CHN
 80	34.329605	108.708991	8				Shaanxi	CHN
@@ -88,7 +88,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 87	36.061089	103.834303	20				Gansu	CHN
 88	36.545015	104.138586	1				Gansu	CHN
 89	38.304477	116.838834	19				Hebei	CHN
-90	30.39194	114.894843	227				Hubei	CHN
+90	30.39194	114.894843	278				Hubei	CHN
 91	30.360882	113.423482	140				Hubei	CHN
 92	30.402167	112.899762	35				Hubei	CHN
 93	27.817808	114.917346	31				Jiangxi	CHN
@@ -100,8 +100,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 99	24.692931	108.085261	6				Guangxi	CHN
 100	35.6803997	139.7690174	11				Kant≈ç (capital)s+	JPN
 101	37.566535	126.9779692	5				SCA (capital)	KOR
-102	30.20003	115.038835	209				Hubei	CHN
-103	30.272156	109.488172	87				Hubei	CHN
+102	30.20003	115.038835	252				Hubei	CHN
+103	30.272156	109.488172	105				Hubei	CHN
 104	37.513068	122.120419	24				Shandong	CHN
 105	36.706962	119.161748	10				Shandong	CHN
 106	34.746611	113.625328	54				Henan	CHN
@@ -113,9 +113,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 112	30.531919	117.115101	31				Anhui	CHN
 113	30.656037	117.489156	4				Anhui	CHN
 114	32.916287	117.389719	16				Anhui	CHN
-115	30.691966	111.286471	276	1	LOCKDOWN		Hubei	CHN
-116	30.917766	113.957037	628				Hubei	CHN
-117	32.629398	110.798266	177				Hubei	CHN
+115	30.691966	111.286471	353	1	LOCKDOWN		Hubei	CHN
+116	30.917766	113.957037	749				Hubei	CHN
+117	32.629398	110.798266	212				Hubei	CHN
 118	29.980537	103.013261	5				Sichuan	CHN
 119	30.532847	105.592898	5				Sichuan	CHN
 120	31.126855	104.397894	7				Sichuan	CHN
@@ -160,7 +160,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 159	25.830694	114.933546	30				Jiangxi	CHN
 160	27.815743	114.416785	29				Jiangxi	CHN
 161	29.268783	117.178443	3				Jiangxi	CHN
-162	31.690215	113.382458	304				Hubei	CHN
+162	31.690215	113.382458	384				Hubei	CHN
 163	40.076762	113.300129	6				Shanxi	CHN
 164	36.195409	113.116404	3				Shanxi	CHN
 165	35.026516	111.00746	10				Shanxi	CHN
@@ -222,7 +222,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 221	27.622768	113.854556	9				Jiangxi	CHN
 222	37.856971	113.580519	1				Shanxi	CHN
 223	37.687357	112.752652	11				Shanxi	CHN
-224	32.009016	112.122426	347				Hubei¬	CHN
+224	32.009016	112.122426	441				Hubei¬	CHN
 225	43.653226	-79.3831843	2				Ontario	CAN
 226	37.6583599	126.8320201	1				¬†Gyeonggi	KOR
 227	36.097577	114.392392	24				Henan	CHN
@@ -379,7 +379,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 378	35.011564	135.7681489	1				Kyoto Prefecture	JPN
 379	41.9027835	12.4963655	2				¬†Lazio	ITA
 380	47.8677574	12.6384037	2				Bavaria	DEU
-381	29.841438	114.322439	206				Hubei	CHN
+381	29.841438	114.322439	246				Hubei	CHN
 382	29.405002	105.594623	2				Chongqing	CHN
 383	26.582347	101.718637	7				Sichuan	CHN
 384	31.899413	102.224653	1				Sichuan	CHN

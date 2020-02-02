@@ -16,6 +16,7 @@ location_id	date	description
 1	2020-01-30	356 new cases and 25 deaths.
 1	2020-01-31	378 new cases. 30 new deaths.
 1	2020-02-01	576 new cases. 33 new deaths.
+1	2020-02-02	+894
 2	2020-01-13	First confirmed case of Wuhan resident visiting Bangkok since Jan. 8th.
 2	2020-01-17	Second confirmed case at airport, person arrived from Wuhan. Transferred toÂ Nonthaburi.
 2	2020-01-19	Third confirmed case at airport. (Imported - transferred toÂ Nonthaburi)
@@ -107,6 +108,7 @@ location_id	date	description
 11	2020-01-30	172 new cases and 7 deaths.
 11	2020-01-31	77 new cases. 573
 11	2020-02-01	153 new cases. 2 new deaths.
+11	2020-02-02	276 new cases. First city with more than a thousand cases besides Wuhan. One death.
 12	2020-01-21	First confirmed (imported) case. Another one confirmed later.
 12	2020-01-22	Two more cases.
 12	2020-01-23	2 more cases.
@@ -571,6 +573,7 @@ location_id	date	description
 76	2020-01-30	49 new cases.
 76	2020-01-31	36 new cases. 1 new death.
 76	2020-02-01	24 new cases.
+76	2020-02-02	+78, 2 deaths.
 77	2020-01-23	First 6 confirmed cases.
 77	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
 77	2020-01-25	First 2 deaths, 23 more cases.
@@ -580,6 +583,7 @@ location_id	date	description
 77	2020-01-30	50 new cases and 1 death.
 77	2020-01-31	70 new cases.
 77	2020-02-01	66 new cases. 1 new death.
+77	2020-02-02	+46
 78	2020-01-23	First confirmed case, imported. 1 case transferred from Lianjiang.
 78	2020-01-24	Two more confirmed cases.
 78	2020-01-24	* One confirmed case.
@@ -667,6 +671,7 @@ location_id	date	description
 90	2020-01-30	39 new cases and 1 death.
 90	2020-01-31	66 new cases. 4 new deaths.
 90	2020-02-01	38 new cases. 3 new deaths.
+90	2020-02-02	+51, 4 deaths.
 91	2020-01-23	City in lockdown.
 91	2020-01-24	First 2 confirmed cases.
 91	2020-01-24	* 8 more cases.
@@ -677,7 +682,7 @@ location_id	date	description
 91	2020-01-30	23 new cases.
 91	2020-01-31	35 new cases. First death.
 91	2020-02-01	7 new cases.
-91	2020-02-02	+43
+91	2020-02-02	+43, more than a hundred cases. 2 deaths.
 92	2020-01-23	City in lockdown.
 92	2020-01-26	First 5 confirmed cases and one death.
 92	2020-01-28	2 more cases.
@@ -742,6 +747,7 @@ location_id	date	description
 102	2020-01-30	27 new cases.
 102	2020-01-31	55 new cases.
 102	2020-02-01	41 new cases. 1 new death.
+102	2020-02-02	+43
 103	2020-01-24	City in lockdown.
 103	2020-01-24	* First 11 cases confirmed.
 103	2020-01-25	6 more cases.
@@ -751,6 +757,7 @@ location_id	date	description
 103	2020-01-30	15 new cases.
 103	2020-01-31	9 new cases.
 103	2020-02-01	12 new cases.
+103	2020-02-02	+18, more than a hundred cases.
 104	2020-01-24	First confirmed case. (Plus confirmed case from Rushan transferred here).
 104	2020-01-25	One more case.
 104	2020-01-26	One more case.
@@ -823,6 +830,7 @@ location_id	date	description
 115	2020-01-30	54 new cases (almost doubled).
 115	2020-01-31	50 new cases.
 115	2020-02-01	109 cases.
+115	2020-02-02	+77
 116	2020-01-24	First 22 confirmed cases, making it the city with highest number of cases reported in a single day outside Wuhan.
 116	2020-01-24	* 4 more cases.
 116	2020-01-25	29 new cases added.
@@ -832,6 +840,7 @@ location_id	date	description
 116	2020-01-30	125 new cases and 3 deaths.
 116	2020-01-31	142 new cases. 3 new deaths.
 116	2020-02-01	87 new cases. 3 new deaths.
+116	2020-02-02	+121, 2 deaths.
 117	2020-01-24	First confirmed case.
 117	2020-01-24	* 4 more cases.
 117	2020-01-25	15 more cases, total of 20 (red).
@@ -841,6 +850,7 @@ location_id	date	description
 117	2020-01-30	31 new cases.
 117	2020-01-31	31 new cases.
 117	2020-02-01	27 new cases.
+117	2020-02-02	+35
 118	2020-01-24	First confirmed case.
 118	2020-01-28	1 new case.
 118	2020-01-31	1 new case.
@@ -1088,6 +1098,7 @@ location_id	date	description
 162	2020-01-30	27 new cases.
 162	2020-01-31	85 new cases.
 162	2020-02-01	76 new cases. First death.
+162	2020-02-02	+80, 2 deaths.
 163	2020-01-24	First confirmed case.
 163	2020-01-28	2 new cases.
 163	2020-01-29	1 new case.
@@ -1363,6 +1374,7 @@ location_id	date	description
 224	2020-01-30	32 new cases.
 224	2020-01-31	123 new cases.
 224	2020-02-01	61 new cases.
+224	2020-02-02	+94
 225	2020-01-25	First confirmed case in Canada, 3rd confirmed case in North America.Â 
 225	2020-01-27	Second confirmed case.
 226	2020-01-26	Confirmed case detected at Incheon Int. Airport being treated in Goyang (transferred).
@@ -1749,6 +1761,7 @@ location_id	date	description
 380	2020-01-31	Child infected, son of previous case.
 381	2020-01-31	25 confirmed cases. Plus 130 from previous updates.
 381	2020-02-01	40 new cases.
+381	2020-02-02	+40
 382	2020-01-30	First confirmed case.
 382	2020-01-31	1 new case.
 383	2020-01-31	First confirmed case.
