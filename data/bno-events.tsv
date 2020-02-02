@@ -677,6 +677,7 @@ location_id	date	description
 91	2020-01-30	23 new cases.
 91	2020-01-31	35 new cases. First death.
 91	2020-02-01	7 new cases.
+91	2020-02-02	+43
 92	2020-01-23	City in lockdown.
 92	2020-01-26	First 5 confirmed cases and one death.
 92	2020-01-28	2 more cases.
@@ -684,6 +685,7 @@ location_id	date	description
 92	2020-01-30	2 new cases.
 92	2020-01-31	2 new cases.
 92	2020-02-01	15 new cases.
+92	2020-02-02	8 new cases.
 93	2020-01-23	First confirmed case.
 93	2020-01-26	Two more cases.
 93	2020-01-28	8 new cases.
@@ -1007,6 +1009,7 @@ location_id	date	description
 146	2020-01-30	10 new cases.
 146	2020-01-31	23 new cases. 3 new deaths.
 146	2020-02-01	15 new cases. 1 new death.
+146	2020-02-02	+17
 147	2020-01-24	First confirmed case.
 147	2020-01-25	Two more cases from Baihe county.
 147	2020-01-27	Four more cases. 2 in Xunyang county, 1 in Baihe county and 1 in Ziyang county.

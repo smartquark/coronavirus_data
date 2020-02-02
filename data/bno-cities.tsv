@@ -89,8 +89,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 88	36.545015	104.138586	1				Gansu	CHN
 89	38.304477	116.838834	19				Hebei	CHN
 90	30.39194	114.894843	227				Hubei	CHN
-91	30.360882	113.423482	97				Hubei	CHN
-92	30.402167	112.899762	27				Hubei	CHN
+91	30.360882	113.423482	140				Hubei	CHN
+92	30.402167	112.899762	35				Hubei	CHN
 93	27.817808	114.917346	31				Jiangxi	CHN
 94	27.087637	114.964696	11				Jiangxi	CHN
 95	29.705077	116.00193	44				Jiangxi	CHN
@@ -144,7 +144,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 143	37.464539	121.447852	20				Shandong	CHN
 144	36.6512	117.120095	19				Shandong	CHN
 145	37.499972	105.196902	2				Ningxia	CHN
-146	30.653061	113.165862	82				Hubei	CHN
+146	30.653061	113.165862	9				Hubei	CHN
 147	32.684714	109.029022	14				Shaanxi	CHN
 148	36.585445	109.489757	7				Shaanxi	CHN
 149	27.7172453	85.3239605	1				Bagmati Pradesh (capital)s+	NPL
