@@ -5,7 +5,11 @@
 
 ### JHU CSSE
 
-Source: https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing&sle=true
+Source:
+
+- https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing&sle=true
+
+Data:
 
 * [jhu.tsv](data/jhu.tsv) : Latest
 
@@ -13,7 +17,11 @@ Source: https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXo
 
 ### BNO News
 
-Source: https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
+Source:
+
+- https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
+
+Data:
 
 * [bno-cities.tsv](data/bno-cities.tsv) : List of cities (with coordinates)
 
@@ -26,8 +34,11 @@ Source: https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 ### Coronavirus - case tracking worksheets
 
 Source:
+
 - https://www.reddit.com/r/China_Flu/comments/exelra/new_suspected_cases_february_2nd_edition_all_new/
 - https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview
+
+Data:
 
 * [casetracking.tsv](data/casetracking.tsv)
 
