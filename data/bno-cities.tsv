@@ -42,14 +42,14 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 41	31.46746	104.679004	11				Sichuan	CHN
 42	37.87059	112.548879	4				Shanxi	CHN
 43	38.487193	106.230908	11				Ningxia	CHN
-44	21.481291	109.120161	17				Guangxi	CHN
+44	21.481291	109.120161	23				Guangxi	CHN
 45	34.620202	112.453926	3				Henan	CHN
 46	34.772792	111.200367	6				Henan	CHN
 47	34.747834	113.022496	2				Henan	CHN
 48	38.042805	114.514893	12				Hebei	CHN
 49	31.298974	120.585289	32				Jiangsu	CHN
 50	44.551653	129.633168	2				Heilongjiang	CHN
-51	24.326292	109.428608	11				Guangxi	CHN
+51	24.326292	109.428608	12				Guangxi	CHN
 52	35.104673	118.356414	23				Shandong	CHN
 53	36.067108	120.382609	21				Shandong	CHN
 54	31.209571	107.468023	8				Sichuan	CHN
@@ -94,8 +94,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 93	27.817808	114.917346	29				Jiangxi	CHN
 94	27.087637	114.964696	8				Jiangxi	CHN
 95	29.705077	116.00193	42				Jiangxi	CHN
-96	25.234479	110.179953	18				Guangxi	CHN
-97	23.476962	111.279115	4				Guangxi	CHN
+96	25.234479	110.179953	21				Guangxi	CHN
+97	23.476962	111.279115	5				Guangxi	CHN
 98	23.902479	106.618283	2				Guangxi	CHN
 99	24.692931	108.085261	6				Guangxi	CHN
 100	35.6803997	139.7690174	8				Kantō (capital)s+	JPN

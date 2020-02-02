@@ -329,6 +329,7 @@ location_id	date	description
 44	2020-01-29	2 new cases.
 44	2020-01-30	2 new cases.
 44	2020-01-31	2 new cases.
+44	2020-02-01	6 new cases. 23 total (red).
 45	2020-01-22	First confirmed case (imported).
 45	2020-01-27	Second confirmed case.
 45	2020-01-31	1 new case.
@@ -367,6 +368,7 @@ location_id	date	description
 51	2020-01-27	One more case.
 51	2020-01-30	4 new cases.
 51	2020-01-31	1 new case.
+51	2020-02-01	1 new case.
 52	2020-01-23	First 2 confirmed cases.
 52	2020-01-25	One more case.
 52	2020-01-26	4 new cases.
@@ -650,9 +652,11 @@ location_id	date	description
 96	2020-01-28	One new case.
 96	2020-01-29	1 new case.
 96	2020-01-30	2 new cases.
+96	2020-02-01	3 new cases. 21 total (red).
 97	2020-01-22	First case confirmed (imported).
 97	2020-01-25	Second confirmed case.
 97	2020-01-28	2 new cases.
+97	2020-02-01	1 new case.
 98	2020-01-23	First confirmed case.
 98	2020-01-25	Second confirmed case.
 99	2020-01-23	First confirmed case.
