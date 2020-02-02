@@ -22,9 +22,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	36				Henan	CHN
 23	28.228209	112.938814	68				Hunan	CHN
-24	30.572815	104.066801	69				Sichuan	CHN
+24	30.572815	104.066801	72				Sichuan	CHN
 25	24.880095	102.832891	24				Yunnan	CHN
-26	30.456224	106.633088	13				Sichuan	CHN
+26	30.456224	106.633088	16				Sichuan	CHN
 27	22.198745	113.543873	7				Macau (SAR)s+	CHN
 28	23.12911	113.264385	112				Guangdong	CHN
 29	23.021478	113.121435	33				Guangdong	CHN
@@ -39,7 +39,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 38	19.912025	109.690508	1				Hainan	CHN
 39	27.569517	110.001922	26				Hunan	CHN
 40	30.327716	107.33339	10				Chongqing	CHN
-41	31.46746	104.679004	11				Sichuan	CHN
+41	31.46746	104.679004	12				Sichuan	CHN
 42	37.87059	112.548879	4				Shanxi	CHN
 43	38.487193	106.230908	11				Ningxia	CHN
 44	21.481291	109.120161	23				Guangxi	CHN
@@ -52,7 +52,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 51	24.326292	109.428608	12				Guangxi	CHN
 52	35.104673	118.356414	24				Shandong	CHN
 53	36.067108	120.382609	22				Shandong	CHN
-54	31.209571	107.468023	8				Sichuan	CHN
+54	31.209571	107.468023	9				Sichuan	CHN
 55	22.517585	113.39277	18				Guangdong	CHN
 56	23.047191	112.465091	6				Guangdong	CHN
 57	43.817071	125.323544	3				Jilin	CHN
@@ -93,7 +93,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 92	30.402167	112.899762	27	1	LOCKDOWN		Hubei	CHN
 93	27.817808	114.917346	29				Jiangxi	CHN
 94	27.087637	114.964696	8				Jiangxi	CHN
-95	29.705077	116.00193	42				Jiangxi	CHN
+95	29.705077	116.00193	44				Jiangxi	CHN
 96	25.234479	110.179953	21				Guangxi	CHN
 97	23.476962	111.279115	5				Guangxi	CHN
 98	23.902479	106.618283	2				Guangxi	CHN
@@ -116,7 +116,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 115	30.691966	111.286471	276	1	LOCKDOWN		Hubei	CHN
 116	30.917766	113.957037	628				Hubei	CHN
 117	32.629398	110.798266	177				Hubei	CHN
-118	29.980537	103.013261	3				Sichuan	CHN
+118	29.980537	103.013261	5				Sichuan	CHN
 119	30.532847	105.592898	5				Sichuan	CHN
 120	31.126855	104.397894	7				Sichuan	CHN
 121	31.980171	120.894291	10				Jiangsu	CHN
@@ -197,7 +197,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 196	-37.8136276	144.9630576	4				Victoria	AUS
 197	30.753924	120.758543	16				Zhejiang	CHN
 198	19.521134	109.580811	5				Hainan	CHN
-199	29.580228	105.058433	6				Sichuan	CHN
+199	29.580228	105.058433	10				Sichuan	CHN
 200	28.871569	105.44174	5				Sichuan	CHN
 201	29.33903	104.778442	9				Sichuan	CHN
 202	1.492659	103.7413591	6				Johor	MYS
@@ -219,7 +219,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 218	25.489999	103.796167	5				Yunnan	CHN
 219	18.506048	110.037503	2				Hainan	CHN
 220	22.817002	108.366543	16				Guangxi	CHN
-221	27.622768	113.854556	8				Jiangxi	CHN
+221	27.622768	113.854556	9				Jiangxi	CHN
 222	37.856971	113.580519	1				Shanxi	CHN
 223	37.687357	112.752652	11				Shanxi	CHN
 224	32.009016	112.122426	347				HubeiÂ	CHN
@@ -250,7 +250,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 249	29.844811	106.056404	2				Chongqing	CHN
 250	29.707032	105.721733	4				Chongqing	CHN
 251	30.04952	101.96231	5				Sichuan	CHN
-252	30.837793	106.110698	11				Sichuan	CHN
+252	30.837793	106.110698	16				Sichuan	CHN
 253	30.07728	103.848396	2				Sichuan	CHN
 254	29.552115	103.765678	2				Sichuan	CHN
 255	19.738521	110.006755	2				Hainan	CHN
@@ -298,7 +298,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 297	39.538047	116.683752	11				Hebei	CHN
 298	37.070834	114.504677	10				Hebei	CHN
 299	30.128901	104.627636	2				SichuanÂ	CHN
-300	27.88157	102.267712	3				Sichuan	CHN
+300	27.88157	102.267712	5				Sichuan	CHN
 301	28.751836	104.643159	7				SichuanÂ	CHN
 302	37.4449168	127.1388684	1				Gyeonggi	KOR
 303	34.49938	109.502882	5				Shaanxi	CHN
@@ -337,7 +337,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 336	49.2827291	-123.1207375	1				BC	CAN
 337	35.761829	115.029215	3				Henan	CHN
 338	30.153746	116.129105	6				Anhui	CHN
-339	31.867903	106.747477	5				Sichuan	CHN
+339	31.867903	106.747477	8				Sichuan	CHN
 340	32.435435	105.843357	2				Sichuan	CHN
 341	40.767544	114.886335	8				Hebei	CHN
 342	41.728401	125.939697	1				Jilin	CHN
@@ -382,7 +382,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 381	47.8677574	12.6384037	2				Bavaria	DEU
 382	29.841438	114.322439	206				Hubei	CHN
 383	29.405002	105.594623	2				Chongqing	CHN
-384	26.582347	101.718637	1				Sichuan	CHN
+384	26.582347	101.718637	7				Sichuan	CHN
 385	31.899413	102.224653	1				Sichuan	CHN
 386	33.929291	116.4495	4				Henan	CHN
 387	41.168779	80.2606049999999	1				Xinjiang	CHN
