@@ -3,6 +3,14 @@
 
 ## data sources:
 
+### JHU CSSE
+
+Source: https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing&sle=true
+
+* [jhu.tsv](data/jhu.tsv) : Latest
+
+
+
 ### BNO News
 
 Source: https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
