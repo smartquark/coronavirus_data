@@ -185,6 +185,7 @@ location_id	date	description
 22	2020-01-29	4 new cases.
 22	2020-01-30	6 new cases. 25 total (red).
 22	2020-01-31	11 new cases.
+22	2020-02-01	+2
 23	2020-01-21	First confirmed case (imported).
 23	2020-01-23	Two more cases, imported.
 23	2020-01-23	* Tongren, Guizhou first case infected in Changsha at a restaurant. Locally transmitted.
@@ -337,12 +338,14 @@ location_id	date	description
 45	2020-01-22	First confirmed case (imported).
 45	2020-01-27	Second confirmed case.
 45	2020-01-31	1 new case.
+45	2020-02-01	+2
 46	2020-01-22	Case from Mianchi County counted in Sanmenxia.
 46	2020-01-26	First confirmed case.
 46	2020-01-27	One more case.
 46	2020-01-29	1 new case.
 46	2020-01-30	1 new case.
 46	2020-01-31	1 new case.
+46	2020-02-01	+1
 47	2020-01-22	First confirmed case, imported.
 47	2020-01-24	Second confirmed case.
 48	2020-01-22	First confirmed case in Hebei province, imported.
@@ -362,6 +365,7 @@ location_id	date	description
 49	2020-01-29	8 new cases. 20 total (red).
 49	2020-01-30	4 new cases.
 49	2020-01-31	8 new cases.
+49	2020-02-01	+2
 50	2020-01-22	First confirmed case inÂ Heilongjiang province, imported.
 50	2020-01-31	1 new case.
 51	2020-01-22	First confirmed case, imported.
@@ -463,6 +467,7 @@ location_id	date	description
 65	2020-01-28	8 new cases. 25 total (red).
 65	2020-01-29	21 new cases. Almost doubled.
 65	2020-01-31	21 new cases.
+65	2020-02-01	+16
 66	2020-01-23	First confirmed case. Patient infected in Changsha, Hunan from a student at a restaurant.
 66	2020-01-25	Second confirmed case.
 66	2020-01-31	1 new case.
@@ -639,12 +644,14 @@ location_id	date	description
 93	2020-01-26	Two more cases.
 93	2020-01-28	8 new cases.
 93	2020-01-31	17 new cases (more than doubled). 29 total (red).
+93	2020-02-01	+12
 94	2020-01-23	First confirmed case.
 94	2020-01-25	Second confirmed case.
 94	2020-01-26	Third confirmed case.
 94	2020-01-28	1 new case.
 94	2020-01-29	1 new case.
 94	2020-01-31	3 new cases.
+94	2020-02-01	+3
 95	2020-01-23	First confirmed case.
 95	2020-01-24	Second confirmed case.
 95	2020-01-26	2 more cases.
@@ -720,6 +727,7 @@ location_id	date	description
 106	2020-01-29	3 new cases.
 106	2020-01-30	6 new cases.
 106	2020-01-31	4 new cases.
+106	2020-02-01	+6
 107	2020-01-24	First confirmed case.
 107	2020-01-25	4 more cases.
 107	2020-01-26	16 new cases. 20+ cases (red).
@@ -728,6 +736,7 @@ location_id	date	description
 107	2020-01-29	3 new cases.
 107	2020-01-30	10 new cases.
 107	2020-01-31	7 new cases.
+107	2020-02-01	+21
 108	2020-01-24	First confirmed case.
 108	2020-01-25	Second confirmed case.
 108	2020-01-26	One more case.
@@ -801,6 +810,7 @@ location_id	date	description
 121	2020-01-28	2 more cases.
 121	2020-01-30	3 new cases.
 121	2020-01-31	1 new case.
+121	2020-02-01	+2
 122	2020-01-24	First confirmed case.
 122	2020-01-26	One more case.
 122	2020-01-27	2 more cases.
@@ -808,6 +818,7 @@ location_id	date	description
 122	2020-01-29	3 new cases.
 122	2020-01-30	1 new case.
 122	2020-01-31	2 new cases.
+122	2020-02-01	+1
 123	2020-01-24	First confirmed case.
 123	2020-01-25	2 more cases.
 123	2020-01-27	4 more cases.
@@ -985,24 +996,28 @@ location_id	date	description
 157	2020-01-28	1 new case.
 157	2020-01-29	4 new cases.
 157	2020-01-31	2 new cases.
+157	2020-02-01	+3
 158	2020-01-24	First two confirmed cases.
 158	2020-01-25	4 more cases.
 158	2020-01-27	One more case.
 158	2020-01-28	2 new cases.
 158	2020-01-29	2 new cases.
 158	2020-01-31	1 new case.
+158	2020-02-01	+4
 159	2020-01-24	First two confirmed cases.
 159	2020-01-25	5 more cases.
 159	2020-01-27	3 more cases.
 159	2020-01-28	6 new cases.
 159	2020-01-29	5 new cases. 21 total (red).
 159	2020-01-31	6 new cases.
+159	2020-02-01	+3
 160	2020-01-24	First confirmed case.
 160	2020-01-25	4 more cases.
 160	2020-01-26	One more case.
 160	2020-01-27	4 more cases.
 160	2020-01-28	4 new cases.
 160	2020-01-31	12 new cases (doubled). 26 total (red).
+160	2020-02-01	+3
 161	2020-01-24	First confirmed case.
 161	2020-01-26	Second confirmed case.
 161	2020-01-31	1 new case.
@@ -1054,10 +1069,12 @@ location_id	date	description
 171	2020-01-28	2 more cases.
 171	2020-01-30	2 new cases.
 171	2020-01-31	3 new cases.
+171	2020-02-01	+1
 172	2020-01-25	First confirmed case.
 172	2020-01-28	2 more cases.
 172	2020-01-29	1 new case.
 172	2020-01-31	3 new cases.
+172	2020-02-01	+1
 173	2020-01-25	First confirmed case.
 173	2020-01-29	5 new cases.
 173	2020-01-31	2 new cases.
@@ -1110,6 +1127,7 @@ location_id	date	description
 182	2020-01-29	5 new cases.
 182	2020-01-30	20 new cases.
 182	2020-01-31	10 new cases.
+182	2020-02-01	+5
 183	2020-01-25	First 2 confirmed cases.
 183	2020-01-26	5 more cases.
 183	2020-01-27	2 more cases.
@@ -1117,6 +1135,7 @@ location_id	date	description
 183	2020-01-29	6 new cases.
 183	2020-01-30	9 new cases. 25 total (red).
 183	2020-01-31	5 new cases.
+183	2020-02-01	+10
 184	2020-01-25	First confirmed case.
 185	2020-01-25	First confirmed case.
 185	2020-01-26	Two more cases.
@@ -1125,11 +1144,13 @@ location_id	date	description
 185	2020-01-29	1 new case.
 185	2020-01-30	4 new cases.
 185	2020-01-31	4 new cases.
+185	2020-02-01	+6, 21 total (red).
 186	2020-01-25	First confirmed case.
 186	2020-01-26	Second confirmed case.
 186	2020-01-27	3 more cases.
 186	2020-01-30	3 new cases.
 186	2020-01-31	2 new cases.
+186	2020-02-01	+1
 187	2020-01-25	First 4 confirmed cases.
 187	2020-01-26	3 more cases.
 187	2020-01-28	3 more cases.
@@ -1277,11 +1298,13 @@ location_id	date	description
 227	2020-01-29	3 new cases.
 227	2020-01-30	2 new cases.
 227	2020-01-31	4 new cases. 20 total (red).
+227	2020-02-01	+4
 228	2020-01-26	First 3 confirmed cases.
 228	2020-01-27	3 more cases.
 228	2020-01-28	3 new cases.
 228	2020-01-30	2 new cases.
 228	2020-01-31	2 new cases.
+228	2020-02-01	+1
 229	2020-01-26	First confirmed case.
 229	2020-01-27	1 more case.
 229	2020-01-29	2 new cases.
@@ -1318,6 +1341,7 @@ location_id	date	description
 237	2020-01-29	1 new case.
 237	2020-01-30	4 new cases.
 237	2020-01-31	3 new cases.
+237	2020-02-01	+2
 238	2020-01-26	First 3 confirmed cases.
 238	2020-01-28	1 new case.
 238	2020-01-29	2 new cases.
@@ -1428,6 +1452,7 @@ location_id	date	description
 279	2020-01-29	7 new cases, doubled.
 279	2020-01-30	4 new cases.
 279	2020-01-31	9 new cases. 27 total (red).
+279	2020-02-01	+2
 280	2020-01-27	First 2 confirmed cases.
 280	2020-01-29	3 new cases.
 280	2020-01-30	1 new case.
@@ -1435,15 +1460,18 @@ location_id	date	description
 281	2020-01-28	One new case.
 281	2020-01-30	1 new case.
 281	2020-01-31	5 new cases.
+281	2020-02-01	+4
 282	2020-01-27	First confirmed case.
 282	2020-01-28	One new case.
 282	2020-01-29	1 new case.
 282	2020-01-30	1 new case.
 282	2020-01-31	2 new cases.
+282	2020-02-01	+2
 283	2020-01-27	First 3 confirmed cases.
 283	2020-01-28	5 more cases.
 283	2020-01-30	7 new cases.
 283	2020-01-31	5 new cases. 20 total (red).
+283	2020-02-01	+3
 284	2020-01-27	First confirmed case.
 284	2020-01-31	2 new cases.
 285	2020-01-27	First 2 confirmed cases.
@@ -1632,6 +1660,7 @@ location_id	date	description
 384	2020-02-01	6 new cases.
 385	2020-01-31	First confirmed case.
 386	2020-01-31	First 4 confirmed cases.
+386	2020-02-01	+3
 387	2020-01-31	First confirmed case.
 388	2020-01-31	First confirmed case.
 389	2020-01-31	First confirmed case.
