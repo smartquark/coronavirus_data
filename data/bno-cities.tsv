@@ -373,7 +373,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 372	40.412438	110.033833	1				Inner Mongolia	CHN
 373	29.652491	91.17211	1				Tibet	CHN
 374	38.16443	106.586163	1				Ningxia	CHN
-375	14.5995124	120.9842195	1				NCR	PHL
+375	14.5995124	120.9842195	2				NCR	PHL
 376	10.5276416	76.2144349	1				Kerala	IND
 377	19.806692	105.7851816	1				Thanh Hoa	VNM
 378	21.0277644	105.8341598	2				Red River Delta (capital)s+	VNM
