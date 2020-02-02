@@ -2,11 +2,11 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 1	30.592849	114.305539	3215				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
 3	22.543096	114.057865	134				Guangdong	CHN
-4	39.9041999	116.4073963	139				Beijing municipality (capital)	CHN
+4	39.9041999	116.4073963	156				Beijing municipality (capital)	CHN
 5	22.270978	113.576677	38				Guangdong	CHN
 6	21.270702	110.359368	13				Guangdong	CHN
 7	23.112257	114.415801	20				Guangdong	CHN
-8	31.230416	121.473701	153				Shanghai municipality	CHN
+8	31.230416	121.473701	169				Shanghai municipality	CHN
 9	37.4562557	126.7052062	2				SCA	KOR
 10	26.647661	106.630153	4				Guizhou	CHN
 11	30.453667	114.872199	726				Hubei	CHN
@@ -17,13 +17,13 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 16	31.074834	109.879153	6				Chongqing	CHN
 17	30.807667	108.408661	33				 Chongqing	CHN
 18	29.857996	107.081282	10				Chongqing	CHN
-19	39.3433574	117.3616476	34				Tianjin municipality	CHN
+19	39.3433574	117.3616476	37				Tianjin municipality	CHN
 20	35.416734	119.526925	11				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	38				Henan	CHN
-23	28.228209	112.938814	68				Hunan	CHN
+23	28.228209	112.938814	86				Hunan	CHN
 24	30.572815	104.066801	72				Sichuan	CHN
-25	24.880095	102.832891	24				Yunnan	CHN
+25	24.880095	102.832891	30				Yunnan	CHN
 26	30.456224	106.633088	16				Sichuan	CHN
 27	22.198745	113.543873	7				Macau (SAR)s+	CHN
 28	23.12911	113.264385	137				Guangdong	CHN
@@ -133,8 +133,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 132	22.6272784	120.3014353	2				Kaohsiung City Municipality	TWN
 133	30.299559	108.039002	12				Chongqing	CHN
 134	18.795143	110.391073	8				Hainan	CHN
-135	29.356803	113.12873	37				Hunan	CHN
-136	27.700062	111.993497	20				Hunan	CHN
+135	29.356803	113.12873	45				Hunan	CHN
+136	27.700062	111.993497	26				Hunan	CHN
 137	27.829795	112.944026	13				Hunan	CHN
 138	27.827986	113.133853	22				Hunan	CHN
 139	46.653845	126.968887	13				Heilongjiang	CHN
@@ -177,7 +177,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 176	28.55386	112.35518	24				Hunan	CHN
 177	29.031654	111.698784	39				Hunan	CHN
 178	26.893368	112.572018	26				Hunan	CHN
-179	27.23895	111.467674	36				Hunan	CHN
+179	27.23895	111.467674	41				Hunan	CHN
 180	23.020673	113.751799	16				Guangdong	CHN
 181	23.354091	116.681972	14				Guangdong	CHN
 182	32.990664	112.528308	66				Henan	CHN
@@ -215,7 +215,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 214	36.617134	101.778223	7				Qinghai	CHN
 215	25.606486	100.267638	6				Yunnan	CHN
 216	23.36225	103.374576	4				Yunnan	CHN
-217	24.347324	102.527197	6				Yunnan	CHN
+217	24.347324	102.527197	7				Yunnan	CHN
 218	25.489999	103.796167	5				Yunnan	CHN
 219	18.506048	110.037503	3				Hainan	CHN
 220	22.817002	108.366543	16				Guangxi	CHN
@@ -264,8 +264,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 263	26.641774	118.17771	8				Fujian	CHN
 264	25.454084	119.007777	25				Fujian	CHN
 265	24.433353	98.584895	3				Yunnan	CHN
-266	25.112046	99.1617610000001	6				Yunnan	CHN
-267	27.338257	103.717465	4				Yunnan	CHN
+266	25.112046	99.1617610000001	7				Yunnan	CHN
+267	27.338257	103.717465	6				Yunnan	CHN
 268	46.799777	130.3188779	11				 Heilongjiang	CHN
 269	12.568452	99.9577223	1				 Prachuap Khiri Khan	THA
 270	32.187849	119.425836	2				Jiangsu	CHN
@@ -348,7 +348,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 347	41.088421	108.267562	2				Inner Mongolias+	CHN
 348	43.61812	118.05545	1				Inner Mongolia	CHN
 349	42.25785	118.886931	1				Inner Mongolia	CHN
-350	22.825065	100.966512	4				Yunnan	CHN
+350	22.825065	100.966512	5				Yunnan	CHN
 351	25.2048493	55.2707828	4				Emirate of Dubai	UAE
 352	-28.016667	153.4	2				Queensland	AUS
 353	66.5039478	25.7293906	1				 Lapland	FIN
@@ -409,3 +409,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 408	18.750259	109.173054	1				Hainan	CHN
 409	46.745364	82.980316	1				Xinjiang	CHN
 410	40.743213	107.387657	1				Inner Mongolia	CHN
+411	12.7243439	109.2626992	1				Khan Hoa	VNM
+412	23.884154	100.088824	1				Yunnan	CHN

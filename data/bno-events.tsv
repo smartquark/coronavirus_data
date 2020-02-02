@@ -49,6 +49,7 @@ location_id	date	description
 4	2020-01-29	11 new cases. 2nd city with over a 100 cases outside Hubei. * 9 new cases.
 4	2020-01-30	3 new cases. * 7 new cases.
 4	2020-01-31	11 new cases. * 7 new cases.
+4	2020-02-01	+17
 5	2020-01-20	Three cases confirmed. Transmission among family members. First human-to-human transmission reported outside Wuhan.
 5	2020-01-21	One more case.
 5	2020-01-24	Four more cases.
@@ -88,7 +89,7 @@ location_id	date	description
 8	2020-01-29	14 new cases. * 16 new cases.
 8	2020-01-30	5 new cases. 3rd city outside Hubei reaching 100+ cases. * 11 new cases.
 8	2020-01-31	16 new cases. * 7 new cases.
-8	2020-02-01	18 new cases.
+8	2020-02-01	18 new cases. * +16
 9	2020-01-20	First confirmed case, detected at Incheon International Airport (imported).
 9	2020-01-24	Second confirmed case, detected at Incheon Int. Airport. (Transferred to Seoul).
 9	2020-01-26	Third confirmed case, according to officials the man engaged in normal activities after flying into Incheon International Airport. (Transferred to Goyang).
@@ -172,7 +173,7 @@ location_id	date	description
 19	2020-01-29	1 new case. * 2 new cases.
 19	2020-01-30	4 new cases.
 19	2020-01-31	1 new case.
-19	2020-02-01	+2
+19	2020-02-01	+5
 20	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
 20	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
 20	2020-01-25	One more case.
@@ -204,6 +205,7 @@ location_id	date	description
 23	2020-01-29	22 new cases (almost doubled).
 23	2020-01-30	11 new cases.
 23	2020-01-31	11 new cases.
+23	2020-02-01	+18
 24	2020-01-21	First confirmed case (imported).
 24	2020-01-22	Second confirmed case.
 24	2020-01-23	Two more confirmed cases.
@@ -225,6 +227,7 @@ location_id	date	description
 25	2020-01-29	3 new cases.
 25	2020-01-30	6 new cases. 21 total (red). * 2 new cases.
 25	2020-01-31	1 new case.
+25	2020-02-01	+6
 26	2020-01-22	First confirmed case (imported).
 26	2020-01-24	Second confirmed case.
 26	2020-01-27	4 more cases.
@@ -926,6 +929,7 @@ location_id	date	description
 135	2020-01-29	9 new cases. 26 total (red).
 135	2020-01-30	3 new cases.
 135	2020-01-31	8 new cases.
+135	2020-02-01	+8
 136	2020-01-24	First 3 confirmed cases.
 136	2020-01-25	2 more cases.
 136	2020-01-27	2 more cases.
@@ -933,6 +937,7 @@ location_id	date	description
 136	2020-01-29	4 new cases.
 136	2020-01-30	3 new cases.
 136	2020-01-31	4 new cases. 20 total (red).
+136	2020-02-01	+6
 137	2020-01-24	First confirmed case.
 137	2020-01-25	One more case.
 137	2020-01-25	One more case.
@@ -1158,6 +1163,7 @@ location_id	date	description
 179	2020-01-29	8 new cases.
 179	2020-01-30	10 new cases. 29 total (red).
 179	2020-01-31	7 new cases.
+179	2020-02-01	+5
 180	2020-01-25	First confirmed case.
 180	2020-01-26	Second confirmed case.
 180	2020-01-28	5 new cases.
@@ -1318,6 +1324,7 @@ location_id	date	description
 217	2020-01-25	First confirmed case in Yimen.
 217	2020-01-28	4 new cases.
 217	2020-01-30	1 new case.
+217	2020-02-01	+1
 218	2020-01-25	First confirmed case inÂ Luoping.
 218	2020-01-27	One more case.
 218	2020-01-29	3 new cases.
@@ -1490,9 +1497,11 @@ location_id	date	description
 266	2020-01-27	One more case.
 266	2020-01-28	1 new case.
 266	2020-01-30	1 new case. * 1 new case.
+266	2020-02-01	+1
 267	2020-01-26	First confirmed case.
 267	2020-01-28	1 new case.
 267	2020-01-30	2 new cases.
+267	2020-02-01	+2
 268	2020-01-26	First confirmed case.
 268	2020-01-29	4 new cases.
 268	2020-01-31	3 new cases.
@@ -1683,6 +1692,7 @@ location_id	date	description
 350	2020-01-29	First confirmed case.
 350	2020-01-30	2 new cases.
 350	2020-01-31	1 new case.
+350	2020-02-01	+1
 351	2020-01-29	First 4 confirmed cases in the UAE and the Middle East. Cases are all from a Chinese family. Location not 100% certain, waiting for further details from the UAE government.
 352	2020-01-29	First confirmed case in the state and 7th in Australia.
 352	2020-01-30	1 new case, part of a Chinese group travelling with the previous case.
@@ -1761,3 +1771,5 @@ location_id	date	description
 408	2020-02-01	First confirmed case.
 409	2020-02-01	First confirmed case. Location approximate.Â 
 410	2020-02-01	First confirmed case in Linhe District.
+411	2020-02-01	First confirmed case and 6th case in Vietnam.
+412	2020-02-01	First confirmed case.
