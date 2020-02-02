@@ -316,6 +316,7 @@ location_id	date	description
 39	2020-01-29	2 new cases.
 39	2020-01-30	5 new cases. 23 total (red).
 39	2020-01-31	3 new cases.
+39	2020-02-01	+2
 40	2020-01-22	First confirmed case (imported).
 40	2020-01-24	Second confirmed case.
 40	2020-01-27	2 more cases.
@@ -438,6 +439,7 @@ location_id	date	description
 58	2020-01-29	1 new case.
 58	2020-01-30	1 new case.
 58	2020-01-31	6 new cases, doubled.
+58	2020-02-01	+4
 59	2020-01-23	First confirmed case, imported.
 59	2020-01-25	Two more cases, 1 from Luoyang and 1 from Anxi.
 59	2020-01-26	One more case.
@@ -446,6 +448,7 @@ location_id	date	description
 59	2020-01-28	3 new cases.
 59	2020-01-30	5 new cases.
 59	2020-01-31	4 new cases. 22 total (red).
+59	2020-02-01	+2
 60	2020-01-23	First confirmed case, imported.
 60	2020-01-25	One more case.
 60	2020-01-26	One more case.
@@ -468,12 +471,14 @@ location_id	date	description
 62	2020-01-29	4 new cases.
 62	2020-01-30	3 new cases.
 62	2020-01-31	2 new cases.
+62	2020-02-01	+2
 63	2020-01-23	Case counted from Yizhang county.
 63	2020-01-26	Two more cases.
 63	2020-01-27	3 more cases.
 63	2020-01-28	1 new case.
 63	2020-01-30	3 new cases.
 63	2020-01-31	2 new cases.
+63	2020-02-01	+1
 64	2020-01-23	First confirmed case.
 65	2020-01-23	First confirmed case.
 65	2020-01-23	* One new case.
@@ -578,6 +583,7 @@ location_id	date	description
 78	2020-01-28	1 more case. * 6 new cases. 24 total (red).
 78	2020-01-30	6 new cases.
 78	2020-01-31	2 new cases.
+78	2020-02-01	+7
 79	2020-01-23	First 2 confirmed cases, imported.
 79	2020-01-25	One more case.
 79	2020-01-27	One more case.
@@ -935,6 +941,7 @@ location_id	date	description
 137	2020-01-29	2 new cases.
 137	2020-01-30	1 new case.
 137	2020-01-31	1 new case.
+137	2020-02-01	+3
 138	2020-01-24	First confirmed case.
 138	2020-01-26	Two more cases.
 138	2020-01-27	Two more cases.
@@ -942,6 +949,7 @@ location_id	date	description
 138	2020-01-29	6 new cases.
 138	2020-01-30	5 new cases.
 138	2020-01-31	1 new case.
+138	2020-02-01	+3, 22 total (red).
 139	2020-01-24	First confirmed case resulting in death.
 139	2020-01-26	Second confirmed case.
 139	2020-01-27	One more case.
@@ -1128,6 +1136,7 @@ location_id	date	description
 176	2020-01-29	4 new cases.
 176	2020-01-30	3 new cases.
 176	2020-01-31	3 new cases. 20 total (red).
+176	2020-02-01	+4
 177	2020-01-25	First 3 confirmed cases.
 177	2020-01-26	4 more cases.
 177	2020-01-27	5 more cases.
@@ -1135,12 +1144,14 @@ location_id	date	description
 177	2020-01-29	7 new cases. 26 total (red).
 177	2020-01-30	4 new cases.
 177	2020-01-31	7 new cases.
+177	2020-02-01	+2
 178	2020-01-25	First 3 confirmed cases.
 178	2020-01-27	One more case.
 178	2020-01-28	3 new cases.
 178	2020-01-29	10 new cases.
 178	2020-01-30	3 new cases. 20 total (red).
 178	2020-01-31	5 new cases.
+178	2020-02-01	+1
 179	2020-01-25	First two confirmed cases.
 179	2020-01-27	6 more cases.
 179	2020-01-28	3 new cases.
@@ -1277,6 +1288,7 @@ location_id	date	description
 206	2020-01-27	One more case.
 206	2020-01-28	1 new case.
 206	2020-01-31	1 new case.
+206	2020-02-01	+3
 207	2020-01-25	First confirmed case from Sanyuan district.
 207	2020-01-26	3 more cases.
 207	2020-01-28	4 new cases.
@@ -1358,6 +1370,7 @@ location_id	date	description
 230	2020-01-26	First 3 confirmed cases.
 230	2020-01-30	1 new case.
 230	2020-01-31	1 new case.
+230	2020-02-01	+1
 231	2020-01-26	First 2 confirmed cases.
 231	2020-01-27	One more case.
 231	2020-01-29	6 new cases. * 1 new case.
@@ -1464,11 +1477,13 @@ location_id	date	description
 263	2020-01-26	First confirmed case.
 263	2020-01-27	One more case.
 263	2020-01-28	1 new case.
+263	2020-02-01	+5
 264	2020-01-26	First confirmed case.
 264	2020-01-27	8 more cases. * 1 more case.
 264	2020-01-28	4 new cases.
 264	2020-01-30	3 new cases.
 264	2020-01-31	5 new cases. 22 total (red).
+264	2020-02-01	+3
 265	2020-01-26	First 2 confirmed cases.
 265	2020-01-30	1 new case.
 266	2020-01-26	First 2 confirmed cases.
@@ -1690,12 +1705,14 @@ location_id	date	description
 364	2020-01-30	First 2 confirmed cases.
 365	2020-01-27	First confirmed case.
 366	2020-01-30	First confirmed case.
+366	2020-02-01	+1
 367	2020-01-30	First confirmed case.
 367	2020-01-31	Added 1 case.
 368	2020-01-30	First confirmed case.
 369	2020-01-30	First confirmed case.
 370	2020-01-30	First confirmed case.
 371	2020-01-30	First confirmed case.
+371	2020-02-01	+2
 372	2020-01-30	First confirmed case in Tibet. All regions in China are now reporting cases.
 373	2020-01-30	First confirmed case.
 374	2020-01-30	First confirmed case in the Philippines, treated atÂ San Lazaro Hospital according to Sen. Christopher Go
@@ -1743,3 +1760,4 @@ location_id	date	description
 407	2020-02-01	First 3 confirmed cases.
 408	2020-02-01	First confirmed case.
 409	2020-02-01	First confirmed case. Location approximate.Â 
+410	2020-02-01	First confirmed case in Linhe District.

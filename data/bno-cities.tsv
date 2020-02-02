@@ -37,7 +37,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 36	20.044412	110.198286	11				Hainan	CHN
 37	18.252847	109.511909	15				Hainan	CHN
 38	19.912025	109.690508	3				Hainan	CHN
-39	27.569517	110.001922	26				Hunan	CHN
+39	27.569517	110.001922	28				Hunan	CHN
 40	30.327716	107.33339	10				Chongqing	CHN
 41	31.46746	104.679004	12				Sichuan	CHN
 42	37.87059	112.548879	4				Shanxi	CHN
@@ -56,12 +56,12 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 55	22.517585	113.39277	18				Guangdong	CHN
 56	23.047191	112.465091	6				Guangdong	CHN
 57	43.817071	125.323544	7				Jilin	CHN
-58	24.479833	118.089425	13				Fujian	CHN
-59	24.874132	118.675675	22				Fujian	CHN
+58	24.479833	118.089425	17				Fujian	CHN
+59	24.874132	118.675675	24				Fujian	CHN
 60	26.665617	119.547932	9				Fujian	CHN
 61	41.805699	123.431472	12				Liaoning	CHN
-62	26.420394	111.613445	16				Hunan	CHN
-63	25.770509	113.014717	12				Hunan	CHN
+62	26.420394	111.613445	18				Hunan	CHN
+63	25.770509	113.014717	13				Hunan	CHN
 64	29.703113	107.389298	1				Chongqing	CHN
 65	28.682892	115.858197	83				Jiangxi	CHN
 66	27.731514	109.189598	3				Guizhou	CHN
@@ -76,7 +76,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 75	28.970079	118.859457	13				Zhejiang	CHN
 76	31.035395	112.199427	251				Hubei	CHN
 77	30.335237	112.239631	287				Hubei	CHN
-78	26.074478	119.296482	32				Fujian	CHN
+78	26.074478	119.296482	39				Fujian	CHN
 79	43.825592	87.616848	8				Xinjiang	CHN
 80	34.329605	108.708991	8				Shaanxi	CHN
 81	34.341574	108.93977	40				Shaanxi	CHN
@@ -135,8 +135,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 134	18.795143	110.391073	8				Hainan	CHN
 135	29.356803	113.12873	37				Hunan	CHN
 136	27.700062	111.993497	20				Hunan	CHN
-137	27.829795	112.944026	10				Hunan	CHN
-138	27.827986	113.133853	19				Hunan	CHN
+137	27.829795	112.944026	13				Hunan	CHN
+138	27.827986	113.133853	22				Hunan	CHN
 139	46.653845	126.968887	13				Heilongjiang	CHN
 140	46.589309	125.103784	8				Heilongjiang	CHN
 141	49.597841	117.378529	1				Inner Mongolia	CHN
@@ -174,9 +174,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 173	33.347316	120.16366	13				Jiangsu	CHN
 174	40.952942	117.96275	2				Hebei	CHN
 175	38.874434	115.464589	11				Hebei	CHN
-176	28.55386	112.35518	20				Hunan	CHN
-177	29.031654	111.698784	37				Hunan	CHN
-178	26.893368	112.572018	25				Hunan	CHN
+176	28.55386	112.35518	24				Hunan	CHN
+177	29.031654	111.698784	39				Hunan	CHN
+178	26.893368	112.572018	26				Hunan	CHN
 179	27.23895	111.467674	36				Hunan	CHN
 180	23.020673	113.751799	16				Guangdong	CHN
 181	23.354091	116.681972	14				Guangdong	CHN
@@ -204,7 +204,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 203	41.57365	120.4493879	6				Liaoning	CHN
 204	35.23375	115.480656	8				Shandong	CHN
 205	37.38198	117.970699	10				Shandong	CHN
-206	24.513025	117.647093	7				Fujian	CHN
+206	24.513025	117.647093	10				Fujian	CHN
 207	26.263406	117.638678	9				Fujian	CHN
 208	34.897887	108.945019	5				Shaanxi	CHN
 209	33.870422	109.940477	2				Shaanxi	CHN
@@ -228,7 +228,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 227	36.097577	114.392392	24				Henan	CHN
 228	33.580873	114.016536	14				Henan	CHN
 229	36.813546	118.055019	12				Shandong	CHN
-230	28.312001	109.738781	5				Hunan	CHN
+230	28.312001	109.738781	6				Hunan	CHN
 231	33.646357	116.964358	13				Anhui	CHN
 232	29.714699	118.337521	9				Anhui	CHN
 233	32.625478	116.999932	6				Anhui	CHN
@@ -261,8 +261,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 260	43.916823	81.324136	5				Xinjiang	CHN
 261	33.7174708	-117.8311428	1				California	USA
 262	24.288578	116.122523	5				Â Guangdong	CHN
-263	26.641774	118.17771	3				Fujian	CHN
-264	25.454084	119.007777	22				Fujian	CHN
+263	26.641774	118.17771	8				Fujian	CHN
+264	25.454084	119.007777	25				Fujian	CHN
 265	24.433353	98.584895	3				Yunnan	CHN
 266	25.112046	99.1617610000001	6				Yunnan	CHN
 267	27.338257	103.717465	4				Yunnan	CHN
@@ -364,12 +364,12 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 363	27.283955	105.291643	3				Guizhou	CHN
 364	42.909408	129.4718681	2				Jilin	CHN
 365	43.166419	124.350398	1				Jilin	CHN
-366	29.117096	110.479191	1				Hunan	CHN
+366	29.117096	110.479191	2				Hunan	CHN
 367	52.335262	124.711526	2				Heilongjian	CHN
 368	47.349916	130.297964	1				HeilongjiangÂ	CHN
 369	35.476788	110.442846	1				Shaanxi	CHN
 370	38.28539	109.734589	1				Shaanxi	CHN
-371	40.412438	110.033833	1				Inner Mongolia	CHN
+371	40.412438	110.033833	3				Inner Mongolia	CHN
 372	29.652491	91.17211	1				Tibet	CHN
 373	38.16443	106.586163	1				Ningxia	CHN
 374	14.5995124	120.9842195	2				NCR	PHL
@@ -408,3 +408,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 407	23.656703	116.622756	3				Guangdong	CHN
 408	18.750259	109.173054	1				Hainan	CHN
 409	46.745364	82.980316	1				Xinjiang	CHN
+410	40.743213	107.387657	1				Inner Mongolia	CHN
