@@ -78,8 +78,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 77	30.335237	112.239631	287				Hubei	CHN
 78	26.074478	119.296482	32				Fujian	CHN
 79	43.825592	87.616848	8				Xinjiang	CHN
-80	34.329605	108.708991	6				Shaanxi	CHN
-81	34.341574	108.93977	32				Shaanxi	CHN
+80	34.329605	108.708991	8				Shaanxi	CHN
+81	34.341574	108.93977	40				Shaanxi	CHN
 82	1.352083	103.819836	16				Singapore	SGP
 83	10.8230989	106.6296638	2				 Southeast Region	VNM
 84	32.060255	118.796877	28				Jiangsu	CHN
@@ -326,7 +326,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 325	19.258341	110.474648	4				Hainan	CHN
 326	41.267244	123.236944	1				Liaoning	CHN
 327	25.075123	117.017536	1				Fujian	CHN
-328	34.363184	107.237743	4				Shaanxi	CHN
+328	34.363184	107.237743	6				Shaanxi	CHN
 329	40.842356	111.749995	2				Inner Mongolia	CHN
 330	23.743685	114.700961	1				Guangdong	CHN
 331	41.095685	121.1268459	7				Liaoning	CHN
@@ -407,3 +407,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 406	-34.9284989	138.6007456	2				South Australia	AUS
 407	23.656703	116.622756	3				Guangdong	CHN
 408	18.750259	109.173054	1				Hainan	CHN
+409	46.745364	82.980316	1				Xinjiang	CHN
