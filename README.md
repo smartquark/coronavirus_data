@@ -19,6 +19,6 @@ Source: https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
 
 Source: https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview?utm_source=share&utm_medium=ios_app&utm_name=iossmf#
 
-* [casetracking-international.tsv](data/casetracking-international.tsv)
+* [casetracking.tsv](data/casetracking.tsv)
 
 
