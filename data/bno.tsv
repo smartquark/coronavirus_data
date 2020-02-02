@@ -138,7 +138,7 @@ date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-01-31	Guangxi Region	100	0	7			2020-02-01 04:48:00
 2020-01-31	Yunnan province	91	0	5			2020-02-01 04:48:00
 2020-01-31	Hebei province	96	1	8			2020-02-01 04:48:00
-2020-01-31	Shaanxi province	101	0				2020-02-01 04:48:00
+2020-01-31	Shaanxi province	101	0	1			2020-02-01 04:48:00
 2020-01-31	Hainan province	57	1	9			2020-02-01 04:48:00
 2020-01-31	Heilongjiang province	80	2	12			2020-02-01 04:48:00
 2020-01-31	Liaoning province	60	0	8			2020-02-01 04:48:00
@@ -176,7 +176,7 @@ date	place	confirmed	deaths	serious	suspected	recovered	updated
 2020-01-31	Philippines	1	0				2020-02-01 04:48:00
 2020-01-31	India	1	0				2020-02-01 04:48:00
 2020-01-31	Italy	2	0				2020-02-01 04:48:00
-2020-01-31	MAINLAND CHINA TOTAL	11793	259	795	988	243	2020-02-01 04:48:00
+2020-01-31	MAINLAND CHINA TOTAL	11793	259	1795	17988	243	2020-02-01 04:48:00
 2020-01-31	REGIONS TOTAL	30	0	0			2020-02-01 04:48:00
 2020-01-31	INTERNATIONAL TOTAL	130	0	2			2020-02-01 04:48:00
 2020-01-31	Undisclosed	548	0				2020-02-01 03:40:00
