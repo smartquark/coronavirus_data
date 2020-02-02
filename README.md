@@ -11,6 +11,8 @@ Source:
 
 Data:
 
+* [jhu-report_date.tsv](data/jhu-report_date.tsv) : Daily total
+
 * [jhu.tsv](data/jhu.tsv) : Latest
 
 
@@ -27,7 +29,9 @@ Data:
 
 * [bno-events.tsv](data/bno-events.tsv) : events by location (need to join with [bno-cities.tsv](data/bno-cities.tsv) by location_id (location_id is not fixed, might change during next updates)
 
-* [bno.tsv](data/bno.tsv) : List by countries
+* [bno.tsv](data/bno.tsv) : List by countries/region
+
+
 
 
 
