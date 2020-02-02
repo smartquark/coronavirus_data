@@ -16,7 +16,7 @@ location_id	date	description
 1	2020-01-30	356 new cases and 25 deaths.
 1	2020-01-31	378 new cases. 30 new deaths.
 1	2020-02-01	576 new cases. 33 new deaths.
-1	2020-02-02	+894
+1	2020-02-02	+894, 32 deaths.
 2	2020-01-13	First confirmed case of Wuhan resident visiting Bangkok since Jan. 8th.
 2	2020-01-17	Second confirmed case at airport, person arrived from Wuhan. Transferred toÂ Nonthaburi.
 2	2020-01-19	Third confirmed case at airport. (Imported - transferred toÂ Nonthaburi)
@@ -176,7 +176,7 @@ location_id	date	description
 19	2020-01-29	1 new case. * 2 new cases.
 19	2020-01-30	4 new cases.
 19	2020-01-31	1 new case.
-19	2020-02-01	+5
+19	2020-02-01	+9
 20	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
 20	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
 20	2020-01-25	One more case.
@@ -343,6 +343,7 @@ location_id	date	description
 42	2020-01-24	One more case.
 42	2020-01-27	One more case.
 42	2020-01-30	1 new case.
+42	2020-02-01	+2
 43	2020-01-22	First case inÂ Ningxia Hui Autonomous Region (imported).
 43	2020-01-26	Second confirmed case.
 43	2020-01-27	3 more cases.
@@ -893,6 +894,7 @@ location_id	date	description
 125	2020-01-30	2 new cases.
 125	2020-01-30	2 new cases.
 125	2020-01-31	1 new case.
+125	2020-02-01	+1
 126	2020-01-24	First confirmed case.
 126	2020-01-26	2 more cases.
 126	2020-01-29	1 new case.
@@ -1104,6 +1106,7 @@ location_id	date	description
 163	2020-01-29	1 new case.
 163	2020-01-30	1 new case.
 163	2020-01-31	1 new case.
+163	2020-02-01	+2
 164	2020-01-24	First confirmed case.
 164	2020-01-29	2 new cases.
 165	2020-01-24	First two confirmed cases.
@@ -1367,6 +1370,7 @@ location_id	date	description
 223	2020-01-27	3 more cases.
 223	2020-01-28	4 new cases.
 223	2020-01-31	2 new cases.
+223	2020-02-01	+2
 224	2020-01-25	First 2 confirmed cases.
 224	2020-01-26	34 new cases (red).
 224	2020-01-28	34 new cases.
@@ -1646,6 +1650,7 @@ location_id	date	description
 312	2020-01-28	First confirmed case.
 312	2020-01-29	1 new case.
 312	2020-01-30	1 new case.
+312	2020-02-01	+1
 313	2020-01-28	First confirmed case.
 313	2020-01-30	1 new case.
 314	2020-01-28	First confirmed case.
@@ -1719,6 +1724,7 @@ location_id	date	description
 350	2020-01-31	1 new case.
 350	2020-02-01	+1
 351	2020-01-29	First 4 confirmed cases in the UAE and the Middle East. Cases are all from a Chinese family. Location not 100% certain, waiting for further details from the UAE government.
+351	2020-02-01	1 new case, location not 100% certain.
 352	2020-01-29	First confirmed case in the state and 7th in Australia.
 352	2020-01-30	1 new case, part of a Chinese group travelling with the previous case.
 353	2020-01-29	First confirmed case in Finland.
@@ -1791,7 +1797,9 @@ location_id	date	description
 401	2020-01-31	First 2 confirmed cases.
 402	2020-01-31	First confirmed case in Spain, tourist from Germany that was a close contact of the cases in Bavaria.
 403	2020-01-31	First confirmed case.
+403	2020-02-01	+2
 404	2020-01-31	First 2 confirmed cases.
+404	2020-02-01	+1
 405	2020-02-01	First confirmed case.
 406	2020-02-01	First 3 confirmed cases.
 407	2020-02-01	First confirmed case.
