@@ -393,6 +393,7 @@ location_id	date	description
 44	2020-01-30	2 new cases.
 44	2020-01-31	2 new cases.
 44	2020-02-01	6 new cases. 23 total (red).
+44	2020-02-03	+3
 45	2020-01-22	First confirmed case (imported).
 45	2020-01-27	Second confirmed case.
 45	2020-01-31	1 new case.
@@ -440,6 +441,7 @@ location_id	date	description
 51	2020-01-30	4 new cases.
 51	2020-01-31	1 new case.
 51	2020-02-01	1 new case.
+51	2020-02-03	+2
 52	2020-01-23	First 2 confirmed cases.
 52	2020-01-25	One more case.
 52	2020-01-26	4 new cases.
@@ -786,6 +788,7 @@ location_id	date	description
 96	2020-01-30	2 new cases.
 96	2020-02-01	3 new cases. 21 total (red).
 96	2020-02-02	+2
+96	2020-02-03	+1
 97	2020-01-22	First case confirmed (imported).
 97	2020-01-25	Second confirmed case.
 97	2020-01-28	2 new cases.
@@ -1150,11 +1153,13 @@ location_id	date	description
 153	2020-01-31	2 new cases.
 153	2020-02-01	1 new case.
 153	2020-02-02	+2
+153	2020-02-03	+1
 154	2020-01-24	First two confirmed cases.
 154	2020-01-27	One more case.
 154	2020-01-29	2 new cases.
 154	2020-01-31	2 new cases.
 154	2020-02-01	1 new case.
+154	2020-02-03	+1
 155	2020-01-24	First confirmed case in France and Europe.
 156	2020-01-24	First confirmed case in Paris, second confirmed case in France. * Second confirmed case, both cases are family members that came back from China.
 156	2020-01-28	1 new case, in serious condition.
@@ -1495,6 +1500,7 @@ location_id	date	description
 220	2020-01-29	2 new cases.
 220	2020-01-30	8 new cases. Doubled.
 220	2020-01-31	1 new case.
+220	2020-02-03	+6, 22 total (red).
 221	2020-01-25	First confirmed case. Case from Xiandong officially counted here.
 221	2020-01-29	3 new cases.
 221	2020-01-31	3 new cases.
@@ -1778,6 +1784,7 @@ location_id	date	description
 297	2020-01-28	4 new cases.
 297	2020-01-29	3 new cases.
 297	2020-02-01	2 new cases.
+297	2020-02-03	+1
 298	2020-01-27	First confirmed case.
 298	2020-01-28	1 new case.
 298	2020-01-29	1 new case.
@@ -1922,6 +1929,7 @@ location_id	date	description
 356	2020-01-29	First confirmed case.
 357	2020-01-30	First confirmed case.
 357	2020-02-02	+2
+357	2020-02-03	+1
 358	2020-01-30	First confirmed case.
 358	2020-02-02	+1
 359	2020-01-30	First confirmed case.
@@ -2003,6 +2011,7 @@ location_id	date	description
 404	2020-02-01	+1
 404	2020-02-02	+3
 405	2020-02-01	First confirmed case.
+405	2020-02-03	+1
 406	2020-02-01	First 3 confirmed cases.
 406	2020-02-02	+1
 407	2020-02-01	First confirmed case.
@@ -2016,6 +2025,7 @@ location_id	date	description
 414	2020-02-01	First confirmed case in Munich, related to the cases in Starnberg.
 415	2020-02-01	First confirmed case.
 416	2020-02-02	First 4 confirmed cases.
+416	2020-02-03	+1
 417	2020-02-02	First 2 confirmed cases.
 418	2020-02-02	First confirmed case.
 419	2020-02-02	Second confirmed case in India.
