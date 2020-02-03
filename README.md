@@ -12,8 +12,9 @@
 
 	Data:
 
-	* [jhu.tsv](data/jhu.tsv) : Latest
+	* [jhu.tsv](data/jhu.tsv) : Latest by region/country
 	* [jhu-confirmed_daily.tsv](data/jhu-confirmed_daily.tsv) : Daily total of confirmed cases
+	* [jhu-coordinates.tsv](data/jhu-confirmed_daily.tsv) : Latest by country with coordinates
 
 
 
