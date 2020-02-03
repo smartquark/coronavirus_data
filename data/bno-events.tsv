@@ -367,6 +367,7 @@ location_id	date	description
 43	2020-01-30	2 new cases.
 43	2020-01-31	2 new cases.
 43	2020-02-01	+4
+43	2020-02-02	+1
 44	2020-01-22	First confirmed case inÂ Guangxi Zhuang Autonomous Region (imported).
 44	2020-01-22	* Two more confirmed cases confirmed, imported.
 44	2020-01-23	Three more confirmed cases.
@@ -566,6 +567,7 @@ location_id	date	description
 72	2020-01-30	2 new cases.
 72	2020-01-31	5 new cases.
 72	2020-02-01	+7, 25 total (red).
+72	2020-02-02	+9
 73	2020-01-23	First confirmed case.
 73	2020-01-25	3 more cases.
 73	2020-01-26	1 more case.
@@ -1031,6 +1033,7 @@ location_id	date	description
 139	2020-01-30	2 new cases. *1 new death.
 139	2020-01-31	2 new cases.
 139	2020-02-01	+1
+139	2020-02-02	+1
 140	2020-01-24	First confirmed case.Â 
 140	2020-01-26	Two more cases.
 140	2020-01-27	2 more cases.
@@ -1767,6 +1770,7 @@ location_id	date	description
 321	2020-01-28	First 2 confirmed cases.
 321	2020-01-30	3 new cases.
 321	2020-02-01	+1
+321	2020-02-02	+1
 322	2020-01-28	First confirmed case.
 323	2020-01-28	First confirmed case.
 324	2020-01-28	First confirmed case.
@@ -1852,6 +1856,7 @@ location_id	date	description
 365	2020-01-27	First confirmed case.
 366	2020-01-30	First confirmed case.
 366	2020-02-01	+1
+366	2020-02-02	+1
 367	2020-01-30	First confirmed case.
 367	2020-01-31	Added 1 case.
 368	2020-01-30	First confirmed case.
@@ -1923,3 +1928,4 @@ location_id	date	description
 417	2020-02-02	First 2 confirmed cases.
 418	2020-02-02	First confirmed case.
 419	2020-02-02	Second confirmed case in India.
+420	2020-02-02	First confirmed case.
