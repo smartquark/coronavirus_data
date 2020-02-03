@@ -1797,7 +1797,7 @@ location_id	date	description
 372	2020-01-30	First confirmed case in Tibet. All regions in China are now reporting cases.
 373	2020-01-30	First confirmed case.
 374	2020-01-30	First confirmed case in the Philippines, treated atÂ San Lazaro Hospital according to Sen. Christopher Go
-374	2020-02-01	Second case and first death outside China.
+374	2020-02-02	Second case and first death outside China.
 375	2020-01-30	First confirmed case in India, was already in isolation atÂ Thrissur General Hospital.
 376	2020-01-30	First confirmed case, 3rd case in Vietnam.
 377	2020-01-30	First 2 confirmed cases in the capital of Vietnam.
@@ -1855,3 +1855,4 @@ location_id	date	description
 416	2020-02-02	First 4 confirmed cases.
 417	2020-02-02	First 2 confirmed cases.
 418	2020-02-02	First confirmed case.
+419	2020-02-02	Second confirmed case in India.
