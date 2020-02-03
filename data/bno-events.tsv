@@ -817,6 +817,7 @@ location_id	date	description
 103	2020-01-31	9 new cases.
 103	2020-02-01	12 new cases.
 103	2020-02-02	+18, more than a hundred cases.
+103	2020-02-03	+6
 104	2020-01-24	First confirmed case. (Plus confirmed case from Rushan transferred here).
 104	2020-01-25	One more case.
 104	2020-01-26	One more case.
@@ -1103,6 +1104,7 @@ location_id	date	description
 146	2020-01-31	23 new cases. 3 new deaths.
 146	2020-02-01	15 new cases. 1 new death.
 146	2020-02-02	+17
+146	2020-02-03	+16
 147	2020-01-24	First confirmed case.
 147	2020-01-25	Two more cases from Baihe county.
 147	2020-01-27	Four more cases. 2 in Xunyang county, 1 in Baihe county and 1 in Ziyang county.
