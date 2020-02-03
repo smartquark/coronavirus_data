@@ -414,6 +414,7 @@ location_id	date	description
 50	2020-01-22	First confirmed case inÂ Heilongjiang province, imported.
 50	2020-01-31	1 new case.
 50	2020-02-01	+4
+50	2020-02-02	+1
 51	2020-01-22	First confirmed case, imported.
 51	2020-01-23	Second confirmed case.
 51	2020-01-24	One more case.
@@ -1674,8 +1675,10 @@ location_id	date	description
 290	2020-01-28	1 new case.
 290	2020-01-31	1 new case.
 290	2020-02-01	+2
+290	2020-02-02	+1
 291	2020-01-27	First confirmed case.
 291	2020-02-01	+1
+291	2020-02-02	+2
 292	2020-01-27	First confirmed case.
 292	2020-01-28	One new case.
 292	2020-01-31	2 new cases. * 4 new cases.
