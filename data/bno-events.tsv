@@ -304,6 +304,7 @@ location_id	date	description
 33	2020-01-27	One more case, locally transmitted.
 33	2020-01-31	2 new cases. * 1 new case.
 33	2020-02-01	+2
+33	2020-02-02	+1
 34	2020-01-22	First confirmed case and first confirmed case in Anhui province. (Imported)
 34	2020-01-23	Four new cases.
 34	2020-01-24	1 more case.
@@ -354,6 +355,7 @@ location_id	date	description
 40	2020-01-30	3 new cases.
 40	2020-01-31	2 new cases.
 40	2020-02-01	+1
+40	2020-02-02	+1
 41	2020-01-22	First 2 confirmed cases (imported). Arrived from Chengdu.Â 
 41	2020-01-26	3 more cases.
 41	2020-01-27	2 more cases.
@@ -509,6 +511,7 @@ location_id	date	description
 61	2020-01-28	1 new case.
 61	2020-01-29	1 new case.
 61	2020-01-31	1 new case. * 2 new cases.
+61	2020-02-02	+1, added 4.
 62	2020-01-23	First confirmed case, imported.
 62	2020-01-23	3 more cases.
 62	2020-01-28	3 new cases.
@@ -1349,6 +1352,7 @@ location_id	date	description
 191	2020-01-28	One new case.
 191	2020-01-29	1 new case. * 1 new case.
 191	2020-01-31	2 new cases.
+191	2020-02-02	+1
 192	2020-01-25	First 2 confirmed cases.
 192	2020-01-27	One more case.
 192	2020-01-29	1 new case.
@@ -1356,6 +1360,7 @@ location_id	date	description
 192	2020-01-31	2 new cases.
 193	2020-01-25	First confirmed case.
 193	2020-01-30	1 new case.
+193	2020-02-02	+1
 194	2020-01-25	First confirmed case.
 195	2020-01-25	First confirmed case.
 195	2020-01-27	2 more cases.
@@ -1919,6 +1924,7 @@ location_id	date	description
 381	2020-02-02	+40
 382	2020-01-30	First confirmed case.
 382	2020-01-31	1 new case.
+382	2020-02-02	+1
 383	2020-01-31	First confirmed case.
 383	2020-02-01	6 new cases.
 383	2020-02-02	+2
@@ -1942,6 +1948,7 @@ location_id	date	description
 397	2020-01-31	First confirmed case and 4th case in Canada.
 398	2020-01-31	First confirmed case.
 398	2020-02-01	+1
+398	2020-02-02	+1
 399	2020-01-31	First confirmed case.
 399	2020-02-01	+8
 400	2020-01-31	First confirmed case in the Bay area.

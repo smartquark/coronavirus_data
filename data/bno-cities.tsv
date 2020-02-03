@@ -31,14 +31,14 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 30	24.810879	113.59762	5				Guangdong	CHN
 31	29.868336	121.54399	66				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
-33	38.914003	121.614682	10				Liaoning	CHN
+33	38.914003	121.614682	11				Liaoning	CHN
 34	31.820591	117.227219	59				Anhui	CHN
 35	22.3193039	114.1693611	14				Hong Kong	HKG
 36	20.044412	110.198286	11				Hainan	CHN
 37	18.252847	109.511909	17				Hainan	CHN
 38	19.912025	109.690508	4				Hainan	CHN
 39	27.569517	110.001922	31				Hunan	CHN
-40	30.327716	107.33339	11				Chongqing	CHN
+40	30.327716	107.33339	12				Chongqing	CHN
 41	31.46746	104.679004	14				Sichuan	CHN
 42	37.87059	112.548879	6				Shanxi	CHN
 43	38.487193	106.230908	16				Ningxia	CHN
@@ -59,7 +59,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 58	24.479833	118.089425	18				Fujian	CHN
 59	24.874132	118.675675	29				Fujian	CHN
 60	26.665617	119.547932	9				Fujian	CHN
-61	41.805699	123.431472	12				Liaoning	CHN
+61	41.805699	123.431472	17				Liaoning	CHN
 62	26.420394	111.613445	22				Hunan	CHN
 63	25.770509	113.014717	18				Hunan	CHN
 64	29.703113	107.389298	1				Chongqing	CHN
@@ -189,9 +189,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 188	30.945515	117.81154	16				Anhui	CHN
 189	31.352859	118.432941	16				Anhui	CHN
 190	29.999285	108.114069	10				Chongqing	CHN
-191	29.972084	106.27613	8				Chongqing	CHN
+191	29.972084	106.27613	9				Chongqing	CHN
 192	29.592024	106.227305	8				Chongqing	CHN
-193	30.674362	107.803911	2				Chongqing	CHN
+193	30.674362	107.803911	3				Chongqing	CHN
 194	31.947633	108.664214	1				Chongqing	CHN
 195	29.8635	107.730894	5				Chongqing	CHN
 196	-37.8136276	144.9630576	4				Victoria	AUS
@@ -380,7 +380,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 379	41.9027835	12.4963655	2				 Lazio	ITA
 380	47.8677574	12.6384037	2				Bavaria	DEU
 381	29.841438	114.322439	246				Hubei	CHN
-382	29.405002	105.594623	2				Chongqing	CHN
+382	29.405002	105.594623	3				Chongqing	CHN
 383	26.582347	101.718637	9				Sichuan	CHN
 384	31.899413	102.224653	1				Sichuan	CHN
 385	33.929291	116.4495	8				Henan	CHN
@@ -396,7 +396,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 395	48.1739373	11.2430079000001	1				Bavaria	DEU
 396	57.7826137	14.1617876	1				 Småland	SWE
 397	42.9849233	-81.2452768	1				Ontario	CAN
-398	42.021602	121.670273	2				Liaoning	CHN
+398	42.021602	121.670273	3				Liaoning	CHN
 399	41.108647	122.994329	9				Liaoning	CHN
 400	37.3336581	-121.8907041	1				California	USA
 401	29.541144	106.456877	2				Chongqing	CHN
