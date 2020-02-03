@@ -2,7 +2,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 1	30.592849	114.305539	4109				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
 3	22.543096	114.057865	196				Guangdong	CHN
-4	39.9041999	116.4073963	168				Beijing municipality (capital)	CHN
+4	39.9041999	116.4073963	183				Beijing municipality (capital)	CHN
 5	22.270978	113.576677	41				Guangdong	CHN
 6	21.270702	110.359368	14				Guangdong	CHN
 7	23.112257	114.415801	23				Guangdong	CHN
@@ -79,7 +79,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 78	26.074478	119.296482	44				Fujian	CHN
 79	43.825592	87.616848	8				Xinjiang	CHN
 80	34.329605	108.708991	9				Shaanxi	CHN
-81	34.341574	108.93977	40				Shaanxi	CHN
+81	34.341574	108.93977	48				Shaanxi	CHN
 82	1.352083	103.819836	18				Singapore	SGP
 83	10.8230989	106.6296638	3				Â Southeast Region	VNM
 84	32.060255	118.796877	35				Jiangsu	CHN
@@ -145,7 +145,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 144	36.6512	117.120095	22				Shandong	CHN
 145	37.499972	105.196902	2				Ningxia	CHN
 146	30.653061	113.165862	9				Hubei	CHN
-147	32.684714	109.029022	14				Shaanxi	CHN
+147	32.684714	109.029022	16				Shaanxi	CHN
 148	36.585445	109.489757	7				Shaanxi	CHN
 149	27.7172453	85.3239605	1				Bagmati Pradesh (capital)s+	NPL
 150	41.8781136	-87.6297982	2				Illinois	USA
@@ -420,3 +420,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 419	9.4980667	76.3388484	1				KeralaÂ	IND
 420	50.245129	127.528293	1				HeilongjiangÂ	CHN
 421	36.954413	100.900997	1				Qinghai	CHN
+422	40.569426	110.524262	2				Inner Mongolia	CHN
+423	39.655248	106.794216	1				Inner Mongolias+	CHN

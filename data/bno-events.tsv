@@ -52,6 +52,7 @@ location_id	date	description
 4	2020-01-30	3 new cases. * 7 new cases.
 4	2020-01-31	11 new cases. * 7 new cases.
 4	2020-02-01	+17, +12
+4	2020-02-02	+15
 5	2020-01-20	Three cases confirmed. Transmission among family members. First human-to-human transmission reported outside Wuhan.
 5	2020-01-21	One more case.
 5	2020-01-24	Four more cases.
@@ -659,6 +660,7 @@ location_id	date	description
 81	2020-01-30	4 new cases. 22 total (red).
 81	2020-01-31	10 new cases.
 81	2020-02-01	+8
+81	2020-02-02	+8
 82	2020-01-23	First confirmed case in Singapore, imported.
 82	2020-01-24	2 more confirmed cases.
 82	2020-01-25	1 more case.
@@ -1098,6 +1100,7 @@ location_id	date	description
 147	2020-01-29	2 new cases.
 147	2020-01-31	3 new cases.
 147	2020-02-01	+1
+147	2020-02-02	+2
 148	2020-01-24	First confirmed case.
 148	2020-01-27	One more case.
 148	2020-01-29	1 new case.
@@ -1958,3 +1961,6 @@ location_id	date	description
 419	2020-02-02	Second confirmed case in India.
 420	2020-02-02	First confirmed case.
 421	2020-02-02	First confirmed case.
+422	2020-01-28	First confirmed case.
+422	2020-02-02	+1
+423	2020-02-02	First confirmed case in Haibowan district.
