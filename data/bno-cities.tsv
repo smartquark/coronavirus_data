@@ -7,7 +7,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 6	21.270702	110.359368	13				Guangdong	CHN
 7	23.112257	114.415801	20				Guangdong	CHN
 8	31.230416	121.473701	177				Shanghai municipality	CHN
-9	37.4562557	126.7052062	2				SCA	KOR
+9	37.4562557	126.7052062	1				SCA	KOR
 10	26.647661	106.630153	6				Guizhou	CHN
 11	30.453667	114.872199	1002				Hubei	CHN
 12	27.993828	120.699361	231				Zhejiang	CHN
@@ -99,7 +99,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 98	23.902479	106.618283	2				Guangxi	CHN
 99	24.692931	108.085261	6				Guangxi	CHN
 100	35.6803997	139.7690174	11				Kantō (capital)s+	JPN
-101	37.566535	126.9779692	5				SCA (capital)	KOR
+101	37.566535	126.9779692	4				SCA (capital)	KOR
 102	30.20003	115.038835	252				Hubei	CHN
 103	30.272156	109.488172	105				Hubei	CHN
 104	37.513068	122.120419	24				Shandong	CHN

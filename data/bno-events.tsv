@@ -94,7 +94,7 @@ location_id	date	description
 9	2020-01-20	First confirmed case, detected at Incheon International Airport (imported).
 9	2020-01-24	Second confirmed case, detected at Incheon Int. Airport. (Transferred to Seoul).
 9	2020-01-26	Third confirmed case, according to officials the man engaged in normal activities after flying into Incheon International Airport. (Transferred to Goyang).
-9	2020-01-31	One new case identified at Incheon Airport.
+9	2020-01-31	One new case identified at Incheon Airport. Transferred to Seoul.
 10	2020-01-21	First confirmed case.
 10	2020-01-31	3 new cases.
 10	2020-02-02	+2
@@ -744,7 +744,6 @@ location_id	date	description
 101	2020-01-24	Confirmed case detected at Incheon Int. Airport being treated inÂ Euljiro (transferred).
 101	2020-01-30	2 new cases, one possible infected by h2h transmission.Â 
 101	2020-01-31	1 new case of H2H transmission, 3rd generation.Â 
-101	2020-02-01	1 new case transmitted from Japanese national.
 102	2020-01-24	City in lockdown.
 102	2020-01-25	First case inÂ Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
 102	2020-01-25	* First death reported, 31 new cases.
