@@ -14,7 +14,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 13	30.274084	120.15507	110				Zhejiang	CHN
 14	29.985295	122.207215	7				Zhejiang	CHN
 15	28.65638	121.42076	100				Zhejiang	CHN
-16	31.074834	109.879153	6				Chongqing	CHN
+16	31.074834	109.879153	7				Chongqing	CHN
 17	30.807667	108.408661	44				 Chongqing	CHN
 18	29.857996	107.081282	11				Chongqing	CHN
 19	39.3433574	117.3616476	48				Tianjin municipality	CHN
@@ -124,9 +124,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 123	29.6426	106.567	12				 Chongqing	CHN
 124	28.447997	109.007094	1				 Chongqing	CHN
 125	31.398604	109.570062	11				 Chongqing	CHN
-126	31.018498	109.463987	8				Chongqing	CHN
+126	31.018498	109.463987	9				Chongqing	CHN
 127	30.930612	108.697324	18				Chongqing	CHN
-128	31.2699214	108.3816532	16				 Chongqing	CHN
+128	31.2699214	108.3816532	17				 Chongqing	CHN
 129	29.502272	106.510676	11				Chongqing	CHN
 130	29.718142	106.631187	12				 Chongqing	CHN
 131	29.484527	106.482346	4				 Chongqing	CHN
@@ -380,7 +380,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 379	41.9027835	12.4963655	2				 Lazio	ITA
 380	47.8677574	12.6384037	2				Bavaria	DEU
 381	29.841438	114.322439	296				Hubei	CHN
-382	29.405002	105.594623	3				Chongqing	CHN
+382	29.405002	105.594623	4				Chongqing	CHN
 383	26.582347	101.718637	9				Sichuan	CHN
 384	31.899413	102.224653	1				Sichuan	CHN
 385	33.929291	116.4495	8				Henan	CHN
@@ -425,3 +425,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 424	50.1109221	8.68212670000003	2				 Hesse	DEU
 425	25.045532	101.528068	2				Yunnan	CHN
 426	35.709077	107.643631	1				Gansu	CHN
+427	29.5279566	106.4874971	1				Chongqing	CHN
