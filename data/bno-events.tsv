@@ -17,6 +17,7 @@ location_id	date	description
 1	2020-01-31	378 new cases. 30 new deaths.
 1	2020-02-01	576 new cases. 33 new deaths.
 1	2020-02-02	+894, 32 deaths.
+1	2020-02-03	+1,033, highest daily number of cases. 41 deaths, highest daily number of deaths.
 2	2020-01-13	First confirmed case of Wuhan resident visiting Bangkok since Jan. 8th.
 2	2020-01-17	Second confirmed case at airport, person arrived from Wuhan. Transferred toÂ Nonthaburi.
 2	2020-01-19	Third confirmed case at airport. (Imported - transferred toÂ Nonthaburi)
@@ -116,7 +117,7 @@ location_id	date	description
 11	2020-01-31	77 new cases. 573
 11	2020-02-01	153 new cases. 2 new deaths.
 11	2020-02-02	276 new cases. First city with more than a thousand cases besides Wuhan. One death.
-11	2020-02-03	+244
+11	2020-02-03	+244, 2 deaths.
 12	2020-01-21	First confirmed (imported) case. Another one confirmed later.
 12	2020-01-22	Two more cases.
 12	2020-01-23	2 more cases.
@@ -623,7 +624,7 @@ location_id	date	description
 76	2020-01-31	36 new cases. 1 new death.
 76	2020-02-01	24 new cases.
 76	2020-02-02	+78, 2 deaths.
-76	2020-02-03	+16
+76	2020-02-03	+16, 4 deaths.
 77	2020-01-23	First 6 confirmed cases.
 77	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
 77	2020-01-25	First 2 deaths, 23 more cases.
@@ -634,7 +635,7 @@ location_id	date	description
 77	2020-01-31	70 new cases.
 77	2020-02-01	66 new cases. 1 new death.
 77	2020-02-02	+46
-77	2020-02-03	+166
+77	2020-02-03	+166, 2 deaths.
 78	2020-01-23	First confirmed case, imported. 1 case transferred from Lianjiang.
 78	2020-01-24	Two more confirmed cases.
 78	2020-01-24	* One confirmed case.
@@ -730,7 +731,7 @@ location_id	date	description
 90	2020-01-31	66 new cases. 4 new deaths.
 90	2020-02-01	38 new cases. 3 new deaths.
 90	2020-02-02	+51, 4 deaths.
-90	2020-02-03	+28
+90	2020-02-03	+28, 2 deaths.
 91	2020-01-23	City in lockdown.
 91	2020-01-24	First 2 confirmed cases.
 91	2020-01-24	* 8 more cases.
@@ -1113,7 +1114,7 @@ location_id	date	description
 146	2020-01-31	23 new cases. 3 new deaths.
 146	2020-02-01	15 new cases. 1 new death.
 146	2020-02-02	+17
-146	2020-02-03	+16
+146	2020-02-03	+16, 3 deaths.
 147	2020-01-24	First confirmed case.
 147	2020-01-25	Two more cases from Baihe county.
 147	2020-01-27	Four more cases. 2 in Xunyang county, 1 in Baihe county and 1 in Ziyang county.
@@ -1200,7 +1201,7 @@ location_id	date	description
 162	2020-01-31	85 new cases.
 162	2020-02-01	76 new cases. First death.
 162	2020-02-02	+80, 2 deaths.
-162	2020-02-03	+74
+162	2020-02-03	+74, 2 deaths.
 163	2020-01-24	First confirmed case.
 163	2020-01-28	2 new cases.
 163	2020-01-29	1 new case.
