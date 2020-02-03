@@ -223,6 +223,7 @@ location_id	date	description
 24	2020-01-30	13 new cases.
 24	2020-01-31	10 new cases.
 24	2020-02-01	3 new cases.
+24	2020-02-02	+1
 25	2020-01-22	First confirmed case in Yunnan province (imported).
 25	2020-01-23	Second confirmed case, imported.
 25	2020-01-24	Third case.
@@ -240,6 +241,7 @@ location_id	date	description
 26	2020-01-30	2 new cases.
 26	2020-01-31	4 new cases.
 26	2020-02-01	3 new cases.
+26	2020-02-02	+4, 20 total (red).
 27	2020-01-22	First confirmed case (imported).
 27	2020-01-23	Second confirmed case, imported.
 27	2020-01-26	3 more cases.
@@ -341,6 +343,7 @@ location_id	date	description
 41	2020-01-30	1 new case.
 41	2020-01-31	2 new cases.
 41	2020-02-01	1 new case.
+41	2020-02-02	+2
 42	2020-01-22	First confirmed case and first case in Shanxi (imported). Transferred toÂ Shijiazhuang (Hubei) and later transferred back to Taiyuan.Â 
 42	2020-01-24	One more case.
 42	2020-01-27	One more case.

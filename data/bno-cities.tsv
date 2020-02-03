@@ -22,9 +22,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	40				Henan	CHN
 23	28.228209	112.938814	86				Hunan	CHN
-24	30.572815	104.066801	72				Sichuan	CHN
+24	30.572815	104.066801	73				Sichuan	CHN
 25	24.880095	102.832891	30				Yunnan	CHN
-26	30.456224	106.633088	16				Sichuan	CHN
+26	30.456224	106.633088	20				Sichuan	CHN
 27	22.198745	113.543873	7				Macau (SAR)s+	CHN
 28	23.12911	113.264385	150				Guangdong	CHN
 29	23.021478	113.121435	39				Guangdong	CHN
@@ -39,7 +39,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 38	19.912025	109.690508	4				Hainan	CHN
 39	27.569517	110.001922	28				Hunan	CHN
 40	30.327716	107.33339	11				Chongqing	CHN
-41	31.46746	104.679004	12				Sichuan	CHN
+41	31.46746	104.679004	14				Sichuan	CHN
 42	37.87059	112.548879	6				Shanxi	CHN
 43	38.487193	106.230908	15				Ningxia	CHN
 44	21.481291	109.120161	23				Guangxi	CHN
