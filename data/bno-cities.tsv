@@ -1,9 +1,9 @@
 location_id	latitude	longitude	confirmed	deaths	status	location	region	country_code
 1	30.592849	114.305539	4109				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
-3	22.543096	114.057865	196				Guangdong	CHN
-4	39.9041999	116.4073963	183				Beijing municipality (capital)	CHN
-5	22.270978	113.576677	41				Guangdong	CHN
+3	22.543096	114.057865	207				Guangdong	CHN
+4	39.9041999	116.4073963	191				Beijing municipality (capital)	CHN
+5	22.270978	113.576677	47				Guangdong	CHN
 6	21.270702	110.359368	14				Guangdong	CHN
 7	23.112257	114.415801	23				Guangdong	CHN
 8	31.230416	121.473701	182				Shanghai municipality	CHN
@@ -26,8 +26,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 25	24.880095	102.832891	31				Yunnan	CHN
 26	30.456224	106.633088	20				Sichuan	CHN
 27	22.198745	113.543873	8				Macau (SAR)s+	CHN
-28	23.12911	113.264385	175				Guangdong	CHN
-29	23.021478	113.121435	39				Guangdong	CHN
+28	23.12911	113.264385	179				Guangdong	CHN
+29	23.021478	113.121435	43				Guangdong	CHN
 30	24.810879	113.59762	5				Guangdong	CHN
 31	29.868336	121.54399	66				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
@@ -179,7 +179,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 178	26.893368	112.572018	30				Hunan	CHN
 179	27.23895	111.467674	49				Hunan	CHN
 180	23.020673	113.751799	27				Guangdong	CHN
-181	23.354091	116.681972	14				Guangdong	CHN
+181	23.354091	116.681972	15				Guangdong	CHN
 182	32.990664	112.528308	75				Henan	CHN
 183	33.011529	114.022298	46				Henan	CHN
 184	32.168137	115.654481	1				Henan	CHN
@@ -260,7 +260,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 259	33.06748	107.023323	16				Shaanxi	CHN
 260	43.916823	81.324136	5				Xinjiang	CHN
 261	33.7174708	-117.8311428	1				California	USA
-262	24.288578	116.122523	6				 Guangdong	CHN
+262	24.288578	116.122523	7				 Guangdong	CHN
 263	26.641774	118.17771	8				Fujian	CHN
 264	25.454084	119.007777	27				Fujian	CHN
 265	24.433353	98.584895	3				Yunnan	CHN
@@ -404,7 +404,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 403	38.416663	112.734174	3				Shanxi	CHN
 404	35.490701	112.851831	3				Shanxi	CHN
 405	39.935361	119.600523	1				Hebei	CHN
-406	23.656703	116.622756	3				Guangdong	CHN
+406	23.656703	116.622756	4				Guangdong	CHN
 407	18.750259	109.173054	1				Hainan	CHN
 408	46.745364	82.980316	4				Xinjiang	CHN
 409	40.743213	107.387657	1				Inner Mongolia	CHN

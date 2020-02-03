@@ -37,7 +37,7 @@ location_id	date	description
 3	2020-01-30	23 new cases. 4th city with 100+ cases outside Hubei.Â 
 3	2020-01-31	24 new cases.Â * 24 new cases.
 3	2020-02-01	+36
-3	2020-02-02	+26
+3	2020-02-02	+26 +11
 4	2020-01-19	First two confirmed cases of people that visited Wuhan.
 4	2020-01-20	Three more imported cases.
 4	2020-01-21	Five new imported cases.
@@ -52,7 +52,7 @@ location_id	date	description
 4	2020-01-30	3 new cases. * 7 new cases.
 4	2020-01-31	11 new cases. * 7 new cases.
 4	2020-02-01	+17, +12
-4	2020-02-02	+15
+4	2020-02-02	+15 +8
 5	2020-01-20	Three cases confirmed. Transmission among family members. First human-to-human transmission reported outside Wuhan.
 5	2020-01-21	One more case.
 5	2020-01-24	Four more cases.
@@ -62,7 +62,7 @@ location_id	date	description
 5	2020-01-30	4 new cases. 22 total (red).Â 
 5	2020-01-31	8 new cases.Â * 8 new cases.
 5	2020-02-01	+4
-5	2020-02-02	+3
+5	2020-02-02	+3 +6
 6	2020-01-20	First confirmed case.
 6	2020-01-21	Second confirmed case.
 6	2020-01-26	Two more cases.
@@ -270,7 +270,7 @@ location_id	date	description
 28	2020-01-30	16 new cases.Â 
 28	2020-01-31	27 new cases. 5th city with 100+ cases outside Hubei. * 6 new cases.
 28	2020-02-01	+25 * +13
-28	2020-02-02	+25
+28	2020-02-02	+25 +4
 29	2020-01-22	First confirmed case.
 29	2020-01-24	5 more cases.
 29	2020-01-25	3 more cases.
@@ -281,6 +281,7 @@ location_id	date	description
 29	2020-01-30	7 new cases.
 29	2020-01-31	7 new cases. Removed 3 cases to match with the official numbers. * 1 new case.
 29	2020-02-01	+5 * +1
+29	2020-02-02	+4
 30	2020-01-22	First 2 confirmed cases.
 30	2020-01-24	One more case.
 30	2020-01-26	One more case.
@@ -1285,6 +1286,7 @@ location_id	date	description
 181	2020-01-28	3 new cases.
 181	2020-01-29	1 new case. * 2 new cases.
 181	2020-01-30	6 new cases.
+181	2020-02-02	+1
 182	2020-01-25	First 8 confirmed cases.
 182	2020-01-26	First confirmed death. 7 more cases.
 182	2020-01-27	4 new cases.
@@ -1622,6 +1624,7 @@ location_id	date	description
 262	2020-01-28	2 new cases. * 1 new case.
 262	2020-01-30	1 new case.
 262	2020-02-01	+1
+262	2020-02-02	+1
 263	2020-01-26	First confirmed case.
 263	2020-01-27	One more case.
 263	2020-01-28	1 new case.
@@ -1948,6 +1951,7 @@ location_id	date	description
 404	2020-02-01	+1
 405	2020-02-01	First confirmed case.
 406	2020-02-01	First 3 confirmed cases.
+406	2020-02-02	+1
 407	2020-02-01	First confirmed case.
 408	2020-02-01	First confirmed case. Approximate location.Â 
 408	2020-02-02	3 new cases.
