@@ -31,9 +31,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 30	24.810879	113.59762	5				Guangdong	CHN
 31	29.868336	121.54399	66				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
-33	38.914003	121.614682	11				Liaoning	CHN
+33	38.914003	121.614682	12				Liaoning	CHN
 34	31.820591	117.227219	59				Anhui	CHN
-35	22.3193039	114.1693611	14				Hong Kong	HKG
+35	22.3193039	114.1693611	15				Hong Kong	HKG
 36	20.044412	110.198286	11				Hainan	CHN
 37	18.252847	109.511909	17				Hainan	CHN
 38	19.912025	109.690508	4				Hainan	CHN
@@ -150,7 +150,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 149	27.7172453	85.3239605	1				Bagmati Pradesh (capital)s+	NPL
 150	41.8781136	-87.6297982	2				Illinois	USA
 151	22.00881	100.79715	12				Yunnan	CHN
-152	26.855047	100.22775	9				Yunnan	CHN
+152	26.855047	100.22775	10				Yunnan	CHN
 153	22.654032	110.18122	7				Guangxi	CHN
 154	21.68686	108.353846	8				Guangxi	CHN
 155	44.837789	-0.579179999999951	1				Nouvelle-Aquitaines+	FRA
@@ -263,9 +263,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 262	24.288578	116.122523	7				 Guangdong	CHN
 263	26.641774	118.17771	8				Fujian	CHN
 264	25.454084	119.007777	27				Fujian	CHN
-265	24.433353	98.584895	3				Yunnan	CHN
+265	24.433353	98.584895	4				Yunnan	CHN
 266	25.112046	99.1617610000001	7				Yunnan	CHN
-267	27.338257	103.717465	6				Yunnan	CHN
+267	27.338257	103.717465	8				Yunnan	CHN
 268	46.799777	130.3188779	11				 Heilongjiang	CHN
 269	12.568452	99.9577223	1				 Prachuap Khiri Khan	THA
 270	32.187849	119.425836	3				Jiangsu	CHN
@@ -423,3 +423,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 422	40.569426	110.524262	2				Inner Mongolia	CHN
 423	39.655248	106.794216	1				Inner Mongolias+	CHN
 424	50.1109221	8.68212670000003	2				 Hesse	DEU
+425	25.045532	101.528068	2				Yunnan	CHN
