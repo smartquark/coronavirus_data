@@ -161,9 +161,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 160	27.815743	114.416785	31				Jiangxi	CHN
 161	29.268783	117.178443	3				Jiangxi	CHN
 162	31.690215	113.382458	458				Hubei	CHN
-163	40.076762	113.300129	8				Shanxi	CHN
+163	40.076762	113.300129	9				Shanxi	CHN
 164	36.195409	113.116404	3				Shanxi	CHN
-165	35.026516	111.00746	10				Shanxi	CHN
+165	35.026516	111.00746	13				Shanxi	CHN
 166	40.71104	120.83694	5				Liaoning	CHN
 167	42.223828	123.726035	3				Liaoning	CHN
 168	41.486981	123.685142	3				Liaoning	CHN
@@ -220,8 +220,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 219	18.506048	110.037503	5				Hainan	CHN
 220	22.817002	108.366543	16				Guangxi	CHN
 221	27.622768	113.854556	15				Jiangxi	CHN
-222	37.856971	113.580519	1				Shanxi	CHN
-223	37.687357	112.752652	13				Shanxi	CHN
+222	37.856971	113.580519	2				Shanxi	CHN
+223	37.687357	112.752652	15				Shanxi	CHN
 224	32.009016	112.122426	548				HubeiÂ	CHN
 225	43.653226	-79.3831843	2				Ontario	CAN
 226	37.6583599	126.8320201	1				Â Gyeonggi	KOR
@@ -402,7 +402,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 401	29.541144	106.456877	2				Chongqing	CHN
 402	28.1033035	-17.2193578	1				Canarias	ESP
 403	38.416663	112.734174	3				Shanxi	CHN
-404	35.490701	112.851831	3				Shanxi	CHN
+404	35.490701	112.851831	6				Shanxi	CHN
 405	39.935361	119.600523	1				Hebei	CHN
 406	23.656703	116.622756	4				Guangdong	CHN
 407	18.750259	109.173054	1				Hainan	CHN
