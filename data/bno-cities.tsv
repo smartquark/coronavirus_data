@@ -20,7 +20,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 19	39.3433574	117.3616476	41				Tianjin municipality	CHN
 20	35.416734	119.526925	11				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
-22	33.626149	114.69695	38				Henan	CHN
+22	33.626149	114.69695	40				Henan	CHN
 23	28.228209	112.938814	86				Hunan	CHN
 24	30.572815	104.066801	72				Sichuan	CHN
 25	24.880095	102.832891	30				Yunnan	CHN
@@ -43,7 +43,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 42	37.87059	112.548879	6				Shanxi	CHN
 43	38.487193	106.230908	15				Ningxia	CHN
 44	21.481291	109.120161	23				Guangxi	CHN
-45	34.620202	112.453926	5				Henan	CHN
+45	34.620202	112.453926	7				Henan	CHN
 46	34.772792	111.200367	7				Henan	CHN
 47	34.747834	113.022496	2				Henan	CHN
 48	38.042805	114.514893	13				Hebei	CHN
@@ -104,8 +104,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 103	30.272156	109.488172	105				Hubei	CHN
 104	37.513068	122.120419	24				Shandong	CHN
 105	36.706962	119.161748	10				Shandong	CHN
-106	34.746611	113.625328	54				Henan	CHN
-107	32.147679	114.091192	69				Henan	CHN
+106	34.746611	113.625328	63				Henan	CHN
+107	32.147679	114.091192	87				Henan	CHN
 108	23.681774	113.056042	6				Guangdong	CHN
 109	21.857958	111.982232	10				Guangdong	CHN
 110	43.837883	126.549572	3				Jilin	CHN
@@ -180,11 +180,11 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 179	27.23895	111.467674	41				Hunan	CHN
 180	23.020673	113.751799	16				Guangdong	CHN
 181	23.354091	116.681972	14				Guangdong	CHN
-182	32.990664	112.528308	66				Henan	CHN
-183	33.011529	114.022298	40				Henan	CHN
+182	32.990664	112.528308	75				Henan	CHN
+183	33.011529	114.022298	46				Henan	CHN
 184	32.168137	115.654481	1				Henan	CHN
 185	35.303704	113.926763	21				Henan	CHN
-186	33.766169	113.192661	11				Henan	CHN
+186	33.766169	113.192661	14				Henan	CHN
 187	31.67044	118.507011	14				Anhui	CHN
 188	30.945515	117.81154	16				Anhui	CHN
 189	31.352859	118.432941	15				Anhui	CHN
@@ -226,7 +226,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 225	43.653226	-79.3831843	2				Ontario	CAN
 226	37.6583599	126.8320201	1				 Gyeonggi	KOR
 227	36.097577	114.392392	24				Henan	CHN
-228	33.580873	114.016536	14				Henan	CHN
+228	33.580873	114.016536	16				Henan	CHN
 229	36.813546	118.055019	12				Shandong	CHN
 230	28.312001	109.738781	6				Hunan	CHN
 231	33.646357	116.964358	13				Anhui	CHN
@@ -277,10 +277,10 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 276	40.657978	109.840313	3				Inner Mongolia	CHN
 277	43.65289	122.243444	1				Inner Mongolia	CHN
 278	46.082462	122.037657	1				Inner Mongolia	CHN
-279	34.414961	115.656339	29				Henan	CHN
-280	35.748233	114.297201	6				Henan	CHN
-281	34.035771	113.852454	12				Henan	CHN
-282	34.797281	114.307582	8				Henan	CHN
+279	34.414961	115.656339	36				Henan	CHN
+280	35.748233	114.297201	8				Henan	CHN
+281	34.035771	113.852454	13				Henan	CHN
+282	34.797281	114.307582	11				Henan	CHN
 283	34.205768	117.284124	23				Jiangsu	CHN
 284	22.786186	115.375158	4				Guangdong	CHN
 285	30.191013	105.840555	2				 Chongqing	CHN
@@ -307,7 +307,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 306	6.9270786	79.8612430000001	1				 Western Province	LKA
 307	47.9999615	11.339009	4				Bavaria	DEU
 308	28.260189	117.069202	4				Jiangxi	CHN
-309	35.215892	113.241823	2				Henan	CHN
+309	35.215892	113.241823	7				Henan	CHN
 310	36.200252	117.087614	9				Shandong	CHN
 311	31.743483	110.680447	7				Hubei	CHN
 312	29.500296	106.644428	4				Chongqing	CHN
@@ -383,7 +383,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 382	29.405002	105.594623	2				Chongqing	CHN
 383	26.582347	101.718637	7				Sichuan	CHN
 384	31.899413	102.224653	1				Sichuan	CHN
-385	33.929291	116.4495	7				Henan	CHN
+385	33.929291	116.4495	8				Henan	CHN
 386	41.168779	80.2606049999999	1				Xinjiang	CHN
 387	19.681434	110.35889	1				Hainan	CHN
 388	19.298184	109.055739	1				Hainan	CHN

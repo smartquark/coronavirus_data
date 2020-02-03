@@ -198,6 +198,7 @@ location_id	date	description
 22	2020-01-30	6 new cases. 25 total (red).
 22	2020-01-31	11 new cases.
 22	2020-02-01	+2
+22	2020-02-02	+2
 23	2020-01-21	First confirmed case (imported).
 23	2020-01-23	Two more cases, imported.
 23	2020-01-23	* Tongren, Guizhou first case infected in Changsha at a restaurant. Locally transmitted.
@@ -366,6 +367,7 @@ location_id	date	description
 45	2020-01-27	Second confirmed case.
 45	2020-01-31	1 new case.
 45	2020-02-01	+2
+45	2020-02-02	+2
 46	2020-01-22	Case from Mianchi County counted in Sanmenxia.
 46	2020-01-26	First confirmed case.
 46	2020-01-27	One more case.
@@ -788,6 +790,7 @@ location_id	date	description
 106	2020-01-30	6 new cases.
 106	2020-01-31	4 new cases.
 106	2020-02-01	+6
+106	2020-02-02	+9
 107	2020-01-24	First confirmed case.
 107	2020-01-25	4 more cases.
 107	2020-01-26	16 new cases. 20+ cases (red).
@@ -797,6 +800,7 @@ location_id	date	description
 107	2020-01-30	10 new cases.
 107	2020-01-31	7 new cases.
 107	2020-02-01	+21
+107	2020-02-01	Feb.02: +18
 108	2020-01-24	First confirmed case.
 108	2020-01-25	Second confirmed case.
 108	2020-01-26	One more case.
@@ -1217,6 +1221,7 @@ location_id	date	description
 182	2020-01-30	20 new cases.
 182	2020-01-31	10 new cases.
 182	2020-02-01	+5
+182	2020-02-02	+9
 183	2020-01-25	First 2 confirmed cases.
 183	2020-01-26	5 more cases.
 183	2020-01-27	2 more cases.
@@ -1225,6 +1230,7 @@ location_id	date	description
 183	2020-01-30	9 new cases. 25 total (red).
 183	2020-01-31	5 new cases.
 183	2020-02-01	+10
+183	2020-02-02	+6
 184	2020-01-25	First confirmed case.
 185	2020-01-25	First confirmed case.
 185	2020-01-26	Two more cases.
@@ -1240,6 +1246,7 @@ location_id	date	description
 186	2020-01-30	3 new cases.
 186	2020-01-31	2 new cases.
 186	2020-02-01	+1
+186	2020-02-02	+3
 187	2020-01-25	First 4 confirmed cases.
 187	2020-01-26	3 more cases.
 187	2020-01-28	3 more cases.
@@ -1405,6 +1412,7 @@ location_id	date	description
 228	2020-01-30	2 new cases.
 228	2020-01-31	2 new cases.
 228	2020-02-01	+1
+228	2020-02-02	+2
 229	2020-01-26	First confirmed case.
 229	2020-01-27	1 more case.
 229	2020-01-29	2 new cases.
@@ -1570,20 +1578,24 @@ location_id	date	description
 279	2020-01-30	4 new cases.
 279	2020-01-31	9 new cases. 27 total (red).
 279	2020-02-01	+2
+279	2020-02-02	+7
 280	2020-01-27	First 2 confirmed cases.
 280	2020-01-29	3 new cases.
 280	2020-01-30	1 new case.
+280	2020-02-02	+2
 281	2020-01-27	First confirmed case.
 281	2020-01-28	One new case.
 281	2020-01-30	1 new case.
 281	2020-01-31	5 new cases.
 281	2020-02-01	+4
+281	2020-02-02	+1
 282	2020-01-27	First confirmed case.
 282	2020-01-28	One new case.
 282	2020-01-29	1 new case.
 282	2020-01-30	1 new case.
 282	2020-01-31	2 new cases.
 282	2020-02-01	+2
+282	2020-02-02	+3
 283	2020-01-27	First 3 confirmed cases.
 283	2020-01-28	5 more cases.
 283	2020-01-30	7 new cases.
@@ -1655,6 +1667,7 @@ location_id	date	description
 308	2020-01-29	2 new cases.
 308	2020-01-31	1 new case.
 309	2020-01-28	First 2 confirmed cases.
+309	2020-02-02	+5
 310	2020-01-28	First confirmed case in Dongpin County.
 310	2020-01-29	2 new cases.
 310	2020-01-31	1 new case.
@@ -1799,6 +1812,7 @@ location_id	date	description
 384	2020-01-31	First confirmed case.
 385	2020-01-31	First 4 confirmed cases.
 385	2020-02-01	+3
+385	2020-02-02	+1
 386	2020-01-31	First confirmed case.
 387	2020-01-31	First confirmed case.
 388	2020-01-31	First confirmed case.
