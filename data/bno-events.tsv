@@ -188,6 +188,7 @@ location_id	date	description
 20	2020-01-29	1 new case. * 1 new case.
 20	2020-01-30	1 new case.
 20	2020-02-01	2 new cases.
+20	2020-02-02	+1
 21	2020-01-21	First US case and first case outside Asia on a Snohomish County man who returned from Wuhan, treated at Everett hospital.
 22	2020-01-21	First confirmed case (imported - transferred to Zhengzhou)
 22	2020-01-25	3 more cases.
@@ -785,6 +786,7 @@ location_id	date	description
 105	2020-01-30	2 new cases.
 105	2020-01-31	1 new case.
 105	2020-02-01	2 new cases.
+105	2020-02-02	+3
 106	2020-01-24	First two confirmed cases. 1 other case transferred fromÂ Yuanyang County.
 106	2020-01-25	3 more cases.
 106	2020-01-26	12 more cases.
@@ -1332,6 +1334,7 @@ location_id	date	description
 204	2020-01-28	1 new case.
 204	2020-01-29	2 new cases.
 204	2020-01-31	1 new case.
+204	2020-02-02	+1
 205	2020-01-25	First confirmed case.
 205	2020-01-26	Two more cases.
 205	2020-01-28	One more case in Huimin County.
@@ -1683,6 +1686,7 @@ location_id	date	description
 310	2020-01-29	2 new cases.
 310	2020-01-31	1 new case.
 310	2020-02-01	5 new cases.
+310	2020-02-02	+2
 311	2020-01-28	First confirmed case.
 311	2020-01-29	2 new cases.
 311	2020-01-30	2 new cases.
