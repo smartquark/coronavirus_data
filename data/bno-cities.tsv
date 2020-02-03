@@ -300,7 +300,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 299	30.128901	104.627636	2				SichuanÂ	CHN
 300	27.88157	102.267712	5				Sichuan	CHN
 301	28.751836	104.643159	7				SichuanÂ	CHN
-302	37.4449168	127.1388684	1				Gyeonggi	KOR
+302	37.4449168	127.1388684	4				Gyeonggi	KOR
 303	34.49938	109.502882	5				Shaanxi	CHN
 304	34.810487	117.323725	14				Shandong	CHN
 305	10.6267867	103.5115545	1				Preah Sihanouk Province	KHM
