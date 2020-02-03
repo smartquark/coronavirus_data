@@ -213,7 +213,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 212	43.933454	116.0482221	1				Inner Mongolia	CHN
 213	25.087856	104.906397	1				Guizhou	CHN
 214	36.617134	101.778223	7				Qinghai	CHN
-215	25.606486	100.267638	6				Yunnan	CHN
+215	25.606486	100.267638	7				Yunnan	CHN
 216	23.36225	103.374576	4				Yunnan	CHN
 217	24.347324	102.527197	7				Yunnan	CHN
 218	25.489999	103.796167	5				Yunnan	CHN
