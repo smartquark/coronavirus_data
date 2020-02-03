@@ -47,7 +47,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 46	34.772792	111.200367	7				Henan	CHN
 47	34.747834	113.022496	2				Henan	CHN
 48	38.042805	114.514893	13				Hebei	CHN
-49	31.298974	120.585289	34				Jiangsu	CHN
+49	31.298974	120.585289	38				Jiangsu	CHN
 50	44.551653	129.633168	6				Heilongjiang	CHN
 51	24.326292	109.428608	12				Guangxi	CHN
 52	35.104673	118.356414	24				Shandong	CHN
@@ -82,7 +82,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 81	34.341574	108.93977	40				Shaanxi	CHN
 82	1.352083	103.819836	18				Singapore	SGP
 83	10.8230989	106.6296638	3				 Southeast Region	VNM
-84	32.060255	118.796877	28				Jiangsu	CHN
+84	32.060255	118.796877	35				Jiangsu	CHN
 85	34.596653	119.221611	13				Jiangsu	CHN
 86	32.394209	119.412939	13				Jiangsu	CHN
 87	36.061089	103.834303	23				Gansu	CHN
@@ -119,8 +119,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 118	29.980537	103.013261	5				Sichuan	CHN
 119	30.532847	105.592898	5				Sichuan	CHN
 120	31.126855	104.397894	10				Sichuan	CHN
-121	31.980171	120.894291	12				Jiangsu	CHN
-122	31.491169	120.31191	13				Jiangsu	CHN
+121	31.980171	120.894291	17				Jiangsu	CHN
+122	31.491169	120.31191	19				Jiangsu	CHN
 123	29.6426	106.567	12				 Chongqing	CHN
 124	28.447997	109.007094	1				 Chongqing	CHN
 125	31.398604	109.570062	11				 Chongqing	CHN
@@ -169,9 +169,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 168	41.486981	123.685142	3				Liaoning	CHN
 169	37.434092	116.357464	19				Shandong	CHN
 170	36.45703	115.98546	9				Shandong	CHN
-171	31.811226	119.974061	14				Jiangsu	CHN
+171	31.811226	119.974061	15				Jiangsu	CHN
 172	33.963232	118.275198	8				Jiangsu	CHN
-173	33.347316	120.16366	13				Jiangsu	CHN
+173	33.347316	120.16366	15				Jiangsu	CHN
 174	40.952942	117.96275	2				Hebei	CHN
 175	38.874434	115.464589	13				Hebei	CHN
 176	28.55386	112.35518	24				Hunan	CHN
@@ -235,7 +235,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 234	33.955844	116.798265	6				Anhui	CHN
 235	30.940195	118.75868	4				Anhui	CHN
 236	32.455536	119.922933	17				Jiangsu	CHN
-237	33.551052	119.113185	12				Jiangsu	CHN
+237	33.551052	119.113185	13				Jiangsu	CHN
 238	23.549701	116.372708	6				Guangdong	CHN
 239	47.354348	123.918186	3				 Heilongjiang	CHN
 240	28.46763	119.922796	8				Zhejiang	CHN
@@ -268,7 +268,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 267	27.338257	103.717465	6				Yunnan	CHN
 268	46.799777	130.3188779	11				 Heilongjiang	CHN
 269	12.568452	99.9577223	1				 Prachuap Khiri Khan	THA
-270	32.187849	119.425836	2				Jiangsu	CHN
+270	32.187849	119.425836	3				Jiangsu	CHN
 271	34.0522342	-118.2436849	1				California	USA
 272	39.331595	112.432825	3				Shanxi	CHN
 273	37.518314	111.144319	5				Shanxi	CHN
@@ -281,7 +281,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 280	35.748233	114.297201	8				Henan	CHN
 281	34.035771	113.852454	13				Henan	CHN
 282	34.797281	114.307582	11				Henan	CHN
-283	34.205768	117.284124	23				Jiangsu	CHN
+283	34.205768	117.284124	30				Jiangsu	CHN
 284	22.786186	115.375158	4				Guangdong	CHN
 285	30.191013	105.840555	2				 Chongqing	CHN
 286	29.290069	106.259281	3				 Chongqing	CHN
