@@ -531,6 +531,7 @@ location_id	date	description
 69	2020-01-30	5 new cases.
 69	2020-01-31	10 new cases.
 69	2020-02-01	+9
+69	2020-02-02	+12
 70	2020-01-23	First confirmed case.
 70	2020-01-25	Second confirmed case.
 70	2020-01-28	2 more cases.
@@ -542,6 +543,7 @@ location_id	date	description
 71	2020-01-29	7 new cases.
 71	2020-01-30	5 new cases. 20 total (red).
 71	2020-02-01	+5
+71	2020-02-02	+5
 72	2020-01-23	First confirmed case, imported.
 72	2020-01-25	Five more cases.
 72	2020-01-26	2 more cases.
@@ -832,14 +834,17 @@ location_id	date	description
 112	2020-01-29	6 new cases.
 112	2020-01-30	4 new cases.
 112	2020-02-01	+13, 31 total (red).
+112	2020-02-02	+6
 113	2020-01-24	First confirmed case.
 113	2020-01-30	1 new case.
 113	2020-01-31	2 new cases.
+113	2020-02-02	+2
 114	2020-01-24	First confirmed case.
 114	2020-01-27	Two more cases.
 114	2020-01-30	5 new cases.
 114	2020-01-31	7 new cases (doubled).
 114	2020-02-01	+1
+114	2020-02-02	+10, 26 total (red).
 115	2020-01-24	First confirmed case that resulted in death.
 115	2020-01-24	* City in lockdown.
 115	2020-01-25	19 more cases.
@@ -1270,6 +1275,7 @@ location_id	date	description
 187	2020-01-28	3 more cases.
 187	2020-01-29	1 new case.
 187	2020-01-30	3 new cases.
+187	2020-02-02	+5
 188	2020-01-25	First 3 confirmed cases.
 188	2020-01-28	6 new cases.
 188	2020-01-30	1 new case.
@@ -1282,6 +1288,7 @@ location_id	date	description
 189	2020-01-29	2 new cases.
 189	2020-01-30	3 new cases.
 189	2020-02-01	+1
+189	2020-02-02	+1
 190	2020-01-25	First 3 confirmed cases.
 190	2020-01-28	2 new cases.
 190	2020-01-29	1 new case.
@@ -1449,6 +1456,7 @@ location_id	date	description
 231	2020-01-29	6 new cases. * 1 new case.
 231	2020-01-30	1 new case.
 231	2020-02-01	+2
+231	2020-02-02	+2
 232	2020-01-26	First confirmed case.
 232	2020-01-28	3 new cases.
 232	2020-01-29	3 new cases.
