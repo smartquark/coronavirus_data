@@ -1608,6 +1608,7 @@ location_id	date	description
 258	2020-01-26	First confirmed case. * One more case.
 258	2020-01-30	1 new case.
 258	2020-01-31	1 new case. * 3 new cases.
+258	2020-02-02	+, removed 2.
 259	2020-01-26	First confirmed case inÂ Xixiang County.
 259	2020-01-27	Two more cases in a couple of Xixiang County.Â 
 259	2020-01-28	2 new cases.
@@ -1814,6 +1815,7 @@ location_id	date	description
 325	2020-01-31	1 new case.
 325	2020-02-01	-02: +2
 326	2020-01-28	First confirmed case.
+326	2020-02-02	+1
 327	2020-01-28	First confirmed case.
 328	2020-01-28	First 3 confirmed cases.
 328	2020-01-29	1 new case.

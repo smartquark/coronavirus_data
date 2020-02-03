@@ -256,7 +256,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 255	19.738521	110.006755	2				Hainan	CHN
 256	40.667433	122.235084	1				Liaoning	CHN
 257	40.000787	124.35445	3				Liaoning	CHN
-258	41.119997	122.070714	7				Liaoning	CHN
+258	41.119997	122.070714	6				Liaoning	CHN
 259	33.06748	107.023323	16				Shaanxi	CHN
 260	43.916823	81.324136	5				Xinjiang	CHN
 261	33.7174708	-117.8311428	1				California	USA
@@ -324,7 +324,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 323	19.033369	109.838389	1				Hainan	CHN
 324	19.09535	108.651815	1				Hainan	CHN
 325	19.258341	110.474648	6				Hainan	CHN
-326	41.267244	123.236944	1				Liaoning	CHN
+326	41.267244	123.236944	2				Liaoning	CHN
 327	25.075123	117.017536	1				Fujian	CHN
 328	34.363184	107.237743	7				Shaanxi	CHN
 329	40.842356	111.749995	2				Inner Mongolia	CHN
