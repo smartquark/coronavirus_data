@@ -118,7 +118,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 117	32.629398	110.798266	212				Hubei	CHN
 118	29.980537	103.013261	5				Sichuan	CHN
 119	30.532847	105.592898	5				Sichuan	CHN
-120	31.126855	104.397894	7				Sichuan	CHN
+120	31.126855	104.397894	10				Sichuan	CHN
 121	31.980171	120.894291	12				Jiangsu	CHN
 122	31.491169	120.31191	13				Jiangsu	CHN
 123	29.6426	106.567	12				 Chongqing	CHN
@@ -197,8 +197,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 196	-37.8136276	144.9630576	4				Victoria	AUS
 197	30.753924	120.758543	18				Zhejiang	CHN
 198	19.521134	109.580811	6				Hainan	CHN
-199	29.580228	105.058433	10				Sichuan	CHN
-200	28.871569	105.44174	5				Sichuan	CHN
+199	29.580228	105.058433	11				Sichuan	CHN
+200	28.871569	105.44174	6				Sichuan	CHN
 201	29.33903	104.778442	9				Sichuan	CHN
 202	1.492659	103.7413591	6				Johor	MYS
 203	41.57365	120.4493879	6				Liaoning	CHN
@@ -250,7 +250,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 249	29.844811	106.056404	4				Chongqing	CHN
 250	29.707032	105.721733	4				Chongqing	CHN
 251	30.04952	101.96231	5				Sichuan	CHN
-252	30.837793	106.110698	16				Sichuan	CHN
+252	30.837793	106.110698	23				Sichuan	CHN
 253	30.07728	103.848396	2				Sichuan	CHN
 254	29.552115	103.765678	2				Sichuan	CHN
 255	19.738521	110.006755	2				Hainan	CHN
@@ -338,7 +338,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 337	35.761829	115.029215	3				Henan	CHN
 338	30.153746	116.129105	6				Anhui	CHN
 339	31.867903	106.747477	8				Sichuan	CHN
-340	32.435435	105.843357	2				Sichuan	CHN
+340	32.435435	105.843357	5				Sichuan	CHN
 341	40.767544	114.886335	9				Hebei	CHN
 342	41.728401	125.939697	1				Jilin	CHN
 343	45.295075	130.969333	4				Heilongjiang	CHN
@@ -381,7 +381,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 380	47.8677574	12.6384037	2				Bavaria	DEU
 381	29.841438	114.322439	246				Hubei	CHN
 382	29.405002	105.594623	2				Chongqing	CHN
-383	26.582347	101.718637	7				Sichuan	CHN
+383	26.582347	101.718637	9				Sichuan	CHN
 384	31.899413	102.224653	1				Sichuan	CHN
 385	33.929291	116.4495	8				Henan	CHN
 386	41.168779	80.2606049999999	1				Xinjiang	CHN

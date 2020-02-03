@@ -874,6 +874,7 @@ location_id	date	description
 120	2020-01-29	1 new case.
 120	2020-01-30	1 new case.
 120	2020-01-31	4 new cases.
+120	2020-02-02	+3
 121	2020-01-24	First confirmed case.
 121	2020-01-26	One more case.
 121	2020-01-27	2 more cases.
@@ -1304,11 +1305,13 @@ location_id	date	description
 199	2020-01-29	1 new case.
 199	2020-01-31	2 new cases.
 199	2020-02-01	4 new cases.
+199	2020-02-02	+1
 200	2020-01-25	First confirmed case.
 200	2020-01-26	Second confirmed case.
 200	2020-01-27	One more case.
 200	2020-01-28	One new case.
 200	2020-01-29	1 new case.
+200	2020-02-02	+1
 201	2020-01-25	First confirmed case.
 201	2020-01-27	One more case.
 201	2020-01-28	5 new cases.
@@ -1505,6 +1508,7 @@ location_id	date	description
 252	2020-01-30	4 new cases.
 252	2020-01-31	2 new cases.
 252	2020-02-01	5 new cases.
+252	2020-02-02	+7, 23 total (red).
 253	2020-01-26	First confirmed case.
 253	2020-01-30	1 new case.
 254	2020-01-26	First confirmed case.
@@ -1736,6 +1740,7 @@ location_id	date	description
 340	2020-01-29	1 new case.
 340	2020-01-30	2 new cases.
 340	2020-01-31	1 case removed due to beingÂ asymptomatic and not being counted by the province.
+340	2020-02-02	+3
 341	2020-01-29	First confirmed case.
 341	2020-01-30	5 new cases.
 341	2020-02-01	2 new cases.
@@ -1813,6 +1818,7 @@ location_id	date	description
 382	2020-01-31	1 new case.
 383	2020-01-31	First confirmed case.
 383	2020-02-01	6 new cases.
+383	2020-02-02	+2
 384	2020-01-31	First confirmed case.
 385	2020-01-31	First 4 confirmed cases.
 385	2020-02-01	+3
