@@ -85,7 +85,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 84	32.060255	118.796877	35				Jiangsu	CHN
 85	34.596653	119.221611	13				Jiangsu	CHN
 86	32.394209	119.412939	13				Jiangsu	CHN
-87	36.061089	103.834303	23				Gansu	CHN
+87	36.061089	103.834303	26				Gansu	CHN
 88	36.545015	104.138586	1				Gansu	CHN
 89	38.304477	116.838834	19				Hebei	CHN
 90	30.39194	114.894843	278				Hubei	CHN
@@ -292,9 +292,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 291	46.646508	131.159133	4				Heilongjiang	CHN
 292	26.592666	104.830359	8				Guizhou	CHN
 293	26.254092	107.522097	5				Guizhou	CHN
-294	35.601182	103.210538	1				Gansu	CHN
+294	35.601182	103.210538	2				Gansu	CHN
 295	38.925875	100.449818	2				Gansu	CHN
-296	33.400684	104.921841	3				Gansu	CHN
+296	33.400684	104.921841	4				Gansu	CHN
 297	39.538047	116.683752	11				Hebei	CHN
 298	37.070834	114.504677	10				Hebei	CHN
 299	30.128901	104.627636	2				SichuanÂ	CHN
@@ -316,7 +316,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 315	44.426529	84.903267	1				Xinjiang	CHN
 316	42.951303	89.189752	1				Xinjiang	CHN
 317	38.520089	102.188043	1				Gansu	CHN
-318	34.580885	105.72498	3				Gansu	CHN
+318	34.580885	105.72498	8				Gansu	CHN
 319	37.73892	115.670177	4				Hebei	CHN
 320	39.630867	118.180193	11				Hebei	CHN
 321	37.99746	106.198393	7				NingxiaÂ	CHN
@@ -398,7 +398,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 397	42.9849233	-81.2452768	1				Ontario	CAN
 398	42.021602	121.670273	3				Liaoning	CHN
 399	41.108647	122.994329	9				Liaoning	CHN
-400	37.3336581	-121.8907041	1				California	USA
+400	37.3336581	-121.8907041	2				California	USA
 401	29.541144	106.456877	2				Chongqing	CHN
 402	28.1033035	-17.2193578	1				Canarias	ESP
 403	38.416663	112.734174	3				Shanxi	CHN
@@ -424,3 +424,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 423	39.655248	106.794216	1				Inner Mongolias+	CHN
 424	50.1109221	8.68212670000003	2				Â Hesse	DEU
 425	25.045532	101.528068	2				Yunnan	CHN
+426	35.709077	107.643631	1				Gansu	CHN

@@ -708,6 +708,7 @@ location_id	date	description
 87	2020-01-30	2 new cases.
 87	2020-01-31	5 new cases. 20 total (red).
 87	2020-02-01	+3
+87	2020-02-02	+3
 88	2020-01-23	First confirmed case, imported.
 89	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
 89	2020-01-25	Second confirmed case.
@@ -1738,10 +1739,12 @@ location_id	date	description
 293	2020-01-31	2 new cases.
 293	2020-02-02	+1
 294	2020-01-27	First confirmed case.
+294	2020-02-02	+1
 295	2020-01-27	First confirmed case.
 295	2020-01-29	1 new case.
 296	2020-01-27	First confirmed case.
 296	2020-01-30	2 new cases.
+296	2020-02-02	+1
 297	2020-01-27	First 2 confirmed cases.
 297	2020-01-28	4 new cases.
 297	2020-01-29	3 new cases.
@@ -1807,6 +1810,7 @@ location_id	date	description
 318	2020-01-28	First confirmed case.
 318	2020-01-30	1 new case.
 318	2020-01-31	1 new case.
+318	2020-02-02	+5
 319	2020-01-28	First 2 confirmed cases.
 319	2020-01-29	1 new case.
 319	2020-01-30	1 new case.
@@ -1959,6 +1963,7 @@ location_id	date	description
 399	2020-01-31	First confirmed case.
 399	2020-02-01	+8
 400	2020-01-31	First confirmed case in the Bay area.
+400	2020-02-02	One new case, unrelated to the previous one. 10th case in the U.S.
 401	2020-01-31	First 2 confirmed cases.
 402	2020-01-31	First confirmed case in Spain, tourist from Germany that was a close contact of the cases in Bavaria.
 403	2020-01-31	First confirmed case.
@@ -1989,3 +1994,4 @@ location_id	date	description
 423	2020-02-02	First confirmed case in Haibowan district.
 424	2020-02-02	First 2 cases transported fromÂ Germersheim, arrived via charter flight and were in quarantine.Â 
 425	2020-02-02	First 2 confirmed cases.
+426	2020-02-02	First confirmed case.
