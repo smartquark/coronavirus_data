@@ -5,13 +5,16 @@
 
 ### JHU CSSE
 
-- https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing&sle=true
+- https://systems.jhu.edu/research/public-health/ncov/
+- [OpsDashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+- [Google sheet](https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing&sle=true#)
+- [Google sheet (Time series)](https://docs.google.com/spreadsheets/d/1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo/htmlview?usp=sharing&sle=true#)
 
 	Data:
 
-	* [jhu-report_date.tsv](data/jhu-report_date.tsv) : Daily total
-
 	* [jhu.tsv](data/jhu.tsv) : Latest
+	* [jhu-confirmed_daily.tsv](data/jhu-confirmed_daily.tsv) : Daily total of confirmed cases
+
 
 
 
@@ -39,5 +42,4 @@
 	Data:
 
 	* [casetracking.tsv](data/casetracking.tsv)
-
 
