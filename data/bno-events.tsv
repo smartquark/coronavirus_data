@@ -105,6 +105,7 @@ location_id	date	description
 10	2020-01-21	First confirmed case.
 10	2020-01-31	3 new cases.
 10	2020-02-02	+2
+10	2020-02-03	+1
 11	2020-01-21	First 12 confirmed cases, including 1 doctor and 4 nurses (human-to-human transmission).
 11	2020-01-22	Hubei starting to report province-wide cases. (See Hubei Province).Â 
 11	2020-01-23	City in lockdown.
@@ -417,6 +418,7 @@ location_id	date	description
 48	2020-01-30	1 new case.
 48	2020-02-01	1 new case.
 48	2020-02-02	+1
+48	2020-02-03	+3
 49	2020-01-22	First confirmed case in Jiangsu province, imported.
 49	2020-01-24	Second confirmed case.
 49	2020-01-25	One more case.
@@ -552,6 +554,7 @@ location_id	date	description
 66	2020-01-23	First confirmed case. Patient infected in Changsha, Hunan from a student at a restaurant.
 66	2020-01-25	Second confirmed case.
 66	2020-01-31	1 new case.
+66	2020-02-03	+3
 67	2020-01-23	First confirmed case.
 68	2020-01-23	First confirmed case.
 68	2020-01-24	Second confirmed case.
@@ -1769,6 +1772,7 @@ location_id	date	description
 292	2020-01-27	First confirmed case.
 292	2020-01-28	One new case.
 292	2020-01-31	2 new cases. * 4 new cases.
+292	2020-02-03	+1
 293	2020-01-27	First confirmed case.
 293	2020-01-28	1 new case.
 293	2020-01-31	2 new cases.
@@ -1791,6 +1795,7 @@ location_id	date	description
 298	2020-01-30	2 new cases.
 298	2020-01-31	2 new cases.
 298	2020-02-01	3 new cases.
+298	2020-02-03	+4
 299	2020-01-27	First 2 confirmed cases.
 300	2020-01-27	First confirmed case.
 300	2020-01-28	1 new case.
@@ -1938,6 +1943,7 @@ location_id	date	description
 361	2020-01-30	First confirmed case.
 361	2020-01-31	3 new cases.
 361	2020-02-02	+1
+361	2020-02-03	+3
 362	2020-01-30	First confirmed case.
 362	2020-01-31	1 new case.
 362	2020-02-02	+2
@@ -2038,3 +2044,5 @@ location_id	date	description
 425	2020-02-02	First 2 confirmed cases.
 426	2020-02-02	First confirmed case.
 427	2020-02-02	First confirmed case.
+428	2020-02-03	First 2 confirmed cases, husband and wife, locally transmitted.
+429	2020-02-03	First confirmed case and 3rd case in India.
