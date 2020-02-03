@@ -95,6 +95,7 @@ location_id	date	description
 8	2020-01-30	5 new cases. 3rd city outside Hubei reaching 100+ cases. * 11 new cases.
 8	2020-01-31	16 new cases. * 7 new cases.
 8	2020-02-01	18 new cases. * +16 *+8
+8	2020-02-02	+5
 9	2020-01-20	First confirmed case, detected at Incheon International Airport (imported).
 9	2020-01-24	Second confirmed case, detected at Incheon Int. Airport. (Transferred to Seoul).
 9	2020-01-26	Third confirmed case, according to officials the man engaged in normal activities after flying into Incheon International Airport. (Transferred to Goyang).
@@ -185,6 +186,7 @@ location_id	date	description
 19	2020-01-30	4 new cases.
 19	2020-01-31	1 new case.
 19	2020-02-01	+9
+19	2020-02-02	+7
 20	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
 20	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
 20	2020-01-25	One more case.
@@ -243,6 +245,7 @@ location_id	date	description
 25	2020-01-30	6 new cases. 21 total (red). * 2 new cases.
 25	2020-01-31	1 new case.
 25	2020-02-01	+6
+25	2020-02-02	+1
 26	2020-01-22	First confirmed case (imported).
 26	2020-01-24	Second confirmed case.
 26	2020-01-27	4 more cases.
@@ -476,6 +479,7 @@ location_id	date	description
 58	2020-01-30	1 new case.
 58	2020-01-31	6 new cases, doubled.
 58	2020-02-01	+4
+58	2020-02-02	+1
 59	2020-01-23	First confirmed case, imported.
 59	2020-01-25	Two more cases, 1 from Luoyang and 1 from Anxi.
 59	2020-01-26	One more case.
@@ -485,6 +489,7 @@ location_id	date	description
 59	2020-01-30	5 new cases.
 59	2020-01-31	4 new cases. 22 total (red).
 59	2020-02-01	+2
+59	2020-02-02	+5
 60	2020-01-23	First confirmed case, imported.
 60	2020-01-25	One more case.
 60	2020-01-26	One more case.
@@ -629,6 +634,7 @@ location_id	date	description
 78	2020-01-30	6 new cases.
 78	2020-01-31	2 new cases.
 78	2020-02-01	+7
+78	2020-02-02	+5
 79	2020-01-23	First 2 confirmed cases, imported.
 79	2020-01-25	One more case.
 79	2020-01-27	One more case.
@@ -642,6 +648,7 @@ location_id	date	description
 80	2020-01-29	1 new case.
 80	2020-01-31	1 new case.
 80	2020-02-01	+2
+80	2020-02-02	+1
 81	2020-01-23	First confirmed case, infected by a Wuhan patient inÂ Hangzhou, Zhejiang.
 81	2020-01-23	* Second confirmed case, imported.
 81	2020-01-25	Two more cases.
@@ -1404,12 +1411,15 @@ location_id	date	description
 206	2020-01-28	1 new case.
 206	2020-01-31	1 new case.
 206	2020-02-01	+3
+206	2020-02-02	+1
 207	2020-01-25	First confirmed case from Sanyuan district.
 207	2020-01-26	3 more cases.
 207	2020-01-28	4 new cases.
 207	2020-01-30	1 new case.
+207	2020-02-02	+1
 208	2020-01-25	First three confirmed cases (locally transmitted between 3 family members) fromÂ Wangyi District.
 208	2020-01-26	One more case in family member of previous update, and one more case of close contact.
+208	2020-02-02	+1
 209	2020-01-25	First confirmed case inÂ Luonan County, infected inÂ Huangshi, Hubei.
 209	2020-01-28	1 new case.
 210	2020-01-25	First confirmed case.
@@ -1422,6 +1432,7 @@ location_id	date	description
 214	2020-01-26	3 more cases in a family that lived in Wuhan.
 214	2020-01-27	2 more cases, related to previous cases. Locally transmitted.
 214	2020-02-01	+1
+214	2020-02-02	+5
 215	2020-01-25	First confirmed case.
 215	2020-01-27	One more case.
 215	2020-01-28	1 new case.
@@ -1435,6 +1446,7 @@ location_id	date	description
 217	2020-01-28	4 new cases.
 217	2020-01-30	1 new case.
 217	2020-02-01	+1
+217	2020-02-02	+4
 218	2020-01-25	First confirmed case inÂ Luoping.
 218	2020-01-27	One more case.
 218	2020-01-29	3 new cases.
@@ -1596,6 +1608,7 @@ location_id	date	description
 259	2020-01-29	2 new cases.
 259	2020-01-31	5 new cases.
 259	2020-02-01	+2
+259	2020-02-02	+2
 260	2020-01-26	First confirmed case.
 260	2020-01-28	1 new case.
 260	2020-01-29	2 new cases.
@@ -1615,6 +1628,7 @@ location_id	date	description
 264	2020-01-30	3 new cases.
 264	2020-01-31	5 new cases. 22 total (red).
 264	2020-02-01	+3
+264	2020-02-02	+2
 265	2020-01-26	First 2 confirmed cases.
 265	2020-01-30	1 new case.
 266	2020-01-26	First 2 confirmed cases.
@@ -1796,6 +1810,7 @@ location_id	date	description
 328	2020-01-28	First 3 confirmed cases.
 328	2020-01-29	1 new case.
 328	2020-02-01	+2
+328	2020-02-02	+1
 329	2020-01-28	First 2 cases.
 330	2020-01-28	First confirmed case.
 331	2020-01-28	First 4 confirmed cases.
@@ -1942,3 +1957,4 @@ location_id	date	description
 418	2020-02-02	First confirmed case.
 419	2020-02-02	Second confirmed case in India.
 420	2020-02-02	First confirmed case.
+421	2020-02-02	First confirmed case.
