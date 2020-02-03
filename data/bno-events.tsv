@@ -633,6 +633,7 @@ location_id	date	description
 82	2020-01-31	3 new cases.
 82	2020-02-01	+2
 83	2020-01-23	First 2 confirmed cases in Vietnam.
+83	2020-02-02	1 new case: US national that was n transit in Wuhan for 2 hours.
 84	2020-01-23	First two confirmed cases, imported.
 84	2020-01-24	One more case.
 84	2020-01-25	One more case.
@@ -1845,6 +1846,7 @@ location_id	date	description
 406	2020-02-01	First 3 confirmed cases.
 407	2020-02-01	First confirmed case.
 408	2020-02-01	First confirmed case. Approximate location.Â 
+408	2020-02-02	3 new cases.
 409	2020-02-01	First confirmed case in Linhe District.
 410	2020-02-01	First confirmed case and 6th case in Vietnam.
 411	2020-02-01	First confirmed case.
