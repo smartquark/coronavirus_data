@@ -1,11 +1,11 @@
 location_id	latitude	longitude	confirmed	deaths	status	location	region	country_code
 1	30.592849	114.305539	4109				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
-3	22.543096	114.057865	134				Guangdong	CHN
+3	22.543096	114.057865	196				Guangdong	CHN
 4	39.9041999	116.4073963	168				Beijing municipality (capital)	CHN
-5	22.270978	113.576677	38				Guangdong	CHN
-6	21.270702	110.359368	13				Guangdong	CHN
-7	23.112257	114.415801	20				Guangdong	CHN
+5	22.270978	113.576677	41				Guangdong	CHN
+6	21.270702	110.359368	14				Guangdong	CHN
+7	23.112257	114.415801	23				Guangdong	CHN
 8	31.230416	121.473701	177				Shanghai municipality	CHN
 9	37.4562557	126.7052062	1				SCA	KOR
 10	26.647661	106.630153	6				Guizhou	CHN
@@ -26,9 +26,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 25	24.880095	102.832891	30				Yunnan	CHN
 26	30.456224	106.633088	20				Sichuan	CHN
 27	22.198745	113.543873	7				Macau (SAR)s+	CHN
-28	23.12911	113.264385	150				Guangdong	CHN
+28	23.12911	113.264385	175				Guangdong	CHN
 29	23.021478	113.121435	39				Guangdong	CHN
-30	24.810879	113.59762	4				Guangdong	CHN
+30	24.810879	113.59762	5				Guangdong	CHN
 31	29.868336	121.54399	55				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
 33	38.914003	121.614682	10				Liaoning	CHN
@@ -53,8 +53,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 52	35.104673	118.356414	24				Shandong	CHN
 53	36.067108	120.382609	25				Shandong	CHN
 54	31.209571	107.468023	9				Sichuan	CHN
-55	22.517585	113.39277	18				Guangdong	CHN
-56	23.047191	112.465091	6				Guangdong	CHN
+55	22.517585	113.39277	21				Guangdong	CHN
+56	23.047191	112.465091	7				Guangdong	CHN
 57	43.817071	125.323544	7				Jilin	CHN
 58	24.479833	118.089425	17				Fujian	CHN
 59	24.874132	118.675675	24				Fujian	CHN
@@ -92,7 +92,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 91	30.360882	113.423482	140				Hubei	CHN
 92	30.402167	112.899762	35				Hubei	CHN
 93	27.817808	114.917346	31				Jiangxi	CHN
-94	27.087637	114.964696	11				Jiangxi	CHN
+94	27.087637	114.964696	12				Jiangxi	CHN
 95	29.705077	116.00193	44				Jiangxi	CHN
 96	25.234479	110.179953	23				Guangxi	CHN
 97	23.476962	111.279115	5				Guangxi	CHN
@@ -156,9 +156,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 155	44.837789	-0.579179999999951	1				Nouvelle-Aquitaines+	FRA
 156	48.856614	2.35222190000002	5				Île-de-France (capital)s+	FRA
 157	27.949217	116.358181	18				Jiangxi	CHN
-158	28.454862	117.943433	16				Jiangxi	CHN
+158	28.454862	117.943433	19				Jiangxi	CHN
 159	25.830694	114.933546	30				Jiangxi	CHN
-160	27.815743	114.416785	29				Jiangxi	CHN
+160	27.815743	114.416785	31				Jiangxi	CHN
 161	29.268783	117.178443	3				Jiangxi	CHN
 162	31.690215	113.382458	384				Hubei	CHN
 163	40.076762	113.300129	8				Shanxi	CHN
@@ -178,7 +178,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 177	29.031654	111.698784	39				Hunan	CHN
 178	26.893368	112.572018	26				Hunan	CHN
 179	27.23895	111.467674	41				Hunan	CHN
-180	23.020673	113.751799	16				Guangdong	CHN
+180	23.020673	113.751799	27				Guangdong	CHN
 181	23.354091	116.681972	14				Guangdong	CHN
 182	32.990664	112.528308	75				Henan	CHN
 183	33.011529	114.022298	46				Henan	CHN
