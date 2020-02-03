@@ -46,7 +46,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 45	34.620202	112.453926	5				Henan	CHN
 46	34.772792	111.200367	7				Henan	CHN
 47	34.747834	113.022496	2				Henan	CHN
-48	38.042805	114.514893	12				Hebei	CHN
+48	38.042805	114.514893	13				Hebei	CHN
 49	31.298974	120.585289	34				Jiangsu	CHN
 50	44.551653	129.633168	6				Heilongjiang	CHN
 51	24.326292	109.428608	12				Guangxi	CHN
@@ -94,7 +94,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 93	27.817808	114.917346	31				Jiangxi	CHN
 94	27.087637	114.964696	11				Jiangxi	CHN
 95	29.705077	116.00193	44				Jiangxi	CHN
-96	25.234479	110.179953	21				Guangxi	CHN
+96	25.234479	110.179953	23				Guangxi	CHN
 97	23.476962	111.279115	5				Guangxi	CHN
 98	23.902479	106.618283	2				Guangxi	CHN
 99	24.692931	108.085261	6				Guangxi	CHN
@@ -151,7 +151,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 150	41.8781136	-87.6297982	2				Illinois	USA
 151	22.00881	100.79715	12				Yunnan	CHN
 152	26.855047	100.22775	9				Yunnan	CHN
-153	22.654032	110.18122	5				Guangxi	CHN
+153	22.654032	110.18122	7				Guangxi	CHN
 154	21.68686	108.353846	8				Guangxi	CHN
 155	44.837789	-0.579179999999951	1				Nouvelle-Aquitaines+	FRA
 156	48.856614	2.35222190000002	5				ÃŽle-de-France (capital)s+	FRA
@@ -173,7 +173,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 172	33.963232	118.275198	8				Jiangsu	CHN
 173	33.347316	120.16366	13				Jiangsu	CHN
 174	40.952942	117.96275	2				Hebei	CHN
-175	38.874434	115.464589	11				Hebei	CHN
+175	38.874434	115.464589	13				Hebei	CHN
 176	28.55386	112.35518	24				Hunan	CHN
 177	29.031654	111.698784	39				Hunan	CHN
 178	26.893368	112.572018	26				Hunan	CHN
@@ -240,7 +240,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 239	47.354348	123.918186	3				Â Heilongjiang	CHN
 240	28.46763	119.922796	8				Zhejiang	CHN
 241	30.89441	120.086809	6				Zhejiang	CHN
-242	36.625656	114.538961	10				Hebei	CHN
+242	36.625656	114.538961	11				Hebei	CHN
 243	49.285901	120.711735	1				Inner Mongolia	CHN
 244	38.182362	107.477514	1				Inner Mongolia	CHN
 245	39.822507	109.963338	1				Inner Mongolia	CHN
@@ -318,7 +318,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 317	38.520089	102.188043	1				Gansu	CHN
 318	34.580885	105.72498	3				Gansu	CHN
 319	37.73892	115.670177	4				Hebei	CHN
-320	39.630867	118.180193	8				Hebei	CHN
+320	39.630867	118.180193	11				Hebei	CHN
 321	37.99746	106.198393	6				NingxiaÂ	CHN
 322	43.504687	124.82283	1				Jilin	CHN
 323	19.033369	109.838389	1				Hainan	CHN
@@ -339,7 +339,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 338	30.153746	116.129105	6				Anhui	CHN
 339	31.867903	106.747477	8				Sichuan	CHN
 340	32.435435	105.843357	2				Sichuan	CHN
-341	40.767544	114.886335	8				Hebei	CHN
+341	40.767544	114.886335	9				Hebei	CHN
 342	41.728401	125.939697	1				Jilin	CHN
 343	45.295075	130.969333	4				Heilongjiang	CHN
 344	35.543061	106.665131	1				Gansu	CHN
@@ -355,8 +355,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 354	34.6937249	135.5022535	1				Kansai	CHN
 355	29.356117	105.927375	3				Chongqing	CHN
 356	29.325601	107.760025	1				Wulong District	CHN
-357	24.403582	111.566694	1				Guangxi	CHN
-358	21.979933	108.654146	1				Guangxi	CHN
+357	24.403582	111.566694	3				Guangxi	CHN
+358	21.979933	108.654146	2				Guangxi	CHN
 359	35.201548	114.668936	2				Henan	CHN
 360	35.575417	114.519311	1				Henan	CHN
 361	27.725654	106.927389	4				Guizhou	CHN
@@ -414,3 +414,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 413	42.3600825	-71.0588801	1				MassachusettsÂ	USA
 414	48.1351253	11.5819805	1				Bavaria	DEU
 415	34.983385	102.911027	1				Gansu	CHN
+416	23.11153	109.598926	4				Guangxi	CHN
