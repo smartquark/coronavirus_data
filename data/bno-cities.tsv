@@ -15,8 +15,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 14	29.985295	122.207215	7				Zhejiang	CHN
 15	28.65638	121.42076	100				Zhejiang	CHN
 16	31.074834	109.879153	6				Chongqing	CHN
-17	30.807667	108.408661	39				 Chongqing	CHN
-18	29.857996	107.081282	10				Chongqing	CHN
+17	30.807667	108.408661	44				 Chongqing	CHN
+18	29.857996	107.081282	11				Chongqing	CHN
 19	39.3433574	117.3616476	48				Tianjin municipality	CHN
 20	35.416734	119.526925	12				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
@@ -131,7 +131,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 130	29.718142	106.631187	12				 Chongqing	CHN
 131	29.484527	106.482346	4				 Chongqing	CHN
 132	22.6272784	120.3014353	2				Kaohsiung City Municipality	TWN
-133	30.299559	108.039002	12				Chongqing	CHN
+133	30.299559	108.039002	15				Chongqing	CHN
 134	18.795143	110.391073	8				Hainan	CHN
 135	29.356803	113.12873	53				Hunan	CHN
 136	27.700062	111.993497	29				Hunan	CHN
@@ -422,3 +422,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 421	36.954413	100.900997	1				Qinghai	CHN
 422	40.569426	110.524262	2				Inner Mongolia	CHN
 423	39.655248	106.794216	1				Inner Mongolias+	CHN
+424	50.1109221	8.68212670000003	2				 Hesse	DEU

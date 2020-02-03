@@ -169,6 +169,7 @@ location_id	date	description
 17	2020-01-30	4 new cases.
 17	2020-01-31	1 new case. * 4 new cases.
 17	2020-02-01	+6
+17	2020-02-02	+5
 18	2020-01-21	First confirmed case.
 18	2020-01-24	Two more cases.
 18	2020-01-25	Two more cases.
@@ -176,6 +177,7 @@ location_id	date	description
 18	2020-01-28	One new case.
 18	2020-01-30	1 new case.
 18	2020-01-31	1 new case. * 1 new case.
+18	2020-02-02	+1
 19	2020-01-21	First 2 confirmed cases (imported).
 19	2020-01-22	Two more cases
 19	2020-01-24	Two more cases, railway workers colleagues of 2nd case. * One more case. * One more case.
@@ -1006,6 +1008,7 @@ location_id	date	description
 133	2020-01-28	3 new cases.
 133	2020-01-29	2 new cases.
 133	2020-01-30	1 new case.
+133	2020-02-02	+3
 134	2020-01-24	First two confirmed cases.
 134	2020-01-25	3 more cases.
 134	2020-01-27	2 more cases.
@@ -1980,3 +1983,4 @@ location_id	date	description
 422	2020-01-28	First confirmed case.
 422	2020-02-02	+1
 423	2020-02-02	First confirmed case in Haibowan district.
+424	2020-02-02	First 2 cases transported fromÂ Germersheim, arrived via charter flight and were in quarantine.Â 
