@@ -429,6 +429,7 @@ location_id	date	description
 53	2020-01-29	2 new cases.
 53	2020-01-30	1 new case. * 3 new cases. 21 total (red).
 53	2020-02-01	1 new case.
+53	2020-02-02	+3
 54	2020-01-23	First confirmed case, imported.
 54	2020-01-27	2 more cases.
 54	2020-01-29	1 new case.
@@ -779,6 +780,7 @@ location_id	date	description
 104	2020-01-30	2 new cases.
 104	2020-01-31	5 new cases.
 104	2020-02-01	5 new cases. 24 total (red).
+104	2020-02-02	+1
 105	2020-01-24	First confirmed case.
 105	2020-01-26	One new case.
 105	2020-01-27	One new case.
@@ -1013,6 +1015,7 @@ location_id	date	description
 142	2020-01-26	Two new cases. * One new case.
 142	2020-01-30	3 new cases.
 142	2020-02-01	6 new cases.
+142	2020-02-02	+4
 143	2020-01-24	First two confirmed cases.
 143	2020-01-27	4 more cases. * 2 more cases.
 143	2020-01-28	2 new cases.
@@ -1020,6 +1023,7 @@ location_id	date	description
 143	2020-01-30	1 new case.
 143	2020-01-31	5 new cases.
 143	2020-02-01	2 new cases. 20 total (red).
+143	2020-02-02	+2
 144	2020-01-24	First two confirmed cases.
 144	2020-01-25	One more case.
 144	2020-01-26	Two more cases.
@@ -1029,6 +1033,7 @@ location_id	date	description
 144	2020-01-30	3 new cases.
 144	2020-01-31	2 new cases.
 144	2020-02-01	3 new cases.
+144	2020-02-02	+3, 22 total (red).
 145	2020-01-24	First confirmed case.
 145	2020-01-31	1 new case.
 146	2020-01-24	City in lockdown.
@@ -1673,6 +1678,7 @@ location_id	date	description
 304	2020-01-29	3 new cases.
 304	2020-01-30	1 new case.
 304	2020-02-01	5 new cases.
+304	2020-02-02	+1
 305	2020-01-27	First confirmed case in Cambodia.
 306	2020-01-27	First confirmed case in Sri Lanka. Admitted to Infectious Diseases Hospital in Angoda (metro Colombo).
 307	2020-01-27	First confirmed case, transmitted from an asymptomatic person in Shanghai.

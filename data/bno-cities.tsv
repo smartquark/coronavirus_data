@@ -51,7 +51,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 50	44.551653	129.633168	6				Heilongjiang	CHN
 51	24.326292	109.428608	12				Guangxi	CHN
 52	35.104673	118.356414	24				Shandong	CHN
-53	36.067108	120.382609	22				Shandong	CHN
+53	36.067108	120.382609	25				Shandong	CHN
 54	31.209571	107.468023	9				Sichuan	CHN
 55	22.517585	113.39277	18				Guangdong	CHN
 56	23.047191	112.465091	6				Guangdong	CHN
@@ -102,7 +102,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 101	37.566535	126.9779692	8				SCA (capital)	KOR
 102	30.20003	115.038835	252				Hubei	CHN
 103	30.272156	109.488172	105				Hubei	CHN
-104	37.513068	122.120419	24				Shandong	CHN
+104	37.513068	122.120419	25				Shandong	CHN
 105	36.706962	119.161748	13				Shandong	CHN
 106	34.746611	113.625328	63				Henan	CHN
 107	32.147679	114.091192	87				Henan	CHN
@@ -140,9 +140,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 139	46.653845	126.968887	13				Heilongjiang	CHN
 140	46.589309	125.103784	8				Heilongjiang	CHN
 141	49.597841	117.378529	1				Inner Mongolia	CHN
-142	35.414982	116.587282	14				Shandong	CHN
-143	37.464539	121.447852	20				Shandong	CHN
-144	36.6512	117.120095	19				Shandong	CHN
+142	35.414982	116.587282	18				Shandong	CHN
+143	37.464539	121.447852	22				Shandong	CHN
+144	36.6512	117.120095	22				Shandong	CHN
 145	37.499972	105.196902	2				Ningxia	CHN
 146	30.653061	113.165862	9				Hubei	CHN
 147	32.684714	109.029022	14				Shaanxi	CHN
@@ -302,7 +302,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 301	28.751836	104.643159	7				SichuanÂ	CHN
 302	37.4449168	127.1388684	4				Gyeonggi	KOR
 303	34.49938	109.502882	5				Shaanxi	CHN
-304	34.810487	117.323725	14				Shandong	CHN
+304	34.810487	117.323725	15				Shandong	CHN
 305	10.6267867	103.5115545	1				Preah Sihanouk Province	KHM
 306	6.9270786	79.8612430000001	1				Â Western Province	LKA
 307	47.9999615	11.339009	4				Bavaria	DEU
