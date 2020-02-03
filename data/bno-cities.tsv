@@ -13,7 +13,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 12	27.993828	120.699361	231				Zhejiang	CHN
 13	30.274084	120.15507	98				Zhejiang	CHN
 14	29.985295	122.207215	7				Zhejiang	CHN
-15	28.65638	121.42076	95				Zhejiang	CHN
+15	28.65638	121.42076	100				Zhejiang	CHN
 16	31.074834	109.879153	6				Chongqing	CHN
 17	30.807667	108.408661	39				 Chongqing	CHN
 18	29.857996	107.081282	10				Chongqing	CHN
@@ -63,7 +63,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 62	26.420394	111.613445	18				Hunan	CHN
 63	25.770509	113.014717	13				Hunan	CHN
 64	29.703113	107.389298	1				Chongqing	CHN
-65	28.682892	115.858197	83				Jiangxi	CHN
+65	28.682892	115.858197	89				Jiangxi	CHN
 66	27.731514	109.189598	3				Guizhou	CHN
 67	26.584666	107.234703	1				Guizhou	CHN
 68	31.734476	116.521442	13				Anhui	CHN
@@ -71,7 +71,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 70	32.253425	118.328321	6				Anhui	CHN
 71	33.844582	115.778676	30				Anhui	CHN
 72	45.803775	126.534967	25				 Heilongjiang	CHN
-73	29.995762	120.586109	24				Zhejiang	CHN
+73	29.995762	120.586109	27				Zhejiang	CHN
 74	29.079175	119.64742	34				Zhejiang	CHN
 75	28.970079	118.859457	13				Zhejiang	CHN
 76	31.035395	112.199427	329				Hubei	CHN
@@ -91,9 +91,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 90	30.39194	114.894843	278				Hubei	CHN
 91	30.360882	113.423482	140				Hubei	CHN
 92	30.402167	112.899762	35				Hubei	CHN
-93	27.817808	114.917346	31				Jiangxi	CHN
+93	27.817808	114.917346	34				Jiangxi	CHN
 94	27.087637	114.964696	12				Jiangxi	CHN
-95	29.705077	116.00193	44				Jiangxi	CHN
+95	29.705077	116.00193	56				Jiangxi	CHN
 96	25.234479	110.179953	23				Guangxi	CHN
 97	23.476962	111.279115	5				Guangxi	CHN
 98	23.902479	106.618283	2				Guangxi	CHN
@@ -155,9 +155,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 154	21.68686	108.353846	8				Guangxi	CHN
 155	44.837789	-0.579179999999951	1				Nouvelle-Aquitaines+	FRA
 156	48.856614	2.35222190000002	5				Île-de-France (capital)s+	FRA
-157	27.949217	116.358181	18				Jiangxi	CHN
+157	27.949217	116.358181	24				Jiangxi	CHN
 158	28.454862	117.943433	19				Jiangxi	CHN
-159	25.830694	114.933546	30				Jiangxi	CHN
+159	25.830694	114.933546	34				Jiangxi	CHN
 160	27.815743	114.416785	31				Jiangxi	CHN
 161	29.268783	117.178443	3				Jiangxi	CHN
 162	31.690215	113.382458	384				Hubei	CHN
@@ -195,7 +195,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 194	31.947633	108.664214	1				Chongqing	CHN
 195	29.8635	107.730894	5				Chongqing	CHN
 196	-37.8136276	144.9630576	4				Victoria	AUS
-197	30.753924	120.758543	18				Zhejiang	CHN
+197	30.753924	120.758543	19				Zhejiang	CHN
 198	19.521134	109.580811	6				Hainan	CHN
 199	29.580228	105.058433	11				Sichuan	CHN
 200	28.871569	105.44174	6				Sichuan	CHN
@@ -219,7 +219,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 218	25.489999	103.796167	5				Yunnan	CHN
 219	18.506048	110.037503	5				Hainan	CHN
 220	22.817002	108.366543	16				Guangxi	CHN
-221	27.622768	113.854556	9				Jiangxi	CHN
+221	27.622768	113.854556	15				Jiangxi	CHN
 222	37.856971	113.580519	1				Shanxi	CHN
 223	37.687357	112.752652	13				Shanxi	CHN
 224	32.009016	112.122426	441				Hubei�	CHN
@@ -306,7 +306,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 305	10.6267867	103.5115545	1				Preah Sihanouk Province	KHM
 306	6.9270786	79.8612430000001	1				 Western Province	LKA
 307	47.9999615	11.339009	4				Bavaria	DEU
-308	28.260189	117.069202	4				Jiangxi	CHN
+308	28.260189	117.069202	8				Jiangxi	CHN
 309	35.215892	113.241823	7				Henan	CHN
 310	36.200252	117.087614	11				Shandong	CHN
 311	31.743483	110.680447	7				Hubei	CHN
