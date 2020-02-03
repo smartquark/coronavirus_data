@@ -125,6 +125,7 @@ location_id	date	description
 12	2020-01-30	58 new cases.
 12	2020-01-31	55 new cases.
 12	2020-02-01	+14
+12	2020-02-02	+24
 13	2020-01-21	First confirmed (imported) case.
 13	2020-01-23	5 more cases.
 13	2020-01-23	* First case in Xi'an, Shaanxi infected in Hangzhou by infected patient. Locally transmitted.Â 
@@ -135,6 +136,7 @@ location_id	date	description
 13	2020-01-30	18 new cases.
 13	2020-01-31	16 new cases.
 13	2020-02-01	+13
+13	2020-02-02	+12, total of 110 cases.
 14	2020-01-21	First confirmed (imported) case.Â 
 14	2020-01-22	Confirmed case inÂ Rushan City, Shandong had contact with case in Zhoushan. Locally transmitted.
 14	2020-01-25	Second confirmed case.
@@ -287,6 +289,7 @@ location_id	date	description
 31	2020-01-30	21 new cases, doubled.
 31	2020-01-31	5 new cases.
 31	2020-02-01	+9
+31	2020-02-02	+11
 32	2020-01-22	First confirmed case of a Thai national that traveled to Wuhan. Third one in the country.
 33	2020-01-22	First confirmed case (Imported) and first case in Liaoning province.
 33	2020-01-24	One more case.
@@ -1516,6 +1519,7 @@ location_id	date	description
 240	2020-01-29	1 new case.
 240	2020-01-31	1 new case.
 240	2020-02-01	+1
+240	2020-02-02	+6
 241	2020-01-26	First confirmed case.
 241	2020-01-27	2 more cases.
 241	2020-01-29	2 new cases.

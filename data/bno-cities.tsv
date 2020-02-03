@@ -10,8 +10,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 9	37.4562557	126.7052062	1				SCA	KOR
 10	26.647661	106.630153	6				Guizhou	CHN
 11	30.453667	114.872199	1002				Hubei	CHN
-12	27.993828	120.699361	231				Zhejiang	CHN
-13	30.274084	120.15507	98				Zhejiang	CHN
+12	27.993828	120.699361	255				Zhejiang	CHN
+13	30.274084	120.15507	110				Zhejiang	CHN
 14	29.985295	122.207215	7				Zhejiang	CHN
 15	28.65638	121.42076	100				Zhejiang	CHN
 16	31.074834	109.879153	6				Chongqing	CHN
@@ -29,7 +29,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 28	23.12911	113.264385	175				Guangdong	CHN
 29	23.021478	113.121435	39				Guangdong	CHN
 30	24.810879	113.59762	5				Guangdong	CHN
-31	29.868336	121.54399	55				Zhejiang	CHN
+31	29.868336	121.54399	66				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
 33	38.914003	121.614682	10				Liaoning	CHN
 34	31.820591	117.227219	59				Anhui	CHN
@@ -238,7 +238,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 237	33.551052	119.113185	13				Jiangsu	CHN
 238	23.549701	116.372708	6				Guangdong	CHN
 239	47.354348	123.918186	3				 Heilongjiang	CHN
-240	28.46763	119.922796	8				Zhejiang	CHN
+240	28.46763	119.922796	14				Zhejiang	CHN
 241	30.89441	120.086809	6				Zhejiang	CHN
 242	36.625656	114.538961	11				Hebei	CHN
 243	49.285901	120.711735	1				Inner Mongolia	CHN
