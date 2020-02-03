@@ -97,6 +97,7 @@ location_id	date	description
 9	2020-01-31	One new case identified at Incheon Airport.
 10	2020-01-21	First confirmed case.
 10	2020-01-31	3 new cases.
+10	2020-02-02	+2
 11	2020-01-21	First 12 confirmed cases, including 1 doctor and 4 nurses (human-to-human transmission).
 11	2020-01-22	Hubei starting to report province-wide cases. (See Hubei Province).Â 
 11	2020-01-23	City in lockdown.
@@ -1611,6 +1612,7 @@ location_id	date	description
 293	2020-01-27	First confirmed case.
 293	2020-01-28	1 new case.
 293	2020-01-31	2 new cases.
+293	2020-02-02	+1
 294	2020-01-27	First confirmed case.
 295	2020-01-27	First confirmed case.
 295	2020-01-29	1 new case.
@@ -1758,10 +1760,13 @@ location_id	date	description
 360	2020-01-30	First confirmed case.
 361	2020-01-30	First confirmed case.
 361	2020-01-31	3 new cases.
+361	2020-02-02	+1
 362	2020-01-30	First confirmed case.
 362	2020-01-31	1 new case.
+362	2020-02-02	+2
 363	2020-01-30	First confirmed case.
 363	2020-01-31	2 new cases.
+363	2020-02-02	+1
 364	2020-01-30	First 2 confirmed cases.
 365	2020-01-27	First confirmed case.
 366	2020-01-30	First confirmed case.
@@ -1831,3 +1836,4 @@ location_id	date	description
 414	2020-02-01	First confirmed case in Munich, related to the cases in Starnberg.
 415	2020-02-01	First confirmed case.
 416	2020-02-02	First 4 confirmed cases.
+417	2020-02-02	First 2 confirmed cases.

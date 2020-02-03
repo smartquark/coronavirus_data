@@ -8,7 +8,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 7	23.112257	114.415801	20				Guangdong	CHN
 8	31.230416	121.473701	177				Shanghai municipality	CHN
 9	37.4562557	126.7052062	2				SCA	KOR
-10	26.647661	106.630153	4				Guizhou	CHN
+10	26.647661	106.630153	6				Guizhou	CHN
 11	30.453667	114.872199	1002				Hubei	CHN
 12	27.993828	120.699361	231				Zhejiang	CHN
 13	30.274084	120.15507	98				Zhejiang	CHN
@@ -291,7 +291,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 290	45.771726	131.0031381	5				 Heilongjiang	CHN
 291	46.646508	131.159133	2				Heilongjiang	CHN
 292	26.592666	104.830359	8				Guizhou	CHN
-293	26.254092	107.522097	4				Guizhou	CHN
+293	26.254092	107.522097	5				Guizhou	CHN
 294	35.601182	103.210538	1				Gansu	CHN
 295	38.925875	100.449818	2				Gansu	CHN
 296	33.400684	104.921841	3				Gansu	CHN
@@ -359,9 +359,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 358	21.979933	108.654146	2				Guangxi	CHN
 359	35.201548	114.668936	2				Henan	CHN
 360	35.575417	114.519311	1				Henan	CHN
-361	27.725654	106.927389	4				Guizhou	CHN
-362	26.583442	107.982859	2				Guizhou	CHN
-363	27.283955	105.291643	3				Guizhou	CHN
+361	27.725654	106.927389	5				Guizhou	CHN
+362	26.583442	107.982859	4				Guizhou	CHN
+363	27.283955	105.291643	4				Guizhou	CHN
 364	42.909408	129.4718681	2				Jilin	CHN
 365	43.166419	124.350398	1				Jilin	CHN
 366	29.117096	110.479191	2				Hunan	CHN
@@ -415,3 +415,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 414	48.1351253	11.5819805	1				Bavaria	DEU
 415	34.983385	102.911027	1				Gansu	CHN
 416	23.11153	109.598926	4				Guangxi	CHN
+417	26.253088	105.947595	2				Guizhou	CHN
