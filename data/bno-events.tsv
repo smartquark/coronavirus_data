@@ -472,6 +472,7 @@ location_id	date	description
 57	2020-01-23	First confirmed case in Jilin province.
 57	2020-01-30	2 new cases.
 57	2020-02-01	+3 cases, 2 more added from Shuangliao City.
+57	2020-02-02	+6, doubled.
 58	2020-01-23	First confirmed case, imported.
 58	2020-01-24	2 more cases.
 58	2020-01-26	1 more case.
@@ -1661,6 +1662,7 @@ location_id	date	description
 275	2020-01-26	First confirmed case, first confirmed case in Maricopa County and 5th confirmed case in the US.
 276	2020-01-27	First 2 confirmed cases.
 276	2020-01-28	1 new case.
+276	2020-02-02	+1
 277	2020-01-27	First confirmed case.
 278	2020-01-27	First confirmed case.
 279	2020-01-27	First 6 confirmed cases.
@@ -1895,6 +1897,7 @@ location_id	date	description
 370	2020-01-30	First confirmed case.
 371	2020-01-30	First confirmed case.
 371	2020-02-01	+2
+371	2020-02-02	+1
 372	2020-01-30	First confirmed case in Tibet. All regions in China are now reporting cases.
 373	2020-01-30	First confirmed case.
 374	2020-01-30	First confirmed case in the Philippines, treated atÂ San Lazaro Hospital according to Sen. Christopher Go
