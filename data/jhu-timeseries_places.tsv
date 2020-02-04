@@ -1,4 +1,4 @@
-id,place,region,latitude,longitude,country_first_confirmed_date
+id	place	region	latitude	longitude	country_first_confirmed_date
 2	Hubei	Mainland China	30.975640	112.270700	2020-01-03
 5	Zhejiang	Mainland China	29.182510	120.098500	2020-01-03
 8	Guangdong	Mainland China	23.338410	113.422000	2020-01-03
