@@ -6,7 +6,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 5	22.270978	113.576677	51				Guangdong	CHN
 6	21.270702	110.359368	14				Guangdong	CHN
 7	23.112257	114.415801	28				Guangdong	CHN
-8	31.230416	121.473701	193				Shanghai municipality	CHN
+8	31.230416	121.473701	203				Shanghai municipality	CHN
 9	37.4562557	126.7052062	1				SCA	KOR
 10	26.647661	106.630153	7				Guizhou	CHN
 11	30.453667	114.872199	1246				Hubei	CHN
@@ -17,7 +17,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 16	31.074834	109.879153	7				Chongqing	CHN
 17	30.807667	108.408661	49				 Chongqing	CHN
 18	29.857996	107.081282	11				Chongqing	CHN
-19	39.3433574	117.3616476	54				Tianjin municipality	CHN
+19	39.3433574	117.3616476	56				Tianjin municipality	CHN
 20	35.416734	119.526925	14				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	47				Henan	CHN
@@ -59,7 +59,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 58	24.479833	118.089425	19				Fujian	CHN
 59	24.874132	118.675675	31				Fujian	CHN
 60	26.665617	119.547932	12				Fujian	CHN
-61	41.805699	123.431472	17				Liaoning	CHN
+61	41.805699	123.431472	18				Liaoning	CHN
 62	26.420394	111.613445	26				Hunan	CHN
 63	25.770509	113.014717	21				Hunan	CHN
 64	29.703113	107.389298	2				Chongqing	CHN
@@ -396,7 +396,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 395	48.1739373	11.2430079000001	1				Bavaria	DEU
 396	57.7826137	14.1617876	1				 Småland	SWE
 397	42.9849233	-81.2452768	1				Ontario	CAN
-398	42.021602	121.670273	3				Liaoning	CHN
+398	42.021602	121.670273	5				Liaoning	CHN
 399	41.108647	122.994329	9				Liaoning	CHN
 400	37.3336581	-121.8907041	2				California	USA
 401	29.541144	106.456877	2				Chongqing	CHN

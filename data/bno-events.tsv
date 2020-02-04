@@ -101,6 +101,7 @@ location_id	date	description
 8	2020-01-31	16 new cases. * 7 new cases.
 8	2020-02-01	18 new cases. * +16 *+8
 8	2020-02-02	+5 +11
+8	2020-02-03	+10, over 200 cases.
 9	2020-01-20	First confirmed case, detected at Incheon International Airport (imported).
 9	2020-01-24	Second confirmed case, detected at Incheon Int. Airport. (Transferred to Seoul).
 9	2020-01-26	Third confirmed case, according to officials the man engaged in normal activities after flying into Incheon International Airport. (Transferred to Goyang).
@@ -200,7 +201,7 @@ location_id	date	description
 19	2020-01-31	1 new case.
 19	2020-02-01	+9
 19	2020-02-02	+7
-19	2020-02-03	+6
+19	2020-02-03	+8
 20	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
 20	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
 20	2020-01-25	One more case.
@@ -551,6 +552,7 @@ location_id	date	description
 61	2020-01-29	1 new case.
 61	2020-01-31	1 new case. * 2 new cases.
 61	2020-02-02	+1, added 4.
+61	2020-02-03	+1
 62	2020-01-23	First confirmed case, imported.
 62	2020-01-23	3 more cases.
 62	2020-01-28	3 new cases.
@@ -2132,6 +2134,7 @@ location_id	date	description
 398	2020-01-31	First confirmed case.
 398	2020-02-01	+1
 398	2020-02-02	+1
+398	2020-02-03	+2
 399	2020-01-31	First confirmed case.
 399	2020-02-01	+8
 400	2020-01-31	First confirmed case in the Bay area.
