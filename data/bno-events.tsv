@@ -181,6 +181,7 @@ location_id	date	description
 17	2020-01-31	1 new case. * 4 new cases.
 17	2020-02-01	+6
 17	2020-02-02	+10. First death.
+17	2020-02-03	+1
 18	2020-01-21	First confirmed case.
 18	2020-01-24	Two more cases.
 18	2020-01-25	Two more cases.
@@ -382,6 +383,7 @@ location_id	date	description
 40	2020-01-31	2 new cases.
 40	2020-02-01	+1
 40	2020-02-02	+1
+40	2020-02-03	+1
 41	2020-01-22	First 2 confirmed cases (imported). Arrived from Chengdu.Â 
 41	2020-01-26	3 more cases.
 41	2020-01-27	2 more cases.
@@ -1485,6 +1487,7 @@ location_id	date	description
 193	2020-01-30	1 new case.
 193	2020-02-02	+1
 194	2020-01-25	First confirmed case.
+194	2020-02-03	+1
 195	2020-01-25	First confirmed case.
 195	2020-01-27	2 more cases.
 195	2020-01-31	1 new case.
@@ -1869,6 +1872,7 @@ location_id	date	description
 284	2020-02-03	+1
 285	2020-01-27	First 2 confirmed cases.
 285	2020-02-02	+1
+285	2020-02-03	+1
 286	2020-01-27	First 2 confirmed cases.
 286	2020-01-29	1 new case.
 287	2020-01-27	First 2 confirmed cases.
@@ -1876,6 +1880,7 @@ location_id	date	description
 288	2020-01-28	One new case.
 288	2020-01-29	2 new cases.Â 
 288	2020-02-02	+1
+288	2020-02-03	+5, doubled.
 289	2020-01-27	First confirmed case.
 289	2020-02-02	+1
 290	2020-01-27	First confirmed case.
@@ -1967,6 +1972,7 @@ location_id	date	description
 312	2020-01-30	1 new case.
 312	2020-02-01	+1
 312	2020-02-02	+2
+312	2020-02-03	+1
 313	2020-01-28	First confirmed case.
 313	2020-01-30	1 new case.
 314	2020-01-28	First confirmed case.
@@ -2111,6 +2117,7 @@ location_id	date	description
 382	2020-01-30	First confirmed case.
 382	2020-01-31	1 new case.
 382	2020-02-02	+2
+382	2020-02-03	+1
 383	2020-01-31	First confirmed case.
 383	2020-02-01	6 new cases.
 383	2020-02-02	+2
