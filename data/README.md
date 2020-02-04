@@ -1,8 +1,8 @@
 # Summary
 
-`Last Update` is the GMT time data here were updated
+`Last Update` is the time data here were updated
 
-|  Sources | Last update | Confirmed | Deaths | Recovered |
+|  Sources | Last update (UTC) | Confirmed | Deaths | Recovered |
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
 | [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | `2020-02-04 13:33:02` | 20,685 | 427 | 724 | 
 | [WHO Dashboard](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667) | `2020-02-04 12:12:03` | 20,630 | 425 |  | 
