@@ -327,7 +327,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 326	41.267244	123.236944	2				Liaoning	CHN
 327	25.075123	117.017536	1				Fujian	CHN
 328	34.363184	107.237743	8				Shaanxi	CHN
-329	40.842356	111.749995	2				Inner Mongolia	CHN
+329	40.842356	111.749995	4				Inner Mongolia	CHN
 330	23.743685	114.700961	1				Guangdong	CHN
 331	41.095685	121.1268459	7				Liaoning	CHN
 332	43.0617713	141.3544507	1				Hokkaido	JPN
