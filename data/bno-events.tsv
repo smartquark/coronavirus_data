@@ -200,6 +200,7 @@ location_id	date	description
 19	2020-01-31	1 new case.
 19	2020-02-01	+9
 19	2020-02-02	+7
+19	2020-02-03	+6
 20	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
 20	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
 20	2020-01-25	One more case.
@@ -401,6 +402,7 @@ location_id	date	description
 43	2020-01-31	2 new cases.
 43	2020-02-01	+4
 43	2020-02-02	+1
+43	2020-02-03	+3
 44	2020-01-22	First confirmed case inÂ Guangxi Zhuang Autonomous Region (imported).
 44	2020-01-22	* Two more confirmed cases confirmed, imported.
 44	2020-01-23	Three more confirmed cases.
@@ -716,6 +718,7 @@ location_id	date	description
 81	2020-01-31	10 new cases.
 81	2020-02-01	+8
 81	2020-02-02	+8
+81	2020-02-03	+8
 82	2020-01-23	First confirmed case in Singapore, imported.
 82	2020-01-24	2 more confirmed cases.
 82	2020-01-25	1 more case.
@@ -1192,6 +1195,7 @@ location_id	date	description
 147	2020-01-31	3 new cases.
 147	2020-02-01	+1
 147	2020-02-02	+2
+147	2020-02-03	+1
 148	2020-01-24	First confirmed case.
 148	2020-01-27	One more case.
 148	2020-01-29	1 new case.
@@ -1546,6 +1550,7 @@ location_id	date	description
 208	2020-01-25	First three confirmed cases (locally transmitted between 3 family members) fromÂ Wangyi District.
 208	2020-01-26	One more case in family member of previous update, and one more case of close contact.
 208	2020-02-02	+1
+208	2020-02-03	+1
 209	2020-01-25	First confirmed case inÂ Luonan County, infected inÂ Huangshi, Hubei.
 209	2020-01-28	1 new case.
 210	2020-01-25	First confirmed case.
@@ -1915,6 +1920,7 @@ location_id	date	description
 303	2020-01-28	2 new cases.
 303	2020-01-30	1 new case.
 303	2020-01-31	1 new case.
+303	2020-02-03	+1
 304	2020-01-27	First 2 confirmed cases.
 304	2020-01-28	3 new cases.
 304	2020-01-29	3 new cases.
@@ -1984,6 +1990,7 @@ location_id	date	description
 328	2020-01-29	1 new case.
 328	2020-02-01	+2
 328	2020-02-02	+1
+328	2020-02-03	+1
 329	2020-01-28	First 2 cases.
 330	2020-01-28	First confirmed case.
 331	2020-01-28	First 4 confirmed cases.
