@@ -65,7 +65,7 @@ location_id	date	description
 5	2020-01-31	8 new cases.Â * 8 new cases.
 5	2020-02-01	+4
 5	2020-02-02	+3 +6
-5	2020-02-03	+4
+5	2020-02-03	+8
 6	2020-01-20	First confirmed case.
 6	2020-01-21	Second confirmed case.
 6	2020-01-26	Two more cases.
@@ -292,7 +292,7 @@ location_id	date	description
 28	2020-01-31	27 new cases. 5th city with 100+ cases outside Hubei. * 6 new cases.
 28	2020-02-01	+25 * +13
 28	2020-02-02	+25 +4
-28	2020-02-03	+10
+28	2020-02-03	+21
 29	2020-01-22	First confirmed case.
 29	2020-01-24	5 more cases.
 29	2020-01-25	3 more cases.
@@ -304,6 +304,7 @@ location_id	date	description
 29	2020-01-31	7 new cases. Removed 3 cases to match with the official numbers. * 1 new case.
 29	2020-02-01	+5 * +1
 29	2020-02-02	+4
+29	2020-02-03	+2
 30	2020-01-22	First 2 confirmed cases.
 30	2020-01-24	One more case.
 30	2020-01-26	One more case.
@@ -511,6 +512,7 @@ location_id	date	description
 56	2020-01-29	1 new case.
 56	2020-01-31	1 new case.
 56	2020-02-02	+1
+56	2020-02-03	+3
 57	2020-01-23	First confirmed case in Jilin province.
 57	2020-01-30	2 new cases.
 57	2020-02-01	+3 cases, 2 more added from Shuangliao City.

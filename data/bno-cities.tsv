@@ -3,7 +3,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
 3	22.543096	114.057865	226				Guangdong	CHN
 4	39.9041999	116.4073963	191				Beijing municipality (capital)	CHN
-5	22.270978	113.576677	51				Guangdong	CHN
+5	22.270978	113.576677	55				Guangdong	CHN
 6	21.270702	110.359368	14				Guangdong	CHN
 7	23.112257	114.415801	28				Guangdong	CHN
 8	31.230416	121.473701	203				Shanghai municipality	CHN
@@ -26,8 +26,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 25	24.880095	102.832891	32				Yunnan	CHN
 26	30.456224	106.633088	21				Sichuan	CHN
 27	22.198745	113.543873	8				Macau (SAR)s+	CHN
-28	23.12911	113.264385	189				Guangdong	CHN
-29	23.021478	113.121435	43				Guangdong	CHN
+28	23.12911	113.264385	200				Guangdong	CHN
+29	23.021478	113.121435	45				Guangdong	CHN
 30	24.810879	113.59762	5				Guangdong	CHN
 31	29.868336	121.54399	75				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
@@ -54,7 +54,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 53	36.067108	120.382609	29				Shandong	CHN
 54	31.209571	107.468023	11				Sichuan	CHN
 55	22.517585	113.39277	25				Guangdong	CHN
-56	23.047191	112.465091	7				Guangdong	CHN
+56	23.047191	112.465091	10				Guangdong	CHN
 57	43.817071	125.323544	16				Jilin	CHN
 58	24.479833	118.089425	19				Fujian	CHN
 59	24.874132	118.675675	31				Fujian	CHN
