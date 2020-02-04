@@ -34,7 +34,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 33	38.914003	121.614682	12				Liaoning	CHN
 34	31.820591	117.227219	75				Anhui	CHN
 35	22.3193039	114.1693611	15				Hong Kong	HKG
-36	20.044412	110.198286	11				Hainan	CHN
+36	20.044412	110.198286	13				Hainan	CHN
 37	18.252847	109.511909	17				Hainan	CHN
 38	19.912025	109.690508	4				Hainan	CHN
 39	27.569517	110.001922	32				Hunan	CHN
@@ -196,7 +196,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 195	29.8635	107.730894	5				Chongqing	CHN
 196	-37.8136276	144.9630576	4				Victoria	AUS
 197	30.753924	120.758543	19				Zhejiang	CHN
-198	19.521134	109.580811	6				Hainan	CHN
+198	19.521134	109.580811	7				Hainan	CHN
 199	29.580228	105.058433	12				Sichuan	CHN
 200	28.871569	105.44174	7				Sichuan	CHN
 201	29.33903	104.778442	9				Sichuan	CHN
@@ -386,7 +386,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 385	33.929291	116.4495	8				Henan	CHN
 386	41.168779	80.2606049999999	1				Xinjiang	CHN
 387	19.681434	110.35889	1				Hainan	CHN
-388	19.298184	109.055739	1				Hainan	CHN
+388	19.298184	109.055739	3				Hainan	CHN
 389	41.533462	111.706617	1				Inner Mongolia	CHN
 390	41.90456	114.010437	1				Inner Mongolia	CHN
 391	35.9582341	126.9507864	1				Â Honam	KOR
@@ -430,3 +430,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 429	21.313857	105.6764461	1				Vinh PhucÂ	VNM
 430	12.5080019	74.9882114	1				KeralaÂ	IND
 431	35.067243	112.601918	2				Henuan	CHN
+432	19.543278	110.797759	1				Hainan	CHN

@@ -349,6 +349,7 @@ location_id	date	description
 36	2020-01-28	1 new case.
 36	2020-01-29	2 new cases.
 36	2020-02-01	+2
+36	2020-02-03	+2
 37	2020-01-22	First confirmed case (imported).
 37	2020-01-23	One more case.
 37	2020-01-25	3 more cases.
@@ -1489,6 +1490,7 @@ location_id	date	description
 198	2020-01-25	First 3 confirmed cases.
 198	2020-01-27	1 more case. * One more case.
 198	2020-02-01	+1
+198	2020-02-03	+1
 199	2020-01-25	First confirmed case.
 199	2020-01-28	2 new cases.
 199	2020-01-29	1 new case.
@@ -2098,6 +2100,7 @@ location_id	date	description
 386	2020-01-31	First confirmed case.
 387	2020-01-31	First confirmed case.
 388	2020-01-31	First confirmed case.
+388	2020-02-03	+2
 389	2020-01-31	First confirmed case.
 390	2020-01-31	First confirmed case.
 391	2020-01-31	First confirmed case, H2H transmission from 2nd generation case in Seoul.
@@ -2156,3 +2159,4 @@ location_id	date	description
 429	2020-02-03	First confirmed case and 8th in Vietnam.
 430	2020-02-03	First confirmed case and 3rd case in India.
 431	2020-02-03	First 2 confirmed cases.
+432	2020-02-03	First confirmed case.
