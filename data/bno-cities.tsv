@@ -388,7 +388,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 387	19.681434	110.35889	1				Hainan	CHN
 388	19.298184	109.055739	3				Hainan	CHN
 389	41.533462	111.706617	1				Inner Mongolia	CHN
-390	41.90456	114.010437	1				Inner Mongolia	CHN
+390	41.90456	114.010437	2				Inner Mongolia	CHN
 391	35.9582341	126.9507864	1				 Honam	KOR
 392	22.579117	113.081508	4				Guangdong	CHN
 393	54.978252	-1.61778000000004	2				North East England	GBR
