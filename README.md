@@ -1,6 +1,12 @@
 
 # coronavirus_data
 
+## Notes
+
+- data here are used mainly for my own visualizations at https://nyem69.github.io/
+
+
+
 ## data sources:
 
 ### JHU CSSE
