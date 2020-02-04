@@ -30,7 +30,7 @@ Ningxia	Mainland China	34		1	2020-02-04 02:13:18
 Xinjiang	Mainland China	29			2020-02-04 01:33:01
 	Thailand	25		5	2020-02-04 15:33:03
 	Singapore	24			2020-02-04 15:33:03
-	Japan	20		1	2020-02-01 18:53:03
+	Japan	22		1	2020-02-04 16:43:03
 Hong Kong	Hong Kong	17	1		2020-02-04 09:03:02
 	South Korea	16			2020-02-04 15:33:03
 Qinghai	Mainland China	15			2020-02-04 01:33:01
@@ -41,13 +41,10 @@ Macau	Macau	10			2020-02-04 04:43:02
 	Vietnam	8		1	2020-02-03 21:43:02
 	France	6			2020-02-01 01:52:40
 	United Arab Emirates	5			2020-02-02 05:43:01
-New South Wales	Australia	4		2	2020-02-01 18:12:49
 Victoria	Australia	4			2020-02-01 18:12:49
+New South Wales	Australia	4		2	2020-02-01 18:12:49
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
-	Italy	2			2020-01-31 08:15:53
-	Russia	2			2020-01-31 16:13:45
-	UK	2			2020-02-01 01:52:40
 Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
@@ -56,10 +53,9 @@ Queensland	Australia	2			2020-02-02 22:33:07
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
-	Finland	1			2020-01-31 08:15:53
-Tibet	Mainland China	1			2020-02-01 01:52:40
-	Nepal	1			2020-01-31 08:15:53
-	Spain	1			2020-02-01 23:43:02
+	Italy	2			2020-01-31 08:15:53
+	Russia	2			2020-01-31 16:13:45
+	UK	2			2020-02-01 01:52:40
 	Sri Lanka	1			2020-01-31 08:15:53
 	Sweden	1			2020-02-01 02:13:26
 Boston, MA	US	1			2020-02-01 19:43:03
@@ -71,3 +67,7 @@ British Columbia	Canada	1			2020-02-01 18:12:49
 Seattle, WA	US	1			2020-02-01 19:43:03
 London, ON	Canada	1			2020-02-04 00:03:11
 Tempe, AZ	US	1			2020-02-01 19:43:03
+	Finland	1			2020-01-31 08:15:53
+Tibet	Mainland China	1			2020-02-01 01:52:40
+	Nepal	1			2020-01-31 08:15:53
+	Spain	1			2020-02-01 23:43:02
