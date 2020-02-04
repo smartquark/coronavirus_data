@@ -1,59 +1,59 @@
 date	place	confirmed	deaths	serious	critical	suspected	recovered	updated
-	Hubei province  (including Wuhan)	13522	414	1567	576			2020-02-03 19:51:00
-	Undisclosed	732	0					2020-02-03 19:51:00
-	Guangdong province	725	0	58	22			2020-02-03 19:51:00
-	Zhejiang province	724	0	48	12			2020-02-03 19:51:00
-	Henan province	566	2	30	14			2020-02-03 19:51:00
-	Hunan province	521	0	58				2020-02-03 19:51:00
-	Anhui province	408	0		4			2020-02-03 19:51:00
-	Jiangxi province	391	0	34				2020-02-03 19:51:00
-	Chongqing	337	2	23	6			2020-02-03 19:51:00
-	Jiangsu province	271	0	2				2020-02-03 19:51:00
-	Shandong province	259	0	15	2			2020-02-03 19:51:00
-	Sichuan province	255	1		9			2020-02-03 19:51:00
-	Beijing	212	1		11			2020-02-03 19:51:00
-	Shanghai	208	1	8	6			2020-02-03 19:51:00
-	Fujian province	179	0	13	7			2020-02-03 19:51:00
-	Shaanxi province	128	0	1				2020-02-03 19:51:00
-	Guangxi Region	127	0	5	3			2020-02-03 19:51:00
-	Hebei province	126	1	12				2020-02-03 19:51:00
-	Heilongjiang province	118	2	15				2020-02-03 19:51:00
-	Yunnan province	114	0	7	3			2020-02-03 19:51:00
-	Liaoning province	74	0	6				2020-02-03 19:51:00
-	Shanxi province	74	0	5				2020-02-03 19:51:00
-	Hainan province	72	1	10				2020-02-03 19:51:00
-	Tianjin	60	0	15	3			2020-02-03 19:51:00
-	Gansu province	55	0	7	2			2020-02-03 19:51:00
-	Guizhou province	46	0	6	4			2020-02-03 19:51:00
-	Inner Mongolia	34	0	1				2020-02-03 19:51:00
-	Jilin province	31	0	4	1			2020-02-03 19:51:00
-	Ningxia Region	31	0	4				2020-02-03 19:51:00
-	Xinjiang	24	0	6	2			2020-02-03 19:51:00
-	Japan	20	0					2020-02-03 19:51:00
-	Thailand	19	0				7	2020-02-03 19:51:00
-	Singapore	18	0					2020-02-03 19:51:00
-	Hong Kong	15	0					2020-02-03 19:51:00
-	South Korea	15	0					2020-02-03 19:51:00
-	Qinghai province	13	0	1				2020-02-03 19:51:00
-	Germany	12	0					2020-02-03 19:51:00
-	Australia	12					2	2020-02-03 19:51:00
-	United States	11	0					2020-02-03 19:51:00
-	Taiwan	10	0					2020-02-03 19:51:00
-	Macau	8	0					2020-02-03 19:51:00
-	Malaysia	8	0					2020-02-03 19:51:00
-	Vietnam	8	0				1	2020-02-03 19:51:00
-	France	6	0	1				2020-02-03 19:51:00
-	UAE	5	0					2020-02-03 19:51:00
-	Canada	4	0					2020-02-03 19:51:00
-	India	3	0					2020-02-03 19:51:00
-	Philippines	2	1					2020-02-03 19:51:00
-	England	2	0					2020-02-03 19:51:00
-	Italy	2	0					2020-02-03 19:51:00
-	Russia	2	0					2020-02-03 19:51:00
-	Cambodia	1	0					2020-02-03 19:51:00
-	Finland	1	0					2020-02-03 19:51:00
-	Nepal	1	0					2020-02-03 19:51:00
-	Spain	1	0					2020-02-03 19:51:00
-	Sri Lanka	1	0				1	2020-02-03 19:51:00
-	Sweden	1	0					2020-02-03 19:51:00
-	Tibet	1	0					2020-02-03 19:51:00
+	Hubei province  (including Wuhan)	13522	414	1567	576			2020-02-03 19:54:00
+	Guangdong province	725	0	58	22			2020-02-03 19:54:00
+	Zhejiang province	724	0	48	12			2020-02-03 19:54:00
+	Undisclosed	721	0					2020-02-03 19:54:00
+	Henan province	566	2	30	14			2020-02-03 19:54:00
+	Hunan province	521	0	58				2020-02-03 19:54:00
+	Anhui province	408	0		4			2020-02-03 19:54:00
+	Jiangxi province	391	0	34				2020-02-03 19:54:00
+	Chongqing	337	2	23	6			2020-02-03 19:54:00
+	Jiangsu province	271	0	2				2020-02-03 19:54:00
+	Shandong province	259	0	15	2			2020-02-03 19:54:00
+	Sichuan province	255	1		9			2020-02-03 19:54:00
+	Beijing	212	1		11			2020-02-03 19:54:00
+	Shanghai	208	1	8	6			2020-02-03 19:54:00
+	Fujian province	179	0	13	7			2020-02-03 19:54:00
+	Shaanxi province	128	0	1				2020-02-03 19:54:00
+	Guangxi Region	127	0	5	3			2020-02-03 19:54:00
+	Hebei province	126	1	12				2020-02-03 19:54:00
+	Heilongjiang province	118	2	15				2020-02-03 19:54:00
+	Yunnan province	114	0	7	3			2020-02-03 19:54:00
+	Liaoning province	74	0	6				2020-02-03 19:54:00
+	Shanxi province	74	0	5				2020-02-03 19:54:00
+	Hainan province	72	1	10				2020-02-03 19:54:00
+	Tianjin	60	0	15	3			2020-02-03 19:54:00
+	Gansu province	55	0	7	2			2020-02-03 19:54:00
+	Guizhou province	46	0	6	4			2020-02-03 19:54:00
+	Jilin province	42	0	3	2			2020-02-03 19:54:00
+	Inner Mongolia	34	0	1				2020-02-03 19:54:00
+	Ningxia Region	31	0	4				2020-02-03 19:54:00
+	Xinjiang	24	0	6	2			2020-02-03 19:54:00
+	Japan	20	0					2020-02-03 19:54:00
+	Thailand	19	0				7	2020-02-03 19:54:00
+	Singapore	18	0					2020-02-03 19:54:00
+	Hong Kong	15	0					2020-02-03 19:54:00
+	South Korea	15	0					2020-02-03 19:54:00
+	Qinghai province	13	0	1				2020-02-03 19:54:00
+	Germany	12	0					2020-02-03 19:54:00
+	Australia	12					2	2020-02-03 19:54:00
+	United States	11	0					2020-02-03 19:54:00
+	Taiwan	10	0					2020-02-03 19:54:00
+	Macau	8	0					2020-02-03 19:54:00
+	Malaysia	8	0					2020-02-03 19:54:00
+	Vietnam	8	0				1	2020-02-03 19:54:00
+	France	6	0	1				2020-02-03 19:54:00
+	UAE	5	0					2020-02-03 19:54:00
+	Canada	4	0					2020-02-03 19:54:00
+	India	3	0					2020-02-03 19:54:00
+	Philippines	2	1					2020-02-03 19:54:00
+	England	2	0					2020-02-03 19:54:00
+	Italy	2	0					2020-02-03 19:54:00
+	Russia	2	0					2020-02-03 19:54:00
+	Cambodia	1	0					2020-02-03 19:54:00
+	Finland	1	0					2020-02-03 19:54:00
+	Nepal	1	0					2020-02-03 19:54:00
+	Spain	1	0					2020-02-03 19:54:00
+	Sri Lanka	1	0				1	2020-02-03 19:54:00
+	Sweden	1	0					2020-02-03 19:54:00
+	Tibet	1	0					2020-02-03 19:54:00
