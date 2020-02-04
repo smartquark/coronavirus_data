@@ -321,6 +321,7 @@ location_id	date	description
 34	2020-01-30	10 new cases.
 34	2020-01-31	11 new cases.
 34	2020-02-01	+9
+34	2020-02-03	+16
 35	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
 35	2020-01-23	Second confirmed case.
 35	2020-01-25	Three more cases.
@@ -564,6 +565,7 @@ location_id	date	description
 68	2020-01-30	2 new cases.
 68	2020-01-31	1 new case.
 68	2020-02-01	+4
+68	2020-02-03	+7, 20 total (red).
 69	2020-01-23	First confirmed case.
 69	2020-01-24	Second confirmed case.
 69	2020-01-25	Five more cases.
@@ -574,6 +576,7 @@ location_id	date	description
 69	2020-01-31	10 new cases.
 69	2020-02-01	+9
 69	2020-02-02	+12
+69	2020-02-03	+6
 70	2020-01-23	First confirmed case.
 70	2020-01-25	Second confirmed case.
 70	2020-01-28	2 more cases.
@@ -587,6 +590,7 @@ location_id	date	description
 71	2020-01-30	5 new cases. 20 total (red).
 71	2020-02-01	+5
 71	2020-02-02	+5
+71	2020-02-03	+9
 72	2020-01-23	First confirmed case, imported.
 72	2020-01-25	Five more cases.
 72	2020-01-26	2 more cases.
@@ -894,6 +898,7 @@ location_id	date	description
 112	2020-01-30	4 new cases.
 112	2020-02-01	+13, 31 total (red).
 112	2020-02-02	+6
+112	2020-02-03	+4
 113	2020-01-24	First confirmed case.
 113	2020-01-30	1 new case.
 113	2020-01-31	2 new cases.
@@ -904,6 +909,7 @@ location_id	date	description
 114	2020-01-31	7 new cases (doubled).
 114	2020-02-01	+1
 114	2020-02-02	+10, 26 total (red).
+114	2020-02-03	+11
 115	2020-01-24	First confirmed case that resulted in death.
 115	2020-01-24	* City in lockdown.
 115	2020-01-25	19 more cases.
@@ -1546,6 +1552,7 @@ location_id	date	description
 228	2020-01-31	2 new cases.
 228	2020-02-01	+1
 228	2020-02-02	+2
+228	2020-02-03	+4, 20 total (red).
 229	2020-01-26	First confirmed case.
 229	2020-01-27	1 more case.
 229	2020-01-29	2 new cases.
@@ -1562,6 +1569,7 @@ location_id	date	description
 231	2020-01-30	1 new case.
 231	2020-02-01	+2
 231	2020-02-02	+2
+231	2020-02-03	+7, 22 total (red).
 232	2020-01-26	First confirmed case.
 232	2020-01-28	3 new cases.
 232	2020-01-29	3 new cases.
@@ -1739,6 +1747,7 @@ location_id	date	description
 281	2020-01-31	5 new cases.
 281	2020-02-01	+4
 281	2020-02-02	+1
+281	2020-02-03	+2
 282	2020-01-27	First confirmed case.
 282	2020-01-28	One new case.
 282	2020-01-29	1 new case.
@@ -1834,6 +1843,7 @@ location_id	date	description
 308	2020-02-02	+4
 309	2020-01-28	First 2 confirmed cases.
 309	2020-02-02	+5
+309	2020-02-03	+1
 310	2020-01-28	First confirmed case in Dongpin County.
 310	2020-01-29	2 new cases.
 310	2020-01-31	1 new case.
@@ -2052,3 +2062,4 @@ location_id	date	description
 428	2020-02-03	First 2 confirmed cases, husband and wife, locally transmitted.
 429	2020-02-03	First confirmed case and 8th in Vietnam.
 430	2020-02-03	First confirmed case and 3rd case in India.
+431	2020-02-03	First 2 confirmed cases.

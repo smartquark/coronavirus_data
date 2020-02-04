@@ -32,7 +32,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 31	29.868336	121.54399	66				Zhejiang	CHN
 32	13.8199206	100.0621676	1				 Nakhon Pathom Province	THA
 33	38.914003	121.614682	12				Liaoning	CHN
-34	31.820591	117.227219	59				Anhui	CHN
+34	31.820591	117.227219	75				Anhui	CHN
 35	22.3193039	114.1693611	15				Hong Kong	HKG
 36	20.044412	110.198286	11				Hainan	CHN
 37	18.252847	109.511909	17				Hainan	CHN
@@ -66,10 +66,10 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 65	28.682892	115.858197	89				Jiangxi	CHN
 66	27.731514	109.189598	6				Guizhou	CHN
 67	26.584666	107.234703	1				Guizhou	CHN
-68	31.734476	116.521442	13				Anhui	CHN
-69	32.890479	115.814504	59				Anhui	CHN
+68	31.734476	116.521442	20				Anhui	CHN
+69	32.890479	115.814504	65				Anhui	CHN
 70	32.253425	118.328321	8				Anhui	CHN
-71	33.844582	115.778676	30				Anhui	CHN
+71	33.844582	115.778676	39				Anhui	CHN
 72	45.803775	126.534967	34				 Heilongjiang	CHN
 73	29.995762	120.586109	27				Zhejiang	CHN
 74	29.079175	119.64742	34				Zhejiang	CHN
@@ -110,9 +110,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 109	21.857958	111.982232	10				Guangdong	CHN
 110	43.837883	126.549572	3				Jilin	CHN
 111	45.141789	124.825117	2				Jilin	CHN
-112	30.531919	117.115101	37				Anhui	CHN
+112	30.531919	117.115101	41				Anhui	CHN
 113	30.656037	117.489156	6				Anhui	CHN
-114	32.916287	117.389719	26				Anhui	CHN
+114	32.916287	117.389719	37				Anhui	CHN
 115	30.691966	111.286471	392	1	LOCKDOWN		Hubei	CHN
 116	30.917766	113.957037	918				Hubei	CHN
 117	32.629398	110.798266	256				Hubei	CHN
@@ -226,10 +226,10 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 225	43.653226	-79.3831843	2				Ontario	CAN
 226	37.6583599	126.8320201	1				 Gyeonggi	KOR
 227	36.097577	114.392392	24				Henan	CHN
-228	33.580873	114.016536	16				Henan	CHN
+228	33.580873	114.016536	20				Henan	CHN
 229	36.813546	118.055019	12				Shandong	CHN
 230	28.312001	109.738781	6				Hunan	CHN
-231	33.646357	116.964358	15				Anhui	CHN
+231	33.646357	116.964358	22				Anhui	CHN
 232	29.714699	118.337521	9				Anhui	CHN
 233	32.625478	116.999932	7				Anhui	CHN
 234	33.955844	116.798265	8				Anhui	CHN
@@ -279,7 +279,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 278	46.082462	122.037657	1				Inner Mongolia	CHN
 279	34.414961	115.656339	36				Henan	CHN
 280	35.748233	114.297201	8				Henan	CHN
-281	34.035771	113.852454	13				Henan	CHN
+281	34.035771	113.852454	15				Henan	CHN
 282	34.797281	114.307582	11				Henan	CHN
 283	34.205768	117.284124	30				Jiangsu	CHN
 284	22.786186	115.375158	4				Guangdong	CHN
@@ -307,7 +307,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 306	6.9270786	79.8612430000001	1				 Western Province	LKA
 307	47.9999615	11.339009	4				Bavaria	DEU
 308	28.260189	117.069202	8				Jiangxi	CHN
-309	35.215892	113.241823	7				Henan	CHN
+309	35.215892	113.241823	8				Henan	CHN
 310	36.200252	117.087614	11				Shandong	CHN
 311	31.743483	110.680447	7				Hubei	CHN
 312	29.500296	106.644428	6				Chongqing	CHN
@@ -429,3 +429,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 428	36.5760883	-120.9876321	2				California	USA
 429	21.313857	105.6764461	1				Vinh Phuc�	VNM
 430	12.5080019	74.9882114	1				Kerala�	IND
+431	35.067243	112.601918	2				Henuan	CHN
