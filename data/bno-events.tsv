@@ -1814,7 +1814,6 @@ location_id	date	description
 275	2020-01-26	First confirmed case, first confirmed case in Maricopa County and 5th confirmed case in the US.
 276	2020-01-27	First 2 confirmed cases.
 276	2020-01-28	1 new case.
-276	2020-02-02	+1
 277	2020-01-27	First confirmed case.
 278	2020-01-27	First confirmed case.
 279	2020-01-27	First 6 confirmed cases.
@@ -2159,6 +2158,7 @@ location_id	date	description
 421	2020-02-02	First confirmed case.
 422	2020-01-28	First confirmed case.
 422	2020-02-02	+1
+422	2020-02-03	+1
 423	2020-02-02	First confirmed case in Haibowan district.
 424	2020-02-02	First 2 cases transported fromÂ Germersheim, arrived via charter flight and were in quarantine.Â 
 425	2020-02-02	First 2 confirmed cases.

@@ -274,7 +274,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 273	37.518314	111.144319	5				Shanxi	CHN
 274	36.088005	111.518975	1				Shanxi	CHN
 275	33.4255104	-111.9400054	1				Arizona	USA
-276	40.657978	109.840313	4				Inner Mongolia	CHN
+276	40.657978	109.840313	3				Inner Mongolia	CHN
 277	43.65289	122.243444	1				Inner Mongolia	CHN
 278	46.082462	122.037657	1				Inner Mongolia	CHN
 279	34.414961	115.656339	42				Henan	CHN
@@ -420,7 +420,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 419	9.4980667	76.3388484	1				KeralaÂ	IND
 420	50.245129	127.528293	1				HeilongjiangÂ	CHN
 421	36.954413	100.900997	1				Qinghai	CHN
-422	40.569426	110.524262	2				Inner Mongolia	CHN
+422	40.569426	110.524262	3				Inner Mongolia	CHN
 423	39.655248	106.794216	1				Inner Mongolias+	CHN
 424	50.1109221	8.68212670000003	2				Â Hesse	DEU
 425	25.045532	101.528068	2				Yunnan	CHN
