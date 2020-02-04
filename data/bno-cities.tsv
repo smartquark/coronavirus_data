@@ -186,7 +186,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 185	35.303704	113.926763	21				Henan	CHN
 186	33.766169	113.192661	14				Henan	CHN
 187	31.67044	118.507011	19				Anhui	CHN
-188	30.945515	117.81154	16				Anhui	CHN
+188	30.945515	117.81154	17				Anhui	CHN
 189	31.352859	118.432941	16				Anhui	CHN
 190	29.999285	108.114069	10				Chongqing	CHN
 191	29.972084	106.27613	9				Chongqing	CHN
@@ -231,7 +231,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 230	28.312001	109.738781	6				Hunan	CHN
 231	33.646357	116.964358	15				Anhui	CHN
 232	29.714699	118.337521	9				Anhui	CHN
-233	32.625478	116.999932	6				Anhui	CHN
+233	32.625478	116.999932	7				Anhui	CHN
 234	33.955844	116.798265	6				Anhui	CHN
 235	30.940195	118.75868	4				Anhui	CHN
 236	32.455536	119.922933	17				Jiangsu	CHN
