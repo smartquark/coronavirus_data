@@ -20,7 +20,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 19	39.3433574	117.3616476	48				Tianjin municipality	CHN
 20	35.416734	119.526925	12				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
-22	33.626149	114.69695	40				Henan	CHN
+22	33.626149	114.69695	47				Henan	CHN
 23	28.228209	112.938814	112				Hunan	CHN
 24	30.572815	104.066801	73				Sichuan	CHN
 25	24.880095	102.832891	31				Yunnan	CHN
@@ -104,8 +104,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 103	30.272156	109.488172	111				Hubei	CHN
 104	37.513068	122.120419	25				Shandong	CHN
 105	36.706962	119.161748	13				Shandong	CHN
-106	34.746611	113.625328	63				Henan	CHN
-107	32.147679	114.091192	87				Henan	CHN
+106	34.746611	113.625328	70				Henan	CHN
+107	32.147679	114.091192	98				Henan	CHN
 108	23.681774	113.056042	6				Guangdong	CHN
 109	21.857958	111.982232	10				Guangdong	CHN
 110	43.837883	126.549572	3				Jilin	CHN
@@ -180,11 +180,11 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 179	27.23895	111.467674	49				Hunan	CHN
 180	23.020673	113.751799	27				Guangdong	CHN
 181	23.354091	116.681972	15				Guangdong	CHN
-182	32.990664	112.528308	75				Henan	CHN
-183	33.011529	114.022298	46				Henan	CHN
+182	32.990664	112.528308	83				Henan	CHN
+183	33.011529	114.022298	58				Henan	CHN
 184	32.168137	115.654481	1				Henan	CHN
 185	35.303704	113.926763	25				Henan	CHN
-186	33.766169	113.192661	14				Henan	CHN
+186	33.766169	113.192661	19				Henan	CHN
 187	31.67044	118.507011	20				Anhui	CHN
 188	30.945515	117.81154	18				Anhui	CHN
 189	31.352859	118.432941	16				Anhui	CHN
@@ -277,7 +277,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 276	40.657978	109.840313	4				Inner Mongolia	CHN
 277	43.65289	122.243444	1				Inner Mongolia	CHN
 278	46.082462	122.037657	1				Inner Mongolia	CHN
-279	34.414961	115.656339	36				Henan	CHN
+279	34.414961	115.656339	42				Henan	CHN
 280	35.748233	114.297201	8				Henan	CHN
 281	34.035771	113.852454	15				Henan	CHN
 282	34.797281	114.307582	11				Henan	CHN
