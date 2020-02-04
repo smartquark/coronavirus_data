@@ -91,9 +91,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 90	30.39194	114.894843	306				Hubei	CHN
 91	30.360882	113.423482	169				Hubei	CHN
 92	30.402167	112.899762	35				Hubei	CHN
-93	27.817808	114.917346	34				Jiangxi	CHN
-94	27.087637	114.964696	12				Jiangxi	CHN
-95	29.705077	116.00193	56				Jiangxi	CHN
+93	27.817808	114.917346	41				Jiangxi	CHN
+94	27.087637	114.964696	13				Jiangxi	CHN
+95	29.705077	116.00193	65				Jiangxi	CHN
 96	25.234479	110.179953	24				Guangxi	CHN
 97	23.476962	111.279115	5				Guangxi	CHN
 98	23.902479	106.618283	2				Guangxi	CHN
@@ -155,10 +155,10 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 154	21.68686	108.353846	9				Guangxi	CHN
 155	44.837789	-0.579179999999951	1				Nouvelle-Aquitaines+	FRA
 156	48.856614	2.35222190000002	5				ÃŽle-de-France (capital)s+	FRA
-157	27.949217	116.358181	24				Jiangxi	CHN
-158	28.454862	117.943433	19				Jiangxi	CHN
-159	25.830694	114.933546	34				Jiangxi	CHN
-160	27.815743	114.416785	31				Jiangxi	CHN
+157	27.949217	116.358181	29				Jiangxi	CHN
+158	28.454862	117.943433	32				Jiangxi	CHN
+159	25.830694	114.933546	36				Jiangxi	CHN
+160	27.815743	114.416785	36				Jiangxi	CHN
 161	29.268783	117.178443	3				Jiangxi	CHN
 162	31.690215	113.382458	458				Hubei	CHN
 163	40.076762	113.300129	9				Shanxi	CHN
@@ -219,7 +219,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 218	25.489999	103.796167	5				Yunnan	CHN
 219	18.506048	110.037503	5				Hainan	CHN
 220	22.817002	108.366543	22				Guangxi	CHN
-221	27.622768	113.854556	15				Jiangxi	CHN
+221	27.622768	113.854556	18				Jiangxi	CHN
 222	37.856971	113.580519	2				Shanxi	CHN
 223	37.687357	112.752652	15				Shanxi	CHN
 224	32.009016	112.122426	548				HubeiÂ	CHN
