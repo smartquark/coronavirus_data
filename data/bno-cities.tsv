@@ -21,7 +21,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 20	35.416734	119.526925	14				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	47				Henan	CHN
-23	28.228209	112.938814	112				Hunan	CHN
+23	28.228209	112.938814	125				Hunan	CHN
 24	30.572815	104.066801	77				Sichuan	CHN
 25	24.880095	102.832891	31				Yunnan	CHN
 26	30.456224	106.633088	21				Sichuan	CHN
@@ -60,8 +60,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 59	24.874132	118.675675	29				Fujian	CHN
 60	26.665617	119.547932	9				Fujian	CHN
 61	41.805699	123.431472	17				Liaoning	CHN
-62	26.420394	111.613445	22				Hunan	CHN
-63	25.770509	113.014717	18				Hunan	CHN
+62	26.420394	111.613445	26				Hunan	CHN
+63	25.770509	113.014717	21				Hunan	CHN
 64	29.703113	107.389298	2				Chongqing	CHN
 65	28.682892	115.858197	103				Jiangxi	CHN
 66	27.731514	109.189598	6				Guizhou	CHN
@@ -133,9 +133,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 132	22.6272784	120.3014353	2				Kaohsiung City Municipality	TWN
 133	30.299559	108.039002	15				Chongqing	CHN
 134	18.795143	110.391073	8				Hainan	CHN
-135	29.356803	113.12873	53				Hunan	CHN
-136	27.700062	111.993497	29				Hunan	CHN
-137	27.829795	112.944026	16				Hunan	CHN
+135	29.356803	113.12873	70				Hunan	CHN
+136	27.700062	111.993497	35				Hunan	CHN
+137	27.829795	112.944026	19				Hunan	CHN
 138	27.827986	113.133853	26				Hunan	CHN
 139	46.653845	126.968887	16				Heilongjiang	CHN
 140	46.589309	125.103784	11				Heilongjiang	CHN
@@ -174,8 +174,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 173	33.347316	120.16366	15				Jiangsu	CHN
 174	40.952942	117.96275	2				Hebei	CHN
 175	38.874434	115.464589	13				Hebei	CHN
-176	28.55386	112.35518	27				Hunan	CHN
-177	29.031654	111.698784	42				Hunan	CHN
+176	28.55386	112.35518	30				Hunan	CHN
+177	29.031654	111.698784	45				Hunan	CHN
 178	26.893368	112.572018	32				Hunan	CHN
 179	27.23895	111.467674	51				Hunan	CHN
 180	23.020673	113.751799	31				Guangdong	CHN
