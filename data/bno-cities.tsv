@@ -178,8 +178,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 177	29.031654	111.698784	42				Hunan	CHN
 178	26.893368	112.572018	30				Hunan	CHN
 179	27.23895	111.467674	49				Hunan	CHN
-180	23.020673	113.751799	27				Guangdong	CHN
-181	23.354091	116.681972	15				Guangdong	CHN
+180	23.020673	113.751799	31				Guangdong	CHN
+181	23.354091	116.681972	17				Guangdong	CHN
 182	32.990664	112.528308	83				Henan	CHN
 183	33.011529	114.022298	58				Henan	CHN
 184	32.168137	115.654481	1				Henan	CHN
@@ -282,7 +282,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 281	34.035771	113.852454	15				Henan	CHN
 282	34.797281	114.307582	11				Henan	CHN
 283	34.205768	117.284124	36				Jiangsu	CHN
-284	22.786186	115.375158	4				Guangdong	CHN
+284	22.786186	115.375158	5				Guangdong	CHN
 285	30.191013	105.840555	3				 Chongqing	CHN
 286	29.290069	106.259281	3				 Chongqing	CHN
 287	29.484527	106.482346	2				 Chongqing	CHN
@@ -390,7 +390,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 389	41.533462	111.706617	1				Inner Mongolia	CHN
 390	41.90456	114.010437	1				Inner Mongolia	CHN
 391	35.9582341	126.9507864	1				 Honam	KOR
-392	22.579117	113.081508	3				Guangdong	CHN
+392	22.579117	113.081508	4				Guangdong	CHN
 393	54.978252	-1.61778000000004	2				North East England	GBR
 394	35.6074041	140.1065366	1				Chiba Prefecture	JPN
 395	48.1739373	11.2430079000001	1				Bavaria	DEU

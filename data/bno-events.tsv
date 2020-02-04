@@ -1368,12 +1368,14 @@ location_id	date	description
 180	2020-01-31	9 new cases. Removed 3 cases to match with the official number.
 180	2020-02-01	+5, 21 total (red).
 180	2020-02-02	+6
+180	2020-02-03	+4
 181	2020-01-25	First confirmed case.
 181	2020-01-26	Second confirmed case. In partial lockdown.
 181	2020-01-28	3 new cases.
 181	2020-01-29	1 new case. * 2 new cases.
 181	2020-01-30	6 new cases.
 181	2020-02-02	+1
+181	2020-02-03	+2
 182	2020-01-25	First 8 confirmed cases.
 182	2020-01-26	First confirmed death. 7 more cases.
 182	2020-01-27	4 new cases.
@@ -1827,6 +1829,7 @@ location_id	date	description
 284	2020-01-27	First confirmed case.
 284	2020-01-31	2 new cases.
 284	2020-02-01	+1Â 
+284	2020-02-03	+1
 285	2020-01-27	First 2 confirmed cases.
 285	2020-02-02	+1
 286	2020-01-27	First 2 confirmed cases.
@@ -2084,6 +2087,7 @@ location_id	date	description
 392	2020-01-29	First confirmed case.
 392	2020-01-31	1 new case.
 392	2020-02-01	+1
+392	2020-02-03	+1
 393	2020-01-31	First 2 confirmed cases in the UK and England.
 394	2020-01-31	First confirmed case in Chiba.
 395	2020-01-31	First confirmed case, related to the cases in Starnberg.
