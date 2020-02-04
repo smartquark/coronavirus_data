@@ -931,6 +931,7 @@ location_id	date	description
 108	2020-01-25	Second confirmed case.
 108	2020-01-26	One more case.
 108	2020-01-28	2 new cases. * 1 new case.
+108	2020-02-03	+1
 109	2020-01-23	First 3 confirmed cases.
 109	2020-01-25	Two more cases.
 109	2020-01-26	One more case. * 2 more cases.
@@ -1787,6 +1788,7 @@ location_id	date	description
 262	2020-01-30	1 new case.
 262	2020-02-01	+1
 262	2020-02-02	+1
+262	2020-02-03	+1
 263	2020-01-26	First confirmed case.
 263	2020-01-27	One more case.
 263	2020-01-28	1 new case.

@@ -106,7 +106,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 105	36.706962	119.161748	13				Shandong	CHN
 106	34.746611	113.625328	70				Henan	CHN
 107	32.147679	114.091192	98				Henan	CHN
-108	23.681774	113.056042	6				Guangdong	CHN
+108	23.681774	113.056042	7				Guangdong	CHN
 109	21.857958	111.982232	10				Guangdong	CHN
 110	43.837883	126.549572	4				Jilin	CHN
 111	45.141789	124.825117	2				Jilin	CHN
@@ -179,7 +179,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 178	26.893368	112.572018	32				Hunan	CHN
 179	27.23895	111.467674	51				Hunan	CHN
 180	23.020673	113.751799	31				Guangdong	CHN
-181	23.354091	116.681972	17				Guangdong	CHN
+181	23.354091	116.681972	18				Guangdong	CHN
 182	32.990664	112.528308	83				Henan	CHN
 183	33.011529	114.022298	58				Henan	CHN
 184	32.168137	115.654481	1				Henan	CHN
@@ -260,7 +260,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 259	33.06748	107.023323	16				Shaanxi	CHN
 260	43.916823	81.324136	6				Xinjiang	CHN
 261	33.7174708	-117.8311428	1				California	USA
-262	24.288578	116.122523	7				 Guangdong	CHN
+262	24.288578	116.122523	8				 Guangdong	CHN
 263	26.641774	118.17771	11				Fujian	CHN
 264	25.454084	119.007777	34				Fujian	CHN
 265	24.433353	98.584895	4				Yunnan	CHN
