@@ -937,3 +937,72 @@ date	province/state	country/region	confirmed	deaths	recovered	updated
 2020-02-04	Orange, CA	US	1			0020-02-01 19:53:00
 2020-02-04	Seattle, WA	US	1			0020-02-01 19:43:00
 2020-02-04	Tempe, AZ	US	1			0020-02-01 19:43:00
+2020-02-05	Hubei	Mainland China	13522	414	396	0020-02-04 01:23:00
+2020-02-05	Zhejiang	Mainland China	829		48	0020-02-04 01:43:00
+2020-02-05	Guangdong	Mainland China	797		21	0020-02-04 01:43:00
+2020-02-05	Henan	Mainland China	675	2	20	0020-02-04 01:23:00
+2020-02-05	Hunan	Mainland China	593		22	0020-02-04 01:43:00
+2020-02-05	Anhui	Mainland China	480		14	0020-02-04 00:43:00
+2020-02-05	Jiangxi	Mainland China	476		19	0020-02-04 01:43:00
+2020-02-05	Chongqing	Mainland China	337	2	9	0020-02-03 23:43:00
+2020-02-05	Jiangsu	Mainland China	308		8	0020-02-04 01:03:00
+2020-02-05	Sichuan	Mainland China	282	1	14	0020-02-04 01:43:00
+2020-02-05	Shandong	Mainland China	270		7	0020-02-04 00:53:00
+2020-02-05	Beijing	Mainland China	212	1	12	0020-02-03 09:23:00
+2020-02-05	Shanghai	Mainland China	208	1	10	0020-02-04 00:13:00
+2020-02-05	Fujian	Mainland China	179		1	0020-02-03 11:33:00
+2020-02-05	Heilongjiang	Mainland China	155	2	2	0020-02-04 00:53:00
+2020-02-05	Shaanxi	Mainland China	142		1	0020-02-04 02:33:00
+2020-02-05	Guangxi	Mainland China	139		7	0020-02-04 00:33:00
+2020-02-05	Hebei	Mainland China	126	1	3	0020-02-04 00:23:00
+2020-02-05	Yunnan	Mainland China	117		5	0020-02-03 23:23:00
+2020-02-05	Hainan	Mainland China	79	1	4	0020-02-04 00:43:00
+2020-02-05	Liaoning	Mainland China	74		1	0020-02-03 17:11:00
+2020-02-05	Shanxi	Mainland China	74		2	0020-02-03 23:13:00
+2020-02-05	Tianjin	Mainland China	60		1	0020-02-03 13:53:00
+2020-02-05	Guizhou	Mainland China	56		2	0020-02-04 01:03:00
+2020-02-05	Gansu	Mainland China	55		3	0020-02-03 23:03:00
+2020-02-05	Jilin	Mainland China	42		1	0020-02-04 00:23:00
+2020-02-05	Inner Mongolia	Mainland China	34		1	0020-02-03 03:03:00
+2020-02-05	Ningxia	Mainland China	34		1	0020-02-04 02:13:00
+2020-02-05	Xinjiang	Mainland China	29			0020-02-04 01:33:00
+2020-02-05		Japan	20		1	0020-02-01 18:53:00
+2020-02-05		Thailand	19		5	0020-01-31 10:37:00
+2020-02-05		Singapore	18			0020-02-02 01:03:00
+2020-02-05	Hong Kong	Hong Kong	15			0020-02-02 23:53:00
+2020-02-05	Qinghai	Mainland China	15			0020-02-04 01:33:00
+2020-02-05		South Korea	15			0020-02-02 02:23:00
+2020-02-05		Germany	12			0020-02-03 20:53:00
+2020-02-05	Taiwan	Taiwan	10			0020-01-31 15:20:00
+2020-02-05	Macau	Macau	8			0020-02-02 04:23:00
+2020-02-05		Malaysia	8			0020-01-31 08:15:00
+2020-02-05		Vietnam	8		1	0020-02-03 21:43:00
+2020-02-05		France	6			0020-02-01 01:52:00
+2020-02-05		United Arab Emirates	5			0020-02-02 05:43:00
+2020-02-05	New South Wales	Australia	4		2	0020-02-01 18:12:00
+2020-02-05	Victoria	Australia	4			0020-02-01 18:12:00
+2020-02-05		India	3			0020-02-03 21:43:00
+2020-02-05		Philippines	2	1		0020-02-02 03:33:00
+2020-02-05	Queensland	Australia	2			0020-02-02 22:33:00
+2020-02-05	South Australia	Australia	2			0020-02-02 22:33:00
+2020-02-05	Toronto, ON	Canada	2			0020-02-04 00:13:00
+2020-02-05		Italy	2			0020-01-31 08:15:00
+2020-02-05		Russia	2			0020-01-31 16:13:00
+2020-02-05		UK	2			0020-02-01 01:52:00
+2020-02-05	Chicago, IL	US	2			0020-02-01 19:43:00
+2020-02-05	San Benito, CA	US	2			0020-02-03 03:53:00
+2020-02-05	Santa Clara, CA	US	2			0020-02-03 00:43:00
+2020-02-05		Cambodia	1			0020-01-31 08:15:00
+2020-02-05	British Columbia	Canada	1			0020-02-01 18:12:00
+2020-02-05	London, ON	Canada	1			0020-02-04 00:03:00
+2020-02-05		Finland	1			0020-01-31 08:15:00
+2020-02-05	Tibet	Mainland China	1			0020-02-01 01:52:00
+2020-02-05		Nepal	1			0020-01-31 08:15:00
+2020-02-05		Spain	1			0020-02-01 23:43:00
+2020-02-05		Sri Lanka	1			0020-01-31 08:15:00
+2020-02-05		Sweden	1			0020-02-01 02:13:00
+2020-02-05	Boston, MA	US	1			0020-02-01 19:43:00
+2020-02-05	Los Angeles, CA	US	1			0020-02-01 19:53:00
+2020-02-05	Orange, CA	US	1			0020-02-01 19:53:00
+2020-02-05	Seattle, WA	US	1			0020-02-01 19:43:00
+2020-02-05	Tempe, AZ	US	1			0020-02-01 19:43:00
