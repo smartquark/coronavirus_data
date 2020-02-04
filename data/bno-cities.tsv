@@ -1,7 +1,7 @@
 location_id	latitude	longitude	confirmed	deaths	status	location	region	country_code
 1	30.592849	114.305539	5142				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
-3	22.543096	114.057865	226				Guangdong	CHN
+3	22.543096	114.057865	245				Guangdong	CHN
 4	39.9041999	116.4073963	191				Beijing municipality (capital)	CHN
 5	22.270978	113.576677	55				Guangdong	CHN
 6	21.270702	110.359368	14				Guangdong	CHN
