@@ -1,7 +1,7 @@
 Province/State	Country/Region	Confirmed	Deaths	Recovered	Updated
 Hubei	Mainland China	13522	414	397	2020-02-04 09:43:02
 Zhejiang	Mainland China	829		60	2020-02-04 09:13:05
-Guangdong	Mainland China	813		24	2020-02-04 09:33:02
+Guangdong	Mainland China	813		27	2020-02-04 11:33:03
 Henan	Mainland China	675	2	20	2020-02-04 01:23:04
 Hunan	Mainland China	593		29	2020-02-04 09:33:02
 Anhui	Mainland China	480		20	2020-02-04 05:33:01
@@ -18,7 +18,7 @@ Shaanxi	Mainland China	142		1	2020-02-04 02:33:02
 Guangxi	Mainland China	139		10	2020-02-04 05:53:01
 Hebei	Mainland China	126	1	4	2020-02-04 08:53:01
 Yunnan	Mainland China	119		5	2020-02-04 07:03:13
-Hainan	Mainland China	80	1	4	2020-02-04 05:13:04
+Hainan	Mainland China	80	1	5	2020-02-04 11:33:03
 Liaoning	Mainland China	77		2	2020-02-04 08:53:01
 Shanxi	Mainland China	74		2	2020-02-03 23:13:11
 Tianjin	Mainland China	66		1	2020-02-04 05:13:04
@@ -45,6 +45,10 @@ New South Wales	Australia	4		2	2020-02-01 18:12:49
 Victoria	Australia	4			2020-02-01 18:12:49
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
+Queensland	Australia	2			2020-02-02 22:33:07
+South Australia	Australia	2			2020-02-02 22:33:07
+Toronto	Canada	2			2020-02-04 00:03:11
+Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Italy	2			2020-01-31 08:15:53
 	Russia	2			2020-01-31 16:13:45
 	UK	2			2020-02-01 01:52:40
@@ -52,16 +56,6 @@ Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
 	Philippines	2	1		2020-02-02 03:33:07
-Queensland	Australia	2			2020-02-02 22:33:07
-South Australia	Australia	2			2020-02-02 22:33:07
-Toronto	Canada	2			2020-02-04 00:03:11
-Toronto, ON	Canada	2			2020-02-04 00:13:06
-	Nepal	1			2020-01-31 08:15:53
-	Spain	1			2020-02-01 23:43:02
-	Sri Lanka	1			2020-01-31 08:15:53
-	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
-Los Angeles, CA	US	1			2020-02-01 19:53:03
 	Cambodia	1			2020-01-31 08:15:53
 Orange, CA	US	1			2020-02-01 19:53:03
 British Columbia	Canada	1			2020-02-01 18:12:49
@@ -70,3 +64,9 @@ London, ON	Canada	1			2020-02-04 00:03:11
 Tempe, AZ	US	1			2020-02-01 19:43:03
 	Finland	1			2020-01-31 08:15:53
 Tibet	Mainland China	1			2020-02-01 01:52:40
+	Nepal	1			2020-01-31 08:15:53
+	Spain	1			2020-02-01 23:43:02
+	Sri Lanka	1			2020-01-31 08:15:53
+	Sweden	1			2020-02-01 02:13:26
+Boston, MA	US	1			2020-02-01 19:43:03
+Los Angeles, CA	US	1			2020-02-01 19:53:03
