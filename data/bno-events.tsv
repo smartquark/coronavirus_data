@@ -1358,6 +1358,7 @@ location_id	date	description
 185	2020-01-30	4 new cases.
 185	2020-01-31	4 new cases.
 185	2020-02-01	+6, 21 total (red).
+185	2020-02-03	+4
 186	2020-01-25	First confirmed case.
 186	2020-01-26	Second confirmed case.
 186	2020-01-27	3 more cases.
@@ -1545,6 +1546,7 @@ location_id	date	description
 227	2020-01-30	2 new cases.
 227	2020-01-31	4 new cases. 20 total (red).
 227	2020-02-01	+4
+227	2020-02-03	+4
 228	2020-01-26	First 3 confirmed cases.
 228	2020-01-27	3 more cases.
 228	2020-01-28	3 new cases.

@@ -183,7 +183,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 182	32.990664	112.528308	75				Henan	CHN
 183	33.011529	114.022298	46				Henan	CHN
 184	32.168137	115.654481	1				Henan	CHN
-185	35.303704	113.926763	21				Henan	CHN
+185	35.303704	113.926763	25				Henan	CHN
 186	33.766169	113.192661	14				Henan	CHN
 187	31.67044	118.507011	20				Anhui	CHN
 188	30.945515	117.81154	18				Anhui	CHN
@@ -225,7 +225,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 224	32.009016	112.122426	548				HubeiÂ	CHN
 225	43.653226	-79.3831843	2				Ontario	CAN
 226	37.6583599	126.8320201	1				Â Gyeonggi	KOR
-227	36.097577	114.392392	24				Henan	CHN
+227	36.097577	114.392392	28				Henan	CHN
 228	33.580873	114.016536	20				Henan	CHN
 229	36.813546	118.055019	12				Shandong	CHN
 230	28.312001	109.738781	6				Hunan	CHN
