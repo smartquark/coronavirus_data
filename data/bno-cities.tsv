@@ -369,7 +369,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 368	47.349916	130.297964	1				HeilongjiangÂ	CHN
 369	35.476788	110.442846	1				Shaanxi	CHN
 370	38.28539	109.734589	1				Shaanxi	CHN
-371	40.412438	110.033833	4				Inner Mongolia	CHN
+371	40.412438	110.033833	7				Inner Mongolia	CHN
 372	29.652491	91.17211	1				Tibet	CHN
 373	38.16443	106.586163	1				Ningxia	CHN
 374	14.5995124	120.9842195	2				NCR	PHL
