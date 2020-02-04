@@ -243,6 +243,7 @@ location_id	date	description
 24	2020-01-31	10 new cases.
 24	2020-02-01	3 new cases.
 24	2020-02-02	+1
+24	2020-02-03	+4
 25	2020-01-22	First confirmed case in Yunnan province (imported).
 25	2020-01-23	Second confirmed case, imported.
 25	2020-01-24	Third case.
@@ -262,6 +263,7 @@ location_id	date	description
 26	2020-01-31	4 new cases.
 26	2020-02-01	3 new cases.
 26	2020-02-02	+4, 20 total (red).
+26	2020-02-03	+1
 27	2020-01-22	First confirmed case (imported).
 27	2020-01-23	Second confirmed case, imported.
 27	2020-01-26	3 more cases.
@@ -373,6 +375,7 @@ location_id	date	description
 41	2020-01-31	2 new cases.
 41	2020-02-01	1 new case.
 41	2020-02-02	+2
+41	2020-02-03	+3
 42	2020-01-22	First confirmed case and first case in Shanxi (imported). Transferred toÂ Shijiazhuang (Hubei) and later transferred back to Taiyuan.Â 
 42	2020-01-24	One more case.
 42	2020-01-27	One more case.
@@ -470,6 +473,7 @@ location_id	date	description
 54	2020-01-30	2 new cases.
 54	2020-01-31	2 new cases.
 54	2020-02-01	1 new case.
+54	2020-02-03	+2
 55	2020-01-23	First confirmed case.
 55	2020-01-24	Second confirmed case.
 55	2020-01-27	2 more cases.
@@ -488,6 +492,7 @@ location_id	date	description
 57	2020-01-30	2 new cases.
 57	2020-02-01	+3 cases, 2 more added from Shuangliao City.
 57	2020-02-02	+6, doubled.
+57	2020-02-03	+4
 58	2020-01-23	First confirmed case, imported.
 58	2020-01-24	2 more cases.
 58	2020-01-26	1 more case.
@@ -891,6 +896,7 @@ location_id	date	description
 110	2020-01-24	First confirmed case.
 110	2020-01-25	Second confirmed case.
 110	2020-01-28	1 new case.
+110	2020-02-03	+1
 111	2020-01-24	First confirmed case.
 111	2020-01-27	One more case.
 112	2020-01-24	First confirmed case.
@@ -1275,6 +1281,7 @@ location_id	date	description
 172	2020-01-29	1 new case.
 172	2020-01-31	3 new cases.
 172	2020-02-01	+1
+172	2020-02-03	+1
 173	2020-01-25	First confirmed case.
 173	2020-01-29	5 new cases.
 173	2020-01-31	2 new cases.
@@ -1665,6 +1672,7 @@ location_id	date	description
 252	2020-01-31	2 new cases.
 252	2020-02-01	5 new cases.
 252	2020-02-02	+7, 23 total (red).
+252	2020-02-03	+3
 253	2020-01-26	First confirmed case.
 253	2020-01-30	1 new case.
 253	2020-02-03	+1
@@ -1982,6 +1990,7 @@ location_id	date	description
 363	2020-02-02	+1
 364	2020-01-30	First 2 confirmed cases.
 365	2020-01-27	First confirmed case.
+365	2020-02-03	+3
 366	2020-01-30	First confirmed case.
 366	2020-02-01	+1
 366	2020-02-02	+1

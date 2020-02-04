@@ -1,21 +1,21 @@
 Province/State	Country/Region	Confirmed	Deaths	Recovered	Updated
 Hubei	Mainland China	13522	414	396	2020-02-04 01:23:04
-Guangdong	Mainland China	725		21	2020-02-03 12:53:02
-Zhejiang	Mainland China	724		43	2020-02-03 13:33:02
+Zhejiang	Mainland China	829		48	2020-02-04 01:43:02
+Guangdong	Mainland China	797		21	2020-02-04 01:43:02
 Henan	Mainland China	675	2	20	2020-02-04 01:23:04
-Hunan	Mainland China	521		22	2020-02-03 11:03:10
+Hunan	Mainland China	593		22	2020-02-04 01:43:02
 Anhui	Mainland China	480		14	2020-02-04 00:43:02
-Jiangxi	Mainland China	391		18	2020-02-03 01:33:02
+Jiangxi	Mainland China	476		19	2020-02-04 01:43:02
 Chongqing	Mainland China	337	2	9	2020-02-03 23:43:02
 Jiangsu	Mainland China	308		8	2020-02-04 01:03:09
+Sichuan	Mainland China	282	1	14	2020-02-04 01:43:02
 Shandong	Mainland China	270		7	2020-02-04 00:53:02
-Sichuan	Mainland China	254	1	14	2020-02-03 11:23:23
 Beijing	Mainland China	212	1	12	2020-02-03 09:23:05
 Shanghai	Mainland China	208	1	10	2020-02-04 00:13:06
 Fujian	Mainland China	179		1	2020-02-03 11:33:13
 Heilongjiang	Mainland China	155	2	2	2020-02-04 00:53:02
 Guangxi	Mainland China	139		7	2020-02-04 00:33:01
-Shaanxi	Mainland China	128			2020-02-03 02:33:02
+Shaanxi	Mainland China	128		1	2020-02-04 01:43:02
 Hebei	Mainland China	126	1	3	2020-02-04 00:23:05
 Yunnan	Mainland China	117		5	2020-02-03 23:23:03
 Hainan	Mainland China	79	1	4	2020-02-04 00:43:02
@@ -31,9 +31,9 @@ Xinjiang	Mainland China	29			2020-02-04 01:33:01
 	Japan	20		1	2020-02-01 18:53:03
 	Thailand	19		5	2020-01-31 10:37:00
 	Singapore	18			2020-02-02 01:03:32
+Hong Kong	Hong Kong	15			2020-02-02 23:53:02
 Qinghai	Mainland China	15			2020-02-04 01:33:01
 	South Korea	15			2020-02-02 02:23:13
-Hong Kong	Hong Kong	15			2020-02-02 23:53:02
 	Germany	12			2020-02-03 20:53:02
 Taiwan	Taiwan	10			2020-01-31 15:20:56
 Macau	Macau	8			2020-02-02 04:23:14
@@ -41,14 +41,10 @@ Macau	Macau	8			2020-02-02 04:23:14
 	Vietnam	8		1	2020-02-03 21:43:02
 	France	6			2020-02-01 01:52:40
 	United Arab Emirates	5			2020-02-02 05:43:01
-Victoria	Australia	4			2020-02-01 18:12:49
 New South Wales	Australia	4		2	2020-02-01 18:12:49
+Victoria	Australia	4			2020-02-01 18:12:49
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
-Chicago, IL	US	2			2020-02-01 19:43:03
-San Benito, CA	US	2			2020-02-03 03:53:02
-Santa Clara, CA	US	2			2020-02-03 00:43:02
-	Philippines	2	1		2020-02-02 03:33:07
 Queensland	Australia	2			2020-02-02 22:33:07
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
@@ -56,9 +52,10 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Italy	2			2020-01-31 08:15:53
 	Russia	2			2020-01-31 16:13:45
 	UK	2			2020-02-01 01:52:40
-	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
-Los Angeles, CA	US	1			2020-02-01 19:53:03
+Chicago, IL	US	2			2020-02-01 19:43:03
+San Benito, CA	US	2			2020-02-03 03:53:02
+Santa Clara, CA	US	2			2020-02-03 00:43:02
+	Philippines	2	1		2020-02-02 03:33:07
 	Cambodia	1			2020-01-31 08:15:53
 Orange, CA	US	1			2020-02-01 19:53:03
 British Columbia	Canada	1			2020-02-01 18:12:49
@@ -70,3 +67,6 @@ Tibet	Mainland China	1			2020-02-01 01:52:40
 	Nepal	1			2020-01-31 08:15:53
 	Spain	1			2020-02-01 23:43:02
 	Sri Lanka	1			2020-01-31 08:15:53
+	Sweden	1			2020-02-01 02:13:26
+Boston, MA	US	1			2020-02-01 19:43:03
+Los Angeles, CA	US	1			2020-02-01 19:53:03
