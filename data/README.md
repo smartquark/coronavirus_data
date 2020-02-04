@@ -1,3 +1,7 @@
+# Summary
+
+`Last Update` is the GMT time data here were updated
+
 |  Sources | Last update | Confirmed | Deaths | Recovered |
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
 | [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | `2020-02-04 13:33:02` | 20,685 | 427 | 724 | 
