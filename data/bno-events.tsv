@@ -55,6 +55,7 @@ location_id	date	description
 4	2020-01-31	11 new cases. * 7 new cases.
 4	2020-02-01	+17, +12
 4	2020-02-02	+15 +8
+4	2020-02-03	+24, 3 discarded.
 5	2020-01-20	Three cases confirmed. Transmission among family members. First human-to-human transmission reported outside Wuhan.
 5	2020-01-21	One more case.
 5	2020-01-24	Four more cases.
@@ -202,7 +203,7 @@ location_id	date	description
 19	2020-01-31	1 new case.
 19	2020-02-01	+9
 19	2020-02-02	+7
-19	2020-02-03	+8
+19	2020-02-03	+12
 20	2020-01-21	First confirmed case (imported) (transferred to Qingdao).
 20	2020-01-24	One confirmed case. First confirmed case moved to Qingdao number due to officially being counted there.
 20	2020-01-25	One more case.
@@ -556,8 +557,8 @@ location_id	date	description
 61	2020-01-28	1 new case.
 61	2020-01-29	1 new case.
 61	2020-01-31	1 new case. * 2 new cases.
-61	2020-02-02	+1, added 4.
-61	2020-02-03	+1
+61	2020-02-02	+1
+61	2020-02-03	+2
 62	2020-01-23	First confirmed case, imported.
 62	2020-01-23	3 more cases.
 62	2020-01-28	3 new cases.

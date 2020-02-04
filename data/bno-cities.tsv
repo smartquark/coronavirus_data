@@ -2,7 +2,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 1	30.592849	114.305539	5142				Hubei	CHN
 2	13.8150158	100.5045102	13				Bangkok Metropolitan Region	THA
 3	22.543096	114.057865	245				Guangdong	CHN
-4	39.9041999	116.4073963	191				Beijing municipality (capital)	CHN
+4	39.9041999	116.4073963	212				Beijing municipality (capital)	CHN
 5	22.270978	113.576677	55				Guangdong	CHN
 6	21.270702	110.359368	14				Guangdong	CHN
 7	23.112257	114.415801	28				Guangdong	CHN
@@ -17,7 +17,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 16	31.074834	109.879153	7				Chongqing	CHN
 17	30.807667	108.408661	50				 Chongqing	CHN
 18	29.857996	107.081282	11				Chongqing	CHN
-19	39.3433574	117.3616476	56				Tianjin municipality	CHN
+19	39.3433574	117.3616476	60				Tianjin municipality	CHN
 20	35.416734	119.526925	14				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	47				Henan	CHN
@@ -59,7 +59,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 58	24.479833	118.089425	19				Fujian	CHN
 59	24.874132	118.675675	31				Fujian	CHN
 60	26.665617	119.547932	12				Fujian	CHN
-61	41.805699	123.431472	18				Liaoning	CHN
+61	41.805699	123.431472	15				Liaoning	CHN
 62	26.420394	111.613445	26				Hunan	CHN
 63	25.770509	113.014717	21				Hunan	CHN
 64	29.703113	107.389298	2				Chongqing	CHN
