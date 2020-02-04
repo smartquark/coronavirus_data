@@ -3,11 +3,18 @@
 
 ## Notes
 
-- data here are used mainly for my own visualizations at https://nyem69.github.io/
+- data here are used mainly for my own visualizations at https://nyem69.github.io/coronavirus_dashboard
 
 
 
-## data sources:
+## Data sources:
+
+
+### WHO
+
+- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+
+
 
 ### JHU CSSE
 
@@ -49,4 +56,6 @@
 	Data:
 
 	* [casetracking.tsv](data/casetracking.tsv)
+
+
 
