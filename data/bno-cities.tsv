@@ -18,7 +18,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 17	30.807667	108.408661	49				 Chongqing	CHN
 18	29.857996	107.081282	11				Chongqing	CHN
 19	39.3433574	117.3616476	48				Tianjin municipality	CHN
-20	35.416734	119.526925	12				Shandong	CHN
+20	35.416734	119.526925	14				Shandong	CHN
 21	47.9789848	-122.2020795	1				Washington	USA
 22	33.626149	114.69695	47				Henan	CHN
 23	28.228209	112.938814	112				Hunan	CHN
@@ -50,7 +50,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 49	31.298974	120.585289	44				Jiangsu	CHN
 50	44.551653	129.633168	7				Heilongjiang	CHN
 51	24.326292	109.428608	14				Guangxi	CHN
-52	35.104673	118.356414	24				Shandong	CHN
+52	35.104673	118.356414	27				Shandong	CHN
 53	36.067108	120.382609	25				Shandong	CHN
 54	31.209571	107.468023	11				Sichuan	CHN
 55	22.517585	113.39277	21				Guangdong	CHN
@@ -140,9 +140,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 139	46.653845	126.968887	14				Heilongjiang	CHN
 140	46.589309	125.103784	8				Heilongjiang	CHN
 141	49.597841	117.378529	1				Inner Mongolia	CHN
-142	35.414982	116.587282	18				Shandong	CHN
-143	37.464539	121.447852	22				Shandong	CHN
-144	36.6512	117.120095	22				Shandong	CHN
+142	35.414982	116.587282	21				Shandong	CHN
+143	37.464539	121.447852	26				Shandong	CHN
+144	36.6512	117.120095	25				Shandong	CHN
 145	37.499972	105.196902	2				Ningxia	CHN
 146	30.653061	113.165862	115				Hubei	CHN
 147	32.684714	109.029022	16				Shaanxi	CHN
@@ -203,7 +203,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 202	1.492659	103.7413591	6				Johor	MYS
 203	41.57365	120.4493879	6				Liaoning	CHN
 204	35.23375	115.480656	10				Shandong	CHN
-205	37.38198	117.970699	10				Shandong	CHN
+205	37.38198	117.970699	11				Shandong	CHN
 206	24.513025	117.647093	11				Fujian	CHN
 207	26.263406	117.638678	10				Fujian	CHN
 208	34.897887	108.945019	6				Shaanxi	CHN
@@ -302,13 +302,13 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 301	28.751836	104.643159	7				Sichuan�	CHN
 302	37.4449168	127.1388684	4				Gyeonggi	KOR
 303	34.49938	109.502882	5				Shaanxi	CHN
-304	34.810487	117.323725	15				Shandong	CHN
+304	34.810487	117.323725	16				Shandong	CHN
 305	10.6267867	103.5115545	1				Preah Sihanouk Province	KHM
 306	6.9270786	79.8612430000001	1				 Western Province	LKA
 307	47.9999615	11.339009	4				Bavaria	DEU
 308	28.260189	117.069202	8				Jiangxi	CHN
 309	35.215892	113.241823	8				Henan	CHN
-310	36.200252	117.087614	11				Shandong	CHN
+310	36.200252	117.087614	12				Shandong	CHN
 311	31.743483	110.680447	7				Hubei	CHN
 312	29.500296	106.644428	6				Chongqing	CHN
 313	29.533609	108.770677	2				Chongqing	CHN
