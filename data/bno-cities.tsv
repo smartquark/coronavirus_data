@@ -23,7 +23,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 22	33.626149	114.69695	47				Henan	CHN
 23	28.228209	112.938814	125				Hunan	CHN
 24	30.572815	104.066801	77				Sichuan	CHN
-25	24.880095	102.832891	31				Yunnan	CHN
+25	24.880095	102.832891	32				Yunnan	CHN
 26	30.456224	106.633088	21				Sichuan	CHN
 27	22.198745	113.543873	8				Macau (SAR)s+	CHN
 28	23.12911	113.264385	189				Guangdong	CHN
@@ -149,7 +149,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 148	36.585445	109.489757	7				Shaanxi	CHN
 149	27.7172453	85.3239605	1				Bagmati Pradesh (capital)s+	NPL
 150	41.8781136	-87.6297982	2				Illinois	USA
-151	22.00881	100.79715	12				Yunnan	CHN
+151	22.00881	100.79715	13				Yunnan	CHN
 152	26.855047	100.22775	10				Yunnan	CHN
 153	22.654032	110.18122	8				Guangxi	CHN
 154	21.68686	108.353846	9				Guangxi	CHN
@@ -215,8 +215,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 214	36.617134	101.778223	12				Qinghai	CHN
 215	25.606486	100.267638	7				Yunnan	CHN
 216	23.36225	103.374576	4				Yunnan	CHN
-217	24.347324	102.527197	11				Yunnan	CHN
-218	25.489999	103.796167	5				Yunnan	CHN
+217	24.347324	102.527197	12				Yunnan	CHN
+218	25.489999	103.796167	6				Yunnan	CHN
 219	18.506048	110.037503	5				Hainan	CHN
 220	22.817002	108.366543	22				Guangxi	CHN
 221	27.622768	113.854556	18				Jiangxi	CHN
@@ -428,6 +428,6 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 427	29.5279566	106.4874971	1				Chongqing	CHN
 428	36.5760883	-120.9876321	2				California	USA
 429	21.313857	105.6764461	1				Vinh PhucÂ	VNM
-430	12.5080019	74.9882114	1				KeralaÂ	IND
-431	35.067243	112.601918	2				Henuan	CHN
-432	19.543278	110.797759	1				Hainan	CHN
+430	35.067243	112.601918	2				Henuan	CHN
+431	19.543278	110.797759	1				Hainan	CHN
+432	12.5080019	74.9882114	1				KeralaÂ	IND

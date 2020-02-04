@@ -265,6 +265,7 @@ location_id	date	description
 25	2020-01-31	1 new case.
 25	2020-02-01	+6
 25	2020-02-02	+1
+25	2020-02-03	+1
 26	2020-01-22	First confirmed case (imported).
 26	2020-01-24	Second confirmed case.
 26	2020-01-27	4 more cases.
@@ -1213,6 +1214,7 @@ location_id	date	description
 151	2020-01-28	5 new cases.
 151	2020-01-29	4 new cases.
 151	2020-01-30	2 new cases.
+151	2020-02-03	+1
 152	2020-01-24	First confirmed case, transferred to Ninglang county.
 152	2020-01-25	One more case.
 152	2020-01-27	3 more cases.
@@ -1585,9 +1587,11 @@ location_id	date	description
 217	2020-01-30	1 new case.
 217	2020-02-01	+1
 217	2020-02-02	+4
+217	2020-02-03	+1
 218	2020-01-25	First confirmed case inÂ Luoping.
 218	2020-01-27	One more case.
 218	2020-01-29	3 new cases.
+218	2020-02-03	+1
 219	2020-01-25	First confirmed case.
 219	2020-01-30	1 new case.
 219	2020-02-01	-02: +3
@@ -2177,6 +2181,6 @@ location_id	date	description
 427	2020-02-02	First confirmed case.
 428	2020-02-03	First 2 confirmed cases, husband and wife, locally transmitted.
 429	2020-02-03	First confirmed case and 8th in Vietnam. Transferred toÂ Dong Anh Central Tropical Diseases Hospital.
-430	2020-02-03	First confirmed case and 3rd case in India.
-431	2020-02-03	First 2 confirmed cases.
-432	2020-02-03	First confirmed case.
+430	2020-02-03	First 2 confirmed cases.
+431	2020-02-03	First confirmed case.
+432	2020-02-03	First confirmed case and 3rd case in India.
