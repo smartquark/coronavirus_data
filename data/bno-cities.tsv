@@ -56,9 +56,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 55	22.517585	113.39277	25				Guangdong	CHN
 56	23.047191	112.465091	7				Guangdong	CHN
 57	43.817071	125.323544	16				Jilin	CHN
-58	24.479833	118.089425	18				Fujian	CHN
-59	24.874132	118.675675	29				Fujian	CHN
-60	26.665617	119.547932	9				Fujian	CHN
+58	24.479833	118.089425	19				Fujian	CHN
+59	24.874132	118.675675	31				Fujian	CHN
+60	26.665617	119.547932	12				Fujian	CHN
 61	41.805699	123.431472	17				Liaoning	CHN
 62	26.420394	111.613445	26				Hunan	CHN
 63	25.770509	113.014717	21				Hunan	CHN
@@ -76,7 +76,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 75	28.970079	118.859457	14				Zhejiang	CHN
 76	31.035395	112.199427	345				Hubei	CHN
 77	30.335237	112.239631	499				Hubei	CHN
-78	26.074478	119.296482	44				Fujian	CHN
+78	26.074478	119.296482	47				Fujian	CHN
 79	43.825592	87.616848	10				Xinjiang	CHN
 80	34.329605	108.708991	9				Shaanxi	CHN
 81	34.341574	108.93977	56				Shaanxi	CHN
@@ -204,7 +204,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 203	41.57365	120.4493879	6				Liaoning	CHN
 204	35.23375	115.480656	10				Shandong	CHN
 205	37.38198	117.970699	11				Shandong	CHN
-206	24.513025	117.647093	11				Fujian	CHN
+206	24.513025	117.647093	12				Fujian	CHN
 207	26.263406	117.638678	10				Fujian	CHN
 208	34.897887	108.945019	7				Shaanxi	CHN
 209	33.870422	109.940477	2				Shaanxi	CHN
@@ -261,8 +261,8 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 260	43.916823	81.324136	6				Xinjiang	CHN
 261	33.7174708	-117.8311428	1				California	USA
 262	24.288578	116.122523	7				 Guangdong	CHN
-263	26.641774	118.17771	8				Fujian	CHN
-264	25.454084	119.007777	27				Fujian	CHN
+263	26.641774	118.17771	11				Fujian	CHN
+264	25.454084	119.007777	34				Fujian	CHN
 265	24.433353	98.584895	4				Yunnan	CHN
 266	25.112046	99.1617610000001	7				Yunnan	CHN
 267	27.338257	103.717465	8				Yunnan	CHN
