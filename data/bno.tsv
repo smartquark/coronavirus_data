@@ -3,6 +3,7 @@ date	place	confirmed	deaths	serious	critical	suspected	recovered	updated
 	Zhejiang province	829	0	43	15			2020-02-04 18:39:00
 	Guangdong province	813	0	60	26			2020-02-04 18:39:00
 	Henan province	675	2	39	15			2020-02-04 18:39:00
+	Undisclosed	675	0					2020-02-04 18:39:00
 	Hunan province	593	0	51				2020-02-04 18:39:00
 	Anhui province	480	0		5			2020-02-04 18:39:00
 	Jiangxi province	476	0	37				2020-02-04 18:39:00
@@ -41,7 +42,6 @@ date	place	confirmed	deaths	serious	critical	suspected	recovered	updated
 	Macau	10	0					2020-02-04 18:39:00
 	Malaysia	10	0					2020-02-04 18:39:00
 	Vietnam	10	0				3	2020-02-04 18:39:00
-	Undisclosed	7	0					2020-02-04 02:13:00
 	France	6	0	1				2020-02-04 18:39:00
 	Canada	5	0					2020-02-04 18:39:00
 	UAE	5	0					2020-02-04 18:39:00
