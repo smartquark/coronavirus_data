@@ -4,7 +4,7 @@
 
 |  Sources | Last update (UTC) | Confirmed | Deaths | Recovered |
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
-| [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-05 09:03:04` | 24,592 | 493 | 926 | 
+| [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-05 09:13:05` | 24,602 | 493 | 927 | 
 | [WHO Dashboard](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)  | `2020-02-05 06:28:22` | 24,554 | 491 |  | 
 | [DXY](https://3g.dxy.cn/newh5/view/pneumonia) (China only) | `2020-02-05 01:43:21` | 24,235 | 491 |  | 
 | [Case Tracking Worksheet](https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview)  | `2020-02-05 00:13:48` | 20,724 | 493 | 873 | 
