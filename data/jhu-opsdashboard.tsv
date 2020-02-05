@@ -9,7 +9,7 @@ Jiangxi	Mainland China	476		20	2020-02-04 14:43:02
 Chongqing	Mainland China	366	2	14	2020-02-05 00:13:05
 Jiangsu	Mainland China	308		12	2020-02-04 11:53:02
 Sichuan	Mainland China	301	1	23	2020-02-05 00:53:02
-Shandong	Mainland China	275		11	2020-02-04 12:03:04
+Shandong	Mainland China	298		13	2020-02-05 01:03:15
 Shanghai	Mainland China	233	1	12	2020-02-05 00:23:01
 Beijing	Mainland China	228	1	23	2020-02-04 08:33:01
 Fujian	Mainland China	194		3	2020-02-04 12:13:11
@@ -43,9 +43,11 @@ Macau	Macau	10			2020-02-04 04:43:02
 	United Arab Emirates	5			2020-02-02 05:43:01
 New South Wales	Australia	4		2	2020-02-01 18:12:49
 Victoria	Australia	4			2020-02-01 18:12:49
+	India	3			2020-02-03 21:43:02
 Queensland	Australia	3			2020-02-04 16:53:03
 Ontario	Canada	3			2020-02-01 18:12:49
-	India	3			2020-02-03 21:43:02
+	Philippines	2	1		2020-02-02 03:33:07
+South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Italy	2			2020-01-31 08:15:53
@@ -54,8 +56,13 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
-	Philippines	2	1		2020-02-02 03:33:07
-South Australia	Australia	2			2020-02-02 22:33:07
+Boston, MA	US	1			2020-02-01 19:43:03
+	Belgium	1			2020-02-04 15:43:02
+Los Angeles, CA	US	1			2020-02-01 19:53:03
+	Cambodia	1			2020-01-31 08:15:53
+Orange, CA	US	1			2020-02-01 19:53:03
+British Columbia	Canada	1			2020-02-01 18:12:49
+Seattle, WA	US	1			2020-02-01 19:43:03
 London, ON	Canada	1			2020-02-04 00:03:11
 Tempe, AZ	US	1			2020-02-01 19:43:03
 	Finland	1			2020-01-31 08:15:53
@@ -64,10 +71,3 @@ Tibet	Mainland China	1			2020-02-01 01:52:40
 	Spain	1			2020-02-01 23:43:02
 	Sri Lanka	1			2020-01-31 08:15:53
 	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
-	Belgium	1			2020-02-04 15:43:02
-Los Angeles, CA	US	1			2020-02-01 19:53:03
-	Cambodia	1			2020-01-31 08:15:53
-Orange, CA	US	1			2020-02-01 19:53:03
-British Columbia	Canada	1			2020-02-01 18:12:49
-Seattle, WA	US	1			2020-02-01 19:43:03
