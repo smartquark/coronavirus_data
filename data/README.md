@@ -4,7 +4,7 @@
 
 |  Sources | Last update (UTC) | Confirmed | Deaths | Recovered |
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
-| [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-05 02:13:06` | 24,483 | 492 | 906 | 
+| [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-05 02:33:06` | 24,483 | 492 | 906 | 
 | [DXY](https://3g.dxy.cn/newh5/view/pneumonia) (China only) | `2020-02-05 01:43:21` | 24,235 | 491 |  | 
 | [Case Tracking Worksheet](https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview)  | `2020-02-05 00:13:48` | 20,724 | 493 | 873 | 
 | [BNO News](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)  | `2020-02-04 20:44:00` | 24,553 | 492 | 892 | 
