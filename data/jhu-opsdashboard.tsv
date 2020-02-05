@@ -17,7 +17,7 @@ Heilongjiang	Mainland China	190	2	4	2020-02-05 01:23:03
 Shaanxi	Mainland China	165		2	2020-02-05 02:43:01
 Guangxi	Mainland China	150		10	2020-02-05 00:43:02
 Hebei	Mainland China	135	1	4	2020-02-05 02:53:03
-Yunnan	Mainland China	122		5	2020-02-04 23:23:02
+Yunnan	Mainland China	124		5	2020-02-05 07:43:02
 Hainan	Mainland China	91	1	4	2020-02-05 02:53:03
 Liaoning	Mainland China	81		2	2020-02-04 14:13:08
 Shanxi	Mainland China	81		4	2020-02-04 23:23:02
@@ -46,16 +46,20 @@ Victoria	Australia	4			2020-02-01 18:12:49
 Queensland	Australia	3			2020-02-04 16:53:03
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
+	Italy	2			2020-01-31 08:15:53
+	Russia	2			2020-01-31 16:13:45
+	UK	2			2020-02-01 01:52:40
+Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
 	Philippines	2	1		2020-02-02 03:33:07
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
-	Italy	2			2020-01-31 08:15:53
-	Russia	2			2020-01-31 16:13:45
-	UK	2			2020-02-01 01:52:40
-Chicago, IL	US	2			2020-02-01 19:43:03
+	Finland	1			2020-01-31 08:15:53
+Tibet	Mainland China	1			2020-02-01 01:52:40
+	Nepal	1			2020-01-31 08:15:53
+	Spain	1			2020-02-01 23:43:02
 	Sri Lanka	1			2020-01-31 08:15:53
 	Sweden	1			2020-02-01 02:13:26
 Boston, MA	US	1			2020-02-01 19:43:03
@@ -67,7 +71,3 @@ British Columbia	Canada	1			2020-02-01 18:12:49
 Seattle, WA	US	1			2020-02-01 19:43:03
 London, ON	Canada	1			2020-02-04 00:03:11
 Tempe, AZ	US	1			2020-02-01 19:43:03
-	Finland	1			2020-01-31 08:15:53
-Tibet	Mainland China	1			2020-02-01 01:52:40
-	Nepal	1			2020-01-31 08:15:53
-	Spain	1			2020-02-01 23:43:02
