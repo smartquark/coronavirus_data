@@ -1,39 +1,39 @@
 province/state	country/region	confirmed	deaths	recovered	suspected	updated
-Hubei	Mainland China	13522	414	397		0020-02-04 09:43:00
-Zhejiang	Mainland China	829		62		0020-02-04 13:03:00
-Guangdong	Mainland China	813		30		0020-02-04 13:03:00
-Henan	Mainland China	675	2	27		0020-02-04 11:53:00
-Hunan	Mainland China	593		31		0020-02-04 14:03:00
-Anhui	Mainland China	480		20		0020-02-04 05:33:00
-Jiangxi	Mainland China	476		20		0020-02-04 14:43:00
-Chongqing	Mainland China	344	2	9		0020-02-04 08:23:00
-Jiangsu	Mainland China	308		12		0020-02-04 11:53:00
-Sichuan	Mainland China	282	1	14		0020-02-04 01:43:00
-Shandong	Mainland China	275		11		0020-02-04 12:03:00
+Hubei	Mainland China	16678	479	522		0020-02-04 23:43:00
+Zhejiang	Mainland China	895		63		0020-02-05 01:33:00
+Guangdong	Mainland China	870		32		0020-02-05 02:03:00
+Henan	Mainland China	764	2	41		0020-02-05 01:13:00
+Hunan	Mainland China	661		35		0020-02-05 01:43:00
+Jiangxi	Mainland China	548		27		0020-02-05 01:33:00
+Anhui	Mainland China	530		20		0020-02-05 01:13:00
+Chongqing	Mainland China	366	2	14		0020-02-05 00:13:00
+Jiangsu	Mainland China	341		13		0020-02-05 02:43:00
+Sichuan	Mainland China	301	1	23		0020-02-05 00:53:00
+Shandong	Mainland China	298		13		0020-02-05 01:03:00
+Shanghai	Mainland China	233	1	12		0020-02-05 00:23:00
 Beijing	Mainland China	228	1	23		0020-02-04 08:33:00
-Shanghai	Mainland China	219	1	12		0020-02-04 06:33:00
 Fujian	Mainland China	194		3		0020-02-04 12:13:00
-Heilongjiang	Mainland China	155	2	4		0020-02-04 07:43:00
-Shaanxi	Mainland China	142		2		0020-02-04 12:33:00
-Guangxi	Mainland China	139		10		0020-02-04 05:53:00
-Hebei	Mainland China	126	1	4		0020-02-04 08:53:00
-Yunnan	Mainland China	119		5		0020-02-04 07:03:00
+Heilongjiang	Mainland China	190	2	4		0020-02-05 01:23:00
+Shaanxi	Mainland China	165		2		0020-02-05 02:43:00
+Guangxi	Mainland China	150		10		0020-02-05 00:43:00
+Hebei	Mainland China	135	1	4		0020-02-05 02:53:00
+Yunnan	Mainland China	122		5		0020-02-04 23:23:00
+Hainan	Mainland China	91	1	4		0020-02-05 02:53:00
 Liaoning	Mainland China	81		2		0020-02-04 14:13:00
-Hainan	Mainland China	80	1	5		0020-02-04 11:33:00
-Shanxi	Mainland China	74		4		0020-02-04 12:33:00
+Shanxi	Mainland China	81		4		0020-02-04 23:23:00
 Tianjin	Mainland China	67		2		0020-02-04 13:33:00
-Guizhou	Mainland China	58		2		0020-02-04 10:43:00
+Guizhou	Mainland China	64		5		0020-02-05 01:23:00
 Gansu	Mainland China	57		4		0020-02-04 15:43:00
-Jilin	Mainland China	42		1		0020-02-04 00:23:00
-Inner Mongolia	Mainland China	35		1		0020-02-04 03:03:00
+Jilin	Mainland China	54		1		0020-02-05 00:43:00
+Inner Mongolia	Mainland China	42		1		0020-02-05 01:53:00
 Ningxia	Mainland China	34		1		0020-02-04 02:13:00
-Xinjiang	Mainland China	29				0020-02-04 01:33:00
+Xinjiang	Mainland China	32				0020-02-05 02:03:00
 	Thailand	25		5		0020-02-04 15:33:00
 	Singapore	24				0020-02-04 15:33:00
 	Japan	22		1		0020-02-04 16:43:00
-Hong Kong	Hong Kong	17	1			0020-02-04 09:03:00
+Hong Kong	Hong Kong	18	1			0020-02-05 02:33:00
+Qinghai	Mainland China	17				0020-02-05 01:23:00
 	South Korea	16				0020-02-04 15:33:00
-Qinghai	Mainland China	15				0020-02-04 01:33:00
 	Germany	12				0020-02-03 20:53:00
 Taiwan	Taiwan	11				0020-02-04 14:53:00
 Macau	Macau	10				0020-02-04 04:43:00
