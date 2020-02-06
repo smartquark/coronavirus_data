@@ -4,7 +4,7 @@
 
 |  Sources | Last update (UTC) | Confirmed | Deaths | Recovered |
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
-| [Case Tracking Worksheet](https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview)  | `2020-02-06 19:20:21` | 28,355 | 566 | 1,177 | 
+| [Case Tracking Worksheet](https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview)  | `2020-02-06 19:24:39` | 28,355 | 566 | 1,177 | 
 | [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-06 15:03:04` | 28,542 | 566 | 1,389 | 
 | [JHU-CSSE Time Series](https://docs.google.com/spreadsheets/d/1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo/htmlview?usp=sharing&sle=true#)  | `2020-02-06 14:20:00` | 28,353 |  | 801 | 
 | [BNO News](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)  | `2020-02-06 12:01:00` | 28,281 | 565 | 1,153 | 
