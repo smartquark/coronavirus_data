@@ -4,7 +4,7 @@
 
 |  Sources | Last update (UTC) | Confirmed | Deaths | Recovered |
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
-| [ChannelNewsAsia](https://www.channelnewsasia.com/news/topics/wuhan-virus)  | `2020-02-07 18:49:21` | 31,481 | 638 |  | 
+| [ChannelNewsAsia](https://www.channelnewsasia.com/news/topics/wuhan-virus)  | `2020-02-07 19:49:21` | 31,481 | 638 |  | 
 | [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-07 18:33:02` | 31,596 | 638 | 1,764 | 
 | [BNO News](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)  | `2020-02-07 14:25:00` | 31,533 | 639 | 1,540 | 
 | [Case Tracking Worksheet](https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview)  | `2020-02-07 10:35:14` | 28,355 | 566 | 1,177 | 
