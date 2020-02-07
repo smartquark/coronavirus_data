@@ -48,9 +48,6 @@ Victoria	Australia	4			2020-02-01 18:12:49
 British Columbia	Canada	4			2020-02-07 05:43:03
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
-San Benito, CA	US	2			2020-02-03 03:53:02
-Santa Clara, CA	US	2			2020-02-03 00:43:02
-	Philippines	2	1		2020-02-02 03:33:07
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
@@ -58,11 +55,9 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Russia	2			2020-01-31 16:13:45
 	UK	2			2020-02-01 01:52:40
 Chicago, IL	US	2			2020-02-01 19:43:03
-Boston, MA	US	1			2020-02-01 19:43:03
-Los Angeles, CA	US	1			2020-02-01 19:53:03
-	Belgium	1			2020-02-04 15:43:02
-Madison, WI	US	1			2020-02-05 21:53:02
-	Cambodia	1			2020-01-31 08:15:53
+San Benito, CA	US	2			2020-02-03 03:53:02
+Santa Clara, CA	US	2			2020-02-03 00:43:02
+	Philippines	2	1		2020-02-02 03:33:07
 Orange, CA	US	1			2020-02-01 19:53:03
 London, ON	Canada	1			2020-02-04 00:03:11
 Seattle, WA	US	1			2020-02-01 19:43:03
@@ -73,3 +68,8 @@ Tibet	Mainland China	1			2020-02-01 01:52:40
 	Spain	1			2020-02-01 23:43:02
 	Sri Lanka	1			2020-01-31 08:15:53
 	Sweden	1			2020-02-01 02:13:26
+Boston, MA	US	1			2020-02-01 19:43:03
+Los Angeles, CA	US	1			2020-02-01 19:53:03
+	Belgium	1			2020-02-04 15:43:02
+Madison, WI	US	1			2020-02-05 21:53:02
+	Cambodia	1			2020-01-31 08:15:53
