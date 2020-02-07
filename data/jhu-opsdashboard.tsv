@@ -1,5 +1,5 @@
 Province/State	Country/Region	Confirmed	Deaths	Recovered	Updated
-Hubei	Mainland China	22112	618	867	2020-02-07 14:03:12
+Hubei	Mainland China	24953	699	1115	2020-02-07 23:43:02
 Guangdong	Mainland China	1034	1	88	2020-02-07 10:13:06
 Zhejiang	Mainland China	1006		123	2020-02-07 11:33:11
 Henan	Mainland China	914	3	86	2020-02-07 14:03:12
@@ -15,12 +15,12 @@ Heilongjiang	Mainland China	277	3	12	2020-02-07 07:43:02
 Shanghai	Mainland China	277	1	30	2020-02-07 06:14:15
 Fujian	Mainland China	224		20	2020-02-07 13:23:03
 Shaanxi	Mainland China	184		17	2020-02-07 08:23:09
-Hebei	Mainland China	172	1	22	2020-02-07 12:03:04
 Guangxi	Mainland China	172		17	2020-02-07 00:33:02
+Hebei	Mainland China	172	1	22	2020-02-07 12:03:04
 Yunnan	Mainland China	138		12	2020-02-07 23:23:04
 Hainan	Mainland China	117	2	10	2020-02-07 12:33:02
+Shanxi	Mainland China	104		15	2020-02-07 23:43:02
 Liaoning	Mainland China	99		7	2020-02-07 15:33:03
-Shanxi	Mainland China	96		15	2020-02-07 12:33:02
 Guizhou	Mainland China	81	1	6	2020-02-07 11:13:07
 Tianjin	Mainland China	81	1	2	2020-02-07 05:43:03
 Gansu	Mainland China	67		9	2020-02-07 02:33:06
@@ -47,11 +47,11 @@ Queensland	Australia	5			2020-02-07 01:03:02
 New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
 British Columbia	Canada	4			2020-02-07 05:43:03
-	Philippines	3	1		2020-02-07 16:43:04
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
 	Italy	3			2020-02-07 17:53:02
 	UK	3			2020-02-07 18:33:02
+	Philippines	3	1		2020-02-07 16:43:04
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
@@ -59,13 +59,6 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
-Tibet	Mainland China	1			2020-02-01 01:52:40
-	Nepal	1			2020-01-31 08:15:53
-	Spain	1			2020-02-01 23:43:02
-	Sri Lanka	1			2020-01-31 08:15:53
-	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
-Los Angeles, CA	US	1			2020-02-01 19:53:03
 	Belgium	1			2020-02-04 15:43:02
 Madison, WI	US	1			2020-02-05 21:53:02
 	Cambodia	1			2020-01-31 08:15:53
@@ -74,3 +67,10 @@ London, ON	Canada	1			2020-02-04 00:03:11
 Seattle, WA	US	1			2020-02-01 19:43:03
 	Finland	1			2020-01-31 08:15:53
 Tempe, AZ	US	1			2020-02-01 19:43:03
+Tibet	Mainland China	1			2020-02-01 01:52:40
+	Nepal	1			2020-01-31 08:15:53
+	Spain	1			2020-02-01 23:43:02
+	Sri Lanka	1			2020-01-31 08:15:53
+	Sweden	1			2020-02-01 02:13:26
+Boston, MA	US	1			2020-02-01 19:43:03
+Los Angeles, CA	US	1			2020-02-01 19:53:03
