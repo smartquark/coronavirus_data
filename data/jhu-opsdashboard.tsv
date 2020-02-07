@@ -4,7 +4,7 @@ Guangdong	Mainland China	1018	1	69	2020-02-07 01:43:02
 Zhejiang	Mainland China	1006		98	2020-02-07 01:23:02
 Henan	Mainland China	914	3	70	2020-02-07 04:13:20
 Hunan	Mainland China	772		91	2020-02-07 01:33:02
-Anhui	Mainland China	665		34	2020-02-07 01:03:02
+Anhui	Mainland China	665		47	2020-02-07 05:13:07
 Jiangxi	Mainland China	661		45	2020-02-07 01:23:02
 Chongqing	Mainland China	411	2	24	2020-02-06 23:33:02
 Jiangsu	Mainland China	408		38	2020-02-07 01:13:17
@@ -47,24 +47,17 @@ New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
-British Columbia	Canada	2			2020-02-05 17:33:03
-Toronto	Canada	2			2020-02-04 00:03:11
-Toronto, ON	Canada	2			2020-02-04 00:13:06
-	Italy	2			2020-01-31 08:15:53
-	Russia	2			2020-01-31 16:13:45
 	UK	2			2020-02-01 01:52:40
 Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
 	Philippines	2	1		2020-02-02 03:33:07
 South Australia	Australia	2			2020-02-02 22:33:07
-Orange, CA	US	1			2020-02-01 19:53:03
-London, ON	Canada	1			2020-02-04 00:03:11
-Seattle, WA	US	1			2020-02-01 19:43:03
-	Finland	1			2020-01-31 08:15:53
-Tempe, AZ	US	1			2020-02-01 19:43:03
-Tibet	Mainland China	1			2020-02-01 01:52:40
-	Nepal	1			2020-01-31 08:15:53
+British Columbia	Canada	2			2020-02-05 17:33:03
+Toronto	Canada	2			2020-02-04 00:03:11
+Toronto, ON	Canada	2			2020-02-04 00:13:06
+	Italy	2			2020-01-31 08:15:53
+	Russia	2			2020-01-31 16:13:45
 	Spain	1			2020-02-01 23:43:02
 	Sri Lanka	1			2020-01-31 08:15:53
 	Sweden	1			2020-02-01 02:13:26
@@ -73,3 +66,10 @@ Los Angeles, CA	US	1			2020-02-01 19:53:03
 	Belgium	1			2020-02-04 15:43:02
 Madison, WI	US	1			2020-02-05 21:53:02
 	Cambodia	1			2020-01-31 08:15:53
+Orange, CA	US	1			2020-02-01 19:53:03
+London, ON	Canada	1			2020-02-04 00:03:11
+Seattle, WA	US	1			2020-02-01 19:43:03
+	Finland	1			2020-01-31 08:15:53
+Tempe, AZ	US	1			2020-02-01 19:43:03
+Tibet	Mainland China	1			2020-02-01 01:52:40
+	Nepal	1			2020-01-31 08:15:53
