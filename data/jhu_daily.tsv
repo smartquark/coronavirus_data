@@ -1077,32 +1077,32 @@ date	province/state	country/region	confirmed	deaths	recovered	updated
 2020-02-06	Orange, CA	US	1			0020-02-01 19:53:00
 2020-02-06	Seattle, WA	US	1			0020-02-01 19:43:00
 2020-02-06	Tempe, AZ	US	1			0020-02-01 19:43:00
-2020-02-07	Hubei	Mainland China	19665	549	712	0020-02-06 12:33:00
+2020-02-07	Hubei	Mainland China	22112	618	817	0020-02-06 23:23:00
 2020-02-07	Guangdong	Mainland China	970		69	0020-02-06 12:43:00
 2020-02-07	Zhejiang	Mainland China	954		94	0020-02-06 10:53:00
 2020-02-07	Henan	Mainland China	851	2	56	0020-02-06 11:23:00
 2020-02-07	Hunan	Mainland China	711		81	0020-02-06 13:13:00
 2020-02-07	Jiangxi	Mainland China	600		37	0020-02-06 02:33:00
 2020-02-07	Anhui	Mainland China	591		34	0020-02-06 13:33:00
-2020-02-07	Chongqing	Mainland China	400	2	24	0020-02-06 13:43:00
+2020-02-07	Chongqing	Mainland China	411	2	24	0020-02-06 23:33:00
 2020-02-07	Jiangsu	Mainland China	373		34	0020-02-06 08:03:00
 2020-02-07	Shandong	Mainland China	347		27	0020-02-06 07:53:00
-2020-02-07	Sichuan	Mainland China	321	1	31	0020-02-06 08:03:00
+2020-02-07	Sichuan	Mainland China	344	1	37	0020-02-07 00:53:00
 2020-02-07	Beijing	Mainland China	274	1	31	0020-02-06 03:23:00
-2020-02-07	Shanghai	Mainland China	257	1	25	0020-02-06 06:53:00
+2020-02-07	Shanghai	Mainland China	269	1	25	0020-02-07 00:03:00
 2020-02-07	Heilongjiang	Mainland China	227	3	8	0020-02-06 08:13:00
 2020-02-07	Fujian	Mainland China	215		14	0020-02-06 11:03:00
 2020-02-07	Shaanxi	Mainland China	173		9	0020-02-06 13:53:00
-2020-02-07	Guangxi	Mainland China	168		14	0020-02-06 04:13:00
-2020-02-07	Hebei	Mainland China	157	1	13	0020-02-06 13:53:00
+2020-02-07	Guangxi	Mainland China	172		17	0020-02-07 00:33:00
+2020-02-07	Hebei	Mainland China	171	1	16	0020-02-07 00:43:00
 2020-02-07	Yunnan	Mainland China	133		7	0020-02-06 09:43:00
-2020-02-07	Hainan	Mainland China	106	1	8	0020-02-06 11:13:00
+2020-02-07	Hainan	Mainland China	106	2	8	0020-02-07 00:03:00
+2020-02-07	Shanxi	Mainland China	96		12	0020-02-06 23:03:00
 2020-02-07	Liaoning	Mainland China	94		5	0020-02-06 14:33:00
-2020-02-07	Shanxi	Mainland China	90		12	0020-02-06 14:13:00
-2020-02-07	Tianjin	Mainland China	78	1	2	0020-02-06 06:23:00
+2020-02-07	Tianjin	Mainland China	79	1	2	0020-02-06 23:43:00
 2020-02-07	Guizhou	Mainland China	71	1	6	0020-02-06 09:53:00
+2020-02-07	Jilin	Mainland China	65	1	4	0020-02-07 00:43:00
 2020-02-07	Gansu	Mainland China	62		6	0020-02-05 16:23:00
-2020-02-07	Jilin	Mainland China	59		4	0020-02-06 14:23:00
 2020-02-07	Inner Mongolia	Mainland China	46		4	0020-02-06 02:23:00
 2020-02-07		Japan	45		1	0020-02-06 02:53:00
 2020-02-07	Ningxia	Mainland China	40		1	0020-02-06 02:13:00
