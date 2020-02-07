@@ -6,7 +6,7 @@
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
 | [ChannelNewsAsia](https://www.channelnewsasia.com/news/topics/wuhan-virus)  | `2020-02-07 21:49:21` | 31,481 | 638 |  | 
 | [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-07 18:33:02` | 31,596 | 638 | 1,764 | 
-| [BNO News](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)  | `2020-02-07 15:40:00` | 31,534 | 639 | 1,540 | 
+| [BNO News](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)  | `2020-02-07 17:11:00` | 34,375 | 719 | 1,838 | 
 | [Case Tracking Worksheet](https://docs.google.com/spreadsheets/d/1qbE-UuJYw5V4FkyMZ-LplvUQZlut4oa5Zl3lrSmN_mk/htmlview)  | `2020-02-07 10:35:14` | 28,355 | 566 | 1,177 | 
 | [DXY](https://3g.dxy.cn/newh5/view/pneumonia) (China only) | `2020-02-07 09:14:21` | 31,253 | 637 |  | 
 | [WHO Dashboard](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)  | `2020-02-07 07:43:23` | 31,424 | 638 |  | 
