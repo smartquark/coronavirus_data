@@ -11,8 +11,8 @@ Jiangsu	Mainland China	408		43	2020-02-07 14:03:12
 Shandong	Mainland China	386		37	2020-02-07 11:33:11
 Sichuan	Mainland China	344	1	42	2020-02-07 08:23:09
 Beijing	Mainland China	297	1	33	2020-02-07 03:23:02
-Heilongjiang	Mainland China	277	3	12	2020-02-07 07:43:02
 Shanghai	Mainland China	277	1	30	2020-02-07 06:14:15
+Heilongjiang	Mainland China	277	3	12	2020-02-07 07:43:02
 Fujian	Mainland China	224		20	2020-02-07 13:23:03
 Shaanxi	Mainland China	184		17	2020-02-07 08:23:09
 Hebei	Mainland China	172	1	22	2020-02-07 12:03:04
@@ -21,8 +21,8 @@ Yunnan	Mainland China	136		13	2020-02-07 10:03:05
 Hainan	Mainland China	117	2	10	2020-02-07 12:33:02
 Liaoning	Mainland China	96		7	2020-02-07 12:43:02
 Shanxi	Mainland China	96		15	2020-02-07 12:33:02
-Guizhou	Mainland China	81	1	6	2020-02-07 11:13:07
 Tianjin	Mainland China	81	1	2	2020-02-07 05:43:03
+Guizhou	Mainland China	81	1	6	2020-02-07 11:13:07
 Gansu	Mainland China	67		9	2020-02-07 02:33:06
 Jilin	Mainland China	65	1	4	2020-02-07 00:43:02
 	Others	61			2020-02-07 04:13:20
@@ -43,21 +43,28 @@ Macau	Macau	10		1	2020-02-06 14:23:04
 	France	6			2020-02-01 01:52:40
 Queensland	Australia	5			2020-02-07 01:03:02
 	United Arab Emirates	5			2020-02-02 05:43:01
-New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
 British Columbia	Canada	4			2020-02-07 05:43:03
+New South Wales	Australia	4		2	2020-02-06 03:13:22
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
-South Australia	Australia	2			2020-02-02 22:33:07
-Toronto	Canada	2			2020-02-04 00:03:11
-Toronto, ON	Canada	2			2020-02-04 00:13:06
-	Italy	2			2020-01-31 08:15:53
-	Russia	2			2020-01-31 16:13:45
 	UK	2			2020-02-01 01:52:40
 Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
 	Philippines	2	1		2020-02-02 03:33:07
+South Australia	Australia	2			2020-02-02 22:33:07
+Toronto	Canada	2			2020-02-04 00:03:11
+Toronto, ON	Canada	2			2020-02-04 00:13:06
+	Italy	2			2020-01-31 08:15:53
+	Russia	2			2020-01-31 16:13:45
+	Sri Lanka	1			2020-01-31 08:15:53
+	Sweden	1			2020-02-01 02:13:26
+Boston, MA	US	1			2020-02-01 19:43:03
+Los Angeles, CA	US	1			2020-02-01 19:53:03
+	Belgium	1			2020-02-04 15:43:02
+Madison, WI	US	1			2020-02-05 21:53:02
+	Cambodia	1			2020-01-31 08:15:53
 Orange, CA	US	1			2020-02-01 19:53:03
 London, ON	Canada	1			2020-02-04 00:03:11
 Seattle, WA	US	1			2020-02-01 19:43:03
@@ -66,10 +73,3 @@ Tempe, AZ	US	1			2020-02-01 19:43:03
 Tibet	Mainland China	1			2020-02-01 01:52:40
 	Nepal	1			2020-01-31 08:15:53
 	Spain	1			2020-02-01 23:43:02
-	Sri Lanka	1			2020-01-31 08:15:53
-	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
-Los Angeles, CA	US	1			2020-02-01 19:53:03
-	Belgium	1			2020-02-04 15:43:02
-Madison, WI	US	1			2020-02-05 21:53:02
-	Cambodia	1			2020-01-31 08:15:53
