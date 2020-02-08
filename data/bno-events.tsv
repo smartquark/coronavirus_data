@@ -1,6 +1,6 @@
 location_id	date	description
 1	2019-12-30	Urgent notice on the treatment of pneumonia of unknown cause - Wuhan
-1	2019-12-31	Â 27 people with pneumonia of unknown cause reported to the WHO.
+1	2019-12-31	27 people with pneumonia of unknown cause reported to the WHO.
 1	2020-01-09	WHO confirmed that a novel coronavirus had been isolated from one person who was hospitalised. 41 cases confirmed.
 1	2020-01-19	198 cases, 3 deaths
 1	2020-01-20	1 more death confirmed.
@@ -20,13 +20,13 @@ location_id	date	description
 1	2020-02-03	+1,033, highest daily number of cases. 41 deaths, highest daily number of deaths.
 1	2020-02-04	+1,242, 48 deaths.
 1	2020-02-05	+1,967, 49 deaths.
-1	2020-02-06	+1,766, more than 10,000 cases. 53 deaths, including doctor Li Wenliang.Â 
+1	2020-02-06	+1,766, more than 10,000 cases. 53 deaths, including doctor Li Wenliang. 
 2	2020-01-19	First two confirmed cases of people that visited Wuhan.
 2	2020-01-20	Three more imported cases.
 2	2020-01-21	Five new imported cases.
 2	2020-01-22	Four new cases, imported.
 2	2020-01-23	Eight confirmed cases. 2 locally transmitted. * 4 more cases.
-2	2020-01-24	3 more cases. * 5 more cases.Â * 2 more cases.
+2	2020-01-24	3 more cases. * 5 more cases. * 2 more cases.
 2	2020-01-25	5 more cases. * 10 more cases.
 2	2020-01-26	3 more cases, locally transmitted. * 9 more cases, 3 locally transmitted. * 5 more cases.
 2	2020-01-27	4 more cases. * First death and 8 more cases.
@@ -42,13 +42,13 @@ location_id	date	description
 2	2020-02-06	+21
 3	2020-01-20	First confirmed case (imported).
 3	2020-01-21	Second confirmed case, 4 suspected.
-3	2020-01-21	4 more cases, 3 imported and one transmitted.Â 
+3	2020-01-21	4 more cases, 3 imported and one transmitted. 
 3	2020-01-22	3 more cases.
 3	2020-01-23	7 more cases.
 3	2020-01-23	* 4 more cases.
 3	2020-01-25	13 new cases.
 3	2020-01-25	* First death reported, 7 new cases.
-3	2020-01-27	13 new cases, 12 of the 53 cases were locally transmitted and 20 cases were foreigners.Â 
+3	2020-01-27	13 new cases, 12 of the 53 cases were locally transmitted and 20 cases were foreigners. 
 3	2020-01-28	13 new cases.
 3	2020-01-29	14 new cases. * 16 new cases.
 3	2020-01-30	5 new cases. 3rd city outside Hubei reaching 100+ cases. * 11 new cases.
@@ -60,7 +60,7 @@ location_id	date	description
 3	2020-02-05	+21
 3	2020-02-06	+15
 4	2020-01-21	First 12 confirmed cases, including 1 doctor and 4 nurses (human-to-human transmission).
-4	2020-01-22	Hubei starting to report province-wide cases. (See Hubei Province).Â 
+4	2020-01-22	Hubei starting to report province-wide cases. (See Hubei Province). 
 4	2020-01-23	City in lockdown.
 4	2020-01-24	52 new cases reported, largest single day entry besides Wuhan.
 4	2020-01-25	58 new cases added, first time with more newly added cases than Wuhan (46). * First 2 deaths.
@@ -81,7 +81,7 @@ location_id	date	description
 5	2020-01-26	3 more cases.
 5	2020-01-27	One more case.
 5	2020-01-28	One new case.
-5	2020-01-29	2 new cases.Â * 7 new cases. 24 total (red).
+5	2020-01-29	2 new cases. * 7 new cases. 24 total (red).
 5	2020-01-30	4 new cases.
 5	2020-01-31	1 new case. * 4 new cases.
 5	2020-02-01	+6
@@ -127,7 +127,7 @@ location_id	date	description
 8	2020-02-01	1 new case.
 8	2020-02-03	+1, 20 total (red).
 8	2020-02-06	+1
-9	2020-01-23	Partial lockdown, closure of railway system.Â 
+9	2020-01-23	Partial lockdown, closure of railway system. 
 9	2020-01-24	First confirmed case.
 9	2020-01-26	In full lockdown.
 9	2020-01-26	* 19 new cases. Total of 20 (red).
@@ -159,7 +159,7 @@ location_id	date	description
 11	2020-01-23	City in lockdown.
 11	2020-01-26	First 5 confirmed cases and one death.
 11	2020-01-28	2 more cases.
-11	2020-01-29	1 new case.Â 
+11	2020-01-29	1 new case. 
 11	2020-01-30	2 new cases.
 11	2020-01-31	2 new cases.
 11	2020-02-01	15 new cases.
@@ -168,7 +168,7 @@ location_id	date	description
 11	2020-02-05	+10
 11	2020-02-06	+10
 12	2020-01-24	City in lockdown.
-12	2020-01-25	First case inÂ Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
+12	2020-01-25	First case in Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
 12	2020-01-25	* First death reported, 31 new cases.
 12	2020-01-26	5 more cases.
 12	2020-01-28	17 new cases.
@@ -266,7 +266,7 @@ location_id	date	description
 19	2020-02-04	+1
 19	2020-02-05	+1
 19	2020-02-06	+3
-20	2020-01-30	First confirmed case in the Philippines, treated atÂ San Lazaro Hospital according to Sen. Christopher Go
+20	2020-01-30	First confirmed case in the Philippines, treated at San Lazaro Hospital according to Sen. Christopher Go
 20	2020-02-02	Second case and first death outside China.
 21	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
 21	2020-01-23	Second confirmed case.
@@ -307,7 +307,7 @@ location_id	date	description
 24	2020-01-31	2 new cases. * 4 new cases.
 24	2020-02-03	+1
 24	2020-02-05	First death in Guizhou.
-25	2020-01-24	First confirmed case.Â 
+25	2020-01-24	First confirmed case. 
 25	2020-01-26	Two more cases.
 25	2020-01-27	2 more cases.
 25	2020-01-31	2 new cases.
