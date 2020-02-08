@@ -1,57 +1,58 @@
 province/state	country/region	confirmed	deaths	recovered	suspected	updated
-Hubei	Mainland China	22112	618	817		0020-02-06 23:23:00
-Guangdong	Mainland China	970		69		0020-02-06 12:43:00
-Zhejiang	Mainland China	954		94		0020-02-06 10:53:00
-Henan	Mainland China	851	2	56		0020-02-06 11:23:00
-Hunan	Mainland China	711		81		0020-02-06 13:13:00
-Jiangxi	Mainland China	600		37		0020-02-06 02:33:00
-Anhui	Mainland China	591		34		0020-02-06 13:33:00
-Chongqing	Mainland China	411	2	24		0020-02-06 23:33:00
-Jiangsu	Mainland China	373		34		0020-02-06 08:03:00
-Shandong	Mainland China	347		27		0020-02-06 07:53:00
-Sichuan	Mainland China	344	1	37		0020-02-07 00:53:00
-Beijing	Mainland China	274	1	31		0020-02-06 03:23:00
-Shanghai	Mainland China	269	1	25		0020-02-07 00:03:00
-Heilongjiang	Mainland China	227	3	8		0020-02-06 08:13:00
-Fujian	Mainland China	215		14		0020-02-06 11:03:00
-Shaanxi	Mainland China	173		9		0020-02-06 13:53:00
+Hubei	Mainland China	22112	618	867		0020-02-07 14:03:00
+Guangdong	Mainland China	1034	1	88		0020-02-07 10:13:00
+Zhejiang	Mainland China	1006		123		0020-02-07 11:33:00
+Henan	Mainland China	914	3	86		0020-02-07 14:03:00
+Hunan	Mainland China	772		112		0020-02-07 11:33:00
+Anhui	Mainland China	665		47		0020-02-07 05:13:00
+Jiangxi	Mainland China	661		45		0020-02-07 01:23:00
+Chongqing	Mainland China	415	2	31		0020-02-07 12:03:00
+Jiangsu	Mainland China	408		43		0020-02-07 14:03:00
+Shandong	Mainland China	386		37		0020-02-07 11:33:00
+Sichuan	Mainland China	344	1	42		0020-02-07 08:23:00
+Beijing	Mainland China	297	1	33		0020-02-07 03:23:00
+Heilongjiang	Mainland China	277	3	12		0020-02-07 07:43:00
+Shanghai	Mainland China	277	1	30		0020-02-07 06:14:00
+Fujian	Mainland China	224		20		0020-02-07 13:23:00
+Shaanxi	Mainland China	184		17		0020-02-07 08:23:00
+Hebei	Mainland China	172	1	22		0020-02-07 12:03:00
 Guangxi	Mainland China	172		17		0020-02-07 00:33:00
-Hebei	Mainland China	171	1	16		0020-02-07 00:43:00
-Yunnan	Mainland China	133		7		0020-02-06 09:43:00
-Hainan	Mainland China	106	2	8		0020-02-07 00:03:00
-Shanxi	Mainland China	96		12		0020-02-06 23:03:00
-Liaoning	Mainland China	94		5		0020-02-06 14:33:00
-Tianjin	Mainland China	79	1	2		0020-02-06 23:43:00
-Guizhou	Mainland China	71	1	6		0020-02-06 09:53:00
+Yunnan	Mainland China	138		12		0020-02-07 23:23:00
+Hainan	Mainland China	117	2	10		0020-02-07 12:33:00
+Liaoning	Mainland China	99		7		0020-02-07 15:33:00
+Shanxi	Mainland China	96		15		0020-02-07 12:33:00
+Guizhou	Mainland China	81	1	6		0020-02-07 11:13:00
+Tianjin	Mainland China	81	1	2		0020-02-07 05:43:00
+Gansu	Mainland China	67		9		0020-02-07 02:33:00
 Jilin	Mainland China	65	1	4		0020-02-07 00:43:00
-Gansu	Mainland China	62		6		0020-02-05 16:23:00
-Inner Mongolia	Mainland China	46		4		0020-02-06 02:23:00
-	Japan	45		1		0020-02-06 02:53:00
-Ningxia	Mainland China	40		1		0020-02-06 02:13:00
-Xinjiang	Mainland China	36				0020-02-06 01:13:00
-	Singapore	28				0020-02-05 16:33:00
+Cruise Ship	Others	61				0020-02-07 16:33:00
+Inner Mongolia	Mainland China	50		5		0020-02-07 11:13:00
+Ningxia	Mainland China	43		5		0020-02-07 11:13:00
+Xinjiang	Mainland China	39				0020-02-07 01:43:00
+	Singapore	30				0020-02-07 03:03:00
+Hong Kong	Hong Kong	25	1			0020-02-07 11:53:00
+	Japan	25		1		0020-02-07 04:13:00
 	Thailand	25		5		0020-02-04 15:33:00
-Hong Kong	Hong Kong	24	1			0020-02-06 14:43:00
-	South Korea	23				0020-02-06 02:53:00
+	South Korea	24		1		0020-02-07 03:03:00
 Qinghai	Mainland China	18		3		0020-02-06 02:13:00
 Taiwan	Taiwan	16		1		0020-02-06 15:03:00
-	Germany	12				0020-02-03 20:53:00
-	Malaysia	12				0020-02-05 15:43:00
+	Germany	13				0020-02-07 16:33:00
+	Malaysia	12		1		0020-02-07 09:13:00
 Macau	Macau	10		1		0020-02-06 14:23:00
 	Vietnam	10		1		0020-02-06 01:13:00
 	France	6				0020-02-01 01:52:00
+Queensland	Australia	5				0020-02-07 01:03:00
 	United Arab Emirates	5				0020-02-02 05:43:00
 New South Wales	Australia	4		2		0020-02-06 03:13:00
-Queensland	Australia	4				0020-02-06 02:53:00
 Victoria	Australia	4				0020-02-01 18:12:00
+British Columbia	Canada	4				0020-02-07 05:43:00
+	Philippines	3	1			0020-02-07 16:43:00
 	India	3				0020-02-03 21:43:00
-	Philippines	2	1			0020-02-02 03:33:00
+	Italy	3				0020-02-07 17:53:00
+	UK	3				0020-02-07 18:33:00
 South Australia	Australia	2				0020-02-02 22:33:00
-British Columbia	Canada	2				0020-02-05 17:33:00
 Toronto, ON	Canada	2				0020-02-04 00:13:00
-	Italy	2				0020-01-31 08:15:00
 	Russia	2				0020-01-31 16:13:00
-	UK	2				0020-02-01 01:52:00
 Chicago, IL	US	2				0020-02-01 19:43:00
 San Benito, CA	US	2				0020-02-03 03:53:00
 Santa Clara, CA	US	2				0020-02-03 00:43:00
