@@ -73,3 +73,5 @@ id	place	region	latitude	longitude	country_first_confirmed_date
 16991	Toronto, ON	Canada	43.653200	-79.383200	2020-01-26
 16994	Tempe, AZ	US	34.048900	-111.094000	2020-01-26
 17039	London, ON	Canada	42.984900	-81.245300	2020-01-31
+19016	San Benito, CA	US	36.576100	-120.987600	2020-02-03
+19025	Cruise Ship	Others	35.443700	129.638000	2020-02-07
