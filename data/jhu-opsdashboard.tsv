@@ -1,5 +1,5 @@
 Province/State	Country/Region	Confirmed	Deaths	Recovered	Updated
-Hubei	Mainland China	24953	699	1123	2020-02-08 06:13:10
+Hubei	Mainland China	24953	699	1124	2020-02-08 07:03:13
 Guangdong	Mainland China	1075	1	105	2020-02-08 05:03:03
 Zhejiang	Mainland China	1048		136	2020-02-08 06:13:10
 Henan	Mainland China	981	4	99	2020-02-08 04:13:07
@@ -7,7 +7,7 @@ Hunan	Mainland China	803		130	2020-02-08 05:33:02
 Anhui	Mainland China	733		57	2020-02-08 05:33:02
 Jiangxi	Mainland China	698		55	2020-02-08 01:23:02
 Jiangsu	Mainland China	439		43	2020-02-08 01:13:04
-Chongqing	Mainland China	426	2	31	2020-02-07 23:33:02
+Chongqing	Mainland China	426	2	32	2020-02-08 07:03:15
 Shandong	Mainland China	407		40	2020-02-08 05:13:06
 Sichuan	Mainland China	363	1	54	2020-02-08 06:33:02
 Beijing	Mainland China	315	2	34	2020-02-08 03:13:09
@@ -20,7 +20,7 @@ Guangxi	Mainland China	183		17	2020-02-08 00:23:03
 Yunnan	Mainland China	138		12	2020-02-07 23:23:04
 Hainan	Mainland China	124	2	11	2020-02-08 02:33:01
 Shanxi	Mainland China	104		15	2020-02-07 23:43:02
-Liaoning	Mainland China	99		7	2020-02-07 15:33:03
+Liaoning	Mainland China	103		7	2020-02-08 07:03:15
 Guizhou	Mainland China	89	1	7	2020-02-08 06:43:03
 Tianjin	Mainland China	88	1	2	2020-02-08 03:33:02
 Gansu	Mainland China	71	1	9	2020-02-08 00:23:03
@@ -37,13 +37,13 @@ Hong Kong	Hong Kong	26	1		2020-02-08 00:03:07
 	South Korea	24		1	2020-02-07 03:03:03
 Qinghai	Mainland China	18		3	2020-02-06 02:13:15
 Taiwan	Taiwan	17		1	2020-02-08 05:23:02
+	Malaysia	15		1	2020-02-08 07:03:16
 	Germany	13			2020-02-07 16:33:03
-	Malaysia	12		1	2020-02-07 09:13:21
 Macau	Macau	10		1	2020-02-06 14:23:04
 	Vietnam	10		1	2020-02-06 01:13:08
+	United Arab Emirates	7			2020-02-08 07:03:16
 	France	6			2020-02-01 01:52:40
 Queensland	Australia	5			2020-02-07 01:03:02
-	United Arab Emirates	5			2020-02-02 05:43:01
 British Columbia	Canada	4			2020-02-07 05:43:03
 New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
