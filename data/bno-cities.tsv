@@ -3,7 +3,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 2	39.9041999	116.4073963	297				Beijing municipality (capital)	CHN
 3	31.230416	121.473701	277				Shanghai municipality	CHN
 4	30.453667	114.872199	1897				Hubei	CHN
-5	30.807667	108.408661	73				Chongqing	CHN
+5	30.807667	108.408661	74				Chongqing	CHN
 6	31.035395	112.199427	553				Hubei	CHN
 7	30.335237	112.239631	885				Hubei	CHN
 8	38.304477	116.838834	23				Hebei	CHN
