@@ -4,7 +4,7 @@
 
 |  Sources | Last update (UTC) | Confirmed | Deaths | Recovered |
 |  :--- |  ---: |  ---: |  ---: |  ---: | 
-| [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-08 08:53:02` | 35,005 | 725 | 2,233 | 
+| [JHU-CSSE Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  | `2020-02-08 09:03:07` | 35,005 | 725 | 2,236 | 
 | [ChannelNewsAsia](https://www.channelnewsasia.com/news/topics/wuhan-virus)  | `2020-02-08 08:49:21` | 34,885 | 724 |  | 
 | [DXY](https://3g.dxy.cn/newh5/view/pneumonia) (China only) | `2020-02-08 07:01:44` | 34,631 | 723 |  | 
 | [WHO Dashboard](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)  | `2020-02-08 06:13:22` | 34,822 | 724 |  | 
