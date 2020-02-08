@@ -167,6 +167,7 @@ location_id	date	description
 11	2020-02-04	+9
 11	2020-02-05	+10
 11	2020-02-06	+10
+11	2020-02-07	+10
 12	2020-01-24	City in lockdown.
 12	2020-01-25	First case in Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
 12	2020-01-25	* First death reported, 31 new cases.
@@ -235,6 +236,7 @@ location_id	date	description
 16	2020-02-04	+2
 16	2020-02-05	+11
 16	2020-02-06	+10
+16	2020-02-07	+25
 17	2020-01-24	First 5 confirmed cases.
 17	2020-01-25	31 new cases (red).
 17	2020-01-26	16 more cases.
