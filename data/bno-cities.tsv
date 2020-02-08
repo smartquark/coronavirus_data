@@ -3,7 +3,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 2	39.9041999	116.4073963	297				Beijing municipality (capital)	CHN
 3	31.230416	121.473701	277				Shanghai municipality	CHN
 4	30.453667	114.872199	1897				Hubei	CHN
-5	30.807667	108.408661	74				Chongqing	CHN
+5	30.807667	108.408661	78				Chongqing	CHN
 6	31.035395	112.199427	553				Hubei	CHN
 7	30.335237	112.239631	885				Hubei	CHN
 8	38.304477	116.838834	23				Hebei	CHN
@@ -20,10 +20,11 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 19	32.009016	112.122426	838				Hubei	CHN
 20	19.738521	110.006755	6				Hainan	CHN
 21	14.5995124	120.9842195	2				NCR	PHL
-22	22.3193039	114.1693611	25				Hong Kong	HKG
+22	22.3193039	114.1693611	26				Hong Kong	HKG
 23	39.3433574	117.3616476	81				Tianjin municipality	CHN
 24	29.841438	114.322439	443				Hubei	CHN
 25	26.592666	104.830359	9				Guizhou	CHN
 26	46.589309	125.103784	13				Heilongjiang	CHN
 27	18.252847	109.511909	32				Hainan	CHN
 28	43.166419	124.350398	10				Jilin	CHN
+29	23.047191	112.465091	15				Guangdong	CHN
