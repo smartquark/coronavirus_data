@@ -273,67 +273,86 @@ location_id	date	description
 18	2020-02-04	+15
 18	2020-02-05	+8, 106 total (purple).
 18	2020-02-06	+4
-19	2020-01-26	First confirmed case.
-19	2020-01-27	First death and second confirmed case.
-19	2020-02-04	+1
-19	2020-02-05	+1
-19	2020-02-06	+3
-20	2020-01-30	First confirmed case in the Philippines, treated at San Lazaro Hospital according to Sen. Christopher Go
-20	2020-02-02	Second case and first death outside China.
-21	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
-21	2020-01-23	Second confirmed case.
-21	2020-01-25	Three more cases.
-21	2020-01-26	One more case. * 2 more cases, a previous case was transmitted by family member, unclear where.
-21	2020-01-30	2 new cases. * 2 new cases.
-21	2020-01-31	1 new case.
-21	2020-02-01	+1
-21	2020-02-02	+1
-21	2020-02-04	+3
-21	2020-02-05	+3, 21 total (red).
-21	2020-02-06	+3
-22	2020-01-21	First 2 confirmed cases (imported).
-22	2020-01-22	Two more cases
-22	2020-01-24	Two more cases, railway workers colleagues of 2nd case. * One more case. * One more case.
-22	2020-01-25	One more case, locally transmitted by 3rd case.
-22	2020-01-26	3 more cases.
-22	2020-01-27	5 more cases. * 5 more cases/ 23 total (red).
-22	2020-01-28	1 new case.
-22	2020-01-29	1 new case. * 2 new cases.
-22	2020-01-30	4 new cases.
+19	2020-01-25	First 2 confirmed cases.
+19	2020-01-26	34 new cases (red).
+19	2020-01-28	34 new cases.
+19	2020-01-29	61 new cases.
+19	2020-01-30	32 new cases.
+19	2020-01-31	123 new cases.
+19	2020-02-01	61 new cases.
+19	2020-02-02	+94
+19	2020-02-03	+107
+19	2020-02-04	+84, first death.
+19	2020-02-05	+103, 1 death.
+19	2020-02-06	+52
+19	2020-02-07	+51,1 death.
+20	2020-01-26	First confirmed case.
+20	2020-01-27	First death and second confirmed case.
+20	2020-02-04	+1
+20	2020-02-05	+1
+20	2020-02-06	+3
+21	2020-01-30	First confirmed case in the Philippines, treated at San Lazaro Hospital according to Sen. Christopher Go
+21	2020-02-02	Second case and first death outside China.
+22	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
+22	2020-01-23	Second confirmed case.
+22	2020-01-25	Three more cases.
+22	2020-01-26	One more case. * 2 more cases, a previous case was transmitted by family member, unclear where.
+22	2020-01-30	2 new cases. * 2 new cases.
 22	2020-01-31	1 new case.
-22	2020-02-01	+9
-22	2020-02-02	+7
-22	2020-02-03	+12
-22	2020-02-04	+7
-22	2020-02-05	+2. First death.
-22	2020-02-06	+10
-23	2020-01-31	25 confirmed cases. Plus 130 from previous updates.
-23	2020-02-01	40 new cases.
-23	2020-02-02	+40
-23	2020-02-03	+50
-23	2020-02-04	+52
-23	2020-02-05	+36
-23	2020-02-06	+15. First death.
-23	2020-02-07	+44
-24	2020-01-27	First confirmed case.
-24	2020-01-28	One new case.
-24	2020-01-31	2 new cases. * 4 new cases.
-24	2020-02-03	+1
-24	2020-02-05	First death in Guizhou.
-25	2020-01-24	First confirmed case. 
-25	2020-01-26	Two more cases.
-25	2020-01-27	2 more cases.
-25	2020-01-31	2 new cases.
-25	2020-02-01	+1
-25	2020-02-03	+3
-25	2020-02-06	+2. First death.
-26	2020-01-22	First confirmed case (imported).
-26	2020-01-23	One more case.
-26	2020-01-25	3 more cases.
-26	2020-01-25	* 1 more case.
-26	2020-01-26	2 more cases.
-26	2020-01-27	2 more cases. * 1 more case.
-26	2020-01-28	3 new cases.
-26	2020-02-01	-02: +3
-26	2020-02-05	+4, 22 total (red). First city in Hainan with more than 20 cases. +8 cases.
+22	2020-02-01	+1
+22	2020-02-02	+1
+22	2020-02-04	+3
+22	2020-02-05	+3, 21 total (red).
+22	2020-02-06	+3
+23	2020-01-21	First 2 confirmed cases (imported).
+23	2020-01-22	Two more cases
+23	2020-01-24	Two more cases, railway workers colleagues of 2nd case. * One more case. * One more case.
+23	2020-01-25	One more case, locally transmitted by 3rd case.
+23	2020-01-26	3 more cases.
+23	2020-01-27	5 more cases. * 5 more cases/ 23 total (red).
+23	2020-01-28	1 new case.
+23	2020-01-29	1 new case. * 2 new cases.
+23	2020-01-30	4 new cases.
+23	2020-01-31	1 new case.
+23	2020-02-01	+9
+23	2020-02-02	+7
+23	2020-02-03	+12
+23	2020-02-04	+7
+23	2020-02-05	+2. First death.
+23	2020-02-06	+10
+24	2020-01-31	25 confirmed cases. Plus 130 from previous updates.
+24	2020-02-01	40 new cases.
+24	2020-02-02	+40
+24	2020-02-03	+50
+24	2020-02-04	+52
+24	2020-02-05	+36
+24	2020-02-06	+15. First death.
+24	2020-02-07	+44
+25	2020-01-27	First confirmed case.
+25	2020-01-28	One new case.
+25	2020-01-31	2 new cases. * 4 new cases.
+25	2020-02-03	+1
+25	2020-02-05	First death in Guizhou.
+26	2020-01-24	First confirmed case. 
+26	2020-01-26	Two more cases.
+26	2020-01-27	2 more cases.
+26	2020-01-31	2 new cases.
+26	2020-02-01	+1
+26	2020-02-03	+3
 26	2020-02-06	+2. First death.
+27	2020-01-22	First confirmed case (imported).
+27	2020-01-23	One more case.
+27	2020-01-25	3 more cases.
+27	2020-01-25	* 1 more case.
+27	2020-01-26	2 more cases.
+27	2020-01-27	2 more cases. * 1 more case.
+27	2020-01-28	3 new cases.
+27	2020-02-01	-02: +3
+27	2020-02-05	+4, 22 total (red). First city in Hainan with more than 20 cases. +8 cases.
+27	2020-02-06	+2. First death.
+28	2020-01-27	First confirmed case.
+28	2020-02-03	+3
+28	2020-02-04	+3
+28	2020-02-05	+1
+28	2020-02-06	+1
+28	2020-02-07	+1. First death in Jilin province.
