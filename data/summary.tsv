@@ -1,8 +1,8 @@
 source	updated	confirmed	deaths	recovered	
 cna	2020-02-09 18:49:21	37571	813		
 jhu-opsdashboard	2020-02-09 15:03:05	37719	814	2922	
+jhu-timeseries	2020-02-09 10:30:00	37592	814		
 who	2020-02-09 06:28:23	37499	813		
 case_tracking	2020-02-09 04:20:57	28355	566	1177	
-jhu-timeseries	2020-02-08 23:04:00		813		
 dxy-total	2020-02-08 07:01:44	34631	723		
 bnonews-total	2020-02-07 19:33:00	34878	724	2050	
