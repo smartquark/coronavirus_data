@@ -20,7 +20,7 @@ Guangxi	Mainland China	195	1	18	2020-02-09 00:33:07
 Yunnan	Mainland China	141		18	2020-02-09 08:53:02
 Hainan	Mainland China	130	3	16	2020-02-09 10:23:12
 Shanxi	Mainland China	115		22	2020-02-09 09:03:04
-Liaoning	Mainland China	106		12	2020-02-09 11:13:28
+Liaoning	Mainland China	107		12	2020-02-09 12:23:03
 Guizhou	Mainland China	99	1	7	2020-02-09 09:53:02
 Tianjin	Mainland China	90	1	4	2020-02-09 04:03:07
 Gansu	Mainland China	79	1	15	2020-02-09 11:13:28
@@ -29,8 +29,8 @@ Jilin	Mainland China	78	1	12	2020-02-09 09:03:04
 	Others	61			2020-02-07 04:13:20
 Cruise Ship	Others	61			2020-02-07 16:33:03
 Inner Mongolia	Mainland China	54		5	2020-02-09 02:23:07
-Xinjiang	Mainland China	45			2020-02-09 01:23:08
 Ningxia	Mainland China	45		13	2020-02-09 02:03:11
+Xinjiang	Mainland China	45			2020-02-09 01:23:08
 	Singapore	40		2	2020-02-09 02:43:02
 	Thailand	32		10	2020-02-08 12:53:01
 Hong Kong	Hong Kong	29	1		2020-02-09 09:53:02
@@ -60,8 +60,6 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
-London, ON	Canada	1			2020-02-04 00:03:11
-Seattle, WA	US	1		1	2020-02-09 07:03:04
 	Finland	1			2020-01-31 08:15:53
 Tempe, AZ	US	1			2020-02-01 19:43:03
 Tibet	Mainland China	1			2020-02-01 01:52:40
@@ -75,3 +73,5 @@ Los Angeles, CA	US	1			2020-02-01 19:53:03
 Madison, WI	US	1			2020-02-05 21:53:02
 	Cambodia	1			2020-01-31 08:15:53
 Orange, CA	US	1			2020-02-01 19:53:03
+London, ON	Canada	1			2020-02-04 00:03:11
+Seattle, WA	US	1		1	2020-02-09 07:03:04
