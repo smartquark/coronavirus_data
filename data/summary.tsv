@@ -1,6 +1,6 @@
 source	updated	confirmed	deaths	recovered	
-jhu-opsdashboard	2020-02-09 03:33:02	37591	813	2696	
-cna	2020-02-09 02:49:21	37045	813		
+cna	2020-02-09 03:49:21	37045	813		
+jhu-opsdashboard	2020-02-09 03:43:02	37613	813	2701	
 case_tracking	2020-02-08 16:50:56	28355	566	1177	
 jhu-timeseries	2020-02-08 10:24:00		725		
 dxy-total	2020-02-08 07:01:44	34631	723		
