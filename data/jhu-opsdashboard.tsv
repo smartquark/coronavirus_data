@@ -1,5 +1,5 @@
 Province/State	Country/Region	Confirmed	Deaths	Recovered	Updated
-Hubei	Mainland China	27100	780	1480	2020-02-09 11:13:28
+Hubei	Mainland China	29631	871	1795	2020-02-09 23:33:02
 Guangdong	Mainland China	1131	1	141	2020-02-09 15:03:05
 Zhejiang	Mainland China	1075		201	2020-02-09 12:03:04
 Henan	Mainland China	1033	6	153	2020-02-09 11:23:08
@@ -23,7 +23,7 @@ Shanxi	Mainland China	115		22	2020-02-09 09:03:04
 Liaoning	Mainland China	107		12	2020-02-09 12:23:03
 Guizhou	Mainland China	99	1	7	2020-02-09 09:53:02
 Tianjin	Mainland China	90	1	4	2020-02-09 04:03:07
-Gansu	Mainland China	79	1	15	2020-02-09 11:13:28
+Gansu	Mainland China	83	2	16	2020-02-09 23:33:02
 Jilin	Mainland China	78	1	12	2020-02-09 09:03:04
 \"Diamond Princess\" cruise ship	Others	64			2020-02-09 06:13:11
 	Others	61			2020-02-07 04:13:20
@@ -53,17 +53,14 @@ Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
 	Italy	3			2020-02-07 17:53:02
 	UK	3			2020-02-07 18:33:02
-South Australia	Australia	2			2020-02-02 22:33:07
-Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Russia	2			2020-01-31 16:13:45
 	Spain	2			2020-02-09 20:33:03
 Chicago, IL	US	2		2	2020-02-09 19:03:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
-Tempe, AZ	US	1			2020-02-01 19:43:03
-	Finland	1			2020-01-31 08:15:53
-Tibet	Mainland China	1			2020-02-01 01:52:40
+South Australia	Australia	2			2020-02-02 22:33:07
+Toronto	Canada	2			2020-02-04 00:03:11
 	Nepal	1			2020-01-31 08:15:53
 	Sri Lanka	1		1	2020-02-08 03:43:03
 	Sweden	1			2020-02-01 02:13:26
@@ -75,3 +72,6 @@ Orange, CA	US	1			2020-02-01 19:53:03
 	Cambodia	1			2020-01-31 08:15:53
 Seattle, WA	US	1		1	2020-02-09 07:03:04
 London, ON	Canada	1			2020-02-04 00:03:11
+Tempe, AZ	US	1			2020-02-01 19:43:03
+	Finland	1			2020-01-31 08:15:53
+Tibet	Mainland China	1			2020-02-01 01:52:40
