@@ -8,7 +8,7 @@ Anhui	Mainland China	779	1	68	2020-02-09 06:23:06
 Jiangxi	Mainland China	740		72	2020-02-09 01:23:08
 Jiangsu	Mainland China	468		69	2020-02-09 07:13:15
 Chongqing	Mainland China	446	2	48	2020-02-09 07:23:03
-Shandong	Mainland China	435	1	56	2020-02-09 07:23:03
+Shandong	Mainland China	444	1	56	2020-02-09 08:13:06
 Sichuan	Mainland China	386	1	60	2020-02-09 01:13:06
 Beijing	Mainland China	326	2	37	2020-02-09 03:43:02
 Heilongjiang	Mainland China	307	6	13	2020-02-09 01:03:14
@@ -53,13 +53,15 @@ Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
 	Italy	3			2020-02-07 17:53:02
 	UK	3			2020-02-07 18:33:02
+South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Russia	2			2020-01-31 16:13:45
 Chicago, IL	US	2			2020-02-01 19:43:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
-South Australia	Australia	2			2020-02-02 22:33:07
+Tempe, AZ	US	1			2020-02-01 19:43:03
+Tibet	Mainland China	1			2020-02-01 01:52:40
 	Nepal	1			2020-01-31 08:15:53
 	Spain	1			2020-02-01 23:43:02
 	Sri Lanka	1		1	2020-02-08 03:43:03
@@ -73,5 +75,3 @@ Orange, CA	US	1			2020-02-01 19:53:03
 London, ON	Canada	1			2020-02-04 00:03:11
 Seattle, WA	US	1		1	2020-02-09 07:03:04
 	Finland	1			2020-01-31 08:15:53
-Tempe, AZ	US	1			2020-02-01 19:43:03
-Tibet	Mainland China	1			2020-02-01 01:52:40
