@@ -1220,41 +1220,41 @@ date	province/state	country/region	confirmed	deaths	recovered	updated
 2020-02-08	Orange, CA	US	1			0020-02-01 19:53:00
 2020-02-08	Seattle, WA	US	1			0020-02-01 19:43:00
 2020-02-08	Tempe, AZ	US	1			0020-02-01 19:43:00
-2020-02-09	Hubei	Mainland China	24953	699	1218	0020-02-08 14:03:00
-2020-02-09	Guangdong	Mainland China	1095	1	112	0020-02-08 11:53:00
-2020-02-09	Zhejiang	Mainland China	1048		175	0020-02-08 10:53:00
-2020-02-09	Henan	Mainland China	981	4	116	0020-02-08 14:13:00
-2020-02-09	Hunan	Mainland China	803	1	156	0020-02-08 12:53:00
-2020-02-09	Anhui	Mainland China	733		59	0020-02-08 07:43:00
-2020-02-09	Jiangxi	Mainland China	698		55	0020-02-08 01:23:00
-2020-02-09	Jiangsu	Mainland China	439		51	0020-02-08 10:23:00
-2020-02-09	Chongqing	Mainland China	428	2	39	0020-02-08 11:03:00
-2020-02-09	Shandong	Mainland China	416		44	0020-02-08 11:33:00
-2020-02-09	Sichuan	Mainland China	364	1	60	0020-02-08 15:23:00
-2020-02-09	Beijing	Mainland China	315	2	34	0020-02-08 03:13:00
-2020-02-09	Heilongjiang	Mainland China	295	5	13	0020-02-08 04:03:00
-2020-02-09	Shanghai	Mainland China	286	1	41	0020-02-08 06:33:00
-2020-02-09	Fujian	Mainland China	239		24	0020-02-08 08:13:00
-2020-02-09	Hebei	Mainland China	195	1	30	0020-02-08 11:33:00
-2020-02-09	Shaanxi	Mainland China	195		20	0020-02-08 10:13:00
-2020-02-09	Guangxi	Mainland China	183		17	0020-02-08 00:23:00
-2020-02-09	Yunnan	Mainland China	138		17	0020-02-08 08:43:00
-2020-02-09	Hainan	Mainland China	124	2	14	0020-02-08 10:23:00
+2020-02-09	Hubei	Mainland China	27100	780	1440	0020-02-09 03:03:00
+2020-02-09	Guangdong	Mainland China	1120	1	125	0020-02-09 01:53:00
+2020-02-09	Zhejiang	Mainland China	1075		185	0020-02-09 03:03:00
+2020-02-09	Henan	Mainland China	1033	6	131	0020-02-09 01:13:00
+2020-02-09	Hunan	Mainland China	838	1	159	0020-02-09 01:13:00
+2020-02-09	Anhui	Mainland China	779	1	59	0020-02-09 01:23:00
+2020-02-09	Jiangxi	Mainland China	740		72	0020-02-09 01:23:00
+2020-02-09	Jiangsu	Mainland China	468		58	0020-02-09 03:33:00
+2020-02-09	Chongqing	Mainland China	446	2	39	0020-02-09 00:43:00
+2020-02-09	Shandong	Mainland China	435	1	50	0020-02-09 02:13:00
+2020-02-09	Sichuan	Mainland China	386	1	60	0020-02-09 01:13:00
+2020-02-09	Beijing	Mainland China	326	2	37	0020-02-09 03:43:00
+2020-02-09	Heilongjiang	Mainland China	307	6	13	0020-02-09 01:03:00
+2020-02-09	Shanghai	Mainland China	292	1	41	0020-02-09 01:33:00
+2020-02-09	Fujian	Mainland China	250		26	0020-02-09 03:43:00
+2020-02-09	Shaanxi	Mainland China	208		25	0020-02-09 03:03:00
+2020-02-09	Hebei	Mainland China	206	2	30	0020-02-09 01:03:00
+2020-02-09	Guangxi	Mainland China	195	1	18	0020-02-09 00:33:00
+2020-02-09	Yunnan	Mainland China	140		17	0020-02-09 00:13:00
+2020-02-09	Hainan	Mainland China	128	2	15	0020-02-09 01:53:00
+2020-02-09	Shanxi	Mainland China	115		21	0020-02-08 23:53:00
 2020-02-09	Liaoning	Mainland China	105		8	0020-02-08 11:53:00
-2020-02-09	Shanxi	Mainland China	104		20	0020-02-08 07:13:00
-2020-02-09	Guizhou	Mainland China	89	1	7	0020-02-08 06:43:00
-2020-02-09	Tianjin	Mainland China	88	1	4	0020-02-08 08:23:00
+2020-02-09	Guizhou	Mainland China	96	1	7	0020-02-09 01:23:00
+2020-02-09	Tianjin	Mainland China	90	1	4	0020-02-09 04:03:00
 2020-02-09	Gansu	Mainland China	79	1	12	0020-02-08 15:13:00
-2020-02-09	Jilin	Mainland China	69	1	4	0020-02-08 00:13:00
+2020-02-09	Jilin	Mainland China	78	1	5	0020-02-09 00:53:00
 2020-02-09	Cruise Ship	Others	61			0020-02-07 16:33:00
-2020-02-09	Inner Mongolia	Mainland China	52		5	0020-02-08 03:33:00
-2020-02-09	Ningxia	Mainland China	45		15	0020-02-08 09:13:00
-2020-02-09	Xinjiang	Mainland China	42			0020-02-08 03:23:00
-2020-02-09		Singapore	33		2	0020-02-08 12:53:00
+2020-02-09	Inner Mongolia	Mainland China	54		5	0020-02-09 02:23:00
+2020-02-09	Ningxia	Mainland China	45		13	0020-02-09 02:03:00
+2020-02-09	Xinjiang	Mainland China	45			0020-02-09 01:23:00
+2020-02-09		Singapore	40		2	0020-02-09 02:43:00
 2020-02-09		Thailand	32		10	0020-02-08 12:53:00
 2020-02-09	Hong Kong	Hong Kong	26	1		0020-02-08 00:03:00
 2020-02-09		Japan	25		1	0020-02-07 04:13:00
-2020-02-09		South Korea	24		1	0020-02-07 03:03:00
+2020-02-09		South Korea	25		3	0020-02-09 02:33:00
 2020-02-09	Qinghai	Mainland China	18		3	0020-02-06 02:13:00
 2020-02-09	Taiwan	Taiwan	17		1	0020-02-08 05:23:00
 2020-02-09		Malaysia	16		1	0020-02-08 10:23:00
