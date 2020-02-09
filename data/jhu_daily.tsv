@@ -1292,45 +1292,45 @@ date	province/state	country/region	confirmed	deaths	recovered	updated
 2020-02-09	Orange, CA	US	1			0020-02-01 19:53:00
 2020-02-09	Seattle, WA	US	1			0020-02-01 19:43:00
 2020-02-09	Tempe, AZ	US	1			0020-02-01 19:43:00
-2020-02-10	Hubei	Mainland China	27100	780	1440	0020-02-09 03:03:00
-2020-02-10	Guangdong	Mainland China	1120	1	125	0020-02-09 01:53:00
-2020-02-10	Zhejiang	Mainland China	1075		185	0020-02-09 03:03:00
-2020-02-10	Henan	Mainland China	1033	6	131	0020-02-09 01:13:00
-2020-02-10	Hunan	Mainland China	838	1	159	0020-02-09 01:13:00
-2020-02-10	Anhui	Mainland China	779	1	59	0020-02-09 01:23:00
-2020-02-10	Jiangxi	Mainland China	740		72	0020-02-09 01:23:00
-2020-02-10	Jiangsu	Mainland China	468		58	0020-02-09 03:33:00
-2020-02-10	Chongqing	Mainland China	446	2	39	0020-02-09 00:43:00
-2020-02-10	Shandong	Mainland China	435	1	50	0020-02-09 02:13:00
-2020-02-10	Sichuan	Mainland China	386	1	60	0020-02-09 01:13:00
+2020-02-10	Hubei	Mainland China	27100	780	1480	0020-02-09 11:13:00
+2020-02-10	Guangdong	Mainland China	1131	1	141	0020-02-09 15:03:00
+2020-02-10	Zhejiang	Mainland China	1075		201	0020-02-09 12:03:00
+2020-02-10	Henan	Mainland China	1033	6	153	0020-02-09 11:23:00
+2020-02-10	Hunan	Mainland China	838	1	186	0020-02-09 12:33:00
+2020-02-10	Anhui	Mainland China	779	1	72	0020-02-09 09:33:00
+2020-02-10	Jiangxi	Mainland China	740		73	0020-02-09 11:33:00
+2020-02-10	Jiangsu	Mainland China	468		71	0020-02-09 10:23:00
+2020-02-10	Chongqing	Mainland China	450	2	50	0020-02-09 12:13:00
+2020-02-10	Shandong	Mainland China	444	1	63	0020-02-09 15:03:00
+2020-02-10	Sichuan	Mainland China	386	1	71	0020-02-09 12:43:00
 2020-02-10	Beijing	Mainland China	326	2	37	0020-02-09 03:43:00
-2020-02-10	Heilongjiang	Mainland China	307	6	13	0020-02-09 01:03:00
-2020-02-10	Shanghai	Mainland China	292	1	41	0020-02-09 01:33:00
-2020-02-10	Fujian	Mainland China	250		26	0020-02-09 03:43:00
+2020-02-10	Heilongjiang	Mainland China	307	6	14	0020-02-09 08:43:00
+2020-02-10	Shanghai	Mainland China	293	1	44	0020-02-09 06:33:00
+2020-02-10	Fujian	Mainland China	250		35	0020-02-09 09:13:00
 2020-02-10	Shaanxi	Mainland China	208		25	0020-02-09 03:03:00
-2020-02-10	Hebei	Mainland China	206	2	30	0020-02-09 01:03:00
+2020-02-10	Hebei	Mainland China	206	2	34	0020-02-09 12:43:00
 2020-02-10	Guangxi	Mainland China	195	1	18	0020-02-09 00:33:00
-2020-02-10	Yunnan	Mainland China	140		17	0020-02-09 00:13:00
-2020-02-10	Hainan	Mainland China	128	2	15	0020-02-09 01:53:00
-2020-02-10	Shanxi	Mainland China	115		21	0020-02-08 23:53:00
-2020-02-10	Liaoning	Mainland China	105		8	0020-02-08 11:53:00
-2020-02-10	Guizhou	Mainland China	96	1	7	0020-02-09 01:23:00
+2020-02-10	Yunnan	Mainland China	141		18	0020-02-09 08:53:00
+2020-02-10	Hainan	Mainland China	131	3	19	0020-02-09 13:33:00
+2020-02-10	Shanxi	Mainland China	115		22	0020-02-09 09:03:00
+2020-02-10	Liaoning	Mainland China	107		12	0020-02-09 12:23:00
+2020-02-10	Guizhou	Mainland China	99	1	7	0020-02-09 09:53:00
 2020-02-10	Tianjin	Mainland China	90	1	4	0020-02-09 04:03:00
-2020-02-10	Gansu	Mainland China	79	1	12	0020-02-08 15:13:00
-2020-02-10	Jilin	Mainland China	78	1	5	0020-02-09 00:53:00
-2020-02-10	Cruise Ship	Others	61			0020-02-07 16:33:00
+2020-02-10	Gansu	Mainland China	79	1	15	0020-02-09 11:13:00
+2020-02-10	Jilin	Mainland China	78	1	12	0020-02-09 09:03:00
+2020-02-10	Diamond Princess cruise ship	Others	64			0020-02-09 06:13:00
 2020-02-10	Inner Mongolia	Mainland China	54		5	0020-02-09 02:23:00
 2020-02-10	Ningxia	Mainland China	45		13	0020-02-09 02:03:00
 2020-02-10	Xinjiang	Mainland China	45			0020-02-09 01:23:00
 2020-02-10		Singapore	40		2	0020-02-09 02:43:00
 2020-02-10		Thailand	32		10	0020-02-08 12:53:00
-2020-02-10	Hong Kong	Hong Kong	26	1		0020-02-08 00:03:00
-2020-02-10		Japan	25		1	0020-02-07 04:13:00
+2020-02-10	Hong Kong	Hong Kong	29	1		0020-02-09 09:53:00
+2020-02-10		Japan	26		1	0020-02-09 06:13:00
 2020-02-10		South Korea	25		3	0020-02-09 02:33:00
 2020-02-10	Qinghai	Mainland China	18		3	0020-02-06 02:13:00
-2020-02-10	Taiwan	Taiwan	17		1	0020-02-08 05:23:00
+2020-02-10	Taiwan	Taiwan	18		1	0020-02-09 09:13:00
 2020-02-10		Malaysia	16		1	0020-02-08 10:23:00
-2020-02-10		Germany	13			0020-02-07 16:33:00
+2020-02-10		Germany	14			0020-02-09 06:13:00
 2020-02-10		Vietnam	13		1	0020-02-08 07:23:00
 2020-02-10		France	11			0020-02-08 09:53:00
 2020-02-10	Macau	Macau	10		1	0020-02-06 14:23:00
@@ -1362,5 +1362,5 @@ date	province/state	country/region	confirmed	deaths	recovered	updated
 2020-02-10	Los Angeles, CA	US	1			0020-02-01 19:53:00
 2020-02-10	Madison, WI	US	1			0020-02-05 21:53:00
 2020-02-10	Orange, CA	US	1			0020-02-01 19:53:00
-2020-02-10	Seattle, WA	US	1			0020-02-01 19:43:00
+2020-02-10	Seattle, WA	US	1		1	0020-02-09 07:03:00
 2020-02-10	Tempe, AZ	US	1			0020-02-01 19:43:00
