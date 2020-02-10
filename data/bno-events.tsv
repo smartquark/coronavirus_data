@@ -86,7 +86,7 @@ location_id	date	description
 4	2020-02-07	+90, 3 deaths.
 4	2020-02-08	+144, third city to have more than 2k cases. 4 deaths.
 4	2020-02-09	+100, 7 deaths.
-4	2020-02-10	+115
+4	2020-02-10	+115, 2 deaths.
 5	2020-01-21	First 2 confirmed cases.
 5	2020-01-24	One more case.
 5	2020-01-25	7 more cases.
@@ -121,7 +121,7 @@ location_id	date	description
 6	2020-02-07	+45
 6	2020-02-08	+35, 1 death.
 6	2020-02-09	+75, 1 death.
-6	2020-02-10	+12
+6	2020-02-10	+12, 1 death.
 7	2020-01-23	First 6 confirmed cases.
 7	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
 7	2020-01-25	First 2 deaths, 23 more cases.
@@ -139,7 +139,7 @@ location_id	date	description
 7	2020-02-07	+84
 7	2020-02-08	+56, 1 death.
 7	2020-02-09	+56, 2 deaths.
-7	2020-02-10	+48, 1,046 total (black). 5th city with 1k+ cases.
+7	2020-02-10	+48, 1,046 total (black). 5th city with 1k+ cases. 2 deaths.
 8	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
 8	2020-01-25	Second confirmed case.
 8	2020-01-28	3 new cases.
@@ -187,7 +187,7 @@ location_id	date	description
 10	2020-02-07	+42
 10	2020-02-08	+52
 10	2020-02-09	+20
-10	2020-02-10	+37
+10	2020-02-10	+37, 2 deaths.
 11	2020-01-23	City in lockdown.
 11	2020-01-26	First 5 confirmed cases and one death.
 11	2020-01-28	2 more cases.
@@ -220,7 +220,7 @@ location_id	date	description
 12	2020-02-07	+69
 12	2020-02-08	+68
 12	2020-02-09	+57
-12	2020-02-10	+52
+12	2020-02-10	+52, 1 death.
 13	2020-01-24	First confirmed case that resulted in death.
 13	2020-01-24	* City in lockdown.
 13	2020-01-25	19 more cases.
@@ -304,7 +304,7 @@ location_id	date	description
 17	2020-02-07	+81
 17	2020-02-08	+38
 17	2020-02-09	+31
-17	2020-02-10	+65, 1,049 total (black). 6th city with 1k+ cases.
+17	2020-02-10	+65, 1,049 total (black). 6th city with 1k+ cases. 1 death.
 18	2020-01-25	First 8 confirmed cases.
 18	2020-01-26	First confirmed death. 7 more cases.
 18	2020-01-27	4 new cases.
