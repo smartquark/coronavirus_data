@@ -26,8 +26,8 @@ Tianjin	Mainland China	95	1	8	2020-02-10 14:23:08
 Gansu	Mainland China	83	2	17	2020-02-10 07:23:04
 Jilin	Mainland China	80	1	13	2020-02-10 14:03:05
 \"Diamond Princess\" cruise ship	Others	64			2020-02-09 06:13:11
-	Others	61			2020-02-07 04:13:20
 Cruise Ship	Others	61			2020-02-07 16:33:03
+	Others	61			2020-02-07 04:13:20
 Inner Mongolia	Mainland China	58		5	2020-02-10 02:43:05
 Ningxia	Mainland China	49		13	2020-02-10 01:43:02
 Xinjiang	Mainland China	49			2020-02-10 01:13:06
@@ -36,34 +36,31 @@ Hong Kong	Hong Kong	38	1		2020-02-10 10:13:06
 	Thailand	32		10	2020-02-08 12:53:01
 	South Korea	27		3	2020-02-10 03:03:09
 	Japan	26		4	2020-02-10 08:53:01
+Taiwan	Taiwan	18		1	2020-02-09 09:13:11
 Qinghai	Mainland China	18		3	2020-02-06 02:13:15
 	Malaysia	18		1	2020-02-10 03:03:09
-Taiwan	Taiwan	18		1	2020-02-09 09:13:11
 	Germany	14			2020-02-09 06:13:11
 	Vietnam	14		1	2020-02-10 03:03:09
 	France	11			2020-02-08 09:53:01
 Macau	Macau	10		1	2020-02-06 14:23:04
 	United Arab Emirates	7			2020-02-08 07:03:16
 Queensland	Australia	5			2020-02-09 19:33:02
+New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
 British Columbia	Canada	4			2020-02-07 05:43:03
-New South Wales	Australia	4		2	2020-02-06 03:13:22
 	Philippines	3	1		2020-02-07 16:43:04
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
 	Italy	3			2020-02-07 17:53:02
 	UK	3			2020-02-07 18:33:02
-	Russia	2			2020-01-31 16:13:45
-	Spain	2			2020-02-09 20:33:03
-Chicago, IL	US	2		2	2020-02-09 19:03:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
-	Sri Lanka	1		1	2020-02-08 03:43:03
-	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
+	Russia	2			2020-01-31 16:13:45
+	Spain	2			2020-02-09 20:33:03
+Chicago, IL	US	2		2	2020-02-09 19:03:03
 Los Angeles, CA	US	1			2020-02-01 19:53:03
 Madison, WI	US	1			2020-02-05 21:53:02
 	Belgium	1			2020-02-04 15:43:02
@@ -75,3 +72,6 @@ Tempe, AZ	US	1			2020-02-01 19:43:03
 	Finland	1			2020-01-31 08:15:53
 Tibet	Mainland China	1			2020-02-01 01:52:40
 	Nepal	1			2020-01-31 08:15:53
+	Sri Lanka	1		1	2020-02-08 03:43:03
+	Sweden	1			2020-02-01 02:13:26
+Boston, MA	US	1			2020-02-01 19:43:03
