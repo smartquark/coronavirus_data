@@ -20,7 +20,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 19	32.009016	112.122426	1019				Hubei	CHN
 20	19.738521	110.006755	7				Hainan	CHN
 21	14.5995124	120.9842195	2				NCR	PHL
-22	22.3193039	114.1693611	26				Hong Kong	HKG
+22	22.3193039	114.1693611	36				Hong Kong	HKG
 23	39.3433574	117.3616476	94				Tianjin municipality	CHN
 24	29.841438	114.322439	507				Hubei	CHN
 25	26.592666	104.830359	10				Guizhou	CHN
