@@ -423,6 +423,7 @@ location_id	date	description
 31	2020-02-05	+6
 31	2020-02-06	+7
 31	2020-02-07	+5. First death.
+31	2020-02-08	-09: +6
 32	2020-01-28	First confirmed case.
 32	2020-01-30	2 new cases.
 32	2020-01-31	1 new case.
@@ -549,3 +550,24 @@ location_id	date	description
 42	2020-02-06	+4
 42	2020-02-07	+14, 107 total (purple).
 42	2020-02-08	-09: +17. First death.
+43	2020-01-28	First 2 confirmed cases.
+43	2020-02-02	+5
+43	2020-02-03	+1
+43	2020-02-04	+4
+43	2020-02-05	+3
+43	2020-02-06	+2
+43	2020-02-07	+1
+43	2020-02-08	-09: +7, 25 total (red). First death.
+44	2020-01-25	First confirmed case.
+44	2020-01-26	Two more cases.
+44	2020-01-27	One more case.
+44	2020-01-28	2 more cases.
+44	2020-01-29	1 new case.
+44	2020-01-30	4 new cases.
+44	2020-01-31	4 new cases.
+44	2020-02-01	+6, 21 total (red).
+44	2020-02-03	+4
+44	2020-02-04	+6
+44	2020-02-05	+6
+44	2020-02-06	+2
+44	2020-02-08	-09: +7. First death.

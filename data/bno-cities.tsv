@@ -29,7 +29,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 28	43.166419	124.350398	12				Jilin	CHN
 29	23.047191	112.465091	15				Guangdong	CHN
 30	36.061089	103.834303	33				Gansu	CHN
-31	33.766169	113.192661	46				Henan	CHN
+31	33.766169	113.192661	52				Henan	CHN
 32	19.258341	110.474648	6				Hainan	CHN
 33	37.070834	114.504677	21				Hebei	CHN
 34	24.692931	108.085261	21				Guangxi	CHN
@@ -41,3 +41,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 40	25.830694	114.933546	71				Jiangxi	CHN
 41	32.916287	117.389719	126				Anhui	CHN
 42	29.356803	113.12873	124				Hunan	CHN
+43	35.215892	113.241823	25				Henan	CHN
+44	35.303704	113.926763	46				Henan	CHN
