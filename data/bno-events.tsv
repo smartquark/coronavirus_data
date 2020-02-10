@@ -24,6 +24,7 @@ location_id	date	description
 1	2020-02-07	+1,501, 64 deaths.
 1	2020-02-08	+1,985, 67 deaths.
 1	2020-02-09	+1,379, 63 deaths.
+1	2020-02-10	+1,921
 2	2020-01-19	First two confirmed cases of people that visited Wuhan.
 2	2020-01-20	Three more imported cases.
 2	2020-01-21	Five new imported cases.
@@ -85,6 +86,7 @@ location_id	date	description
 4	2020-02-07	+90, 3 deaths.
 4	2020-02-08	+144, third city to have more than 2k cases. 4 deaths.
 4	2020-02-09	+100, 7 deaths.
+4	2020-02-10	+115
 5	2020-01-21	First 2 confirmed cases.
 5	2020-01-24	One more case.
 5	2020-01-25	7 more cases.
@@ -254,6 +256,7 @@ location_id	date	description
 14	2020-02-07	+255, second city with 2k+ cases.
 14	2020-02-08	+172, 1 death.
 14	2020-02-09	+123, 3 deaths.
+14	2020-02-10	+105
 15	2020-01-24	First confirmed case resulting in death.
 15	2020-01-26	Second confirmed case.
 15	2020-01-27	One more case.
@@ -301,6 +304,7 @@ location_id	date	description
 17	2020-02-07	+81
 17	2020-02-08	+38
 17	2020-02-09	+31
+17	2020-02-10	+65, 1,049 total (black). 6th city with 1k+ cases.
 18	2020-01-25	First 8 confirmed cases.
 18	2020-01-26	First confirmed death. 7 more cases.
 18	2020-01-27	4 new cases.
