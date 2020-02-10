@@ -132,6 +132,7 @@ location_id	date	description
 7	2020-02-06	+88, 1 death.
 7	2020-02-07	+84
 7	2020-02-08	+56, 1 death.
+7	2020-02-09	+56
 8	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
 8	2020-01-25	Second confirmed case.
 8	2020-01-28	3 new cases.
@@ -176,6 +177,7 @@ location_id	date	description
 10	2020-02-06	+40, 1 death.
 10	2020-02-07	+42
 10	2020-02-08	+52
+10	2020-02-09	+20
 11	2020-01-23	City in lockdown.
 11	2020-01-26	First 5 confirmed cases and one death.
 11	2020-01-28	2 more cases.
@@ -189,6 +191,7 @@ location_id	date	description
 11	2020-02-06	+10
 11	2020-02-07	+10
 11	2020-02-08	+6, 1 death.
+11	2020-02-09	+2
 12	2020-01-24	City in lockdown.
 12	2020-01-25	First case in Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
 12	2020-01-25	* First death reported, 31 new cases.
@@ -205,6 +208,7 @@ location_id	date	description
 12	2020-02-06	+57
 12	2020-02-07	+69
 12	2020-02-08	+68
+12	2020-02-09	+57
 13	2020-01-24	First confirmed case that resulted in death.
 13	2020-01-24	* City in lockdown.
 13	2020-01-25	19 more cases.
@@ -266,6 +270,7 @@ location_id	date	description
 16	2020-02-06	+10
 16	2020-02-07	+25
 16	2020-02-08	+16
+16	2020-02-09	+18
 17	2020-01-24	First 5 confirmed cases.
 17	2020-01-25	31 new cases (red).
 17	2020-01-26	16 more cases.
@@ -281,6 +286,7 @@ location_id	date	description
 17	2020-02-06	+128, 1 death.
 17	2020-02-07	+81
 17	2020-02-08	+38
+17	2020-02-09	+31
 18	2020-01-25	First 8 confirmed cases.
 18	2020-01-26	First confirmed death. 7 more cases.
 18	2020-01-27	4 new cases.
@@ -358,6 +364,7 @@ location_id	date	description
 24	2020-02-06	+15. First death.
 24	2020-02-07	+44
 24	2020-02-08	+33, 1 death.
+24	2020-02-09	+17
 25	2020-01-27	First confirmed case.
 25	2020-01-28	One new case.
 25	2020-01-31	2 new cases. * 4 new cases.
