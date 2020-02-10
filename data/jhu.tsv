@@ -1,43 +1,43 @@
 province/state	country/region	confirmed	deaths	recovered	suspected	updated
-Hubei	Mainland China	24953	699	1218		0020-02-08 14:03:00
-Guangdong	Mainland China	1095	1	112		0020-02-08 11:53:00
-Zhejiang	Mainland China	1048		175		0020-02-08 10:53:00
-Henan	Mainland China	981	4	116		0020-02-08 14:13:00
-Hunan	Mainland China	803	1	156		0020-02-08 12:53:00
-Anhui	Mainland China	733		59		0020-02-08 07:43:00
-Jiangxi	Mainland China	698		55		0020-02-08 01:23:00
-Jiangsu	Mainland China	439		51		0020-02-08 10:23:00
-Chongqing	Mainland China	428	2	39		0020-02-08 11:03:00
-Shandong	Mainland China	416		44		0020-02-08 11:33:00
-Sichuan	Mainland China	364	1	60		0020-02-08 15:23:00
-Beijing	Mainland China	315	2	34		0020-02-08 03:13:00
-Heilongjiang	Mainland China	295	5	13		0020-02-08 04:03:00
-Shanghai	Mainland China	286	1	41		0020-02-08 06:33:00
-Fujian	Mainland China	239		24		0020-02-08 08:13:00
-Hebei	Mainland China	195	1	30		0020-02-08 11:33:00
-Shaanxi	Mainland China	195		20		0020-02-08 10:13:00
-Guangxi	Mainland China	183		17		0020-02-08 00:23:00
-Yunnan	Mainland China	138		17		0020-02-08 08:43:00
-Hainan	Mainland China	124	2	14		0020-02-08 10:23:00
-Liaoning	Mainland China	105		8		0020-02-08 11:53:00
-Shanxi	Mainland China	104		20		0020-02-08 07:13:00
-Guizhou	Mainland China	89	1	7		0020-02-08 06:43:00
-Tianjin	Mainland China	88	1	4		0020-02-08 08:23:00
-Gansu	Mainland China	79	1	12		0020-02-08 15:13:00
-Jilin	Mainland China	69	1	4		0020-02-08 00:13:00
-Cruise Ship	Others	61				0020-02-07 16:33:00
-Inner Mongolia	Mainland China	52		5		0020-02-08 03:33:00
-Ningxia	Mainland China	45		15		0020-02-08 09:13:00
-Xinjiang	Mainland China	42				0020-02-08 03:23:00
-	Singapore	33		2		0020-02-08 12:53:00
+Hubei	Mainland China	27100	780	1480		0020-02-09 11:13:00
+Guangdong	Mainland China	1131	1	141		0020-02-09 15:03:00
+Zhejiang	Mainland China	1075		201		0020-02-09 12:03:00
+Henan	Mainland China	1033	6	153		0020-02-09 11:23:00
+Hunan	Mainland China	838	1	186		0020-02-09 12:33:00
+Anhui	Mainland China	779	1	72		0020-02-09 09:33:00
+Jiangxi	Mainland China	740		73		0020-02-09 11:33:00
+Jiangsu	Mainland China	468		71		0020-02-09 10:23:00
+Chongqing	Mainland China	450	2	50		0020-02-09 12:13:00
+Shandong	Mainland China	444	1	63		0020-02-09 15:03:00
+Sichuan	Mainland China	386	1	71		0020-02-09 12:43:00
+Beijing	Mainland China	326	2	37		0020-02-09 03:43:00
+Heilongjiang	Mainland China	307	6	14		0020-02-09 08:43:00
+Shanghai	Mainland China	293	1	44		0020-02-09 06:33:00
+Fujian	Mainland China	250		35		0020-02-09 09:13:00
+Shaanxi	Mainland China	208		25		0020-02-09 03:03:00
+Hebei	Mainland China	206	2	34		0020-02-09 12:43:00
+Guangxi	Mainland China	195	1	18		0020-02-09 00:33:00
+Yunnan	Mainland China	141		18		0020-02-09 08:53:00
+Hainan	Mainland China	131	3	19		0020-02-09 13:33:00
+Shanxi	Mainland China	115		22		0020-02-09 09:03:00
+Liaoning	Mainland China	107		12		0020-02-09 12:23:00
+Guizhou	Mainland China	99	1	7		0020-02-09 09:53:00
+Tianjin	Mainland China	90	1	4		0020-02-09 04:03:00
+Gansu	Mainland China	79	1	15		0020-02-09 11:13:00
+Jilin	Mainland China	78	1	12		0020-02-09 09:03:00
+Diamond Princess cruise ship	Others	64				0020-02-09 06:13:00
+Inner Mongolia	Mainland China	54		5		0020-02-09 02:23:00
+Ningxia	Mainland China	45		13		0020-02-09 02:03:00
+Xinjiang	Mainland China	45				0020-02-09 01:23:00
+	Singapore	40		2		0020-02-09 02:43:00
 	Thailand	32		10		0020-02-08 12:53:00
-Hong Kong	Hong Kong	26	1			0020-02-08 00:03:00
-	Japan	25		1		0020-02-07 04:13:00
-	South Korea	24		1		0020-02-07 03:03:00
+Hong Kong	Hong Kong	29	1			0020-02-09 09:53:00
+	Japan	26		1		0020-02-09 06:13:00
+	South Korea	25		3		0020-02-09 02:33:00
 Qinghai	Mainland China	18		3		0020-02-06 02:13:00
-Taiwan	Taiwan	17		1		0020-02-08 05:23:00
+Taiwan	Taiwan	18		1		0020-02-09 09:13:00
 	Malaysia	16		1		0020-02-08 10:23:00
-	Germany	13				0020-02-07 16:33:00
+	Germany	14				0020-02-09 06:13:00
 	Vietnam	13		1		0020-02-08 07:23:00
 	France	11				0020-02-08 09:53:00
 Macau	Macau	10		1		0020-02-06 14:23:00
@@ -69,5 +69,5 @@ Boston, MA	US	1				0020-02-01 19:43:00
 Los Angeles, CA	US	1				0020-02-01 19:53:00
 Madison, WI	US	1				0020-02-05 21:53:00
 Orange, CA	US	1				0020-02-01 19:53:00
-Seattle, WA	US	1				0020-02-01 19:43:00
+Seattle, WA	US	1		1		0020-02-09 07:03:00
 Tempe, AZ	US	1				0020-02-01 19:43:00
