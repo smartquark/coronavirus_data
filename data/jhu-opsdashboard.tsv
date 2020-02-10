@@ -7,7 +7,7 @@ Hunan	Mainland China	879	1	201	2020-02-10 05:23:02
 Anhui	Mainland China	830	3	88	2020-02-10 07:23:04
 Jiangxi	Mainland China	771	1	102	2020-02-10 01:23:04
 Jiangsu	Mainland China	492		80	2020-02-10 04:43:02
-Chongqing	Mainland China	468	2	61	2020-02-10 07:23:04
+Chongqing	Mainland China	473	2	61	2020-02-10 08:13:15
 Shandong	Mainland China	466	1	63	2020-02-10 07:23:04
 Sichuan	Mainland China	405	1	79	2020-02-10 07:23:04
 Beijing	Mainland China	337	2	44	2020-02-10 03:13:08
@@ -48,26 +48,19 @@ Queensland	Australia	5			2020-02-09 19:33:02
 New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
 British Columbia	Canada	4			2020-02-07 05:43:03
-	Philippines	3	1		2020-02-07 16:43:04
-Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
 	Italy	3			2020-02-07 17:53:02
 	UK	3			2020-02-07 18:33:02
+	Philippines	3	1		2020-02-07 16:43:04
+Ontario	Canada	3			2020-02-01 18:12:49
+Santa Clara, CA	US	2			2020-02-03 00:43:02
+South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Russia	2			2020-01-31 16:13:45
 	Spain	2			2020-02-09 20:33:03
 Chicago, IL	US	2		2	2020-02-09 19:03:03
 San Benito, CA	US	2			2020-02-03 03:53:02
-Santa Clara, CA	US	2			2020-02-03 00:43:02
-South Australia	Australia	2			2020-02-02 22:33:07
-	Finland	1			2020-01-31 08:15:53
-Tibet	Mainland China	1			2020-02-01 01:52:40
-	Nepal	1			2020-01-31 08:15:53
-	Sri Lanka	1		1	2020-02-08 03:43:03
-	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
-Los Angeles, CA	US	1			2020-02-01 19:53:03
 Madison, WI	US	1			2020-02-05 21:53:02
 	Belgium	1			2020-02-04 15:43:02
 Orange, CA	US	1			2020-02-01 19:53:03
@@ -75,3 +68,10 @@ Orange, CA	US	1			2020-02-01 19:53:03
 Seattle, WA	US	1		1	2020-02-09 07:03:04
 London, ON	Canada	1			2020-02-04 00:03:11
 Tempe, AZ	US	1			2020-02-01 19:43:03
+	Finland	1			2020-01-31 08:15:53
+Tibet	Mainland China	1			2020-02-01 01:52:40
+	Nepal	1			2020-01-31 08:15:53
+	Sri Lanka	1		1	2020-02-08 03:43:03
+	Sweden	1			2020-02-01 02:13:26
+Boston, MA	US	1			2020-02-01 19:43:03
+Los Angeles, CA	US	1			2020-02-01 19:53:03
