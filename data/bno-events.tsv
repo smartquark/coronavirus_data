@@ -23,6 +23,7 @@ location_id	date	description
 1	2020-02-06	+1,766, more than 10,000 cases. 53 deaths, including doctor Li Wenliang. 
 1	2020-02-07	+1,501, 64 deaths.
 1	2020-02-08	+1,985, 67 deaths.
+1	2020-02-09	+1,379, 63 deaths.
 2	2020-01-19	First two confirmed cases of people that visited Wuhan.
 2	2020-01-20	Three more imported cases.
 2	2020-01-21	Five new imported cases.
@@ -83,6 +84,7 @@ location_id	date	description
 4	2020-02-06	+162, 4 deaths.
 4	2020-02-07	+90, 3 deaths.
 4	2020-02-08	+144, third city to have more than 2k cases. 4 deaths.
+4	2020-02-09	+100, 7 deaths.
 5	2020-01-21	First 2 confirmed cases.
 5	2020-01-24	One more case.
 5	2020-01-25	7 more cases.
@@ -116,7 +118,7 @@ location_id	date	description
 6	2020-02-06	+86, 1 death.
 6	2020-02-07	+45
 6	2020-02-08	+35, 1 death.
-6	2020-02-09	+75
+6	2020-02-09	+75, 1 death.
 7	2020-01-23	First 6 confirmed cases.
 7	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
 7	2020-01-25	First 2 deaths, 23 more cases.
@@ -133,7 +135,7 @@ location_id	date	description
 7	2020-02-06	+88, 1 death.
 7	2020-02-07	+84
 7	2020-02-08	+56, 1 death.
-7	2020-02-09	+56
+7	2020-02-09	+56, 2 deaths.
 8	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
 8	2020-01-25	Second confirmed case.
 8	2020-01-28	3 new cases.
@@ -161,7 +163,7 @@ location_id	date	description
 9	2020-02-06	+41
 9	2020-02-07	+48
 9	2020-02-08	+98, 2 deaths.
-9	2020-02-09	+70
+9	2020-02-09	+70, 1 death.
 10	2020-01-23	City in lockdown.
 10	2020-01-24	First 2 confirmed cases.
 10	2020-01-24	* 8 more cases.
@@ -244,6 +246,7 @@ location_id	date	description
 14	2020-02-06	+424, 7 deaths.
 14	2020-02-07	+255, second city with 2k+ cases.
 14	2020-02-08	+172, 1 death.
+14	2020-02-09	+123, 3 deaths.
 15	2020-01-24	First confirmed case resulting in death.
 15	2020-01-26	Second confirmed case.
 15	2020-01-27	One more case.
@@ -319,7 +322,7 @@ location_id	date	description
 19	2020-02-06	+52
 19	2020-02-07	+51, 1 death.
 19	2020-02-08	+69, 2 deaths.
-19	2020-02-09	+81
+19	2020-02-09	+81, 2 deaths.
 20	2020-01-26	First confirmed case.
 20	2020-01-27	First death and second confirmed case.
 20	2020-02-04	+1
@@ -368,7 +371,7 @@ location_id	date	description
 24	2020-02-06	+15. First death.
 24	2020-02-07	+44
 24	2020-02-08	+33, 1 death.
-24	2020-02-09	+17
+24	2020-02-09	+17, 2 deaths.
 25	2020-01-27	First confirmed case.
 25	2020-01-28	One new case.
 25	2020-01-31	2 new cases. * 4 new cases.
