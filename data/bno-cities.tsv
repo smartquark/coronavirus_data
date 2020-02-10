@@ -34,3 +34,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 33	47.354348	123.918186	30				Heilongjiang	CHN
 34	46.646508	131.159133	38				Heilongjiang	CHN
 35	30.572815	104.066801	123				Sichuan	CHN
+36	36.067108	120.382609	52				Shandong	CHN
