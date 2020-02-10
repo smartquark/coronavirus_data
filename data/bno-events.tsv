@@ -116,6 +116,7 @@ location_id	date	description
 6	2020-02-06	+86, 1 death.
 6	2020-02-07	+45
 6	2020-02-08	+35, 1 death.
+6	2020-02-09	+75
 7	2020-01-23	First 6 confirmed cases.
 7	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
 7	2020-01-25	First 2 deaths, 23 more cases.
@@ -160,6 +161,7 @@ location_id	date	description
 9	2020-02-06	+41
 9	2020-02-07	+48
 9	2020-02-08	+98, 2 deaths.
+9	2020-02-09	+70
 10	2020-01-23	City in lockdown.
 10	2020-01-24	First 2 confirmed cases.
 10	2020-01-24	* 8 more cases.
@@ -225,6 +227,7 @@ location_id	date	description
 13	2020-02-06	+67, 2 deaths.
 13	2020-02-07	+47, 1 death.
 13	2020-02-08	+23, 1 death.
+13	2020-02-09	+78
 14	2020-01-24	First 22 confirmed cases, making it the city with highest number of cases reported in a single day outside Wuhan.
 14	2020-01-24	* 4 more cases.
 14	2020-01-25	29 new cases added.
@@ -316,6 +319,7 @@ location_id	date	description
 19	2020-02-06	+52
 19	2020-02-07	+51, 1 death.
 19	2020-02-08	+69, 2 deaths.
+19	2020-02-09	+81
 20	2020-01-26	First confirmed case.
 20	2020-01-27	First death and second confirmed case.
 20	2020-02-04	+1
