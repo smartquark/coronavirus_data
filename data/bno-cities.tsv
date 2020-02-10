@@ -40,3 +40,4 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 39	29.502272	106.510676	20				Chongqing	CHN
 40	25.830694	114.933546	71				Jiangxi	CHN
 41	32.916287	117.389719	126				Anhui	CHN
+42	29.356803	113.12873	124				Hunan	CHN
