@@ -31,8 +31,10 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 30	36.061089	103.834303	33				Gansu	CHN
 31	19.258341	110.474648	6				Hainan	CHN
 32	37.070834	114.504677	21				Hebei	CHN
-33	47.354348	123.918186	30				Heilongjiang	CHN
-34	46.646508	131.159133	38				Heilongjiang	CHN
-35	30.572815	104.066801	123				Sichuan	CHN
-36	36.067108	120.382609	52				Shandong	CHN
-37	29.502272	106.510676	20				Chongqing	CHN
+33	24.692931	108.085261	21				Guangxi	CHN
+34	47.354348	123.918186	30				Heilongjiang	CHN
+35	46.646508	131.159133	38				Heilongjiang	CHN
+36	30.572815	104.066801	123				Sichuan	CHN
+37	36.067108	120.382609	52				Shandong	CHN
+38	29.502272	106.510676	20				Chongqing	CHN
+39	25.830694	114.933546	71				Jiangxi	CHN
