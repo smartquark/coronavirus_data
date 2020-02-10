@@ -310,6 +310,7 @@ location_id	date	description
 20	2020-02-05	+1
 20	2020-02-06	+3
 20	2020-02-07	+2, removed 3.
+20	2020-02-08	-09: +1
 21	2020-01-30	First confirmed case in the Philippines, treated at San Lazaro Hospital according to Sen. Christopher Go
 21	2020-02-02	Second case and first death outside China.
 22	2020-01-22	First confirmed case (imported). Second case confirmed a coronavirus, waiting for further info.
@@ -374,6 +375,7 @@ location_id	date	description
 27	2020-02-01	-02: +3
 27	2020-02-05	+4, 22 total (red). First city in Hainan with more than 20 cases. +8 cases.
 27	2020-02-06	+2. First death.
+27	2020-02-08	-09: +9
 28	2020-01-27	First confirmed case.
 28	2020-02-03	+3
 28	2020-02-04	+3
@@ -404,3 +406,8 @@ location_id	date	description
 30	2020-02-04	+2
 30	2020-02-06	+2
 30	2020-02-08	-09: +1. First 2 deaths in Gansu province. 
+31	2020-01-28	First confirmed case.
+31	2020-01-30	2 new cases.
+31	2020-01-31	1 new case.
+31	2020-02-01	-02: +2
+31	2020-02-08	-09: First death.
