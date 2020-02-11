@@ -26,8 +26,8 @@ Liaoning	Mainland China	111		18	2020-02-11 09:53:02
 Tianjin	Mainland China	104	2	10	2020-02-11 09:43:02
 Gansu	Mainland China	86	2	21	2020-02-11 00:13:04
 Jilin	Mainland China	81	1	18	2020-02-11 08:03:06
-Cruise Ship	Others	61			2020-02-07 16:33:03
 	Others	61			2020-02-07 04:13:20
+Cruise Ship	Others	61			2020-02-07 16:33:03
 Inner Mongolia	Mainland China	58		5	2020-02-10 02:43:05
 Xinjiang	Mainland China	55		3	2020-02-11 09:13:11
 Ningxia	Mainland China	53		22	2020-02-11 10:03:08
@@ -46,14 +46,13 @@ Macau	Macau	10		1	2020-02-06 14:23:04
 	UK	8			2020-02-10 19:03:02
 	United Arab Emirates	8			2020-02-10 23:03:09
 Queensland	Australia	5			2020-02-09 19:33:02
-British Columbia	Canada	4			2020-02-07 05:43:03
 New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
+British Columbia	Canada	4			2020-02-07 05:43:03
 	Philippines	3	1		2020-02-07 16:43:04
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
 	Italy	3			2020-02-07 17:53:02
-San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
@@ -61,6 +60,7 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Russia	2			2020-01-31 16:13:45
 	Spain	2			2020-02-09 20:33:03
 Chicago, IL	US	2		2	2020-02-09 19:03:03
+San Benito, CA	US	2			2020-02-03 03:53:02
 Los Angeles, CA	US	1			2020-02-01 19:53:03
 Madison, WI	US	1			2020-02-05 21:53:02
 	Belgium	1			2020-02-04 15:43:02
