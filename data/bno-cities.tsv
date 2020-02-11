@@ -9,7 +9,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 8	38.304477	116.838834	28				Hebei	CHN
 9	30.39194	114.894843	725				Hubei	CHN
 10	30.360882	113.423482	416				Hubei	CHN
-11	30.402167	112.899762	85				Hubei	CHN
+11	30.402167	112.899762	90				Hubei	CHN
 12	30.20003	115.038835	805				Hubei	CHN
 13	30.691966	111.286471	749				Hubei	CHN
 14	30.917766	113.957037	2541				Hubei	CHN
@@ -22,7 +22,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 21	14.5995124	120.9842195	2				NCR	PHL
 22	22.3193039	114.1693611	42				Hong Kong	HKG
 23	39.3433574	117.3616476	94				Tianjin municipality	CHN
-24	29.841438	114.322439	507				Hubei	CHN
+24	29.841438	114.322439	515				Hubei	CHN
 25	26.592666	104.830359	10				Guizhou	CHN
 26	46.589309	125.103784	13				Heilongjiang	CHN
 27	18.252847	109.511909	41				Hainan	CHN
