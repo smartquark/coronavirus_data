@@ -1,6 +1,6 @@
 Province/State	Country/Region	Confirmed	Deaths	Recovered	Updated
 Hubei	Mainland China	31728	974	2222	2020-02-10 23:33:02
-Guangdong	Mainland China	1177	1	181	2020-02-11 01:33:02
+Guangdong	Mainland China	1177	1	189	2020-02-11 02:33:02
 Zhejiang	Mainland China	1117		250	2020-02-11 01:33:02
 Henan	Mainland China	1105	7	198	2020-02-11 01:03:15
 Hunan	Mainland China	912	1	213	2020-02-11 01:43:03
@@ -9,7 +9,7 @@ Jiangxi	Mainland China	804	1	127	2020-02-11 01:53:02
 Jiangsu	Mainland China	515		84	2020-02-11 02:03:09
 Chongqing	Mainland China	486	2	66	2020-02-10 23:43:02
 Shandong	Mainland China	486	1	71	2020-02-11 01:43:03
-Sichuan	Mainland China	417	1	82	2020-02-11 01:23:04
+Sichuan	Mainland China	417	1	84	2020-02-11 02:33:02
 Heilongjiang	Mainland China	360	8	27	2020-02-11 01:23:04
 Beijing	Mainland China	337	2	44	2020-02-10 03:13:08
 Shanghai	Mainland China	302	1	48	2020-02-11 01:23:04
@@ -31,7 +31,7 @@ Cruise Ship	Others	61			2020-02-07 16:33:03
 Inner Mongolia	Mainland China	58		5	2020-02-10 02:43:05
 Xinjiang	Mainland China	55			2020-02-11 01:13:03
 Ningxia	Mainland China	53		14	2020-02-11 02:03:09
-	Singapore	45		2	2020-02-10 19:03:02
+	Singapore	45		7	2020-02-11 02:33:02
 Hong Kong	Hong Kong	42	1		2020-02-11 02:03:09
 	Thailand	32		10	2020-02-08 12:53:01
 	South Korea	27		3	2020-02-10 03:03:09
