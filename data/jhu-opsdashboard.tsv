@@ -3,31 +3,31 @@ Hubei	Mainland China	31728	974	2222	2020-02-10 23:33:02
 Guangdong	Mainland China	1177	1	181	2020-02-11 01:33:02
 Zhejiang	Mainland China	1117		250	2020-02-11 01:33:02
 Henan	Mainland China	1105	7	198	2020-02-11 01:03:15
-Hunan	Mainland China	879	1	208	2020-02-10 13:53:02
+Hunan	Mainland China	912	1	213	2020-02-11 01:43:03
 Anhui	Mainland China	860	4	88	2020-02-11 01:13:03
 Jiangxi	Mainland China	771	1	105	2020-02-10 13:53:02
 Jiangsu	Mainland China	492		81	2020-02-10 14:03:05
 Chongqing	Mainland China	486	2	66	2020-02-10 23:43:02
-Shandong	Mainland China	466	1	66	2020-02-11 01:33:02
+Shandong	Mainland China	486	1	71	2020-02-11 01:43:03
 Sichuan	Mainland China	417	1	82	2020-02-11 01:23:04
 Heilongjiang	Mainland China	360	8	27	2020-02-11 01:23:04
 Beijing	Mainland China	337	2	44	2020-02-10 03:13:08
 Shanghai	Mainland China	302	1	48	2020-02-11 01:23:04
 Fujian	Mainland China	267		39	2020-02-11 01:23:04
 Hebei	Mainland China	239	2	41	2020-02-11 01:03:19
+Guangxi	Mainland China	215	1	30	2020-02-11 01:43:03
 Shaanxi	Mainland China	213		30	2020-02-10 13:23:06
-Guangxi	Mainland China	210	1	24	2020-02-10 14:03:05
 Yunnan	Mainland China	149		19	2020-02-10 09:43:02
 Hainan	Mainland China	138	3	19	2020-02-10 09:33:02
 \"Diamond Princess\" cruise ship	Others	135			2020-02-10 16:03:12
 Shanxi	Mainland China	122		26	2020-02-11 01:13:03
-Guizhou	Mainland China	109	1	10	2020-02-10 12:33:02
+Guizhou	Mainland China	118	1	10	2020-02-11 01:43:03
 Liaoning	Mainland China	108		13	2020-02-10 14:03:05
 Tianjin	Mainland China	95	1	8	2020-02-10 14:23:08
 Gansu	Mainland China	86	2	21	2020-02-11 00:13:04
 Jilin	Mainland China	81	1	13	2020-02-11 00:23:02
-Cruise Ship	Others	61			2020-02-07 16:33:03
 	Others	61			2020-02-07 04:13:20
+Cruise Ship	Others	61			2020-02-07 16:33:03
 Inner Mongolia	Mainland China	58		5	2020-02-10 02:43:05
 Xinjiang	Mainland China	55			2020-02-11 01:13:03
 Ningxia	Mainland China	49		13	2020-02-10 01:43:02
@@ -36,9 +36,9 @@ Hong Kong	Hong Kong	38	1		2020-02-10 10:13:06
 	Thailand	32		10	2020-02-08 12:53:01
 	South Korea	27		3	2020-02-10 03:03:09
 	Japan	26		4	2020-02-10 21:33:02
+	Malaysia	18		1	2020-02-10 03:03:09
 Taiwan	Taiwan	18		1	2020-02-09 09:13:11
 Qinghai	Mainland China	18		3	2020-02-06 02:13:15
-	Malaysia	18		1	2020-02-10 03:03:09
 	Germany	14			2020-02-09 06:13:11
 	Vietnam	14		1	2020-02-10 03:03:09
 	France	11			2020-02-08 09:53:01
@@ -53,6 +53,7 @@ Victoria	Australia	4			2020-02-01 18:12:49
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
 	Italy	3			2020-02-07 17:53:02
+Chicago, IL	US	2		2	2020-02-09 19:03:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
 South Australia	Australia	2			2020-02-02 22:33:07
@@ -60,7 +61,7 @@ Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Russia	2			2020-01-31 16:13:45
 	Spain	2			2020-02-09 20:33:03
-Chicago, IL	US	2		2	2020-02-09 19:03:03
+Boston, MA	US	1			2020-02-01 19:43:03
 Los Angeles, CA	US	1			2020-02-01 19:53:03
 Madison, WI	US	1			2020-02-05 21:53:02
 	Belgium	1			2020-02-04 15:43:02
@@ -75,4 +76,3 @@ Tibet	Mainland China	1			2020-02-01 01:52:40
 	Nepal	1			2020-01-31 08:15:53
 	Sri Lanka	1		1	2020-02-08 03:43:03
 	Sweden	1			2020-02-01 02:13:26
-Boston, MA	US	1			2020-02-01 19:43:03
