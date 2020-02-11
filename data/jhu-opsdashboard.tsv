@@ -17,7 +17,7 @@ Fujian	Mainland China	267		39	2020-02-11 01:23:04
 Hebei	Mainland China	239	2	42	2020-02-11 06:03:16
 Shaanxi	Mainland China	219		32	2020-02-11 06:03:16
 Guangxi	Mainland China	215	1	30	2020-02-11 01:43:03
-Yunnan	Mainland China	149		19	2020-02-10 09:43:02
+Yunnan	Mainland China	153		19	2020-02-11 09:13:11
 Hainan	Mainland China	142	3	20	2020-02-11 07:03:08
 \"Diamond Princess\" cruise ship	Others	135			2020-02-10 16:03:12
 Shanxi	Mainland China	122		28	2020-02-11 07:03:08
@@ -29,16 +29,16 @@ Jilin	Mainland China	81	1	18	2020-02-11 08:03:06
 	Others	61			2020-02-07 04:13:20
 Cruise Ship	Others	61			2020-02-07 16:33:03
 Inner Mongolia	Mainland China	58		5	2020-02-10 02:43:05
-Xinjiang	Mainland China	55			2020-02-11 01:13:03
+Xinjiang	Mainland China	55		3	2020-02-11 09:13:11
 Ningxia	Mainland China	53		14	2020-02-11 02:03:09
 	Singapore	45		7	2020-02-11 02:33:02
 Hong Kong	Hong Kong	42	1		2020-02-11 02:03:09
 	Thailand	32		10	2020-02-08 12:53:01
 	South Korea	28		3	2020-02-11 02:53:02
 	Japan	26		9	2020-02-11 02:53:02
-Taiwan	Taiwan	18		1	2020-02-09 09:13:11
 Qinghai	Mainland China	18		3	2020-02-06 02:13:15
 	Malaysia	18		3	2020-02-11 03:13:13
+Taiwan	Taiwan	18		1	2020-02-09 09:13:11
 	Vietnam	15		1	2020-02-11 02:53:02
 	Germany	14			2020-02-09 06:13:11
 	France	11			2020-02-08 09:53:01
@@ -49,11 +49,10 @@ Queensland	Australia	5			2020-02-09 19:33:02
 New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
 British Columbia	Canada	4			2020-02-07 05:43:03
+	Italy	3			2020-02-07 17:53:02
 	Philippines	3	1		2020-02-07 16:43:04
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
-	Italy	3			2020-02-07 17:53:02
-Santa Clara, CA	US	2			2020-02-03 00:43:02
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
@@ -61,12 +60,7 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 	Spain	2			2020-02-09 20:33:03
 Chicago, IL	US	2		2	2020-02-09 19:03:03
 San Benito, CA	US	2			2020-02-03 03:53:02
-Los Angeles, CA	US	1			2020-02-01 19:53:03
-Madison, WI	US	1			2020-02-05 21:53:02
-	Belgium	1			2020-02-04 15:43:02
-Orange, CA	US	1			2020-02-01 19:53:03
-	Cambodia	1			2020-01-31 08:15:53
-San Diego County, CA	US	1			2020-02-11 01:23:05
+Santa Clara, CA	US	2			2020-02-03 00:43:02
 London, ON	Canada	1			2020-02-04 00:03:11
 Seattle, WA	US	1		1	2020-02-09 07:03:04
 	Finland	1			2020-01-31 08:15:53
@@ -76,3 +70,9 @@ Tibet	Mainland China	1			2020-02-01 01:52:40
 	Sri Lanka	1		1	2020-02-08 03:43:03
 	Sweden	1			2020-02-01 02:13:26
 Boston, MA	US	1			2020-02-01 19:43:03
+Los Angeles, CA	US	1			2020-02-01 19:53:03
+Madison, WI	US	1			2020-02-05 21:53:02
+	Belgium	1			2020-02-04 15:43:02
+Orange, CA	US	1			2020-02-01 19:53:03
+	Cambodia	1			2020-01-31 08:15:53
+San Diego County, CA	US	1			2020-02-11 01:23:05
