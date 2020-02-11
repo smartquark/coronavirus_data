@@ -122,6 +122,7 @@ location_id	date	description
 6	2020-02-08	+35, 1 death.
 6	2020-02-09	+75, 1 death.
 6	2020-02-10	+12, 1 death.
+6	2020-02-11	+15
 7	2020-01-23	First 6 confirmed cases.
 7	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
 7	2020-01-25	First 2 deaths, 23 more cases.
@@ -140,6 +141,7 @@ location_id	date	description
 7	2020-02-08	+56, 1 death.
 7	2020-02-09	+56, 2 deaths.
 7	2020-02-10	+48, 1,046 total (black). 5th city with 1k+ cases. 2 deaths.
+7	2020-02-11	+30
 8	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
 8	2020-01-25	Second confirmed case.
 8	2020-01-28	3 new cases.
@@ -188,6 +190,7 @@ location_id	date	description
 10	2020-02-08	+52
 10	2020-02-09	+20
 10	2020-02-10	+37, 2 deaths.
+10	2020-02-11	+22
 11	2020-01-23	City in lockdown.
 11	2020-01-26	First 5 confirmed cases and one death.
 11	2020-01-28	2 more cases.
@@ -222,6 +225,7 @@ location_id	date	description
 12	2020-02-08	+68
 12	2020-02-09	+57
 12	2020-02-10	+52, 1 death.
+12	2020-02-11	+30
 13	2020-01-24	First confirmed case that resulted in death.
 13	2020-01-24	* City in lockdown.
 13	2020-01-25	19 more cases.
@@ -240,6 +244,7 @@ location_id	date	description
 13	2020-02-08	+23, 1 death.
 13	2020-02-09	+78
 13	2020-02-10	+45
+13	2020-02-11	+23
 14	2020-01-24	First 22 confirmed cases, making it the city with highest number of cases reported in a single day outside Wuhan.
 14	2020-01-24	* 4 more cases.
 14	2020-01-25	29 new cases added.
