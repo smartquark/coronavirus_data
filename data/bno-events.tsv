@@ -25,7 +25,7 @@ location_id	date	description
 1	2020-02-08	+1,985, 67 deaths.
 1	2020-02-09	+1,379, 63 deaths.
 1	2020-02-10	+1,921, 73 deaths.
-1	2020-02-11	+1,552
+1	2020-02-11	+1,552, 67 deaths.
 2	2020-01-19	First two confirmed cases of people that visited Wuhan.
 2	2020-01-20	Three more imported cases.
 2	2020-01-21	Five new imported cases.
@@ -266,7 +266,7 @@ location_id	date	description
 14	2020-02-08	+172, 1 death.
 14	2020-02-09	+123, 3 deaths.
 14	2020-02-10	+105, 4 deaths.
-14	2020-02-11	+101
+14	2020-02-11	+101, 8 deaths.
 15	2020-01-24	First confirmed case resulting in death.
 15	2020-01-26	Second confirmed case.
 15	2020-01-27	One more case.
