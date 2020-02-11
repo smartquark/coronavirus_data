@@ -43,3 +43,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 42	29.356803	113.12873	124				Hunan	CHN
 43	35.215892	113.241823	25				Henan	CHN
 44	35.303704	113.926763	46				Henan	CHN
+45	32.629398	110.798266	505				Hubei	CHN
+46	30.272156	109.488172	195				Hubei	CHN

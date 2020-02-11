@@ -88,7 +88,7 @@ location_id	date	description
 4	2020-02-08	+144, third city to have more than 2k cases. 4 deaths.
 4	2020-02-09	+100, 7 deaths.
 4	2020-02-10	+115, 2 deaths.
-4	2020-02-11	+80
+4	2020-02-11	+80, 7 deaths.
 5	2020-01-21	First 2 confirmed cases.
 5	2020-01-24	One more case.
 5	2020-01-25	7 more cases.
@@ -124,7 +124,7 @@ location_id	date	description
 6	2020-02-08	+35, 1 death.
 6	2020-02-09	+75, 1 death.
 6	2020-02-10	+12, 1 death.
-6	2020-02-11	+15
+6	2020-02-11	+15, 1 death.
 7	2020-01-23	First 6 confirmed cases.
 7	2020-01-24	2 more cases. * City on lockdown * 2 new cases.
 7	2020-01-25	First 2 deaths, 23 more cases.
@@ -143,7 +143,7 @@ location_id	date	description
 7	2020-02-08	+56, 1 death.
 7	2020-02-09	+56, 2 deaths.
 7	2020-02-10	+48, 1,046 total (black). 5th city with 1k+ cases. 2 deaths.
-7	2020-02-11	+30
+7	2020-02-11	+30, 2 deaths.
 8	2020-01-23	First confirmed case resulting in death outside Wuhan and outside Hubei province. 80-year-old from Nanpi County (Cangzhou).
 8	2020-01-25	Second confirmed case.
 8	2020-01-28	3 new cases.
@@ -173,7 +173,7 @@ location_id	date	description
 9	2020-02-08	+98, 2 deaths.
 9	2020-02-09	+70, 1 death.
 9	2020-02-10	+89, 3 deaths.
-9	2020-02-11	+65
+9	2020-02-11	+65, 2 deaths.
 10	2020-01-23	City in lockdown.
 10	2020-01-24	First 2 confirmed cases.
 10	2020-01-24	* 8 more cases.
@@ -193,7 +193,7 @@ location_id	date	description
 10	2020-02-08	+52
 10	2020-02-09	+20
 10	2020-02-10	+37, 2 deaths.
-10	2020-02-11	+22
+10	2020-02-11	+22, 4 deaths.
 11	2020-01-23	City in lockdown.
 11	2020-01-26	First 5 confirmed cases and one death.
 11	2020-01-28	2 more cases.
@@ -228,7 +228,7 @@ location_id	date	description
 12	2020-02-08	+68
 12	2020-02-09	+57
 12	2020-02-10	+52, 1 death.
-12	2020-02-11	+30
+12	2020-02-11	+30, 2 deaths.
 13	2020-01-24	First confirmed case that resulted in death.
 13	2020-01-24	* City in lockdown.
 13	2020-01-25	19 more cases.
@@ -316,7 +316,7 @@ location_id	date	description
 17	2020-02-08	+38
 17	2020-02-09	+31
 17	2020-02-10	+65, 1,049 total (black). 6th city with 1k+ cases. 1 death.
-17	2020-02-11	+46
+17	2020-02-11	+46, 2 deaths.
 18	2020-01-25	First 8 confirmed cases.
 18	2020-01-26	First confirmed death. 7 more cases.
 18	2020-01-27	4 new cases.
@@ -348,7 +348,7 @@ location_id	date	description
 19	2020-02-08	+69, 2 deaths.
 19	2020-02-09	+81, 2 deaths.
 19	2020-02-10	+57, 1,019 total (black). 4th city with 1k+ cases. 2 deaths.
-19	2020-02-11	+44
+19	2020-02-11	+44, 3 deaths.
 20	2020-01-26	First confirmed case.
 20	2020-01-27	First death and second confirmed case.
 20	2020-02-04	+1
@@ -401,7 +401,7 @@ location_id	date	description
 24	2020-02-08	+33, 1 death.
 24	2020-02-09	+17, 2 deaths.
 24	2020-02-10	+14
-24	2020-02-11	+8
+24	2020-02-11	+8, 1 death.
 25	2020-01-27	First confirmed case.
 25	2020-01-28	One new case.
 25	2020-01-31	2 new cases. * 4 new cases.
@@ -617,3 +617,41 @@ location_id	date	description
 44	2020-02-05	+6
 44	2020-02-06	+2
 44	2020-02-08	-09: +7. First death.
+45	2020-01-24	First confirmed case.
+45	2020-01-24	* 4 more cases.
+45	2020-01-25	15 more cases, total of 20 (red).
+45	2020-01-26	20 more cases, doubled.
+45	2020-01-28	25 new cases.
+45	2020-01-29	23 new cases.
+45	2020-01-30	31 new cases.
+45	2020-01-31	31 new cases.
+45	2020-02-01	27 new cases.
+45	2020-02-02	+35
+45	2020-02-03	+44
+45	2020-02-04	+35
+45	2020-02-05	+27
+45	2020-02-06	+35
+45	2020-02-07	+42
+45	2020-02-08	+43
+45	2020-02-09	+29
+45	2020-02-10	+14
+45	2020-02-11	+24. First death.
+46	2020-01-24	City in lockdown.
+46	2020-01-24	* First 11 cases confirmed.
+46	2020-01-25	6 more cases.
+46	2020-01-26	8 more cases. 25 total (red).
+46	2020-01-28	13 new cases.
+46	2020-01-29	13 new cases.
+46	2020-01-30	15 new cases.
+46	2020-01-31	9 new cases.
+46	2020-02-01	12 new cases.
+46	2020-02-02	+18, more than a hundred cases.
+46	2020-02-03	+6
+46	2020-02-04	+12
+46	2020-02-05	+15
+46	2020-02-06	+6
+46	2020-02-07	+13
+46	2020-02-08	+3
+46	2020-02-09	+11
+46	2020-02-10	+21
+46	2020-02-11	+8. First 2 deaths.
