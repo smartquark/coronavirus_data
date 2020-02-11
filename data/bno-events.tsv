@@ -171,6 +171,7 @@ location_id	date	description
 9	2020-02-08	+98, 2 deaths.
 9	2020-02-09	+70, 1 death.
 9	2020-02-10	+89, 3 deaths.
+9	2020-02-11	+65
 10	2020-01-23	City in lockdown.
 10	2020-01-24	First 2 confirmed cases.
 10	2020-01-24	* 8 more cases.
@@ -294,6 +295,7 @@ location_id	date	description
 16	2020-02-08	+16
 16	2020-02-09	+18
 16	2020-02-10	+20
+16	2020-02-11	+44
 17	2020-01-24	First 5 confirmed cases.
 17	2020-01-25	31 new cases (red).
 17	2020-01-26	16 more cases.
@@ -311,6 +313,7 @@ location_id	date	description
 17	2020-02-08	+38
 17	2020-02-09	+31
 17	2020-02-10	+65, 1,049 total (black). 6th city with 1k+ cases. 1 death.
+17	2020-02-11	+46
 18	2020-01-25	First 8 confirmed cases.
 18	2020-01-26	First confirmed death. 7 more cases.
 18	2020-01-27	4 new cases.
@@ -342,6 +345,7 @@ location_id	date	description
 19	2020-02-08	+69, 2 deaths.
 19	2020-02-09	+81, 2 deaths.
 19	2020-02-10	+57, 1,019 total (black). 4th city with 1k+ cases. 2 deaths.
+19	2020-02-11	+44
 20	2020-01-26	First confirmed case.
 20	2020-01-27	First death and second confirmed case.
 20	2020-02-04	+1
