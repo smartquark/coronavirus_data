@@ -7,8 +7,8 @@ Hunan	Mainland China	912	1	213	2020-02-11 01:43:03
 Anhui	Mainland China	860	4	88	2020-02-11 01:13:03
 Jiangxi	Mainland China	804	1	127	2020-02-11 01:53:02
 Jiangsu	Mainland China	515		84	2020-02-11 02:03:09
-Chongqing	Mainland China	486	2	66	2020-02-10 23:43:02
 Shandong	Mainland China	486	1	71	2020-02-11 01:43:03
+Chongqing	Mainland China	486	2	66	2020-02-10 23:43:02
 Sichuan	Mainland China	417	1	84	2020-02-11 02:33:02
 Heilongjiang	Mainland China	360	8	27	2020-02-11 01:23:04
 Beijing	Mainland China	337	2	44	2020-02-10 03:13:08
@@ -34,13 +34,13 @@ Ningxia	Mainland China	53		14	2020-02-11 02:03:09
 	Singapore	45		7	2020-02-11 02:33:02
 Hong Kong	Hong Kong	42	1		2020-02-11 02:03:09
 	Thailand	32		10	2020-02-08 12:53:01
-	South Korea	27		3	2020-02-10 03:03:09
-	Japan	26		4	2020-02-10 21:33:02
+	South Korea	28		3	2020-02-11 02:53:02
+	Japan	26		9	2020-02-11 02:53:02
 Qinghai	Mainland China	18		3	2020-02-06 02:13:15
 	Malaysia	18		1	2020-02-10 03:03:09
 Taiwan	Taiwan	18		1	2020-02-09 09:13:11
+	Vietnam	15		1	2020-02-11 02:53:02
 	Germany	14			2020-02-09 06:13:11
-	Vietnam	14		1	2020-02-10 03:03:09
 	France	11			2020-02-08 09:53:01
 Macau	Macau	10		1	2020-02-06 14:23:04
 	UK	8			2020-02-10 19:03:02
@@ -49,10 +49,10 @@ Queensland	Australia	5			2020-02-09 19:33:02
 New South Wales	Australia	4		2	2020-02-06 03:13:22
 Victoria	Australia	4			2020-02-01 18:12:49
 British Columbia	Canada	4			2020-02-07 05:43:03
-	Italy	3			2020-02-07 17:53:02
-	Philippines	3	1		2020-02-07 16:43:04
 Ontario	Canada	3			2020-02-01 18:12:49
 	India	3			2020-02-03 21:43:02
+	Italy	3			2020-02-07 17:53:02
+	Philippines	3	1		2020-02-07 16:43:04
 South Australia	Australia	2			2020-02-02 22:33:07
 Toronto	Canada	2			2020-02-04 00:03:11
 Toronto, ON	Canada	2			2020-02-04 00:13:06
@@ -61,6 +61,10 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 Chicago, IL	US	2		2	2020-02-09 19:03:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
+	Belgium	1			2020-02-04 15:43:02
+Orange, CA	US	1			2020-02-01 19:53:03
+	Cambodia	1			2020-01-31 08:15:53
+San Diego County, CA	US	1			2020-02-11 01:23:05
 London, ON	Canada	1			2020-02-04 00:03:11
 Seattle, WA	US	1		1	2020-02-09 07:03:04
 	Finland	1			2020-01-31 08:15:53
@@ -72,7 +76,3 @@ Tibet	Mainland China	1			2020-02-01 01:52:40
 Boston, MA	US	1			2020-02-01 19:43:03
 Los Angeles, CA	US	1			2020-02-01 19:53:03
 Madison, WI	US	1			2020-02-05 21:53:02
-	Belgium	1			2020-02-04 15:43:02
-Orange, CA	US	1			2020-02-01 19:53:03
-	Cambodia	1			2020-01-31 08:15:53
-San Diego County, CA	US	1			2020-02-11 01:23:05
