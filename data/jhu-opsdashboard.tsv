@@ -1,16 +1,16 @@
 Province/State	Country/Region	Confirmed	Deaths	Recovered	Updated
-Hubei	Mainland China	33366	1068	2668	2020-02-12 12:43:03
+Hubei	Mainland China	33366	1068	2686	2020-02-12 14:13:08
 Guangdong	Mainland China	1219	1	275	2020-02-12 12:23:09
-Henan	Mainland China	1135	8	241	2020-02-12 10:13:20
+Henan	Mainland China	1135	8	246	2020-02-12 14:13:08
 Zhejiang	Mainland China	1131		321	2020-02-12 10:13:20
 Hunan	Mainland China	946	2	304	2020-02-12 12:43:03
 Anhui	Mainland China	889	4	127	2020-02-12 10:13:20
 Jiangxi	Mainland China	844	1	152	2020-02-12 01:23:06
-Jiangsu	Mainland China	543		123	2020-02-12 10:13:20
+Jiangsu	Mainland China	543		125	2020-02-12 14:13:08
 Chongqing	Mainland China	509	3	87	2020-02-12 08:53:03
 Shandong	Mainland China	497	2	92	2020-02-12 11:13:05
 Sichuan	Mainland China	436	1	92	2020-02-12 12:43:03
-Heilongjiang	Mainland China	378	8	28	2020-02-12 00:13:27
+Heilongjiang	Mainland China	378	8	31	2020-02-12 14:13:08
 Beijing	Mainland China	352	3	56	2020-02-12 02:43:03
 Shanghai	Mainland China	311	1	57	2020-02-12 06:23:08
 Fujian	Mainland China	272		53	2020-02-12 11:53:02
@@ -19,13 +19,13 @@ Shaanxi	Mainland China	225		43	2020-02-12 11:13:05
 Guangxi	Mainland China	222	1	31	2020-02-12 00:33:02
 \"Diamond Princess\" cruise ship	Others	175			2020-02-12 04:23:38
 Hainan	Mainland China	157	3	27	2020-02-12 09:43:02
-Yunnan	Mainland China	154		25	2020-02-12 12:23:09
+Yunnan	Mainland China	154		26	2020-02-12 14:13:08
 Guizhou	Mainland China	133	1	18	2020-02-12 09:43:02
 Shanxi	Mainland China	124		33	2020-02-12 10:13:23
 Liaoning	Mainland China	116	1	20	2020-02-12 13:33:02
 Tianjin	Mainland China	110	2	11	2020-02-12 11:13:05
 Gansu	Mainland China	86	2	28	2020-02-12 08:23:06
-Jilin	Mainland China	83	1	21	2020-02-12 11:13:05
+Jilin	Mainland China	83	1	22	2020-02-12 14:13:08
 	Others	61			2020-02-07 04:13:20
 Cruise Ship	Others	61			2020-02-07 16:33:03
 Inner Mongolia	Mainland China	60		6	2020-02-12 11:13:05
