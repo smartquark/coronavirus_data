@@ -18,6 +18,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Belgium	1		
 2020-02-09	Belgium	1		
 2020-02-10	Belgium	1		
+2020-02-12	Belgium	1		
 2020-02-01	Cambodia	1		
 2020-02-02	Cambodia	1		
 2020-02-03	Cambodia	1		
@@ -136,6 +137,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Japan	45		1
 2020-02-09	Japan	45		1
 2020-02-10	Japan	156		4
+2020-02-12	Japan	156		
 2020-02-10	Macau	10		1
 2020-02-11	Macau	10		1
 2020-02-12	Macau	10		1
@@ -174,6 +176,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Philippines	3	1	
 2020-02-09	Philippines	3	1	
 2020-02-10	Philippines	3	1	
+2020-02-12	Philippines	3		
 2020-02-10	Poland	1		
 2020-02-11	Poland	1		
 2020-02-12	Poland	1		
@@ -199,6 +202,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Singapore	30		1
 2020-02-09	Singapore	30		1
 2020-02-10	Singapore	43		2
+2020-02-12	Singapore	43		
 2020-02-01	South Korea	12		
 2020-02-02	South Korea	15		
 2020-02-03	South Korea	15		
@@ -209,6 +213,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	South Korea	23		1
 2020-02-09	South Korea	23		1
 2020-02-10	South Korea	27		3
+2020-02-12	South Korea	27		
 2020-02-01	Spain	1		
 2020-02-02	Spain	1		
 2020-02-03	Spain	1		
@@ -219,6 +224,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Spain	1		
 2020-02-09	Spain	1		
 2020-02-10	Spain	1		
+2020-02-12	Spain	2		
 2020-02-01	Sri Lanka	1		1
 2020-02-02	Sri Lanka	1		1
 2020-02-03	Sri Lanka	1		1
@@ -253,6 +259,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Taiwan	16		1
 2020-02-09	Taiwan	16		1
 2020-02-10	Taiwan	18		1
+2020-02-12	Taiwan	18		
 2020-02-01	Thailand	19		7
 2020-02-02	Thailand	19		7
 2020-02-03	Thailand	19		7
@@ -275,6 +282,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Turkey	1		
 2020-02-09	Turkey	1		
 2020-02-10	Turkey	1		
+2020-02-12	Turkey	1		
 2020-02-01	UAE	4		
 2020-02-02	UAE	5		
 2020-02-03	UAE	5		
@@ -297,6 +305,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	Ukraine	1		
 2020-02-09	Ukraine	1		
 2020-02-10	Ukraine	1		
+2020-02-12	Ukraine	1		
 2020-02-10	United Arab Emirates	7		
 2020-02-11	United Arab Emirates	7		
 2020-02-12	United Arab Emirates	7		
@@ -322,6 +331,7 @@ date	place	confirmed	deaths	recovered
 2020-02-08	United States	12		1
 2020-02-09	United States	12		1
 2020-02-10	United States	12		3
+2020-02-12	United States	12		
 2020-02-01	Vietnam	6		1
 2020-02-02	Vietnam	7		1
 2020-02-03	Vietnam	8		1
