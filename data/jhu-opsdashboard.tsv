@@ -12,12 +12,12 @@ Shandong	Mainland China	497	1	80	2020-02-12 01:43:02
 Sichuan	Mainland China	436	1	87	2020-02-12 03:53:02
 Heilongjiang	Mainland China	378	8	28	2020-02-12 00:13:27
 Beijing	Mainland China	352	3	56	2020-02-12 02:43:03
-Shanghai	Mainland China	306	1	53	2020-02-12 00:13:27
+Shanghai	Mainland China	306	1	57	2020-02-12 04:23:38
 Fujian	Mainland China	272		46	2020-02-12 00:53:02
 Hebei	Mainland China	251	2	49	2020-02-12 03:33:02
 Shaanxi	Mainland China	225		36	2020-02-12 02:23:07
 Guangxi	Mainland China	222	1	31	2020-02-12 00:33:02
-\"Diamond Princess\" cruise ship	Others	174			2020-02-12 02:43:03
+\"Diamond Princess\" cruise ship	Others	175			2020-02-12 04:23:38
 Yunnan	Mainland China	154		21	2020-02-12 03:33:02
 Hainan	Mainland China	151	3	20	2020-02-12 00:33:02
 Guizhou	Mainland China	131	1	17	2020-02-12 01:13:08
@@ -61,6 +61,8 @@ Toronto, ON	Canada	2			2020-02-04 00:13:06
 Chicago, IL	US	2		2	2020-02-09 19:03:03
 San Benito, CA	US	2			2020-02-03 03:53:02
 Santa Clara, CA	US	2			2020-02-03 00:43:02
+	Cambodia	1			2020-01-31 08:15:53
+San Diego County, CA	US	1			2020-02-11 01:23:05
 London, ON	Canada	1			2020-02-04 00:03:11
 Seattle, WA	US	1		1	2020-02-09 07:03:04
 	Finland	1		1	2020-02-12 00:03:12
@@ -74,5 +76,3 @@ Los Angeles, CA	US	1			2020-02-01 19:53:03
 Madison, WI	US	1			2020-02-05 21:53:02
 	Belgium	1			2020-02-04 15:43:02
 Orange, CA	US	1			2020-02-01 19:53:03
-	Cambodia	1			2020-01-31 08:15:53
-San Diego County, CA	US	1			2020-02-11 01:23:05
