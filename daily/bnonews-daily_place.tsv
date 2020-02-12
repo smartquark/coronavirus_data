@@ -848,22 +848,22 @@ date	place	confirmed	deaths	recovered	suspected	serious
 2020-02-12	Australia	15	0	5		
 2020-02-12	Belgium	1	0			
 2020-02-12	Cambodia	1	0	1		
-2020-02-12	Canada	7	0			
+2020-02-12	Canada	7	0	1		
 2020-02-12	Finland	1	0	1		
-2020-02-12	France	11	0			1
+2020-02-12	France	11	0	2		1
 2020-02-12	Germany	16	0			
-2020-02-12	Hong Kong	49	1	0		
+2020-02-12	Hong Kong	50	1	1		2
 2020-02-12	Hubei province  (including Wuhan)	33366	1068			5724
 2020-02-12	India	3	0			
 2020-02-12	Italy	3	0			2
 2020-02-12	Japan	203	0	4		4
 2020-02-12	Macau	10	0	1		
-2020-02-12	Malaysia	18	0	1		
+2020-02-12	Malaysia	18	0	3		
 2020-02-12	Nepal	1	0	1		
 2020-02-12	Other regions	11287	42			963
 2020-02-12	Philippines	3	1	2		
-2020-02-12	Russia	2	0	1		
-2020-02-12	Singapore	47	0	9		
+2020-02-12	Russia	2	0	2		
+2020-02-12	Singapore	50	0	15		
 2020-02-12	South Korea	28	0	7		
 2020-02-12	Spain	2	0			
 2020-02-12	Sri Lanka	1	0	1		
@@ -871,6 +871,6 @@ date	place	confirmed	deaths	recovered	suspected	serious
 2020-02-12	Taiwan	18	0	1		
 2020-02-12	Thailand	33	0	10		1
 2020-02-12	UAE	8	0	1		1
-2020-02-12	United Kingdom	8	0			
+2020-02-12	United Kingdom	9	0	1		
 2020-02-12	United States	13	0	3		
 2020-02-12	Vietnam	15	0	6		
