@@ -1,0 +1,336 @@
+date	place	confirmed	deaths	recovered
+2020-02-01	Australia	12		2
+2020-02-02	Australia	12		2
+2020-02-03	Australia	12		2
+2020-02-04	Australia	12		2
+2020-02-05	Australia	14		2
+2020-02-06	Australia	15		3
+2020-02-07	Australia	15		3
+2020-02-08	Australia	15		3
+2020-02-09	Australia	15		3
+2020-02-10	Australia	15		5
+2020-02-11	Australia	15		5
+2020-02-12	Australia	15		5
+2020-02-04	Belgium	1		
+2020-02-05	Belgium	1		
+2020-02-06	Belgium	1		
+2020-02-07	Belgium	1		
+2020-02-08	Belgium	1		
+2020-02-09	Belgium	1		
+2020-02-10	Belgium	1		
+2020-02-01	Cambodia	1		
+2020-02-02	Cambodia	1		
+2020-02-03	Cambodia	1		
+2020-02-04	Cambodia	1		
+2020-02-05	Cambodia	1		
+2020-02-06	Cambodia	1		1
+2020-02-07	Cambodia	1		1
+2020-02-08	Cambodia	1		1
+2020-02-09	Cambodia	1		1
+2020-02-10	Cambodia	1		1
+2020-02-11	Cambodia	1		1
+2020-02-12	Cambodia	1		1
+2020-02-01	Canada	4		
+2020-02-02	Canada	4		
+2020-02-03	Canada	4		
+2020-02-04	Canada	4		
+2020-02-05	Canada	5		
+2020-02-06	Canada	5		
+2020-02-07	Canada	5		
+2020-02-08	Canada	5		
+2020-02-09	Canada	5		
+2020-02-10	Canada	7		
+2020-02-11	Canada	7		
+2020-02-12	Canada	7		
+2020-02-01	China	11860	259	243
+2020-02-02	China	16577	360	408
+2020-02-03	China	17345	361	475
+2020-02-04	China	20523	426	735
+2020-02-05	China	24348	491	892
+2020-02-06	China	28089	564	1153
+2020-02-07	China	28089	564	1153
+2020-02-08	China	28089	564	1153
+2020-02-09	China	28089	564	1153
+2020-02-10	China	40194	908	3417
+2020-02-11	China	40194	908	3417
+2020-02-12	China	40194	908	3417
+2020-02-01	Finland	1		
+2020-02-02	Finland	1		
+2020-02-03	Finland	1		
+2020-02-04	Finland	1		
+2020-02-05	Finland	1		
+2020-02-06	Finland	1		1
+2020-02-07	Finland	1		1
+2020-02-08	Finland	1		1
+2020-02-09	Finland	1		1
+2020-02-10	Finland	1		1
+2020-02-11	Finland	1		1
+2020-02-12	Finland	1		1
+2020-02-01	France	6		
+2020-02-02	France	6		
+2020-02-03	France	6		
+2020-02-04	France	6		
+2020-02-05	France	6		
+2020-02-06	France	6		
+2020-02-07	France	6		
+2020-02-08	France	6		
+2020-02-09	France	6		
+2020-02-10	France	11		
+2020-02-11	France	11		
+2020-02-12	France	11		
+2020-02-01	Germany	7		
+2020-02-02	Germany	10		
+2020-02-03	Germany	10		
+2020-02-04	Germany	12		
+2020-02-05	Germany	12		
+2020-02-06	Germany	12		
+2020-02-07	Germany	12		
+2020-02-08	Germany	12		
+2020-02-09	Germany	12		
+2020-02-10	Germany	14		
+2020-02-11	Germany	14		
+2020-02-12	Germany	14		
+2020-02-01	Hong Kong	13		
+2020-02-02	Hong Kong	14		
+2020-02-03	Hong Kong	15		
+2020-02-04	Hong Kong	17	1	
+2020-02-05	Hong Kong	21	1	
+2020-02-06	Hong Kong	24	1	
+2020-02-07	Hong Kong	24	1	
+2020-02-08	Hong Kong	24	1	
+2020-02-09	Hong Kong	24	1	
+2020-02-10	Hong Kong	36	1	
+2020-02-11	Hong Kong	36	1	
+2020-02-12	Hong Kong	36	1	
+2020-02-01	India	1		
+2020-02-02	India	2		
+2020-02-03	India	3		
+2020-02-04	India	3		
+2020-02-05	India	3		
+2020-02-06	India	3		
+2020-02-07	India	3		
+2020-02-08	India	3		
+2020-02-09	India	3		
+2020-02-10	India	3		
+2020-02-11	India	3		
+2020-02-12	India	3		
+2020-02-01	Italy	2		
+2020-02-02	Italy	2		
+2020-02-03	Italy	2		
+2020-02-04	Italy	2		
+2020-02-05	Italy	2		
+2020-02-06	Italy	2		
+2020-02-07	Italy	2		
+2020-02-08	Italy	2		
+2020-02-09	Italy	2		
+2020-02-10	Italy	3		
+2020-02-11	Italy	3		
+2020-02-12	Italy	3		
+2020-02-01	Japan	20		
+2020-02-02	Japan	20		
+2020-02-03	Japan	20		
+2020-02-04	Japan	20		1
+2020-02-05	Japan	33		1
+2020-02-06	Japan	45		1
+2020-02-07	Japan	45		1
+2020-02-08	Japan	45		1
+2020-02-09	Japan	45		1
+2020-02-10	Japan	156		4
+2020-02-10	Macau	10		1
+2020-02-11	Macau	10		1
+2020-02-12	Macau	10		1
+2020-02-01	Malaysia	8		
+2020-02-02	Malaysia	8		
+2020-02-03	Malaysia	8		
+2020-02-04	Malaysia	10		
+2020-02-05	Malaysia	12		
+2020-02-06	Malaysia	14		1
+2020-02-07	Malaysia	14		1
+2020-02-08	Malaysia	14		1
+2020-02-09	Malaysia	14		1
+2020-02-10	Malaysia	18		3
+2020-02-11	Malaysia	18		
+2020-02-12	Malaysia	18		
+2020-02-02	Mexico	1		
+2020-02-01	Nepal	1		
+2020-02-02	Nepal	1		
+2020-02-03	Nepal	1		
+2020-02-04	Nepal	1		
+2020-02-05	Nepal	1		
+2020-02-06	Nepal	1		
+2020-02-07	Nepal	1		
+2020-02-08	Nepal	1		
+2020-02-09	Nepal	1		
+2020-02-10	Nepal	1		
+2020-02-11	Nepal	1		
+2020-02-12	Nepal	1		
+2020-02-01	Philippines	1		
+2020-02-02	Philippines	2	100	
+2020-02-03	Philippines	2	1	
+2020-02-04	Philippines	2	1	
+2020-02-05	Philippines	3	1	
+2020-02-06	Philippines	3	1	
+2020-02-07	Philippines	3	1	
+2020-02-08	Philippines	3	1	
+2020-02-09	Philippines	3	1	
+2020-02-10	Philippines	3	1	
+2020-02-10	Poland	1		
+2020-02-11	Poland	1		
+2020-02-12	Poland	1		
+2020-02-01	Russia	2		
+2020-02-02	Russia	2		
+2020-02-03	Russia	2		
+2020-02-04	Russia	2		
+2020-02-05	Russia	2		
+2020-02-06	Russia	2		
+2020-02-07	Russia	2		
+2020-02-08	Russia	2		
+2020-02-09	Russia	2		
+2020-02-10	Russia	2		
+2020-02-11	Russia	2		
+2020-02-12	Russia	2		
+2020-02-01	Singapore	18		
+2020-02-02	Singapore	18		
+2020-02-03	Singapore	18		
+2020-02-04	Singapore	24		1
+2020-02-05	Singapore	24		1
+2020-02-06	Singapore	30		1
+2020-02-07	Singapore	30		1
+2020-02-08	Singapore	30		1
+2020-02-09	Singapore	30		1
+2020-02-10	Singapore	43		2
+2020-02-01	South Korea	12		
+2020-02-02	South Korea	15		
+2020-02-03	South Korea	15		
+2020-02-04	South Korea	16		
+2020-02-05	South Korea	18		
+2020-02-06	South Korea	23		1
+2020-02-07	South Korea	23		1
+2020-02-08	South Korea	23		1
+2020-02-09	South Korea	23		1
+2020-02-10	South Korea	27		3
+2020-02-01	Spain	1		
+2020-02-02	Spain	1		
+2020-02-03	Spain	1		
+2020-02-04	Spain	1		
+2020-02-05	Spain	1		
+2020-02-06	Spain	1		
+2020-02-07	Spain	1		
+2020-02-08	Spain	1		
+2020-02-09	Spain	1		
+2020-02-10	Spain	1		
+2020-02-01	Sri Lanka	1		1
+2020-02-02	Sri Lanka	1		1
+2020-02-03	Sri Lanka	1		1
+2020-02-04	Sri Lanka	1		1
+2020-02-05	Sri Lanka	1		1
+2020-02-06	Sri Lanka	1		1
+2020-02-07	Sri Lanka	1		1
+2020-02-08	Sri Lanka	1		1
+2020-02-09	Sri Lanka	1		1
+2020-02-10	Sri Lanka	1		1
+2020-02-11	Sri Lanka	1		
+2020-02-12	Sri Lanka	1		
+2020-02-01	Sweden	1		
+2020-02-02	Sweden	1		
+2020-02-03	Sweden	1		
+2020-02-04	Sweden	1		
+2020-02-05	Sweden	1		
+2020-02-06	Sweden	1		
+2020-02-07	Sweden	1		
+2020-02-08	Sweden	1		
+2020-02-09	Sweden	1		
+2020-02-10	Sweden	1		
+2020-02-11	Sweden	1		
+2020-02-12	Sweden	1		
+2020-02-01	Taiwan	10		
+2020-02-02	Taiwan	10		
+2020-02-03	Taiwan	10		
+2020-02-04	Taiwan	10		
+2020-02-05	Taiwan	11		
+2020-02-06	Taiwan	16		1
+2020-02-07	Taiwan	16		1
+2020-02-08	Taiwan	16		1
+2020-02-09	Taiwan	16		1
+2020-02-10	Taiwan	18		1
+2020-02-01	Thailand	19		7
+2020-02-02	Thailand	19		7
+2020-02-03	Thailand	19		7
+2020-02-04	Thailand	25		8
+2020-02-05	Thailand	25		8
+2020-02-06	Thailand	25		9
+2020-02-07	Thailand	25		9
+2020-02-08	Thailand	25		9
+2020-02-09	Thailand	25		9
+2020-02-10	Thailand	32		10
+2020-02-11	Thailand	32		
+2020-02-12	Thailand	32		
+2020-02-01	Turkey	1		
+2020-02-02	Turkey	1		
+2020-02-03	Turkey	1		
+2020-02-04	Turkey	1		
+2020-02-05	Turkey	1		
+2020-02-06	Turkey	1		
+2020-02-07	Turkey	1		
+2020-02-08	Turkey	1		
+2020-02-09	Turkey	1		
+2020-02-10	Turkey	1		
+2020-02-01	UAE	4		
+2020-02-02	UAE	5		
+2020-02-03	UAE	5		
+2020-02-04	UAE	5		
+2020-02-05	UAE	5		
+2020-02-06	UAE	5		
+2020-02-07	UAE	5		
+2020-02-08	UAE	5		
+2020-02-09	UAE	5		
+2020-02-10	UAE	5		
+2020-02-11	UAE	5		
+2020-02-12	UAE	5		
+2020-02-01	Ukraine	1		
+2020-02-02	Ukraine	1		
+2020-02-03	Ukraine	1		
+2020-02-04	Ukraine	1		
+2020-02-05	Ukraine	1		
+2020-02-06	Ukraine	1		
+2020-02-07	Ukraine	1		
+2020-02-08	Ukraine	1		
+2020-02-09	Ukraine	1		
+2020-02-10	Ukraine	1		
+2020-02-10	United Arab Emirates	7		
+2020-02-11	United Arab Emirates	7		
+2020-02-12	United Arab Emirates	7		
+2020-02-01	United Kingdom	2		
+2020-02-02	United Kingdom	2		
+2020-02-03	United Kingdom	2		
+2020-02-04	United Kingdom	2		
+2020-02-05	United Kingdom	2		
+2020-02-06	United Kingdom	3		
+2020-02-07	United Kingdom	3		
+2020-02-08	United Kingdom	3		
+2020-02-09	United Kingdom	3		
+2020-02-10	United Kingdom	7		
+2020-02-11	United Kingdom	7		
+2020-02-12	United Kingdom	7		
+2020-02-01	United States	7		
+2020-02-02	United States	9		
+2020-02-03	United States	11		
+2020-02-04	United States	11		
+2020-02-05	United States	11		
+2020-02-06	United States	12		1
+2020-02-07	United States	12		1
+2020-02-08	United States	12		1
+2020-02-09	United States	12		1
+2020-02-10	United States	12		3
+2020-02-01	Vietnam	6		1
+2020-02-02	Vietnam	7		1
+2020-02-03	Vietnam	8		1
+2020-02-04	Vietnam	9		3
+2020-02-05	Vietnam	10		3
+2020-02-06	Vietnam	12		3
+2020-02-07	Vietnam	12		3
+2020-02-08	Vietnam	12		3
+2020-02-09	Vietnam	12		3
+2020-02-10	Vietnam	14		3
+2020-02-11	Vietnam	14		
+2020-02-12	Vietnam	14		
