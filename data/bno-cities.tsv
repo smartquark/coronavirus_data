@@ -3,7 +3,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 2	39.9041999	116.4073963	366				Beijing municipality (capital)	CHN
 3	31.230416	121.473701	315				Shanghai municipality	CHN
 4	30.453667	114.872199	2662				Hubei	CHN
-5	30.807667	108.408661	97				Chongqing	CHN
+5	30.807667	108.408661	103				Chongqing	CHN
 6	31.035395	112.199427	927				Hubei	CHN
 7	30.335237	112.239631	1431				Hubei	CHN
 8	38.304477	116.838834	42				Hebei	CHN
@@ -13,7 +13,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 12	30.20003	115.038835	911				Hubei	CHN
 13	30.691966	111.286471	810				Hubei	CHN
 14	30.917766	113.957037	2874				Hubei	CHN
-15	46.653845	126.968887	37				Heilongjiang	CHN
+15	46.653845	126.968887	45				Heilongjiang	CHN
 16	30.653061	113.165862	362				Hubei	CHN
 17	31.690215	113.382458	1160				Hubei	CHN
 18	32.990664	112.528308	134				Henan	CHN
@@ -24,7 +24,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 23	39.3433574	117.3616476	117				Tianjin municipality	CHN
 24	29.841438	114.322439	534				Hubei	CHN
 25	26.592666	104.830359	10				Guizhou	CHN
-26	46.589309	125.103784	13				Heilongjiang	CHN
+26	46.589309	125.103784	15				Heilongjiang	CHN
 27	18.252847	109.511909	54				Hainan	CHN
 28	43.166419	124.350398	13				Jilin	CHN
 29	23.047191	112.465091	14				Guangdong	CHN
@@ -33,10 +33,10 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 32	19.258341	110.474648	6				Hainan	CHN
 33	37.070834	114.504677	21				Hebei	CHN
 34	24.692931	108.085261	21				Guangxi	CHN
-35	47.354348	123.918186	30				Heilongjiang	CHN
-36	46.646508	131.159133	38				Heilongjiang	CHN
+35	47.354348	123.918186	33				Heilongjiang	CHN
+36	46.646508	131.159133	39				Heilongjiang	CHN
 37	30.572815	104.066801	131				Sichuan	CHN
-38	36.067108	120.382609	52				Shandong	CHN
+38	36.067108	120.382609	53				Shandong	CHN
 39	29.502272	106.510676	20				Chongqing	CHN
 40	25.830694	114.933546	71				Jiangxi	CHN
 41	32.916287	117.389719	126				Anhui	CHN
@@ -48,3 +48,6 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 47	35.4913535	139.284143	2				Kanagawa prefecture	JPN
 48	40.71104	120.83694	11				Liaoning	CHN
 49	19.681434	110.35889	3				Hainan	CHN
+50	45.803775	126.534967	159				Heilongjiang	CHN
+51	31.2699214	108.3816532	20				Chongqing	CHN
+52	37.434092	116.357464	35				Shandong	CHN
