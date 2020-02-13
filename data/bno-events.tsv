@@ -361,6 +361,7 @@ location_id	date	description
 18	2020-02-06	+4
 18	2020-02-07	+7, added 1.
 18	2020-02-08	-09: +16. One death.
+18	2020-02-10	-13: +11
 19	2020-01-25	First 2 confirmed cases.
 19	2020-01-26	34 new cases (red).
 19	2020-01-28	34 new cases.
@@ -485,6 +486,7 @@ location_id	date	description
 29	2020-02-06	+3
 29	2020-02-07	+1. First death in Guangdong province.
 29	2020-02-08	-09: Removed one.
+29	2020-02-10	-13: +2
 30	2020-01-23	First confirmed case in Gansu province. Patient had a history of travel to Hunan and Jiangxi provinces.
 30	2020-01-26	Two more cases.
 30	2020-01-27	4 more cases.
@@ -512,6 +514,7 @@ location_id	date	description
 31	2020-02-06	+7
 31	2020-02-07	+5. First death.
 31	2020-02-08	-09: +6
+31	2020-02-10	-13: +4
 32	2020-01-28	First confirmed case.
 32	2020-01-30	2 new cases.
 32	2020-01-31	1 new case.
@@ -653,6 +656,7 @@ location_id	date	description
 43	2020-02-06	+2
 43	2020-02-07	+1
 43	2020-02-08	-09: +7, 25 total (red). First death.
+43	2020-02-10	-13: +4
 44	2020-01-25	First confirmed case.
 44	2020-01-26	Two more cases.
 44	2020-01-27	One more case.
@@ -666,6 +670,7 @@ location_id	date	description
 44	2020-02-05	+6
 44	2020-02-06	+2
 44	2020-02-08	-09: +7. First death.
+44	2020-02-10	-13: +8, 1 death.
 45	2020-01-24	First confirmed case.
 45	2020-01-24	* 4 more cases.
 45	2020-01-25	15 more cases, total of 20 (red).
@@ -789,3 +794,17 @@ location_id	date	description
 54	2020-02-07	+11
 54	2020-02-08	-09: +32
 54	2020-02-10	-13: +14. First death.
+55	2020-01-27	First 6 confirmed cases.
+55	2020-01-28	One new case.
+55	2020-01-29	7 new cases, doubled.
+55	2020-01-30	4 new cases.
+55	2020-01-31	9 new cases. 27 total (red).
+55	2020-02-01	+2
+55	2020-02-02	+7
+55	2020-02-03	+6
+55	2020-02-04	+10
+55	2020-02-05	+1
+55	2020-02-06	+4
+55	2020-02-07	+7
+55	2020-02-08	-09: +19
+55	2020-02-10	-13: +4. First 2 deaths.
