@@ -38,9 +38,9 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 37	30.572815	104.066801	131				Sichuan	CHN
 38	36.067108	120.382609	53				Shandong	CHN
 39	29.502272	106.510676	20				Chongqing	CHN
-40	25.830694	114.933546	71				Jiangxi	CHN
-41	32.916287	117.389719	126				Anhui	CHN
-42	29.356803	113.12873	124				Hunan	CHN
+40	25.830694	114.933546	76				Jiangxi	CHN
+41	32.916287	117.389719	146				Anhui	CHN
+42	29.356803	113.12873	148				Hunan	CHN
 43	35.215892	113.241823	25				Henan	CHN
 44	35.303704	113.926763	46				Henan	CHN
 45	32.629398	110.798266	562				Hubei	CHN
@@ -51,3 +51,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 50	45.803775	126.534967	159				Heilongjiang	CHN
 51	31.2699214	108.3816532	20				Chongqing	CHN
 52	37.434092	116.357464	35				Shandong	CHN
+53	27.23895	111.467674	99				Hunan	CHN
+54	31.820591	117.227219	161				Anhui	CHN

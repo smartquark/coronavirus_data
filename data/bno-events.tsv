@@ -614,6 +614,7 @@ location_id	date	description
 40	2020-02-06	+4
 40	2020-02-07	+7
 40	2020-02-08	-09: +10. First death.
+40	2020-02-10	-13: +5
 41	2020-01-24	First confirmed case.
 41	2020-01-27	Two more cases.
 41	2020-01-30	5 new cases.
@@ -626,6 +627,7 @@ location_id	date	description
 41	2020-02-06	+14
 41	2020-02-07	+24
 41	2020-02-08	-09: +38, 126 total (purple). First 3 deaths.
+41	2020-02-10	-13: +20. 1 death.
 42	2020-01-24	First three confirmed cases.
 42	2020-01-25	Two more cases.
 42	2020-01-26	One more case.
@@ -642,6 +644,7 @@ location_id	date	description
 42	2020-02-06	+4
 42	2020-02-07	+14, 107 total (purple).
 42	2020-02-08	-09: +17. First death.
+42	2020-02-10	-13: +24
 43	2020-01-28	First 2 confirmed cases.
 43	2020-02-02	+5
 43	2020-02-03	+1
@@ -754,3 +757,35 @@ location_id	date	description
 52	2020-02-07	-08: +2
 52	2020-02-08	-09: +3
 52	2020-02-10	-13: +3. First death.
+53	2020-01-25	First two confirmed cases.
+53	2020-01-27	6 more cases.
+53	2020-01-28	3 new cases.
+53	2020-01-29	8 new cases.
+53	2020-01-30	10 new cases. 29 total (red).
+53	2020-01-31	7 new cases.
+53	2020-02-01	+5
+53	2020-02-02	+8
+53	2020-02-03	+2
+53	2020-02-04	+4
+53	2020-02-05	+13
+53	2020-02-06	+6
+53	2020-02-07	+9
+53	2020-02-08	-09: +6
+53	2020-02-10	-13: +10. First death.
+54	2020-01-22	First confirmed case and first confirmed case in Anhui province. (Imported)
+54	2020-01-23	Four new cases.
+54	2020-01-24	1 more case.
+54	2020-01-25	4 more cases.
+54	2020-01-26	3 more cases.
+54	2020-01-28	3 new cases.
+54	2020-01-29	13 new cases. 29 total (red).
+54	2020-01-30	10 new cases.
+54	2020-01-31	11 new cases.
+54	2020-02-01	+9
+54	2020-02-03	+16
+54	2020-02-04	+6
+54	2020-02-05	+12
+54	2020-02-06	+11, 104 total (purple).
+54	2020-02-07	+11
+54	2020-02-08	-09: +32
+54	2020-02-10	-13: +14. First death.
