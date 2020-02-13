@@ -1,6 +1,7 @@
 date	place	confirmed	deaths	serious	critical	suspected	recovered	updated
 2020-02-13	Hubei province  (including Wuhan)	48206	1310	5647	1437			2020-02-13 12:15:00
 2020-02-13	Other regions	11287	43	963				2020-02-13 12:15:00
+2020-02-13	Zhejiang province	1145	0	48	31			2020-02-13 02:30:00
 2020-02-13	Japan	247	0	4			4	2020-02-13 12:15:00
 2020-02-13	Hong Kong	50	1	2	4		1	2020-02-13 12:15:00
 2020-02-13	Singapore	50	0		8		15	2020-02-13 12:15:00
