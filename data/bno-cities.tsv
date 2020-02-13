@@ -1,12 +1,12 @@
 location_id	latitude	longitude	confirmed	deaths	status	location	region	country_code
 1	30.592849	114.305539	32994				Hubei	CHN
-2	39.9041999	116.4073963	337				Beijing municipality (capital)	CHN
-3	31.230416	121.473701	295				Shanghai municipality	CHN
+2	39.9041999	116.4073963	366				Beijing municipality (capital)	CHN
+3	31.230416	121.473701	315				Shanghai municipality	CHN
 4	30.453667	114.872199	2662				Hubei	CHN
 5	30.807667	108.408661	97				Chongqing	CHN
 6	31.035395	112.199427	927				Hubei	CHN
 7	30.335237	112.239631	1431				Hubei	CHN
-8	38.304477	116.838834	28				Hebei	CHN
+8	38.304477	116.838834	42				Hebei	CHN
 9	30.39194	114.894843	1065				Hubei	CHN
 10	30.360882	113.423482	480				Hubei	CHN
 11	30.402167	112.899762	94				Hubei	CHN
@@ -35,7 +35,7 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 34	24.692931	108.085261	21				Guangxi	CHN
 35	47.354348	123.918186	30				Heilongjiang	CHN
 36	46.646508	131.159133	38				Heilongjiang	CHN
-37	30.572815	104.066801	123				Sichuan	CHN
+37	30.572815	104.066801	131				Sichuan	CHN
 38	36.067108	120.382609	52				Shandong	CHN
 39	29.502272	106.510676	20				Chongqing	CHN
 40	25.830694	114.933546	71				Jiangxi	CHN
