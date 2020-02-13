@@ -200,6 +200,7 @@ location_id	date	description
 10	2020-02-10	+37, 2 deaths.
 10	2020-02-11	+22, 4 deaths.
 10	2020-02-12	+22, 2 deaths.
+10	2020-02-13	+20
 11	2020-01-23	City in lockdown.
 11	2020-01-26	First 5 confirmed cases and one death.
 11	2020-01-28	2 more cases.
@@ -217,6 +218,7 @@ location_id	date	description
 11	2020-02-10	+3
 11	2020-02-11	+5, 1 death.
 11	2020-02-12	2 new deaths.
+11	2020-02-13	4 new cases.
 12	2020-01-24	City in lockdown.
 12	2020-01-25	First case in Shangluo, Shaanxi was infected in Huangshi (locally transmitted).
 12	2020-01-25	* First death reported, 31 new cases.
@@ -257,6 +259,7 @@ location_id	date	description
 13	2020-02-10	+45
 13	2020-02-11	+23
 13	2020-02-12	+12
+13	2020-02-13	+26
 14	2020-01-24	First 22 confirmed cases, making it the city with highest number of cases reported in a single day outside Wuhan.
 14	2020-01-24	* 4 more cases.
 14	2020-01-25	29 new cases added.
@@ -362,6 +365,7 @@ location_id	date	description
 19	2020-02-10	+57, 1,019 total (black). 4th city with 1k+ cases. 2 deaths.
 19	2020-02-11	+44, 3 deaths.
 19	2020-02-12	+25
+19	2020-02-01	+13
 20	2020-01-26	First confirmed case.
 20	2020-01-27	First death and second confirmed case.
 20	2020-02-04	+1
@@ -418,6 +422,7 @@ location_id	date	description
 24	2020-02-10	+14
 24	2020-02-11	+8, 1 death.
 24	2020-02-12	+10, 1 death.
+24	2020-02-13	+9
 25	2020-01-27	First confirmed case.
 25	2020-01-28	One new case.
 25	2020-01-31	2 new cases. * 4 new cases.
@@ -673,3 +678,4 @@ location_id	date	description
 46	2020-02-10	+21
 46	2020-02-11	+8. First 2 deaths.
 46	2020-02-12	+8, 1 death.
+46	2020-02-13	+26
