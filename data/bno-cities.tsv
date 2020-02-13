@@ -18,15 +18,15 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 17	31.690215	113.382458	1160				Hubei	CHN
 18	32.990664	112.528308	134				Henan	CHN
 19	32.009016	112.122426	1101				Hubei	CHN
-20	19.738521	110.006755	7				Hainan	CHN
+20	19.738521	110.006755	8				Hainan	CHN
 21	14.5995124	120.9842195	2				NCR	PHL
 22	22.3193039	114.1693611	53				Hong Kong	HKG
-23	39.3433574	117.3616476	94				Tianjin municipality	CHN
+23	39.3433574	117.3616476	117				Tianjin municipality	CHN
 24	29.841438	114.322439	534				Hubei	CHN
 25	26.592666	104.830359	10				Guizhou	CHN
 26	46.589309	125.103784	13				Heilongjiang	CHN
-27	18.252847	109.511909	41				Hainan	CHN
-28	43.166419	124.350398	12				Jilin	CHN
+27	18.252847	109.511909	54				Hainan	CHN
+28	43.166419	124.350398	13				Jilin	CHN
 29	23.047191	112.465091	14				Guangdong	CHN
 30	36.061089	103.834303	35				Gansu	CHN
 31	33.766169	113.192661	52				Henan	CHN
@@ -46,3 +46,5 @@ location_id	latitude	longitude	confirmed	deaths	status	location	region	country_c
 45	32.629398	110.798266	562				Hubei	CHN
 46	30.272156	109.488172	229				Hubei	CHN
 47	35.4913535	139.284143	2				Kanagawa prefecture	JPN
+48	40.71104	120.83694	11				Liaoning	CHN
+49	19.681434	110.35889	3				Hainan	CHN
