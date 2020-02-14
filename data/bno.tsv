@@ -1,7 +1,7 @@
 date	place	confirmed	deaths	serious	critical	suspected	recovered	updated
 2020-02-13	Hubei province  (including Wuhan)	51986	1426	7953	1685			2020-02-13 19:43:00
 2020-02-13	Hubei province  (includes Wuhan)	51986	1318	7953	1685			2020-02-13 22:28:00
-2020-02-13	Other regions	11865	62	946				2020-02-13 22:28:00
+2020-02-13	Other regions	11865	62	566				2020-02-13 22:28:00
 2020-02-13	Guangdong province	1241	2	74	38			2020-02-13 03:00:00
 2020-02-13	Henan province	1169	10	58	34			2020-02-13 03:00:00
 2020-02-13	Zhejiang province	1145	0	48	31			2020-02-13 03:00:00
