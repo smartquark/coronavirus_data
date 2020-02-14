@@ -904,7 +904,7 @@ date	place	confirmed	deaths	recovered	suspected	serious
 2020-02-13	United States	15	0	3		
 2020-02-13	Vietnam	16	0	7		
 2020-02-14	Anhui province	934	6			
-2020-02-14	Australia	15	0	8		
+2020-02-14	Australia	15	0	10		
 2020-02-14	Beijing	372	3			
 2020-02-14	Belgium	1	0			
 2020-02-14	Cambodia	1	0	1		
@@ -927,7 +927,7 @@ date	place	confirmed	deaths	recovered	suspected	serious
 2020-02-14	Macau	10	0	1		
 2020-02-14	Malaysia	19	0	3		
 2020-02-14	Nepal	1	0	1		
-2020-02-14	Other regions					
+2020-02-14	Other regions	2112	15			
 2020-02-14	Philippines	3	1	2		
 2020-02-14	Russia	2	0	2		
 2020-02-14	Shandong province	519	2			16
